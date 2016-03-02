@@ -1,15 +1,20 @@
 # Guides
-Hia! here you can consult guides made by New atoms. You will find guides on used tools, communication, workflows, rules and most important, how to make awesome things. It's part of every team members job to edit these documents in order to keep information up to date.  
+Hia! Here you can consult guides made by New atoms. You will find guides on used tools, communication, workflows, rules and most important, how to make awesome things. It's part of every team members job to edit these documents in order to keep information up to date.  
 
-## List all the guides
-|Subject |What it is/does              |
+## List of all the guides
+|Subject |Goal of the guide              |
 |--------|-----------------------------|
-|[Atom](../guides/atom-guide/readme.md)| Guide on how to use the text editor called Atom |
-|[Board](../guide/board-guide/readme.md) | Guide on how to use our workflow tool |
-|[Content](../guide/board-guide/)| A guide on how to make good content|
-|[Github](github-guide.md) | Guide on how to build documents and websites with the service called Github |
-|[Medium](medium-guide.md)| A guide on how to use Medium |
-|[Slack](slack-guide.md) | A guide on how to use our main communications tool, slack.
+|[Atom](atom-guide)| Helping you to use Atom, a text editor we use in combination with github |
+|[Board](board-guide) | Explaining how we work with our workflow board and optimizing the use of it  |
+|[Content](board-guide)| Helping you make the most awesome content you can make|
+|[Github](github-guide) | Guide on how to build documents and websites with the service called Github |
+|[Medium](medium-guide)| Helping you use Medium |
+|[Slack](slack-guide) | Helping you use our main communications tool, slack.
+|[Communication]() | Helping to communicate with the outside world
+|[Interview-guide]() | Helping to prepare for an Interview
+|[]() |
+
+
 
 ## How to add a guide
 To add a guide complete the following steps
