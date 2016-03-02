@@ -4,7 +4,7 @@ Hia! here you can consult guides made by New atoms. You will find guides on used
 ## List all the guides
 |Subject |What it is/does              |
 |--------|-----------------------------|
-|[Atom](../guides/atom-guide)| Guide on how to use the text editor called Atom |
+|[Atom](../guides/atom-guide/readme.md)| Guide on how to use the text editor called Atom |
 |[Board](../guide/board-guide/readme.md) | Guide on how to use our workflow tool |
 |[Content](../guide/board-guide/)| A guide on how to make good content|
 |[Github](github-guide.md) | Guide on how to build documents and websites with the service called Github |
