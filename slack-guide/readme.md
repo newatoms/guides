@@ -1,4 +1,4 @@
-# The Slack Guide <img src="images/slack-logo.png" width="100">
+# The Slack Guide <img src="../images/slack-logo.png" width="100">
 
 > I Slack, you Slack, we all Slack
 
@@ -11,7 +11,7 @@ Slack is an awesome tool for chatting, file sharing and archive searching. Impor
 
 You will get an invite from one of New Atoms' admins. What are you waiting for? Signup, download the [Slack desktop application](https://slack.com/downloads) and download the app for your smartphone.    
 
-<img src="images/slack-deskandapp.png" width="700">
+<img src="../images/slack-deskandapp.png" width="700">
 
 ## Channels
 
