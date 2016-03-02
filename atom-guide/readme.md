@@ -3,8 +3,8 @@ Very handy text/code writer. Very customizable. When working local you can use t
 
 ## Handy shortcuts
 
-ctrl+tab -> switch tab cmd+arrow -> select whole line (combine with shift to select) 
-fn+arrow -> move to end of document (combine with shift to select) 
+ctrl+tab -> switch tab cmd+arrow -> select whole line (combine with shift to select)
+fn+arrow -> move to end of document (combine with shift to select)
 
 ctrl+shift+m -> Markdown preview
 
@@ -16,7 +16,7 @@ ctrl+tab -> scroll through tabs in current window
 
 install
 
-![see explanation in gif](images/atom-install-theme-guide.gif)
+![see explanation in gif](../images/atom-install-theme-guide.gif)
 
 **packages**
 
