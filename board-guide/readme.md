@@ -1,3 +1,5 @@
+> Goal of this guide: Explaining how the functionality of the doable board works and how to crate a good user story.
+
 # The Board Guide
 
 <img src="../images/board.png" width="700">
