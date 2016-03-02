@@ -1,3 +1,5 @@
+> **Goal of this guide:** giving you the ability to write and publish an article on medium.com
+
 <img src="../images/medium-logo.png" width="80">
 
 # The Medium Guide
