@@ -1,6 +1,6 @@
 # The Board Guide
 
-<img src="images/board.png" width="700">
+<img src="../images/board.png" width="700">
 
 The Board is part of [The Interface](https://interface.newatoms.com/). Here is where we can see what needs to be done. We can add *cards* which always contain a *user story*. They're part of our Agile way of working.  
 
@@ -41,4 +41,4 @@ On the board there is an overview of seven elements:
 
 * You can hit the headers of each column (i.e. In Backlog, In Inbox, Done) to prevent a chaotic overview.
 
-* When you create a pull request in Github, a card of this pull request appears in the next up column. Pick up the card and comment, edit and merge. 
+* When you create a pull request in Github, a card of this pull request appears in the next up column. Pick up the card and comment, edit and merge.
