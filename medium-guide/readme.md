@@ -1,4 +1,4 @@
-<img src="images/medium-logo.png" width="80">
+<img src="../images/medium-logo.png" width="80">
 
 # The Medium Guide
 
@@ -20,11 +20,11 @@ To publish a story on the New Atoms Channel, do the following:
 
 If you've written your awesome post, choose add to publication an then tick the New Atoms channel. Add draft to publication, now others can review your post because its in draft & stories.
 
-1.<img src="images/medium-add-to-publication.png" width="200"> 2.  <img src="images/medium-add-draft.png" width="200">  
+1.<img src="../images/medium-add-to-publication.png" width="200"> 2.  <img src="../images/medium-add-draft.png" width="200">  
 
 ## Edit
 
-If you're asked to review or edit a medium blogpost always comment and not change. The writer should choose to implement comments. When commenting on text just highlight the text where you want to comment on. Click the comment icon <img src="images/medium-review-icon.png" width="20"> and send.
+If you're asked to review or edit a medium blogpost always comment and not change. The writer should choose to implement comments. When commenting on text just highlight the text where you want to comment on. Click the comment icon <img src="../images/medium-review-icon.png" width="20"> and send.
 
 ## Publish and post
 
