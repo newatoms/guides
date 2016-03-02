@@ -1,5 +1,5 @@
 # guides
-Everything you need to know to make awesome things
+Welcome, here you can consult guides of used tools, communication, workflows and rules. It's part of every team members job to edit these documents in order to keep information up to date.   
 
 ## How to ad a guide
 To add a guide complete the following steps
@@ -12,3 +12,13 @@ To create a understandable guide make sure you keep the following points in mind
 * Never assume the reader to understands the terminology you use, so always provide a explanation or a link explaining what you mean.
 * Always make clear what the reader can expect to learn from a guide at the beginning of the guide to avoid being disappointed halfway trough.
 * People should be able to search for a specific topic in your guide, so make sure you clearly separate different chapters and topics in you guide.
+
+## List of the guides
+|Subject |What it is/does              |
+|--------|-----------------------------|
+|[Atom](atom-guide.md)| text editor |
+|[Board](board-guide.md) | task workflow |
+|[Content](newatoms/contentsupply/_insights/en/the-content-guide)| The Content Guide (on content.supply repo)|
+|[Github](github-guide.md) | building documents and websites |
+|[Medium](medium-guide.md)| New Atoms blog |
+|[Slack](slack-guide.md) | communication |
