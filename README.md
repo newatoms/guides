@@ -26,10 +26,11 @@ To add a guide complete the following steps
 * Copy your guide to "guides/[guide-name]/ and change the name to "readme.md". This enables the visitor to instantly view your guide when they are in the folder of your'e guide on github.
 * If there are local images in your guide you can store them in guides/images/[your-image.filetype]
 * The path to your images is ../images/[your-image.filetype]
-* Add the guide to this readme.md on the bottom of the lists in the following way:        
-
-      |[name-guide](folder-name-guide)|[goal of the guide]
-
+* Add the guide to this readme.md on the bottom of the lists in the following way:    
+    
+```
+  |[name-guide](folder-name-guide)|[goal of the guide]
+```
 ## How to make a guide
 
 To create a understandable guide make sure you keep the following points in mind.
