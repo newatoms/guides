@@ -1,3 +1,5 @@
+> **Goal of this guide:** Helping you create the best content that you can make. 
+
 # The Content Guide
 
 This guide is intended for external communication but can also be a source for our in-house content developers.
