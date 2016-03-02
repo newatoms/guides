@@ -1,3 +1,5 @@
+> **Goal of the Glossary:** Helping you understand what we are talking about.
+
 # Glossary
 In this folder we document all terms used at New Atoms. The words are described by definition and the way we use them.
 You can use cmd+f on mac or ctl+f on windows to find a certain word.
