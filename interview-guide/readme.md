@@ -1,4 +1,4 @@
-> **Goal of this guide:** Giving a basic understand of how to interview.
+> **Goal of this guide:** Giving a basic understanding of how to interview.
 
 # Interview guide
 Here you will find some small tips that might help you improve your interviews.
