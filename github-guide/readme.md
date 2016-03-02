@@ -1,4 +1,4 @@
-<img src="images/github-mark.png" width="100">
+<img src="../images/github-mark.png" width="100">
 
 # The Github guide
 
@@ -14,9 +14,9 @@ We work with multiple repositories (i.e. repos), one for each product or project
 
 Github works with branches. We work with the following hierarchy:
 
-* The *live* branch: The content of these branches is 'live' and always works. For example, the website (if any) is rendered from files from this branch. **Old vocabulary**: *master* or *gh-pages* branch. 
+* The *live* branch: The content of these branches is 'live' and always works. For example, the website (if any) is rendered from files from this branch. **Old vocabulary**: *master* or *gh-pages* branch.
 * The *ready* branch: This is a copy of the *live* branch. Here, documents should be fit to print and *merge-able* with the *live* branch. It is a last check before we push the content to the 'live' branch. We explain *merging* later on. From the *ready* branch you create a copy and call it add/*file-path*.
-* The *add* branch: This is a copy you can make from the ready branch if you want to add or edit something. This is your own branch where you can do everything you like. Keep in mind to create one *add* branch for each file in a particulair format (see below). 
+* The *add* branch: This is a copy you can make from the ready branch if you want to add or edit something. This is your own branch where you can do everything you like. Keep in mind to create one *add* branch for each file in a particulair format (see below).
 * The *fix* branch: If you want to edit something small or do a bug-fix you create a *fix* branch.
 
 ### Creating a file or editing a lot in one file
@@ -27,19 +27,19 @@ Github works with branches. We work with the following hierarchy:
 4. When writing or editing keep in mind to make commits (i.e. saves or changes) when changing something.
 5. Each change you make requires a commit -- if you edit an existing document you have to commit at least once per sentence, if you create a new document you can commit each paragraph. This allows you and others to accept or reject each individual change.
 
-Example: add/internal/guides/medium-guide 
+Example: add/internal/guides/medium-guide
 
 ---
 
-**1:** <img src="images/branching-1.png" width="250"> **2:**<img src="images/create-branch.png" width="250">
+**1:** <img src="../images/branching-1.png" width="250"> **2:**<img src="../images/create-branch.png" width="250">
 
 ---
 
-**3:** <img src="images/edit-file.png" width="250"> **4:**<img src="images/commit.png" width="350">  
+**3:** <img src="../images/edit-file.png" width="250"> **4:**<img src="../images/commit.png" width="350">  
 
 ---
 
-**5:** <img src="images/see-commit.png" width="250">
+**5:** <img src="../images/see-commit.png" width="250">
 
 ---
 
@@ -54,15 +54,15 @@ If you're happy with all your changes in your new file, you have to make a *pull
 
 ---
 
-**1:**<img src="images/pull-request.png" width="300"> **2:** <img src="images/pull-request-button.png" width="200">
+**1:**<img src="../images/pull-request.png" width="300"> **2:** <img src="../images/pull-request-button.png" width="200">
 
 ---
 
-**3:**<img src="images/right-branch.png" width="600">
+**3:**<img src="../images/right-branch.png" width="600">
 
 ---
 
-**4:**<img src="images/name-branch.png" width="400">
+**4:**<img src="../images/name-branch.png" width="400">
 
 ---
 
@@ -103,7 +103,7 @@ Only locally you can add images by saving them in the designated folder (e.g. im
 
 ---
 
-<img src="images/right-branch-desktop.png" width="300">
+<img src="../images/right-branch-desktop.png" width="300">
 
 ---
 
@@ -111,7 +111,7 @@ Then, you can start your text editor and open the repository on which you want t
 
 ---
 
-<img src="images/atom-example.png" width="600">
+<img src="../images/atom-example.png" width="600">
 
 ---
 
@@ -121,7 +121,7 @@ If two people changed the same lines in the same file, or if one person decided 
 
 See [Github's how to](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/) to deal with the merge conflict. Unfortunately this can't be done from the desktop client but has to be done from a terminal. Contact a technical developer in Slack if you are having problems solving the merge conflict.
 
-## Markdown <img src="images/markdown.png" width="30">
+## Markdown <img src="../images/markdown.png" width="30">
 
 As mentioned in the Medium post, we work with Markdown for text files. You can save Markdown files by adding the .md extension.
 
