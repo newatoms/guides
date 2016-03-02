@@ -18,6 +18,12 @@ Here you find a list to all the guides and what there goal is.
 |[Interviews](interview-guide) | Helping to prepare for an Interview
 |[Glossary](glossary) |Here you can find the definition words we use and how we use them.
 
+## How to make a guide
+
+To create a understandable guide make sure you keep the following points in mind.
+* Never assume the reader to understands the terminology you use, so always provide a explanation or a link explaining what you mean.
+* Always make clear what the reader can expect to learn from a guide at the beginning of the guide to avoid being disappointed halfway trough.
+* People should be able to search for a specific topic in your guide, so make sure you clearly separate different chapters and topics in you guide.
 
 ## How to add a guide
 
@@ -27,13 +33,7 @@ To add a guide complete the following steps
 * If there are local images in your guide you can store them in guides/images/[your-image.filetype]
 * The path to your images is ../images/[your-image.filetype]
 * Add the guide to this readme.md on the bottom of the lists in the following way:    
-    
+
 ```
   |[name-guide](folder-name-guide)|[goal of the guide]
 ```
-## How to make a guide
-
-To create a understandable guide make sure you keep the following points in mind.
-* Never assume the reader to understands the terminology you use, so always provide a explanation or a link explaining what you mean.
-* Always make clear what the reader can expect to learn from a guide at the beginning of the guide to avoid being disappointed halfway trough.
-* People should be able to search for a specific topic in your guide, so make sure you clearly separate different chapters and topics in you guide.
