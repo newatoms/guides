@@ -1,5 +1,5 @@
 # Guides
-Welcome, here you can consult guides of used tools, communication, workflows, rules and most important, how to make awesome things. It's part of every team members job to edit these documents in order to keep information up to date.   
+Hia! here you can consult guides made by New atoms. You will find guides on used tools, communication, workflows, rules and most important, how to make awesome things. It's part of every team members job to edit these documents in order to keep information up to date.   
 
 ## List all the guides
 |Subject |What it is/does              |
