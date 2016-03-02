@@ -1,5 +1,15 @@
 # Guides
-Hia! here you can consult guides made by New atoms. You will find guides on used tools, communication, workflows, rules and most important, how to make awesome things. It's part of every team members job to edit these documents in order to keep information up to date.   
+Hia! here you can consult guides made by New atoms. You will find guides on used tools, communication, workflows, rules and most important, how to make awesome things. It's part of every team members job to edit these documents in order to keep information up to date.  
+
+## List all the guides
+|Subject |What it is/does              |
+|--------|-----------------------------|
+|[Atom](..guide/atom-guide/readme.md)| Guide on how to use the text editor called Atom |
+|[Board](../guide/board-guide/readme.md) | Guide on how to use our workflow tool |
+|[Content](../guide/board-guide/)| A guide on how to make good content|
+|[Github](github-guide.md) | Guide on how to build documents and websites with the service called Github |
+|[Medium](medium-guide.md)| A guide on how to use Medium |
+|[Slack](slack-guide.md) | A guide on how to use our main communications tool, slack.
 
 ## How to add a guide
 To add a guide complete the following steps
