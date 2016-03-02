@@ -5,7 +5,7 @@ Hia! here you can consult guides made by New atoms. You will find guides on used
 To add a guide complete the following steps
 * Create a new folder within guides an name it [guide-name] replace all " " with "-"
 * Copy your guide to "guides/[guide-name]/ and change the name to "readme.md". This enables the visitor to instantly view your guide when they are in the folder of your'e guide on github.
-* if there are local images in your guide you can store them in guides/images/[your-image.filetype]
+* If there are local images in your guide you can store them in guides/images/[your-image.filetype]
 * The path to your images is ../images/[your-image.filetype]
 
 ## How to make a guide
