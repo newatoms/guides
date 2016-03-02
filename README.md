@@ -4,7 +4,7 @@ Hia! here you can consult guides made by New atoms. You will find guides on used
 ## How to add a guide
 To add a guide complete the following steps
 * Create a new folder within guides an name it [guide-name] replace all " " with "-"
-* Copy your guide to guides/[guide-name]/ and change the name to index.md
+* Copy your guide to "guides/[guide-name]/ and change the name to "readme.md". This enables the visitor to instantly view your guide when they are in the folder of your'e guide on github.
 
 ## How to make a guide
 To create a understandable guide make sure you keep the following points in mind.
