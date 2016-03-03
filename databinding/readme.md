@@ -1,4 +1,4 @@
-> **The goal of this guide:** How to use the basics of database communication in polymer. If you come across terms you don't understand Google them or feel free to ask a team member within digital reach.
+> **The goal of this guide:** How to communicate between elements using databinding in polymer. If you come across terms you don't understand Google them or feel free to ask a team member within digital reach.
 
 # Databinding
 
