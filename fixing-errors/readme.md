@@ -37,7 +37,7 @@ $0.functionName()
 ```
 will call a certain function.
 
-<img src="images/developer-tools.png" width="500">
+<img src="../images/developer-tools.png" width="500">
 
 >Also quite usefull:
 [Polymer ready extension](https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk)
