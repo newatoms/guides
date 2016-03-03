@@ -17,6 +17,9 @@ Here you find a list to all the guides and what there goal is.
 |[Communication](communicaiton-guide) | Helping to communicate with the outside world
 |[Interviews](interview-guide) | Helping to prepare for an Interview
 |[Glossary](glossary) |Here you can find the definition words we use and how we use them.
+|[Databinding](databinding.md) | Database communication in polymer |
+|[Elements](creating-elements.md) | Core concepts, coding in polymer |
+|[Fixing errors](fixing-errors.md) | Debugging websites/software |
 
 ## How to make a guide
 
