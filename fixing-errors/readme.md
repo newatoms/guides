@@ -1,4 +1,4 @@
-> This guide is part of a growing collection of guides made by New Atoms. You can find our other guides [here](https://github.com/newatoms/newatoms/tree/ready/internal/guides). If you come across terms you don't understand Google them or feel free to ask a team member within digital reach.
+>**The goal of this guide:** Create a understanding of debugging websites/software. This guide is part of a growing collection of guides made by New Atoms. You can find our other guides [here](https://github.com/newatoms/newatoms/tree/ready/internal/guides). If you come across terms you don't understand Google them or feel free to ask a team member within digital reach.
 
 # Fixing errors
 
@@ -52,7 +52,7 @@ testFunction: function (inputArgument) {
 }
 ```
 
-In Html you can use text to see whether certain parts of the script are run. For example if you have a dom-if statement you can see whether the text is printed in the browser: 
+In Html you can use text to see whether certain parts of the script are run. For example if you have a dom-if statement you can see whether the text is printed in the browser:
 ``` Html
 <template is="dom-if" if="{{staffUser}}">
   User works at New Atoms

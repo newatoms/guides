@@ -1,4 +1,4 @@
-> This guide is part of a growing collection of guides made by New Atoms. You can find our other guides [here](https://github.com/newatoms/newatoms/tree/ready/internal/guides). If you come across terms you don't understand Google them or feel free to ask a team member within digital reach.
+> **The goal of this guide:** How to use the basics of database communication in polymer. This guide is part of a growing collection of guides made by New Atoms. You can find our other guides [here](https://github.com/newatoms/newatoms/tree/ready/internal/guides). If you come across terms you don't understand Google them or feel free to ask a team member within digital reach.
 
 # Databinding
 
