@@ -14,7 +14,7 @@ Here you find a list to all the guides and what there goal is.
 |[Github](github-guide) | Guide on how to build documents and websites with the service called Github |
 |[Medium](medium-guide)| Helping you use Medium |
 |[Slack](slack-guide) | Helping you use our main communications tool, slack.
-|[Communication](communicaiton-guide) | Helping to communicate with the outside world
+|[Communication](communication-guide) | Helping to communicate with the outside world
 |[Interviews](interview-guide) | Helping to prepare for an Interview
 |[Glossary](glossary) |Here you can find the definition words we use and how we use them.
 |[Databinding](databinding) | How to communicate between elements using databinding in polymer |
