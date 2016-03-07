@@ -1,6 +1,6 @@
-> **The goal of this guide:** You will learn how to extract information from certain webpages using [developer tools](guides/fixing-errors/readme.md), [node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs) and [X-Ray](https://www.npmjs.com/package/x-ray).
+> **The goal of this guide:** You will learn how to extract information from certain web pages using [developer tools](guides/fixing-errors/readme.md), [node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs) and [X-Ray](https://www.npmjs.com/package/x-ray).
 
-# Web scraping with [node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs) an [X-Ray](https://www.npmjs.com/package/x-ray)
+# Web scraping with [node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs) an [x-ray](https://www.npmjs.com/package/x-ray)
 
 You can of course start here at [hackertyper](http://hackertyper.com/) and do your swordfish magic! 🤓
 
@@ -8,11 +8,11 @@ Web scraping enables you to extract information from the web and put it in a mor
 
 ## First things first
 
-1. Create a file ```'filename'.js``` in your designated folder. In this file your code will emerge. Then, create a folder where your information will be displayed ```results.json```.
+1. Create a file ```'filename'.js``` in your designated folder. In this file you will write your code. Then, create a folder where your information will be displayed ```results.json```.
 
-* Open the [Terminal](http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/) application on your mac, go to the folder where you created your files by typing ```cd 'path to you folder'``` enter.
+* Open the [Terminal](http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/) application on your mac, go to the folder where you created your files by typing ```cd 'path to your folder'``` enter.
 
-* Install node.js: ```npm install node``` and enter. Then you need X-Ray: ```npm install x-ray```.
+* Install node.js: ```npm install node``` and enter. Then you need X-Ray: ```npm install x-ray``` enter.
 
 ## Lets start scraping
 
@@ -55,9 +55,7 @@ This ↓ is all the code we need. Not very scary, aint it?
 * Now ```x``` will look at a certain Linkedin url.
 * Next, the code will run the containing information of the called classes.
 * With ```.write('results.json')``` the scraped information will print out the information in your ```results.json``` file on your computer.
-* To actually see 👀 your scraped information in your results.json file go to your terminal and call the code with typing: ```node 'filename'.js```. Voila! There it is! 🎉     
-
-
+* To actually see 👀 your scraped information in your results.json file go to your terminal and call the code with typing: ```node 'filename'.js```. Voila! There it is! 🎉      
 
 ## Results in your .json file:
 
