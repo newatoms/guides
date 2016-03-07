@@ -38,7 +38,7 @@ This ↓ is all the code we need. Not very scary, aint it?
     var x = new require('x-ray')()
 
     x(
-      'https://linkedin.com/in/some-person',
+      'https://nl.linkedin.com/in/thomas-de-beus-a76184b0,
       {
         items: x(
           '.position',
@@ -52,7 +52,7 @@ This ↓ is all the code we need. Not very scary, aint it?
     ).write('results.json')
 
 1. Create a variable that will execute your x-ray. ```var x = new require('x-ray')()```
-* Now ```x``` will look at a certain Linkedin url.
+* Now ```x``` will look at a Linkedin url.
 * Next, the code will run the containing information of the called classes.
 * With ```.write('results.json')``` the scraped information will print out the information in your ```results.json``` file on your computer.
 * To actually see 👀 your scraped information in your results.json file go to your terminal and call the code with typing: ```node 'filename'.js```. Voila! There it is! 🎉      
