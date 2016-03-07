@@ -2,7 +2,7 @@
 
 # Web scraping with [node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs) an [x-ray](https://www.npmjs.com/package/x-ray)
 
-You can of course start here at [hackertyper](http://hackertyper.com/) and do your swordfish magic! 🤓
+You can of course start here at [hackertyper](http://hackertyper.com/) and do your [swordfish](http://www.imdb.com/title/tt0244244/?ref_=nv_sr_1) magic! 🤓
 
 Web scraping enables you to extract information from the web and put it in a more workable format (*.json*, *.csv*, *excel*, *google spreadsheets*).     
 
