@@ -8,7 +8,7 @@ Web scraping enables you to extract information from the web and put it in a mor
 
 ## First things first
 
-1. Create a file ```'filename'.js``` in your designated folder. In this file you will write your code. Then, create a folder where your information will be displayed ```results.json```.
+1. Create a file ```'filename'.js``` in your designated folder. In this file you will write your code.
 
 * Open the [Terminal](http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/) application on your mac, go to the folder where you created your files by typing ```cd 'path to your folder'``` enter.
 
@@ -54,7 +54,7 @@ This ↓ is all the code we need. Not very scary, aint it?
 1. Create a variable that will execute your x-ray. ```var x = new require('x-ray')()```
 * Now ```x``` will look at a Linkedin url.
 * Next, the code will run the containing information of the called classes.
-* With ```.write('results.json')``` the scraped information will print out the information in your ```results.json``` file on your computer.
+* With ```.write('results.json')``` the scraped information will print out the information in a newly created ```results.json``` file on your computer.
 * To actually see 👀 your scraped information in your results.json file go to your terminal and call the code with typing: ```node 'filename'.js```. Voila! There it is! 🎉      
 
 ## Results in your .json file:
@@ -99,4 +99,34 @@ You can convert these .json files into .csv files to eventually import it in spr
           "time": "januari 2014 – april 2014 (4 maanden)"
         }
       ]
+    }
+
+## Scrape multiple targeted URL's
+
+This will create seperate .json files for positions of our beloved employees Sam Prinssen, Matthijs Mentink and Thomas de Beus.
+
+    var profiles = [
+      'https://nl.linkedin.com/in/sam-prinssen-6a101522',
+      'https://nl.linkedin.com/in/thomas-de-beus-a76184b0',
+      'https://nl.linkedin.com/in/matthijs-mentink-1ba4651a'
+      ]
+
+      var x = new require('x-ray')()
+
+      for (var i = 0; i < profiles.length; i++) {
+      var profile = profiles[i]
+
+      x(
+        profile,
+        {
+          items: x(
+            '.position',
+            [ {
+              title: '.item-title',
+              organisation: '.item-subtitle',
+              time: '.date-range'
+            } ]
+          )
+        }
+      ).write(profile.replace(/\//gi, '-') + '.json')
     }
