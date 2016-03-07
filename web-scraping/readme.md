@@ -14,9 +14,9 @@ Web scraping enables you to extract information from the web and put it in a mor
 
 * Install node.js: ```npm install node``` and enter. Then you need X-Ray: ```npm install x-ray```.
 
-## Lets start robbing
+## Lets start scraping
 
-In this example we scrape the information which is in the experience container from a certain LinkedIn profile. Important is that you don't log in! Or else the html code of the webpage changes.
+In this example we extract the 'experience' information from a certain LinkedIn profile. Important is that you don't log in! Or else the html code is different from this example.
 
 ### Open Chromes Developer tools
 
@@ -26,17 +26,19 @@ In the Chrome web browser open the devtools with ```cmd-alt-i``` and click on th
 
 > With scraping you need to get comfortable with developer tools and with reading html code.
 
+We search 🕵 from top to bottom to find what we want:
+
 * We want all the information of experience. ```class='positions'```
 * We want the title of each experience: 'Content developer'. ```class='item-title'```.
 * We also want the organisation of each title: 'New Atoms'. ```class='item-subtitle'```.
-* To end with we want the date and time the person was active under that title and organisation: ```class='.date-range'```
+* finally, we want the date and time the person was active under that title and organisation: ```class='.date-range'```
 
-This ↓ is all the code we need. Not very scary 👹, aint it?
+This ↓ is all the code we need. Not very scary, aint it?
 
     var x = new require('x-ray')()
 
     x(
-      'https://nl.linkedin.com/in/basraijmakers',
+      'https://linkedin.com/in/some-person',
       {
         items: x(
           '.position',
