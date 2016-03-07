@@ -59,6 +59,8 @@ This ↓ is all the code we need. Not very scary 👹, aint it?
 
 ## Results in your .json file:
 
+You can convert these .json files into .csv files to eventually import it in spreadsheet programs or [Open Refine](http://openrefine.org/).
+
     {
       "items": [
         {
