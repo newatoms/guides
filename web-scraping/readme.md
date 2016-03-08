@@ -35,22 +35,23 @@ We search 🕵 from top to bottom to find what we want:
 
 This ↓ is all the code we need. Not very scary, aint it?
 
+```javascript
+var x = new require('x-ray')()
 
-    var x = new require('x-ray')()
-
-    x(
-      'https://nl.linkedin.com/in/thomas-de-beus-a76184b0,
-      {
-        items: x(
-          '.position',
-          [ {
-            title: '.item-title',
-            organisation: '.item-subtitle',        
-            time: '.date-range'
-          } ]
-        )
-      }
-    ).write('results.json')
+x(
+  'https://nl.linkedin.com/in/thomas-de-beus-a76184b0',
+  {
+    items: x(
+      '.position',
+      [ {
+        title: '.item-title',
+        organisation: '.item-subtitle',        
+        time: '.date-range'
+      } ]
+    )
+  }
+).write('results.json')
+```
 
 1. Create a variable that will execute your x-ray. `var x = new require('x-ray')()`
 * Now `x` will look at a Linkedin url.
@@ -62,81 +63,84 @@ This ↓ is all the code we need. Not very scary, aint it?
 
 You can convert these .json files into .csv files to eventually import it in spreadsheet programs or [Open Refine](http://openrefine.org/).
 
+```json
+{
+  "items": [
     {
-      "items": [
-        {
-          "title": "Content Developer",
-          "organisation": "New Atoms",
-          "time": "juni 2015 – heden (10 maanden)"
-        },
-        {
-          "title": "Minor Research- and Datajournalism",
-          "organisation": "Hogeschool Windesheim",
-          "time": "januari 2015 – heden (1 jaar 3 maanden)"
-        },
-        {
-          "title": "News and Media",
-          "organisation": "Hogeschool van Amsterdam",
-          "time": "september 2012 – heden (3 jaar 7 maanden)"
-        },
-        {
-          "title": "Service Staff",
-          "organisation": "Bar Brouw",
-          "time": "juli 2014 – heden (1 jaar 9 maanden)"
-        },
-        {
-          "title": "News Editor",
-          "organisation": "MeerRadio & MeerTelevisie",
-          "time": "april 2014 – juli 2014 (4 maanden)"
-        },
-        {
-          "title": "Service Staff",
-          "organisation": "KHL",
-          "time": "juli 2011 – juli 2014 (3 jaar 1 maand)"
-        },
-        {
-          "title": "News Reporter",
-          "organisation": "MeerRadio & MeerTelevisie",
-          "time": "januari 2014 – april 2014 (4 maanden)"
-        }
-      ]
+      "title": "Content Developer",
+      "organisation": "New Atoms",
+      "time": "juni 2015 – heden (10 maanden)"
+    },
+    {
+      "title": "Minor Research- and Datajournalism",
+      "organisation": "Hogeschool Windesheim",
+      "time": "januari 2015 – heden (1 jaar 3 maanden)"
+    },
+    {
+      "title": "News and Media",
+      "organisation": "Hogeschool van Amsterdam",
+      "time": "september 2012 – heden (3 jaar 7 maanden)"
+    },
+    {
+      "title": "Service Staff",
+      "organisation": "Bar Brouw",
+      "time": "juli 2014 – heden (1 jaar 9 maanden)"
+    },
+    {
+      "title": "News Editor",
+      "organisation": "MeerRadio & MeerTelevisie",
+      "time": "april 2014 – juli 2014 (4 maanden)"
+    },
+    {
+      "title": "Service Staff",
+      "organisation": "KHL",
+      "time": "juli 2011 – juli 2014 (3 jaar 1 maand)"
+    },
+    {
+      "title": "News Reporter",
+      "organisation": "MeerRadio & MeerTelevisie",
+      "time": "januari 2014 – april 2014 (4 maanden)"
     }
+  ]
+}
+```
 
 ## Scrape multiple targeted URL's and parent classes
 
 The following code will create separate .json files containing the working experience and school history of our beloved employees Sam Prinssen, Matthijs Mentink and Thomas de Beus.
 
-    ```javascript
-    var profiles = [
-        'https://nl.linkedin.com/in/sam-prinssen-6a101522',
-        'https://nl.linkedin.com/in/thomas-de-beus-a76184b0',
-        'https://nl.linkedin.com/in/matthijs-mentink-1ba4651a'
-      ]
+```javascript
+var profiles = [
+    'https://nl.linkedin.com/in/sam-prinssen-6a101522',
+    'https://nl.linkedin.com/in/thomas-de-beus-a76184b0',
+    'https://nl.linkedin.com/in/matthijs-mentink-1ba4651a'
+  ]
 
-    var x = new require('x-ray')()
+var x = new require('x-ray')()
 
-    for (var i = 0; i < profiles.length; i++) {
-      var profile = profiles[i]
+for (var i = 0; i < profiles.length; i++) {
+  var profile = profiles[i]
 
-    x(
-      profile,
-        {
-          work: x(
-            '.position',
-            [ {
-              title: '.item-title',
-              organisation: '.item-subtitle',
-              time: '.date-range'
-            } ]
-          ),
-          school: x(
-            '.school',
-            [ {
-              school: '.item-title',
-              type: '.item-subtitle',
-              time: '.date-range'
-            } ]
-          )
-        }
-      ).write(profile.replace(/\//gi, '-') + '.json')
-    }```
+x(
+  profile,
+    {
+      work: x(
+        '.position',
+        [ {
+          title: '.item-title',
+          organisation: '.item-subtitle',
+          time: '.date-range'
+        } ]
+      ),
+      school: x(
+        '.school',
+        [ {
+          school: '.item-title',
+          type: '.item-subtitle',
+          time: '.date-range'
+        } ]
+      )
+    }
+  ).write(profile.replace(/\//gi, '-') + '.json')
+}
+```
