@@ -35,6 +35,7 @@ We search 🕵 from top to bottom to find what we want:
 
 This ↓ is all the code we need. Not very scary, aint it?
 
+
     var x = new require('x-ray')()
 
     x(
@@ -105,6 +106,7 @@ You can convert these .json files into .csv files to eventually import it in spr
 
 The following code will create separate .json files containing the working experience and school history of our beloved employees Sam Prinssen, Matthijs Mentink and Thomas de Beus.
 
+    ```javascript
     var profiles = [
         'https://nl.linkedin.com/in/sam-prinssen-6a101522',
         'https://nl.linkedin.com/in/thomas-de-beus-a76184b0',
@@ -137,4 +139,4 @@ The following code will create separate .json files containing the working exper
           )
         }
       ).write(profile.replace(/\//gi, '-') + '.json')
-    }
+    }```
