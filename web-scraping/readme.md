@@ -101,29 +101,37 @@ You can convert these .json files into .csv files to eventually import it in spr
       ]
     }
 
-## Scrape multiple targeted URL's
+## Scrape multiple targeted URL's and parent classes
 
-This will create seperate .json files for positions of our beloved employees Sam Prinssen, Matthijs Mentink and Thomas de Beus.
+The following code will create seperate .json files containing the working experience and school history of our beloved employees Sam Prinssen, Matthijs Mentink and Thomas de Beus.
 
     var profiles = [
-      'https://nl.linkedin.com/in/sam-prinssen-6a101522',
-      'https://nl.linkedin.com/in/thomas-de-beus-a76184b0',
-      'https://nl.linkedin.com/in/matthijs-mentink-1ba4651a'
+        'https://nl.linkedin.com/in/sam-prinssen-6a101522',
+        'https://nl.linkedin.com/in/thomas-de-beus-a76184b0',
+        'https://nl.linkedin.com/in/matthijs-mentink-1ba4651a'
       ]
 
-      var x = new require('x-ray')()
+    var x = new require('x-ray')()
 
-      for (var i = 0; i < profiles.length; i++) {
+    for (var i = 0; i < profiles.length; i++) {
       var profile = profiles[i]
 
-      x(
-        profile,
+    x(
+      profile,
         {
-          items: x(
+          work: x(
             '.position',
             [ {
               title: '.item-title',
               organisation: '.item-subtitle',
+              time: '.date-range'
+            } ]
+          ),
+          school: x(
+            '.school',
+            [ {
+              school: '.item-title',
+              type: '.item-subtitle',
               time: '.date-range'
             } ]
           )
