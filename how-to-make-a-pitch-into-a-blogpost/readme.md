@@ -50,3 +50,12 @@ This is generally everything you do while writing an article. Even if it is fict
 > If you interview something keep in mind you do the following things:
 * Clear with the account holder how you will approach the interviewee
 * Collecting contact information of the interviewee
+
+### How to create user stories for working on a pitch
+Think about the smallest thing you can do to start working on an article, or to make the existing article better. Think about what you want to achieve and how you are going to do this. For example, if you want to know what the company you are writing about makes them so good a t what they do. You could look at the resumes of the founders and draw conclusions from what they have done and what the company does. User stories in this case could be:
+
+**To understand what makes [company name] good at [service name] - as a user - i can read about their combined experience and what that enables them to do.**
+
+* this could be done by just looking at only their education on linkedIn or one previous employer.
+
+If after the user story is fulfilled it is not good enough to go live, the next person can add something to the article and improve it a little bit. This goes on until it is decided it is good enough to go live.
