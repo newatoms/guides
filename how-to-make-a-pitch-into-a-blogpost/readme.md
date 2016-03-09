@@ -35,7 +35,7 @@ Before you finish a user story and create a [pull request](https://github.com/ne
 
 This is where the tricky part starts. Because everything you do should be able to stand on its own, all steps towards creating an article should also be executable articles. Think of it like this: Instead of formulating questions to ask your interviewee, you formulate a series of questions that are interesting for the reader to think and speculate about, and relevant towards reaching the goal of the pitch.
 
-### Collect information, draw a conclusions and tie it together in a coherent story.
+### Collect information, draw conclusions and tie it together in a coherent story.
 
 This is generally everything you do while writing an article. Even if it is fiction or an interview, you always collect information, draw conclusions on that information and tie the whole together into a coherent story. None of these elements can stand on themselves so they can not be made separately. So the challenge is not how to make the best article, but how to do this in the smallest way, that it is better than how it was before. This way you can still break it up into smaller parts, but you are never obligated continuing to work on something to make it publishable. **It also means that in a perfect world you can close your laptop at any moment and have a publishable story.** Never be afraid that something is not as good as it could be, only focus on making it better than that it was before. This way of working enables an article to become a little bit better every time, without the pressure of perfection.
 
