@@ -56,7 +56,7 @@ x(
 1. Create a variable that will execute your x-ray. `var x = new require('x-ray')()`
 * Now `x` will look at a Linkedin url.
 * Next, the code will run the containing information of the called classes.
-* With `.write('results.json')` the scraped information will print out the information in a newly created `results.json` file on your computer.
+* With `.write('results.json')` the scraped information will be printed out in a newly created `results.json` file on your computer.
 * To actually see 👀 your scraped information in your results.json file go to your terminal and call the code with typing: `node 'filename'.js`. Voila! There it is! 🎉      
 
 ## Results in your .json file:
