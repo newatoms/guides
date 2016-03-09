@@ -43,17 +43,17 @@ This is generally everything you do while writing an blog post. Even if it is fi
 
 The core to work efficiently on a blog post is this: **creating ideas for how to add the most amount of value with the smallest amount of effort.**
 
-Think about the smallest thing you can do to start working on an blog post, or to make the existing blog post better. Think about what you want to achieve and how you are going to do this. For example, if you want to know what the company you are writing about makes them so good a t what they do. You could look at the resumes of the founders and draw conclusions from what they have done and what the company does. User stories in this case could be:
+Think about the smallest thing you can do to start working on a blog post, or to make the existing blog post better. Think about what you want to achieve and how you are going to do this. For example: if you want to know what the organisation you are writing about makes them so good at what they do, you could look at the resumes of the founders and draw conclusions from what they have done and what the organisation does. User stories in this case could be:
 
-**To understand what makes [company name] good at [service name] - as a user - i can read about their combined experience and what that enables them to do.**
+**To understand what makes [organisation name] good at [service name] - as a user - i can read about their combined experience and what that enables them to do.**
 
-* this could be done by just looking at only their education on linkedIn or one previous employer.
+* this could be done by just looking at only their education on linkedIn or one previous employee.
 
-If after the user story is fulfilled it is not good enough to go live, the next person can add something to the blog post and improve it a little bit. This goes on until it is decided it is good enough to go live. Its all about finding small ways to add value to the whole and **never** about making the best thing possible.
+When a user story it is not good enough to go live after it's fulfilled, the next person can add something to the blog post and improve it. This goes on until it is decided that it's good enough to go live. It's all about finding small ways to add value to the whole and **never** about making the best thing possible.
 
 ### Tips for how you can keep a user story small
 
-* If you collect information try to instantly draw conclusions and write them down at the place in the blog post that makes the most sense at that moment.
+* If you collect information, try to instantly draw conclusions and write them down at the place in the blog post that makes the most sense at that moment.
 
 * If you work on an blog post and you change something, rearrange and adjust the blog post so that it makes sense with your changes.
 
