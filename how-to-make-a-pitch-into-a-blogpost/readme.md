@@ -7,20 +7,20 @@ In this guide I will try to explain how to divide the process from idea to end r
 Before we start the tricky stuff, you should first get a glimpse on how we work.
 At New Atoms everyone works a-synchone. This means that nothing you do can depend on something that came before or after it. This enables us to work in a process where everyone can do what they think they add the most value with to New Atoms at that moment, and everything we create is continuously integratable. This means that everything we do should add to the bigger whole and is able to stand on its own, however small the implementation.
 
-To enable us to work this way we work with a [doables board]() which we fill with user stories, which are more in-depth version of todo post-its.
+To enable us to work this way we work with a [doables board](https://github.com/newatoms/guides/tree/ready/board-guide) which we fill with user stories, which are more in-depth version of todo post-its.
 
 ## How to create and fulfill a user story for an article
-A userstory is meant to force you to clearly state what you try to achieve, how you want to do it and who it is for. You can read a more in depth guide about doables and user stories [here]().
+A userstory is meant to force you to clearly state what you try to achieve, how you want to do it and who it is for. You can read a more in depth guide about doables and user stories [here](https://github.com/newatoms/guides/tree/ready/board-guide).
 If you write the user story keep the following points in mind
 
 * All user stories are written from the perspective of the end user.
 * Collected information to fulfill user story is a byproduct, never the goal on its own.
-* All finished user story ([pull request]()) should add value to the whole and be publishable on their own.
-* The person [merging]() your [pull request]() is responsible for combining all live user stories of the same article into one publishable article.
+* All finished user story ([pull request](https://github.com/newatoms/guides/tree/ready/github-guide)) should add value to the whole and be publishable on their own.
+* The person [merging](https://github.com/newatoms/guides/tree/ready/github-guide) your [pull request](https://github.com/newatoms/guides/tree/ready/github-guide) is responsible for combining all live user stories of the same article into one publishable article.
 * During the demo it will be decided if the results are good enough to go live.
 
 ### Finishing a user story
-Before you finish a user story and create a [pull request]() you should check the following points.
+Before you finish a user story and create a [pull request](https://github.com/newatoms/guides/tree/ready/github-guide) you should check the following points.
 * Did it fulfill the user story?
 * Is it better than what it was before?
 * Did it not break anything?
