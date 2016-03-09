@@ -15,12 +15,12 @@ If you write the user story keep the following points in mind
 
 * All user stories are written from the perspective of the end user.
 * Collected information to fulfill user story is a byproduct, never the goal on its own.
-* All finished user story ([pull request](https://github.com/newatoms/guides/tree/ready/github-guide)) should add value to the whole and be publishable on their own.
-* The person [merging](https://github.com/newatoms/guides/tree/ready/github-guide) your [pull request](https://github.com/newatoms/guides/tree/ready/github-guide) is responsible for combining all live user stories of the same article into one publishable article.
+* All finished user story ([pull request](https://github.com/newatoms/guides/tree/ready/github-guide#the-pull-request)) should add value to the whole and be publishable on their own.
+* The person [merging](https://github.com/newatoms/guides/tree/ready/github-guide#discuss-and-merge) your [pull request](https://github.com/newatoms/guides/tree/ready/github-guide#the-pull-request) is responsible for combining all live user stories of the same article into one publishable article.
 * During the demo it will be decided if the results are good enough to go live.
 
 ### Finishing a user story
-Before you finish a user story and create a [pull request](https://github.com/newatoms/guides/tree/ready/github-guide) you should check the following points.
+Before you finish a user story and create a [pull request](https://github.com/newatoms/guides/tree/ready/github-guide#the-pull-request) you should check the following points.
 * Did it fulfill the user story?
 * Is it better than what it was before?
 * Did it not break anything?
