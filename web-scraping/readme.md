@@ -61,7 +61,7 @@ x(
 
 ## Results in your .json file:
 
-You can convert these .json files into .csv files to eventually import it in spreadsheet programs or [Open Refine](http://openrefine.org/).
+You can convert these .json files into .csv files by pasting it [here](http://konklone.io/json/),download it and eventually import it in spreadsheet programs or [Open Refine](http://openrefine.org/). This way you have a better overview and you could work your spreadsheet magic for analysing. 
 
 ```json
 {
