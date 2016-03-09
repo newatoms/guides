@@ -1,4 +1,4 @@
->**Goal of this guide:** help you to create and work on a userstory for a blogpost.
+>**Goal of this guide:** help you to create and work on a user story for a blogpost.
 
 # How to turn a pitch into a publishable blogpost
 
@@ -49,7 +49,7 @@ Think about the smallest thing you can do to start working on an blogpost, or to
 
 * this could be done by just looking at only their education on linkedIn or one previous employer.
 
-If after the user story is fulfilled it is not good enough to go live, the next person can add something to the blogpost and improve it a little bit. This goes on until it is decided it is good enough to go live. Its all about finding small ways to add value to the whole.
+If after the user story is fulfilled it is not good enough to go live, the next person can add something to the blogpost and improve it a little bit. This goes on until it is decided it is good enough to go live. Its all about finding small ways to add value to the whole and **never** about making the best thing possible.
 
 ### Tips for how you can keep a user story small
 
