@@ -45,9 +45,10 @@ This is generally everything you do while writing an blogpost. Even if it is fic
 
 * If you work on an blogpost and you change something, rearrange and adjust the blogpost so that it makes sense with your changes.
 
-* If you plan on interviewing someone, figuring out who to interview and what to ask, also consists out of collecting information and drawing conclusions.
+* If you plan on interviewing someone, figuring out who to interview and what to ask, also consists out of collecting information and drawing conclusions. To learn more on how to prepare and conduct an interviews you can look at this [guide](../interview-guide)
 
-> If you interview something keep in mind you do the following things:
+If you interview someone keep in mind you do the following things:
+
 * Clear with the account holder how you will approach the interviewee
 * Collecting contact information of the interviewee
 
