@@ -1,4 +1,4 @@
-> **The goal of this guide:** You will learn how to extract information from certain web pages using [developer tools](guides/fixing-errors/readme.md), [node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs) and [X-Ray](https://www.npmjs.com/package/x-ray).
+> **The goal of this guide:** You will learn how to extract information from certain web pages using [developer tools](fixing-errors/readme.md), [node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs) and [X-Ray](https://www.npmjs.com/package/x-ray).
 
 # Web scraping with [node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs) an [x-ray](https://www.npmjs.com/package/x-ray)
 
