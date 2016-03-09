@@ -14,7 +14,7 @@ To enable us to work this way we work with a [doables board](https://github.com/
 ## How to create and fulfill a user story for a blog post
 
 A userstory is meant to force you to clearly state what you try to achieve, how you want to do it and who it is for. You can read a more in depth guide about doables and user stories [here](https://github.com/newatoms/guides/tree/ready/board-guide).
-If you write the user story keep the following points in mind:
+If you write a user story, keep the following mind:
 
 * All user stories are written from the perspective of the end user.
 * Collected information to fulfill a user story is a byproduct, never the goal on its own.
