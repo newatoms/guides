@@ -24,7 +24,8 @@ If you write a user story, keep the following mind:
 
 ### Finishing a user story
 
-Before you finish a user story and create a [pull request](https://github.com/newatoms/guides/tree/ready/github-guide#the-pull-request) you should check the following points.
+Before you finish a user story and create a [pull request](https://github.com/newatoms/guides/tree/ready/github-guide#the-pull-request) you should check the following:
+
 * Did it fulfill the user story?
 * Is it better than what we had before (did it add value)?
 * Did it not break anything?
