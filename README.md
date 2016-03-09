@@ -20,7 +20,7 @@ Here you find a list to all the guides and what there goal is.
 |[Databinding](databinding) | How to communicate between elements using databinding in polymer |
 |[Elements](creating-elements) | Understanding the core concepts of coding in polymer |
 |[Fixing errors](fixing-errors) | Create a understanding of debugging websites/software |
-|[Web Scraping](web-scraping) | Extract data from webpages (LinkedIn profiles) into a structured json format |
+|[Web Scraping from LinkedIn](web-scraping) | Extract data from LinkedIn profiles into a structured json format |
 
 ## How to make a guide
 
