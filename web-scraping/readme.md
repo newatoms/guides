@@ -29,7 +29,7 @@ In the Chrome web browser open the devtools with `cmd-alt-i` and click on the pa
 We search 🕵 from top to bottom to find what we want:
 
 * We want all the information of experience. `class='positions'`
-* We want the title of each experience: 'Content developer'. `class='item-title'`.
+* We want the title of each experience: e.g. 'Content developer'. `class='item-title'`.
 * We also want the organisation of each title: 'New Atoms'. `class='item-subtitle'`.
 * finally, we want the date and time the person was active under that title and organisation: `class='.date-range'`
 
