@@ -10,7 +10,7 @@ Web scraping enables you to extract information from the web and put it in a mor
 
 1. Create a file `'filename'.js` in your designated folder. In this file you will write your code.
 
-* Open the [Terminal](http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/) application on your mac, go to the folder where you created your files by typing `cd 'path to your folder'` enter.
+* Open the [Terminal](http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/) application on your mac, go to the folder where you created your file by typing `cd 'path to your folder'` enter.
 
 * Install node.js: `npm install node` and enter. Then you need X-Ray: `npm install x-ray` enter.
 
