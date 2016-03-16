@@ -8,22 +8,24 @@ Here you can find guides on used tools, communication, workflows, rules and most
 
 Here you find a list with links to all guides and their goal.
 
-|Subject |Goal of the guide              |
+|How to … |Goal of the guide              |
 |--------|-----------------------------|
-|[Atom](atom-guide)| Helping you to use Atom, a text editor we use in combination with github |
-|[Board](board-guide) | Explaining how we work with our workflow board and optimizing the use of it  |
-|[Content](board-guide)| Helping you make the most awesome content you can make|
-|[Github](github-guide) | Guide on how to build documents and websites with the service called Github |
-|[Medium](medium-guide)| Helping you use Medium |
-|[Slack](slack-guide) | Helping you use our main communications tool, slack.
-|[Communication](communication-guide) | Helping to communicate with the outside world
-|[Interviews](interview-guide) | Helping to prepare for an Interview
-|[Glossary](glossary) |Here you can find the definition words we use and how we use them.
-|[Databinding](databinding) | How to communicate between elements using databinding in polymer |
-|[Elements](creating-elements) | Understanding the core concepts of coding in polymer |
-|[Fixing errors](fixing-errors) | Create a understanding of debugging websites/software |
-|[Web Scraping from LinkedIn](web-scraping) | Extract data from LinkedIn profiles into a structured json format |
-|[Being a managing director](be-a-managing-director) | Explaining what it means to be a managing director |
+|[use text-editor Atom](atom-guide)| Helping you to use Atom, a text editor we use in combination with github |
+|[use the Achievable board](board-guide) | Explaining how we work with our workflow board and optimizing the use of it  |
+|[create awesome content](board-guide)| Helping you make the most awesome content you can make|
+|[use GitHub](github-guide) | Guide on how to build documents and websites with the service called Github |
+|[publish to Medium](medium-guide)| Helping you use Medium |
+|[use Slack for team communciation](slack-guide) | Helping you use our main communications tool, slack.
+|[communicate as content.supply](communication-guide) | Helping to communicate with the outside world
+|[prepare for an interview](interview-guide) | Helping to prepare for an Interview |
+|[use Polymer databinding](databinding) | How to communicate between elements using databinding in Polymer |
+|[create a Polymer element](creating-elements) | Understanding the core concepts of coding in Polymer |
+|[solve Polymer errors](fixing-errors) | Create a understanding of debugging web-apps |
+|[turn a pitch into a blog post](turn-a-pitch-into-a-publishable-blog-post)| help you to create and work on a user story for a blog post |
+|[scrape information from LinkedIn](web-scraping) | Extract data from LinkedIn profiles into a structured json format |
+|[be a Managing Director](be-a-managing-director) | Explaining what it means to be a managing director |
+
+Use the [Glossary](glossary) to find definitions of words we use and how we use them.
 
 ## How to make a guide
 
