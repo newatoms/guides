@@ -8,16 +8,16 @@ Bots listen to events and perform an action based on the type of event. For exam
 > we currently use a bot to push a message to slack when a client adds a message to a conversation on the interface
 
 ## Difference between a bot and circle in communicating with Firebase
-Bots use the firebase secret. Go to the firebaseio url of your database (https://interface-ready.firebaseio.com) and go to secrets.
+Bots use the firebase secret. Go to the firebaseio url of your database and go to secrets.
 
 CircleCi needs a token, not a secret!
 
 ### Generate a token for CircleCi:
-In the folder of the repository you want to deploy (e.g. interface folder) there is an circle.yml file.
+In the folder of the repository you want to deploy there is an circle.yml file.
 In it you will find the token name CircleCi wįll use when deploying.
 Remember the token name (e.g. FIREBASE_TOKEN_READY) of the branch you want to deploy to e.g.:
 ```
---firebase interface-ready --token $FIREBASE_TOKEN_READY
+--firebase repository-name --token $FIREBASE_TOKEN_READY
 ```
 
 
@@ -28,7 +28,7 @@ In your terminal:
 - receive a token.
 
 
-Open your browser and go to the relevant repository in your CircleCi account (e.g. https://circleci.com/gh/newatoms/interface/).
+Open your browser and go to the relevant repository in your [CircleCi](https://circleci.com/) account.
 In the right-top corner you'll see project settings.
 In Project settings you have environment variables.
 
