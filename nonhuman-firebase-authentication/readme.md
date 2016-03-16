@@ -13,7 +13,7 @@ Bots use the firebase secret. Go to the firebaseio url of your database and go t
 CircleCi needs a token, not a secret!
 
 ### Generate a token for CircleCi:
-In the folder of the repository you want to deploy there is an circle.yml file.
+In the folder of the repository you want to deploy there is a circle.yml file.
 In it you will find the token name CircleCi wįll use when deploying.
 Remember the token name (e.g. FIREBASE_TOKEN_READY) of the branch you want to deploy to e.g.:
 ```
