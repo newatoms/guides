@@ -10,7 +10,7 @@ Bots listen to events and perform an action based on the type of event. For exam
 ## Difference between CircleCi and other bots in communicating with Firebase
 Usually bots use the firebase secret. Go to the firebaseio url of your database and go to secrets.
 
-CircleCi needs a token, not a secret!
+CircleCi needs a token, not a secret! A token is a string of 'random' letters and numbers that functions as a key to Firebase. You can only read and write to Firebase if you know the correct token.
 
 ### Generate a token for CircleCi:
 In the folder of the repository you want to deploy there is a circle.yml file.
