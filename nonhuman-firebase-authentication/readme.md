@@ -14,7 +14,7 @@ CircleCi needs a token, not a secret! A token is a string of 'random' letters an
 
 ### Generate a token for CircleCi:
 In the folder of the repository you want to deploy there is a circle.yml file.
-In it you will find the token name CircleCi wįll use when deploying.
+In it you will find the token name that CircleCi wįll use when deploying.
 Remember the token name (e.g. FIREBASE_TOKEN_READY) of the branch you want to deploy to e.g.:
 ```
 --firebase repository-name --token $FIREBASE_TOKEN_READY
