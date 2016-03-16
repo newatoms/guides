@@ -57,6 +57,8 @@ So you’re probably thinking “but Hey, there is this gazillion other things t
 
 Make sure that you find a way to integrate all the things you are thinking of into the teams and the process. Since for every thing the company is dependent on you, it needs to wait for you, and that is no fun for anyone.
 
+Things that are inherently not natural to the company or that the company could better do at a later time can be expedited to other talented folks and companies. Especially when those skills are that hard that they can’t, realistically, be learned by our people.
+
 You need to keep your eyes on the price. Right now you might think “lemme just do this,” but keep realising that the company needs to move forward, and should learn how to do everything on its own as well.
 
 So stop being duty bound by other things than these and focus, on the future. Focus on building the best company, perhaps ever.
