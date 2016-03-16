@@ -7,7 +7,7 @@ Lets take apart what that means for a second, in reverse order:
 1. Managing: Having executive control. Meaning you are the person that needs to deal with shit.
 2. Director: This means the person who is in charge. Meaning you are the person responsible for everything going well.
 
-Okay, that is quite something to deal with. Perhaps you don’t necessarily want to be in charge, but we need someone to, at least legally.
+Okay, that is quite something to deal with. Perhaps being in charge is uncomfortable, but you will find a way in which it doesn’t need to be.
 
 ## Responsibilities
 
