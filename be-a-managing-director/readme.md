@@ -1,3 +1,5 @@
+>**Goal of this guide**: To give you a understand of what it means to be a managing director.
+
 # How to be a Managing Director
 
 Great, so you’re the Managing Director of New Atoms, congratulations🎉!
@@ -17,23 +19,23 @@ So what is it that makes up your job? These are the things you need to take care
 
 Make sure the company grows, and is structured in a way that is durable and sustainable. Not faster than it can, not slower than it should.
 
-We want to bring both what we can do for others, and the experience of being a part of what we’re doing, to as much people as possible. But we don’t want to build some kind of bubble that grow and grows until it implodes and leaves everyone unsatisfied. 
+We want to bring both what we can do for others, and the experience of being a part of what we’re doing, to as much people as possible. But we don’t want to build some kind of bubble that grow and grows until it implodes and leaves everyone unsatisfied.
 
 Neither do we want to create a company where the few people that work here settle in to a comfortable but boring job they’ll have for the rest of their lives.
 
 ### Make sure everyone gets what they need
 
-This means making sure everyone gets to live a good life if they are part of our company. 
+This means making sure everyone gets to live a good life if they are part of our company.
 
 A core assumption of why what we do is that people perform best in groups, and when they are developing and when they are happy.
 
-Find out how to make everyone happy, fulfilled, developed and enthusiastic. 
+Find out how to make everyone happy, fulfilled, developed and enthusiastic.
 
 And also very important here is don’t forget that this also applies to yourself.
 
 ### Safeguard the process
 
-To make sure the business keeps evolving and changing as the world around it does it is your job to make sure that the process—which is the secret recipe of our company—is good. 
+To make sure the business keeps evolving and changing as the world around it does it is your job to make sure that the process—which is the secret recipe of our company—is good.
 
 This does not mean that you need to decide how everyone works, but more that you need to make sure that the process keeps developing and improving. As well as that everyone in the company needs to take ownership over it.
 
