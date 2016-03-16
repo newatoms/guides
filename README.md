@@ -21,6 +21,7 @@ Here you find a list to all the guides and what there goal is.
 |[Elements](creating-elements) | Understanding the core concepts of coding in polymer |
 |[Fixing errors](fixing-errors) | Create a understanding of debugging websites/software |
 |[Web Scraping from LinkedIn](web-scraping) | Extract data from LinkedIn profiles into a structured json format |
+|[Being a managing director](be-a-managing-director) | Explaining what it means to be a managing director |
 
 ## How to make a guide
 
