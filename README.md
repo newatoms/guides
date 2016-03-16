@@ -1,10 +1,12 @@
 # Guides
 
-Hia! Here you can consult guides made by New atoms. You will find guides on used tools, communication, workflows, rules and most important, how to make awesome things. It's part of every team members job to edit these documents in order to keep information up to date.  
+Hia👋! Welcome to the New Atoms Guides. We write these guides on how to do all the things we do. These serve to teach people interested in our ways but also to reassure.
 
-## List of all the guides
+Here you can find guides on used tools, communication, workflows, rules and most important, how to make awesome things. It's part of every team members job to edit the guides in order to share what we learn.
 
-Here you find a list to all the guides and what there goal is.
+## All of the guides
+
+Here you find a list with links to all guides and their goal.
 
 |Subject |Goal of the guide              |
 |--------|-----------------------------|
