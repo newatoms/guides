@@ -1,4 +1,4 @@
-> **The goal of this guide:** Explain how you can enable CircleCi to deploy to Firebase
+> **The goal of this guide:** Explain how you can enable automated services to communicate with Firebase
 
 # Two types of automatic services communicate with Firebase
 
