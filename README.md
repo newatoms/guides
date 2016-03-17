@@ -11,6 +11,7 @@ Here you find a list with links to all guides and their goal.
 |How to … |Goal of the guide              |
 |--------|-----------------------------|
 |[use text-editor Atom](atom-guide)| Helping you to use Atom, a text editor we use in combination with github |
+|[be a Managing Director](be-a-managing-director) | Explaining what it means to be a managing director |
 |[use the Achievable board](board-guide) | Explaining how we work with our workflow board and optimizing the use of it  |
 |[create awesome content](board-guide)| Helping you make the most awesome content you can make|
 |[use GitHub](github-guide) | Guide on how to build documents and websites with the service called Github |
@@ -23,6 +24,5 @@ Here you find a list with links to all guides and their goal.
 |[solve Polymer errors](fixing-errors) | Create a understanding of debugging web-apps |
 |[turn a pitch into a blog post](turn-a-pitch-into-a-publishable-blog-post)| help you to create and work on a user story for a blog post |
 |[scrape information from LinkedIn](web-scraping) | Extract data from LinkedIn profiles into a structured json format |
-|[be a Managing Director](be-a-managing-director) | Explaining what it means to be a managing director |
 
 Use the [Glossary](glossary) to find definitions of words we use and how we use them.
