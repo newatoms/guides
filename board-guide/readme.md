@@ -1,10 +1,10 @@
 > **Goal of this guide:** Explaining how the functionality of the doable board works and how to create a good user story.
 
-# The Board Guide
+# How to use the Achievable board
 
 <img src="../images/board.png" width="700">
 
-The Board is part of [The Interface](https://interface.newatoms.com/). Here is where we can see what needs to be done. We can add *cards* which always contain a *user story*. They're part of our Agile way of working.  
+The Board is part of [The Interface](https://interface.newatoms.com/). Here is where we can see what needs to be done. We can add *cards* which always contain a *user story*. They're part of our Agile way of working.
 
 ## User Story
 

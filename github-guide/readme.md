@@ -1,6 +1,6 @@
 <img src="../images/github-mark.png" width="100">
 
-# The Github guide
+# How to use GitHub
 
 Github is a tool which allows individuals to work together in a way that all effort is stored and an optimal version of a file is created together. Work is never completed by one individual, somebody else always reviews it. Github has quite a steep learning curve, but once you go Github you'll never want anything different.
 
@@ -35,7 +35,7 @@ Example: add/internal/guides/medium-guide
 
 ---
 
-**3:** <img src="../images/edit-file.png" width="250"> **4:**<img src="../images/commit.png" width="350">  
+**3:** <img src="../images/edit-file.png" width="250"> **4:**<img src="../images/commit.png" width="350">
 
 ---
 
@@ -72,14 +72,14 @@ If somebody comments the original owner and everybody who has commented/commited
 
 ### A shortcut when changing something small
 
-When changing something small you can go to the designated file and hit the edit icon. Do not commit directly on the ready branch, because that would be illegal, but choose the option to *'Create a new branch for this commit and start a pull request'*.  
+When changing something small you can go to the designated file and hit the edit icon. Do not commit directly on the ready branch, because that would be illegal, but choose the option to *'Create a new branch for this commit and start a pull request'*.
 
 
 ### Discuss and Merge
 
 You can edit a pull request or comment on certain parts of the file by clicking the + sign on the left. When you click, your comment will be visible in the conversation menu.
 
-When everyone is happy about the document and the file is fit to go to the ready branch, you push the big green merge button on the bottom of the conversations menu. Congratulations, now your branch is *merged* with the ready branch and is fit to print.  
+When everyone is happy about the document and the file is fit to go to the ready branch, you push the big green merge button on the bottom of the conversations menu. Congratulations, now your branch is *merged* with the ready branch and is fit to print.
 
 ## Working local on your own device
 

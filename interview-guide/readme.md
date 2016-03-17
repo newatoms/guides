@@ -1,6 +1,6 @@
 > **Goal of this guide:** Giving a basic understanding of how to interview.
 
-# Interview guide
+# How to prepare for an interview
 Here you will find some small tips that might help you improve your interviews.
 
 ## What to ask

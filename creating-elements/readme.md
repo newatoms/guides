@@ -1,6 +1,6 @@
 > **The goal of this guide:** Understanding the core concepts of creating elements. If you come across terms you don't understand Google them or feel free to ask a team member within digital reach.
 
-# How to create a new element
+# How to create a Polymer element
 
 ## Close your laptop!
 

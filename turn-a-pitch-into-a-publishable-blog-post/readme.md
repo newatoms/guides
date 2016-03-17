@@ -1,6 +1,6 @@
 >**Goal of this guide:** help you to create and work on a user story for a blog post.
 
-# How to turn a pitch into a publishable blog post
+# How to turn a pitch into a blog post
 
 In this guide we explain how to divide the process from idea to end result into small workable steps that are all individually publishable blog posts or have an added value to an existing one.
 
