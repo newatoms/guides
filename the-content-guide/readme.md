@@ -1,13 +1,11 @@
-> **Goal of this guide:** Helping you create the best content that you can make. 
+> **Goal of this guide:** Helping you create the best content that you can make.
 
-# The Content Guide
+# How to create awesome content
 
 This guide is intended for external communication but can also be a source for our in-house content developers.
 The target audience are communication professionals. See it as a comprehensive guide, a white paper if you will, to show others our know-how. Because the product that we sell are blog posts or web articles, we should be able to display our skills.
 
 <img src="/images/contentcat.jpg" width="150">
-
-
 
 ## File storage
 

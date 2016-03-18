@@ -1,6 +1,6 @@
 >**The goal of this guide:** Create a understanding of debugging websites/software. If you come across terms you don't understand Google them or feel free to ask a team member within digital reach.
 
-# Fixing errors
+# How to solve Polymer errors
 
 ## The console
 
@@ -30,7 +30,7 @@ will give the value of the property.
 $0.__data__
 ```
 
-shows all the properties of the element.  
+shows all the properties of the element.
 
 ``` javascript
 $0.functionName()

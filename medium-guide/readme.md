@@ -2,11 +2,11 @@
 
 <img src="../images/medium-logo.png" width="80">
 
-# The Medium Guide
+# How to publish to Medium
 
 At New Atoms we write on our [New Atoms Medium Blog channel](https://medium.com/new-atoms-beta). We write about what we learn and what it's like to start a business. Every team member can pitch ideas for blogposts in the Slack channel: beta.
 
-This guide is a quick tutorial about how to create a blogpost.  
+This guide is a quick tutorial about how to create a blogpost.
 
 > **Frequent dispatches from the front of journalistic experimentation.**
 
@@ -22,7 +22,7 @@ To publish a story on the New Atoms Channel, do the following:
 
 If you've written your awesome post, choose add to publication an then tick the New Atoms channel. Add draft to publication, now others can review your post because its in draft & stories.
 
-1.<img src="../images/medium-add-to-publication.png" width="200"> 2.  <img src="../images/medium-add-draft.png" width="200">  
+1.<img src="../images/medium-add-to-publication.png" width="200"> 2.  <img src="../images/medium-add-draft.png" width="200">
 
 ## Edit
 
@@ -32,4 +32,4 @@ If you're asked to review or edit a medium blogpost always comment and not chang
 
 Before publishing you can attach tags to your post. Choose the ones that are most relevant and have the greatest reach. When you're finished and happy with your blogpost you can push the publish button.
 
-Congratulations! Now it's out in the open. Shared to everyone, you can even create a tweet or on the New Atoms [Twitter](https://twitter.com/NewAtoms) account and/or post on the New Atoms [Facebook](https://www.facebook.com/newatoms/).   
+Congratulations! Now it's out in the open. Shared to everyone, you can even create a tweet or on the New Atoms [Twitter](https://twitter.com/NewAtoms) account and/or post on the New Atoms [Facebook](https://www.facebook.com/newatoms/).

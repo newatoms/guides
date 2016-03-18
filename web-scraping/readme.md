@@ -1,10 +1,12 @@
 > **The goal of this guide:** You will learn how to extract information from LinkedIn using [developer tools](../fixing-errors/readme.md), [node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs) and [X-Ray](https://www.npmjs.com/package/x-ray).
 
-# Web scraping from LinkedIn with [node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs) and [x-ray](https://www.npmjs.com/package/x-ray)
+# How to scrape information from LinkedIn
+
+With [node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs) and [x-ray](https://www.npmjs.com/package/x-ray).
 
 You can of course start here at [hackertyper](http://hackertyper.com/) and do your [swordfish](http://www.imdb.com/title/tt0244244/?ref_=nv_sr_1) magic! 🤓
 
-Web scraping enables you to extract information from the web and put it in a more workable format (*.json*, *.csv*, *excel*, *google spreadsheets*).     
+Web scraping enables you to extract information from the web and put it in a more workable format (*.json*, *.csv*, *excel*, *google spreadsheets*).
 
 ## First things first
 
@@ -45,7 +47,7 @@ x(
       '.position',
       [ {
         title: '.item-title',
-        organisation: '.item-subtitle',        
+        organisation: '.item-subtitle',
         time: '.date-range'
       } ]
     )
@@ -57,11 +59,11 @@ x(
 * Now `x` will look at a Linkedin url.
 * Next, the code will run the containing information of the called classes.
 * With `.write('results.json')` the scraped information will be printed out in a newly created `results.json` file on your computer.
-* To actually see 👀 your scraped information in your results.json file go to your terminal and call the code with typing: `node 'filename'.js`. Voila! There it is! 🎉      
+* To actually see 👀 your scraped information in your results.json file go to your terminal and call the code with typing: `node 'filename'.js`. Voila! There it is! 🎉
 
 ## Results in your .json file:
 
-You can convert these .json files into .csv files by pasting it [here](http://konklone.io/json/),download it and eventually import it in spreadsheet programs or [Open Refine](http://openrefine.org/). This way you have a better overview and you could work your spreadsheet magic for analysing. 
+You can convert these .json files into .csv files by pasting it [here](http://konklone.io/json/),download it and eventually import it in spreadsheet programs or [Open Refine](http://openrefine.org/). This way you have a better overview and you could work your spreadsheet magic for analysing.
 
 ```json
 {
