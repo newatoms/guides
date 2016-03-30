@@ -2,7 +2,9 @@
 
 # How to use text-editor [Atom](https://atom.io)
 
-Very handy text/code writer. Very customizable. When working local you can use this text editor together with [github desktop](https://desktop.github.com/).
+Atom is a very handy text/code writer that is free of all the formatting of text programs such as Microsoft Word yet very customizable. For example, what is called "italic" in Word is essentially "emphasized" in Atom, and what is called "bold" is simply "important". When working local you can use this text editor together with [github desktop](https://desktop.github.com/) for a more seamless flow.
+
+To start using Atom in combination with the github desktop, you need to...
 
 ## Handy shortcuts
 
