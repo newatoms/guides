@@ -20,6 +20,7 @@ Here you find a list with links to all guides and their goal.
 |[communicate as content.supply](communication-guide) | Helping to communicate with the outside world
 |[pay for something](how-to-pay-for-something) | Pay for things on behalf of the company and get your money back |
 |[prepare for an interview](interview-guide) | Helping to prepare for an Interview |
+|[start using Polymer](start-using-polymer)| Helping you understand why we use Polymer and how you can join the fun |
 |[use Polymer databinding](databinding) | How to communicate between elements using databinding in Polymer |
 |[create a Polymer element](creating-elements) | Understanding the core concepts of coding in Polymer |
 |[solve Polymer errors](fixing-errors) | Create a understanding of debugging web-apps |
