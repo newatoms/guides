@@ -1,7 +1,7 @@
 A <b>user story</b> is a short description of a task to be performed.
 It can be read as a sentence, consisting of three elements to be filled in by the author of the user story:
 
-1. <u>To</u> (goal of the task / why it is wanted)
+* <u>To</u> (goal of the task / why it is wanted)
 
 * <u>As a</u> (user of the task / who wants it)
 
