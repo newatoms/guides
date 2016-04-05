@@ -19,6 +19,8 @@ Your can download the [Slack desktop application ](https://slack.com/downloads) 
 
 To get more indepth information about the functionality of slack you can check [this](https://get.slack.help/hc/en-us/categories/200111606)  over view by Slack.    
 
+<img src="../images/slack-deskandapp.png" width="700">
+
 
 ## How we use Slack
 
@@ -28,7 +30,6 @@ When you become part of Newatoms you will get an invite from one of the admins, 
 
 Due to our international nature all communication within Newatoms is in English, so also everything you say in Slack. We do this to make sure that everyone can use the amazing archive search functions of slack regardless of their language and nothing we share or learn ever gets lost.
 
-<img src="../images/slack-deskandapp.png" width="700">
 
 ### Channels
 
@@ -50,7 +51,7 @@ To reach a team member directly, send them a Direct Message this can be done by 
 
 ### Markdown
 
-Slack enables the use of [markdown](https://github.com/newatoms/guides/tree/ready/github-guide#markdown-), which is a writing that is also used in html. It enables you to add accentuations to text, hide url's, use emojis. 
+Slack enables the use of [markdown](https://github.com/newatoms/guides/tree/ready/github-guide#markdown-), which is a writing that is also used in html. It enables you to add accentuations to text, hide url's, use emojis.
 
 You can also generata a random gif about a subject by typing "/giphy [subject]". Pretty cool.
 
