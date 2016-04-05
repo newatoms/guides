@@ -56,7 +56,7 @@ To reach a team member directly, send them a Direct Message this can be done by 
 
 Slack enables the use of [markdown](https://github.com/newatoms/guides/tree/ready/github-guide#markdown-), which is a writing that is also used in html. It enables you to add accentuations to text, hide url's, use emojis.
 
-You can also generata a random gif about a subject by typing "/giphy [subject]". Pretty cool.
+You can also generata a random gif about a subject by typing `/giphy [subject]`. Pretty cool.
 
 ### Talking to Howdy the Robot
 
