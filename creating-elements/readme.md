@@ -1,4 +1,4 @@
-> **The goal of this guide:** Understanding the core concepts of creating elements. If you come across terms you don't understand Google them or feel free to ask a team member within digital reach.
+> **The goal of this guide:** Understanding the core concepts of creating elements.
 
 # How to create a Polymer element
 
