@@ -6,8 +6,7 @@ In this guide, we explain how to divide the process from idea to end result into
 
 ## New Atoms
 
-Before we start the tricky stuff, you should first get a glimpse into how we work.
-At New Atoms everyone works asynchronously. This means that nothing you do can depend on something that came before or after it. This enables us to work in a process where everyone can do what they think they add the most value with to New Atoms at that moment, and everything we create is continuously integratable. This means that everything we do should add to the bigger whole and is able to stand on its own, no matter how small the implementation.
+Before we start the tricky stuff, you should first get a glimpse into how we work. At New Atoms, everyone works asynchronously. This means that nothing you do can depend on something that came before or after it. This enables us to work in a process where everyone can do what they think they add the most value with to New Atoms at that moment, and everything we create is continuously integratable. This means that everything we do should add to the bigger whole and is able to stand on its own, no matter how small the implementation.
 
 To enable us to work this way we work with a [doables board](https://github.com/newatoms/guides/tree/ready/board-guide) which we fill with user stories, which are more in-depth version of todo post-its.
 
