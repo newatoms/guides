@@ -44,7 +44,7 @@ For more on how to make an element, read the [element style guide](https://githu
 
 If your element needs to communicate with Firebase then [Double Dutch](http://nl.urbandictionary.com/define.php?term=double+dutch)🛡:
 * Make a backup of the [database](https://interface.firebaseio.com)! (export data -> in the browser)
-* Use the [playground database](https://interface-playground.firebaseio.com ) and never the live database! (import the newest database if needed -> in the browser)
+* Use the [playground database](https://interface-playground.firebaseio.com ) and never the live database! (import the newest database if needed using the Firebase interface in the browser)
 
 ## Implementations
 
