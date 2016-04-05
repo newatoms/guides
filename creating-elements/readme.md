@@ -3,8 +3,10 @@
 # How to create a Polymer element
 
 ## Close your laptop!
+A Polymer element is a custom [HTML element](http://www.w3schools.com/html/html_elements.asp), it can be used like other HTML Elements in your websites with the addition of some nice extra magics.
 
 Never start writing code right away ⏳. If a user story or bugreport requires a new element, take a deep breath and close your laptop. Think about what the function of the element is. Spend some time on it. Imagine future scenarios where the element can be used 🔮. Pinpoint what the element should do but mostly what it shouldn't do. You are likely to think about building functionalities that actually fall outside the scope of the new element. Don't build the element only for the user story/bugreport though, think bigger.🚀
+An element should fulfil one function and should be reusable in multiple contexts. For instance if we use the `<user-chip>` element everywhere where we are mentioning a user in the Interface we only have to update one thing is something changes in the way we want to display users.
 
 > For example don't hardcode text in the body of the element. Use
 ``` html
