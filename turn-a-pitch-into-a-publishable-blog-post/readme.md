@@ -12,7 +12,7 @@ To enable us to work in this way, we work with an [Achievables board](https://gi
 
 ## How to create and fulfill a user story for a blog post
 
-A userstory is meant to force you to clearly state what you try to achieve, how you want to do it and who it is for. You can read a more in depth guide about doables and user stories [here](https://github.com/newatoms/guides/tree/ready/board-guide).
+A user story is meant to force you to clearly state what you try to achieve, how you want to do it and who it is for. You can read a more in depth guide about Achievables and user stories [here](https://github.com/newatoms/guides/tree/ready/board-guide).
 If you write a user story, keep the following mind:
 
 * All user stories are written from the perspective of the end user.
