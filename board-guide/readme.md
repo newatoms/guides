@@ -6,33 +6,20 @@ The main tool in our process is the achievable board. The board is the place whe
 
 ![The board in action](../images/board.png)
 
+## The life of an achievable
+
+From creation to going live [achievables](../glossary/achievable.md) go through distinct phases, like growing up. On the board there is one column for every [phase](../glossary/phase.md) an achievable is in.
+
+Through its life an achievable travels from left to right.
+
+The first phase is the ‘creation’ phase and the last one is the ‘live’ phase, which is when the achievable has been achieved, it is out there in the world and out of our hands.
+
+In every phase an achievable has offers kinds of actions you can perform on it. For instance in the ‘next’ phase you can assign an achievable to you and move it to ‘in progress’ while if you have an achievable assigned to you for review it enables you to mark it as merged by moving it to the ‘ready’ phase.
+
+At the top of every column on the board there is a description of what that phase is and what it means for the achievables.
+
+## Some achievables are more important than others
 
 
 
 
-
-
-
-## Cards and our Agile way of working
-
-On the board there is an overview of seven elements:
-
-1. Create a new card: first enter designated product (see other cards for the correct names). Add the user story and give a priority with slider, less important 0 to important 5.
-
-2. In Inbox: new cards appear here. The product developer decides what to do with the cards. However, for now, hit the arrow when you're happy with the user story to place it in the backlog. You can edit the card by clicking on the text.
-
-3. In Backlog: cards that should be done at some point, but not this sprint. The team decides which of these cards need to go to next up every sprint.
-
-4. Next Up: these user stories are to be finished at the end of the sprint (week). When working, every single team member should pick a card and solve it by clicking on the person icon. Now your picture is on the card and you just moved the card to progress. When you make a pull request on Github, a new card will automatically appear in this column so other team members know that they should look at it.
-
-5. Progress: here you see what everyone is doing at the moment. When you solved a user story you move the card in the done column. An 'edit' column will be added in the future
-
-6. Done: here you see all finished user stories. At the end of a sprint or week you move all cards in Archived.
-
-7. Archived: almost never re-use cards, just make a new one, but hey... At New Atoms delete does not exist.
-
-# Other cool functions
-
-* You can hit the headers of each column (i.e. In Backlog, In Inbox, Done) to prevent a chaotic overview.
-
-* When you create a pull request in Github, a card of this pull request appears in the next up column. Pick up the card and comment, edit and merge.
