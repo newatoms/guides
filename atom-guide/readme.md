@@ -10,7 +10,9 @@ You can also change the way Atom looks and behaves by installing packages and th
 
 ## Ready for some more magic?
 
-When working local you can use this text editor together with [github desktop](https://desktop.github.com/) for a more seamless flow. We use Atom together with Github to edit text and code; you can find our [Github guide here](../github-guide/readme.md)
+Atom enables you to easily browse through folders without going to your finder (Mac). 
+
+When working local you can use this text editor together with [github desktop](https://desktop.github.com/) for a more seamless flow. We use Atom together with Github to edit text and code; you can find our [Github guide here](../github-guide/readme.md).
 
 
 ## Handy shortcuts
