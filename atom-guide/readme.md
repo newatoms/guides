@@ -8,11 +8,13 @@ For example, what is called "italic" in Word is essentially "emphasized" in Atom
 
 You can also change the way Atom looks and behaves by installing packages and themes. Among other things, this can increase the readability of your text/code. Themes can change things like the background color of Atom. Packages will 'read' your text and do certain things based on certain rules. They can for example assign colors, display icons, remove redundant white spaces, automatically fill in line of code.. etc. Ask a team member what set of themes/packages we're using at the moment. These packages will make your live very easy!
 
-## Ready for some more magic?
+## Ready for some magic?
 
-Atom enables you to easily browse through folders without having to leave Atom and go to Finder(Mac).  
+* Atom enables you to easily browse through folders without having to leave Atom and go to Finder(Mac).
+* When writing in Markdown you can see a preview window.  
+* Atom has a powerful find and replace function.
 
-When working local you can use this text editor together with [github desktop](https://desktop.github.com/) for a more seamless flow. We use Atom together with Github to edit text and code; you can find our [Github guide here](../github-guide/readme.md).
+When working local you can use this text editor together with [github desktop](https://desktop.github.com/) for a more seamless flow and even more magic. We use Atom together with Github to edit text and code; you can find our [Github guide here](../github-guide/readme.md).
 
 
 ## Handy shortcuts
