@@ -46,9 +46,6 @@ If your element needs to communicate with Firebase then [Double Dutch](http://nl
 * Make a backup of the [database](https://interface.firebaseio.com)! (export data -> in the browser)
 * Use the [playground database](https://interface-playground.firebaseio.com ) and never the live database! (import the newest database if needed using the Firebase interface in the browser)
 
-## Implementations
+## Ask for help
 
-This entirely depends on your type of element. A few tips:
-* Import other elements (top of the page)
-* Keep the format of your element according to [our rules](https://github.com/newatoms/interface/blob/ready/docs/style-guide.md).
-* Make sure everything closes correctly: e.g. forgetting to close a template will destroy your element.🔥
+If you come across terms you don't understand Google them, ask a team member within digital reach, file issues in the relevant repos on [GitHub](https://github.com/polymerelements/) or ask questions on [Stack Overflow](http://stackoverflow.com/questions/tagged/polymer).
