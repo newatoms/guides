@@ -19,7 +19,7 @@ Email is formal and it can be hard to have real conversations over email. Chat i
 
 Slack is an amazing chat tool, that lets you chat privately with one or multiple people, create and manage channels, send and archive files of all different types, lets you integrate other programs, enables you to automate processes and a bunch more.
 
-Your can download the [Slack desktop application ](https://slack.com/downloads) for your computer and you can get the app for your smartphone in the app store.
+Your can download the [Slack desktop application](https://slack.com/downloads) for your computer and you can get the app for your smartphone in the app store.
 
 To get more indepth information about the functionality of slack you can check [this](https://get.slack.help/hc/en-us/categories/200111606)  over view by Slack.    
 
