@@ -6,20 +6,12 @@ The main tool in our process is the achievable board. The board is the place whe
 
 ![The board in action](../images/board.png)
 
-## User Story
-
-A user story is a description consisting one sentence and is chopped up in three parts. It describes a task that has to be done. Never make big user stories, always try to cut a problem into the smallest user stories that still make sense.
-
-* Goal (To)
-* Person (as a)
-* Action (I can)
 
 
-### Example:
 
-*Product filtered on: contentsupply*
 
-*To understand the potential of the service — As an investor — I can see how large the market is in the UK.*
+
+
 
 ## Cards and our Agile way of working
 
