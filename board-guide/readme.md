@@ -20,6 +20,11 @@ At the top of every column on the board there is a description of what that phas
 
 ## Some achievables are more important than others
 
+Every idea we have is important. Every idea we have represents a  need that someone has. Even ideas that are not relevant now might very well be relevant in the near or far future.
 
+So if every achievable is important, how do we decide which ones we should do first.
 
+For this there are two tools:
 
+* The [product developer](../glossary/product-developer.md) is in charge of ordering the achievables in the backlog. It is his job to make sure the most important ones are at the top and the least important ones at the bottom.
+* Everyone can flag an achievable in the ‘inbox’ or the ‘backlog’ as _Important_, this signifies to the product developer that you believe this achievable should be prioritised.
