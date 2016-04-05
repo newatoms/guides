@@ -42,7 +42,7 @@ The challenge, therefore, is not how to make the best blog post, but how to crea
 
 ### How to make small user stories for blog posts
 
-The core of working efficiently on a blog post is this: **creating ideas for how to add the most amount of value with the smallest amount of effort.**
+The core of working efficiently on a blog post is this: **creating ideas for how to add the largest amount of value with the smallest amount of effort.**
 
 Think about the smallest thing you can do to start working on a blog post, or to make the existing blog post better. Think about what you want to achieve and how you are going to do this. For example: if you want to know what the organisation you are writing about makes them so good at what they do, you could look at the resumes of the founders and draw conclusions from what they have done and what the organisation does. User stories in this case could be:
 
