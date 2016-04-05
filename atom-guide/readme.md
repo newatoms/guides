@@ -1,4 +1,4 @@
-> **Goal of this guide:** showing the basics of using atom to start working with atom in combination with github desktop.
+> **Goal of this guide:** showing the basics of using Atom to start working with atom in combination with github desktop.
 
 # How to use text-editor [Atom](https://atom.io)
 
