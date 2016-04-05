@@ -50,7 +50,7 @@ Think about the smallest thing you could do to start working on a blog post, or 
 
 * this could be done simply by looking at only their education on LinkedIn or one previous employer.
 
-When a user story it is not good enough to go live after it's fulfilled, the next person can add something to the blog post and improve it. This goes on until it is decided that it's good enough to go live. It's all about finding small ways to add value to the whole and **never** about making the best thing possible.
+When a user story it is not good enough to go live after it's fulfilled, the next person can add something to the blog post and improve it. This goes on until it's decided by the team that it's good enough to go live. It's all about finding small ways to add value to the whole and **never** about making the best thing possible.
 
 ### Tips for how you can keep a user story small
 
