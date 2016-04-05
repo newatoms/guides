@@ -22,9 +22,23 @@ Think about what the function of the element is. Spend some time on it. Imagine 
 
 You are likely to think about building functionality that actually falls outside the scope of a good element. Don't build the element only for the achievable you are working on though, think bigger and make something reusable.🚀
 
+## 3. Create a new element
 
-All elements should be able to function on their own. If you need data from the outside, give the data in the demo.
-**Build elements in isolation!**
+So you need to build a new element. Think about with which other elements the new element should interact with. What information does the new element need from them and what can it give back? 🗣
+
+Create a HTML file with a name that describes the the element very well and at least one `-`, or hyphen, in it, for instance `user-chip`, `project-name`, `user-login-form` or `helicopter-landing-pad`. 
+
+To get started you could copy and paste the content of `seed-element.html` into your empty file to setup your new element.
+
+Every element should be able to work in isolation and you should build/test it in isolation. Create a demo file, insert your element, give it the relevant data and test your file.
+
+Start with a small implementation and test it.🔬
+
+Does it work? Great, write documentation for it (see `seed-element.html` on how to do this).
+
+Continue by writing and testing another implementation. Continue until the entire element is built. When it works on its own, try to implement it in other (relevant) elements wherever it can improve the code-base.
+
+For more on how to make an element, read the [element style guide](https://github.com/newatoms/interface/blob/ready/docs/style-guide.md).
 
 ## Elements that communicate with the database
 
