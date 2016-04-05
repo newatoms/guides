@@ -1,4 +1,4 @@
-> **Goal of this guide:** Explaining how the functionality of the doable board works and how to create a good user story.
+> *Goal of this guide:* Explain how to work with the achievable board in the interface and with achievables.
 
 # How to use the Achievable board
 
