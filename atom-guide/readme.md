@@ -14,7 +14,7 @@ You can also change the way Atom looks and behaves by installing packages and th
 * When writing in Markdown you can see a preview window.  
 * Atom has a powerful find and replace function.
 
-When working local you can use this text editor together with [github desktop](https://desktop.github.com/) for a more seamless flow and even more magic. We use Atom together with Github to edit text and code; you can find our [Github guide here](../github-guide/readme.md).
+When working local you can use this text editor together with [github desktop](https://desktop.github.com/) for a more seamless flow and even more magic. We use Atom together with Github to edit text and code; you can find our [Github guide here](../github-guide/readme.md). Github is our version control dictator, as till now we can't live without it.
 
 
 ## Handy shortcuts
