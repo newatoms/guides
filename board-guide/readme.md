@@ -10,7 +10,7 @@ The main tool in our process is the achievable board. The board is the place whe
 
 From creation to going live [achievables](../glossary/achievable.md) go through distinct phases, like growing up. On the board there is one column for every [phase](../glossary/phase.md) an achievable is in.
 
-Through its life an achievable travels from left to right.
+Through its life an achievable—and its little card—travels from left to right on the board.
 
 The first phase is the *creation phase* and the last one is the ‘live’ phase, which is when the achievable has been achieved, it is out there in the world, out of our hands, more than often for others to see.
 
