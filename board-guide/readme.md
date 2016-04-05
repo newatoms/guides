@@ -12,7 +12,7 @@ From creation to going live [achievables](../glossary/achievable.md) go through 
 
 Through its life an achievable travels from left to right.
 
-The first phase is the ‘creation’ phase and the last one is the ‘live’ phase, which is when the achievable has been achieved, it is out there in the world and out of our hands.
+The first phase is the ‘creation’ phase and the last one is the ‘live’ phase, which is when the achievable has been achieved, it is out there in the world, out of our hands, more than often for others to see.
 
 In every phase an achievable has offers kinds of actions you can perform on it. For instance in the ‘next’ phase you can assign an achievable to you and move it to ‘in progress’ while if you have an achievable assigned to you for review it enables you to mark it as merged by moving it to the ‘ready’ phase.
 
