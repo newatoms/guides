@@ -32,7 +32,7 @@ Before you finish a user story and create a [pull request](https://github.com/ne
 
 ## How to execute a pitch
 
-This is where the tricky part starts. Because everything you do should be able to stand on its own, all steps towards creating a blog post should also be executable blog posts. Think of it like this: instead of formulating questions to ask your interviewee, you formulate a series of questions that are interesting for the reader to think and speculate about, and relevant towards reaching the goal of the pitch.
+This is where the tricky part starts. Because everything you do should be able to stand on its own, all steps towards creating a blog post should also be publishable blog posts. Think of it like this: instead of formulating questions to ask your interviewee, you formulate a series of questions that are interesting for the reader to think and speculate about, and relevant towards reaching the goal of the pitch.
 
 ### Collect information, draw conclusions and tie it together in a coherent story.
 
