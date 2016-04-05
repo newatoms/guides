@@ -1,9 +1,9 @@
 > *Goal of this guide:* Explain how to work with the achievable board in the interface and with achievables.
 
-# How to use the Achievable board
+# How to use the achievable board
 
+The main tool in our process is the achievable board. The board is the place where we keep track of our ideas, where they are in their lifecycle and who is working on what.
 
-The Board is part of [The Interface](https://interface.newatoms.com/). Here is where we can see what needs to be done. We can add *cards* which always contain a *user story*. They're part of our Agile way of working.
 ![The board in action](../images/board.png)
 
 ## User Story
