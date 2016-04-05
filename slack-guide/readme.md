@@ -21,7 +21,7 @@ Slack is an amazing chat tool, that lets you chat privately with one or multiple
 
 Your can download the [Slack desktop application](https://slack.com/downloads) for your computer and you can get the app for your smartphone in the app store.
 
-To get more indepth information about the functionality of slack you can check [this](https://get.slack.help/hc/en-us/categories/200111606)  over view by Slack.    
+To get more indepth information about the functionality of slack you can check [this](https://get.slack.help/hc/en-us/categories/200111606)  overview by Slack.    
 
 <img src="../images/slack-deskandapp.png" width="100%">
 
