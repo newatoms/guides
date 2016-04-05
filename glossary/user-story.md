@@ -10,4 +10,4 @@ It can be read as a sentence, consisting of three elements to be filled in by th
 Read more about User Stories [in the Board guide](https://github.com/newatoms/guides/tree/ready/board-guide#user-story).
 
 Example: 
-To learn about why certain innovations in education are successful and others aren't — As a reader of the post — I can read an interview with a teacher who's innovation failed
+To learn about why certain innovations in education are successful and others aren't — As a reader of the post — I can read an interview with a teacher whose innovation failed
