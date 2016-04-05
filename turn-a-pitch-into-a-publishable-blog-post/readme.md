@@ -48,7 +48,7 @@ Think about the smallest thing you could do to start working on a blog post, or 
 
 **To understand what makes [organisation name] good at [service] - as a user - I can read about their combined experience and what that enables them to do.**
 
-* this could be done by just looking at only their education on linkedIn or one previous employee.
+* this could be done simply by looking at only their education on LinkedIn or one previous employer.
 
 When a user story it is not good enough to go live after it's fulfilled, the next person can add something to the blog post and improve it. This goes on until it is decided that it's good enough to go live. It's all about finding small ways to add value to the whole and **never** about making the best thing possible.
 
