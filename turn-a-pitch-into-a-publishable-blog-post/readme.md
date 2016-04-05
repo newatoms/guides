@@ -46,7 +46,7 @@ The core of working efficiently on a blog post is this: **creating ideas for how
 
 Think about the smallest thing you could do to start working on a blog post, or to make the existing blog post better. Think about what you want to achieve and how you are going to do this. For example: if you want to know what makes the organisation you are writing about so good at what they do, you could look at the resumes of the founders and draw conclusions from what they have done and what the organisation does. User stories in this case could be:
 
-**To understand what makes [organisation name] good at [service] - as a user - i can read about their combined experience and what that enables them to do.**
+**To understand what makes [organisation name] good at [service] - as a user - I can read about their combined experience and what that enables them to do.**
 
 * this could be done by just looking at only their education on linkedIn or one previous employee.
 
