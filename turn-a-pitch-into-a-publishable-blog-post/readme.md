@@ -17,7 +17,7 @@ If you write a user story, keep the following in mind:
 
 * All user stories are written from the perspective of the end user.
 * Collecting information towards fulfilling a user story is never the goal on its own.
-* All finished user stories (can also be [pull requests](https://github.com/newatoms/guides/tree/ready/github-guide#the-pull-request)) should add value to the whole and be publishable on their own.
+* All finished user stories (also called [pull requests](https://github.com/newatoms/guides/tree/ready/github-guide#the-pull-request) at this stage) should add value to the whole and be publishable on their own.
 * The person [merging](https://github.com/newatoms/guides/tree/ready/github-guide#discuss-and-merge) your [pull request](https://github.com/newatoms/guides/tree/ready/github-guide#the-pull-request) is responsible for combining all live user stories of the same blog post into one publishable blog post.
 * During the demo (team meeting) it will be decided if the results are good enough to go live.
 
