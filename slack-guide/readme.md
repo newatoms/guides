@@ -30,8 +30,6 @@ When you become part of Newatoms you will get an invite from one of the admins, 
 
 Due to our international nature all communication within Newatoms is in English, so also everything you say in Slack. We do this to make sure that everyone can use the amazing archive search functions of slack regardless of their language and nothing we share or learn ever gets lost.
 
-<img src="https://media.giphy.com/media/W8WwcDyjdnp3G/giphy.gif" width="100%">
-
 ### Channels
 Next to private chat and chatrooms you know from traditional chat programs, Slack introduces open and private "Channels"
 
@@ -48,6 +46,8 @@ You can mention and notify certain people in a channel with a *@name*.
 ### Direct Messages
 
 To reach a team member directly, send them a Direct Message this can be done by selecting them from the direct message column on the left of the window. If the person you are trying to send a message is not in the list you can add them by clicking the private message heading. Direct messages are completely private and secure.
+
+<img src="https://media.giphy.com/media/W8WwcDyjdnp3G/giphy.gif" width="100%">
 
 ### Markdown
 
