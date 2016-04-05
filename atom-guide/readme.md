@@ -2,7 +2,7 @@
 
 # How to use text-editor [Atom](https://atom.io)
 
-Atom is a very handy text/code writer that is free of all the formatting of text programs such as Microsoft Word and Google Docs yet very customizable. Atom enables you to think more about the content you're writing and its structure than the design. 
+Atom is a very handy plain text/code writer that is free of all the formatting of text programs such as Microsoft Word and Google Docs yet very customizable. Atom enables you to think more about the content you're writing and its structure than the design. 
 
 For example, what is called "italic" in Word is essentially "emphasized" in Atom, and what is called "bold" is simply "important". This enables designers to display "important" information in a way of their choosing. Some might choose to display it in bold, but other might change the color or the font size.
 
