@@ -60,7 +60,7 @@ You can also generata a random gif about a subject by typing `/giphy [subject]`.
 
 ### Talking to Howdy the Robot
 
-For our daily standup we use the Howdy bot. Because we like to talk to robots and because it makes a summary of all three answered questions.
+For our daily standup we use the Howdy bot. Because we like to talk to robots; and because it makes checks in with everyone and lets the rest know how they are doing.
 
 With the standup we try to get a overview on what everyone is working on, what they have worked on so far, how they feel and if anything is blocking them.
 
