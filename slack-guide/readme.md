@@ -30,13 +30,13 @@ To get more indepth information about the functionality of slack you can check [
 
 With [Slack](https://slack.com/) we say goodbye to email. Well, certainly for all internal communication.
 
-When you become part of Newatoms you will get an invite from one of the admins, this wil enable you te become part of the Newatoms Slack team and join all our channels.
+When you become part of New Atoms you will get an invite from one of the admins, this wil enable you te become part of the New Atoms Slack team and join all our channels.
 
 ### Channels
 
 Next to private chat and chatrooms you know from traditional chat programs, Slack introduces open and private "Channels"
 
-* Open Channels are for conversations that are open to all team members. Messages posted to channels are archived and searchable to the entire team. Everyone in the Newatoms team can join all the open channels. Open channels have the "#" symbol in front of their name.
+* Open Channels are for conversations that are open to all team members. Messages posted to channels are archived and searchable to the entire team. Everyone in the New Atoms team can join all the open channels. Open channels have the "#" symbol in front of their name.
 
 * A private channel and its contents are visible and searchable only to the channel members. In order to become part of a private channel you need to be added by a admin of that specific channel. Private channels have a closed lock icon in front of their name.
 
