@@ -19,12 +19,13 @@ When working local you can use this text editor together with [github desktop](h
 
 ## Handy shortcuts
 
-* **ctrl+tab** -> switch tab
-* **cmd+arrow** -> select whole line (combine with shift to select)
-* **fn+arrow** -> move to end of document (combine with shift to select)
-* **ctrl+shift+m** -> Markdown preview
-* **cmd+`** -> shift between windows of the same application
-* **ctrl+tab** -> scroll through tabs in current window
+* **cmd+click**: create multiple selectors (not tight to Atom alone)
+* **ctrl+tab**: switch tab
+* **cmd+arrow**: select whole line (combine with shift to select)
+* **fn+arrow**: move to end of document (combine with shift to select)
+* **ctrl+shift+m**: Markdown preview
+* **cmd+`**: shift between windows of the same application
+* **ctrl+tab**: scroll through tabs in current window
 
 ## Packages and themes
 
