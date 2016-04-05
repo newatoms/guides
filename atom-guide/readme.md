@@ -2,7 +2,9 @@
 
 # How to use text-editor [Atom](https://atom.io)
 
-Atom is a very handy text/code writer that is free of all the formatting of text programs such as Microsoft Word yet very customizable. For example, what is called "italic" in Word is essentially "emphasized" in Atom, and what is called "bold" is simply "important". This enables designers to display "important" information in a way of their choosing. Some might choose to display it in bold, but other might change the color or the font size.
+Atom is a very handy text/code writer that is free of all the formatting of text programs such as Microsoft Word and Google Docs yet very customizable.
+
+For example, what is called "italic" in Word is essentially "emphasized" in Atom, and what is called "bold" is simply "important". This enables designers to display "important" information in a way of their choosing. Some might choose to display it in bold, but other might change the color or the font size.
 
 You can also install packages and themes in Atom which will, among other things, increase the readability of your text/code. Themes can change things like the background color of Atom. Packages will 'read' your text and do certain things based on certain rules. They can for example assign colors, display icons, remove redundant white spaces, automatically fill in line of code.. etc. Ask a team member what set of themes/packages we're using at the moment.
 
