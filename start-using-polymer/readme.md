@@ -1,4 +1,4 @@
-# How to start using Polymer
+# How to start using [Polymer](../glossary/polymer.md)
 
 ### The idea of elements
 
