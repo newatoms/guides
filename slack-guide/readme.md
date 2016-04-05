@@ -19,7 +19,7 @@ Your can download the [Slack desktop application ](https://slack.com/downloads) 
 
 To get more indepth information about the functionality of slack you can check [this](https://get.slack.help/hc/en-us/categories/200111606)  over view by Slack.    
 
-<img src="../images/slack-deskandapp.png" width="700">
+<img src="../images/slack-deskandapp.png" width="100%">
 
 
 ## How we use Slack
