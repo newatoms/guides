@@ -28,16 +28,16 @@ When working local you can use this text editor together with [github desktop](h
 
 ## Packages and themes
 
-install
+Installing themes explained in a GIF, why not.
 
 ![see explanation in gif](../images/atom-install-theme-guide.gif)
 
-**packages**
+### Packages
 
-linter-js-standard
+* linter-js-standard
+* set-syntax
+* markdown-preview
 
-set-syntax
-
-**themes**
+### Themes
 
 monokai
