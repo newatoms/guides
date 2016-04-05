@@ -52,9 +52,9 @@ To reach a team member directly, send them a Direct Message this can be done by 
 
 <img src="https://media.giphy.com/media/W8WwcDyjdnp3G/giphy.gif" width="100%">
 
-### Markdown
+### Add niceness to your messages
 
-Slack enables the use of [markdown](https://github.com/newatoms/guides/tree/ready/github-guide#markdown-), which is a writing that is also used in html. It enables you to add accentuations to text, hide url's, use emojis.
+You can add some fancy formatting to your messages like Bold using `*` before and after what you want to be bold; use `_` for italics and `~` for strikethrough. [Read more about formatting on the Slack site](https://get.slack.help/hc/en-us/articles/202288908-Formatting-your-messages)
 
 You can also generata a random gif about a subject by typing `/giphy [subject]`. Pretty cool.
 
