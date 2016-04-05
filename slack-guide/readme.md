@@ -32,9 +32,8 @@ With [Slack](https://slack.com/) we say goodbye to email. Well, certainly for al
 
 When you become part of Newatoms you will get an invite from one of the admins, this wil enable you te become part of the Newatoms Slack team and join all our channels.
 
-Due to our international nature all communication within Newatoms is in English, so also everything you say in Slack. We do this to make sure that everyone can use the amazing archive search functions of slack regardless of their language and nothing we share or learn ever gets lost.
-
 ### Channels
+
 Next to private chat and chatrooms you know from traditional chat programs, Slack introduces open and private "Channels"
 
 * Open Channels are for conversations that are open to all team members. Messages posted to channels are archived and searchable to the entire team. Everyone in the Newatoms team can join all the open channels. Open channels have the "#" symbol in front of their name.
