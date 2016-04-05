@@ -56,6 +56,6 @@ When a user story it is not good enough to go live after it's fulfilled, the nex
 
 * If you collect information, try to instantly draw conclusions and write them down at the place in the blog post that makes the most sense at that moment.
 
-* If you work on an blog post and you change something, rearrange and adjust the blog post so that it makes sense with your changes.
+* If you work on a blog post and you change something, rearrange and adjust the blog post so that it makes sense with your changes.
 
 * If you plan on interviewing someone, figuring out who to interview and what to ask, also consists out of collecting information and drawing conclusions. To learn more on how to prepare and conduct an interview you can look at this [guide](../interview-guide)
