@@ -1,6 +1,6 @@
 > **Goal of this guide:** Explaining the basics of Slack, our main internal communication tool and how we use it within New Atoms.
 
-# The Slack Guide <img src="../images/slack-logo.png" width="100">
+# How to use Slack for team communciation <img src="../images/slack-logo.png" width="100">
 
 > I Slack, you Slack, we all Slack
 
