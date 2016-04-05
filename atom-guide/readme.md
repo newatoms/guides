@@ -8,8 +8,6 @@ Atom is a very handy plain text/code writer that is free of all the formatting o
 
 For example, what is called "italic" in Word is essentially "emphasized" in Atom, and what is called "bold" is simply "important". This enables designers to display "important" information in a way of their choosing. Some might choose to display it in bold, but others might change the color or the font size.
 
-You can also change the way Atom looks and behaves by installing packages and themes. Among other things, this can increase the readability of your text/code. Themes can change things like the background color of Atom. Packages will 'read' your text and do certain things based on certain rules. They can for example assign colors, display icons, remove redundant white spaces, automatically fill in line of code.. etc. Ask a team member what set of themes/packages we're using at the moment. These packages will make your live very easy!
-
 ## Ready for some magic?
 
 * Atom enables you to easily browse through folders without having to leave Atom and go to Finder(Mac).
@@ -31,6 +29,8 @@ When working local you can use this text editor together with [github desktop](h
 
 ## Packages and themes
 
+You can also change the way Atom looks and behaves by installing packages and themes. Among other things, this can increase the readability of your text/code. Themes can change things like the background color of Atom. Packages will 'read' your text and do certain things based on certain rules. They can for example assign colors, display icons, remove redundant white spaces, automatically fill in line of code.. etc. Ask a team member what set of themes/packages we're using at the moment. These packages will make your live very easy! 
+
 Installing themes explained in a GIF, why not.
 
 ![see explanation in gif](../images/atom-install-theme-guide.gif)
@@ -39,7 +39,7 @@ Installing themes explained in a GIF, why not.
 
 * linter-js-standard
 * set-syntax
-* markdown-preview
+* markdown-preview (for watching the preview on a white background enable: *Use Github Style*)
 
 ### Themes
 
