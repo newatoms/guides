@@ -77,9 +77,13 @@ When changing something small you can go to the designated file and hit the edit
 
 ### Discuss and Merge
 
+<img src="https://media.giphy.com/media/kFJ7NdGw4A4o0/giphy.gif" width="100%">
+
 You can edit a pull request or comment on certain parts of the file by clicking the + sign on the left. When you click, your comment will be visible in the conversation menu.
 
 When everyone is happy about the document and the file is fit to go to the ready branch, you push the big green merge button on the bottom of the conversations menu. Congratulations, now your branch is *merged* with the ready branch and is fit to print.
+
+
 
 ## Working local on your own device
 
