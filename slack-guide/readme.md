@@ -9,7 +9,11 @@
 
 ## Why we use Slack
 
-Within Newatoms we try to keep all our communication documented, so that we can later acces all those awesome insights, and a synchronous, so that no one ever has to wait for eachother. Chat is perfect for these two things, and slack is a great chat tool.
+We try to communicate asynchronous so that everyone can choose how and when they are involved in a conversation. At one moment you might want to engage in team discussions instantly while at other moments you might want to focus and read up on the discussions at a later time.
+
+We try to keep all our communication documented, so that we can later access all those awesome insights we have.
+
+Email is formal and it can be hard to have real conversations over email. Chat is perfect for these things, and slack is a great chat tool.
 
 ## About Slack
 
