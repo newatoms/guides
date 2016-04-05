@@ -32,6 +32,7 @@ Due to our international nature all communication within Newatoms is in English,
 
 
 ### Channels
+<iframe src="//giphy.com/embed/W8WwcDyjdnp3G" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/degrassi-email-chat-W8WwcDyjdnp3G">via GIPHY</a></p>
 
 Next to private chat and chatrooms you know from traditional chat programs, Slack introduces open and private "Channels"
 
