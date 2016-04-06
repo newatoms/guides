@@ -37,7 +37,7 @@ This is where the tricky part starts. Because everything you do should be able t
 
 ### Collect information, draw conclusions and tie it together in a coherent story.
 
-This is generally everything you normally do while writing a blog post. Even if it is fiction or an interview, you always collect information, draw conclusions on that information and tie the whole together into a coherent story. None of these elements can stand on their own, so they can not be made separately.
+This is generally everything you normally do while writing a blog post. Even if it is fiction or an interview, you always collect information, draw conclusions on that information and tie the whole together into a coherent story. None of these elements are tangible on their own, so they can not be made separately.
 
 The challenge, therefore, is not how to make the best blog post, but how to create something in a way that requires the smallest amount of effort but still makes it better than it was before –  that adds value. This way you can still break the process up into smaller parts, but you are never obligated to continue working on something to its culmination. **It also means that in a perfect world, you can close your laptop at any moment and have a publishable story.** Never be afraid that something is not as good as it could be; only focus on making it better than it was before. This way of working enables a blog post to become a little bit better every time without the pressure of perfection.
 
