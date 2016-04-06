@@ -58,7 +58,7 @@ So you’re probably thinking “but hey, there are these gazillion other things
 
 Make sure you find a way to effectively integrate all your ideas into the teams and the process. Since for everything the company is dependent on you, it needs to wait for you, and that is no fun for anyone.
 
-Things that not inherently natural to the company or that the company could better do at a later time can be expedited to other talented folks and companies, especially when those skills are so hard that they can’t, realistically, be learned by our people.
+Things that are not inherently natural to the company or that the company could better do at a later time can be delegated to other talented folks and companies, especially when those skills are so hard that they can’t, realistically, be learned by our people within a reasonable time frame.
 
 You need to keep your eyes on the price. Right now you might think “lemme just do this,” but keep realising that the company needs to move forward, and should learn how to do everything on its own as well.
 
