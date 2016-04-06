@@ -123,7 +123,7 @@ Then, you can start your text editor and open the repository on which you want t
 
 ## The dreaded merge conflict
 
-If two people changed the same lines in the same file, or if one person decided to delete it while the other person decided to modify it, Git simply cannot know what is correct. Git will then mark the file as having a conflict - which you'll have to solve before you can continue your work. Git will tell you which line resulted in a merge conflict by copying that line to the top of your document. You have to decide, together with the other person who merged the file, which version is correct.
+If two people changed the same lines in the same file, or if one person decided to delete it while the other person decided to modify it, Git simply cannot know what is correct. Git will then mark the file as having a conflict - which you'll have to solve before you can merge. Git will tell you which line resulted in a merge conflict by copying that line to the top of your document. You have to decide, together with the other person who merged the file, which version is correct.
 
 See [Github's how to](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/) to deal with the merge conflict. Unfortunately this can't be done from the desktop client but has to be done from a terminal. Contact a technical developer in Slack if you are having problems solving the merge conflict.
 
