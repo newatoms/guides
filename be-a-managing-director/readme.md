@@ -2,7 +2,7 @@
 
 # How to be a Managing Director
 
-Great, so you’re the Managing Director of New Atoms, congratulations🎉!
+Great, so you’re the Managing Director of New Atoms. Congratulations🎉!
 
 Lets take apart what that means for a second, in reverse order:
 
