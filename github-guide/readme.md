@@ -27,7 +27,7 @@ Github works with branches. We work with the following hierarchy:
 ### Creating a file or editing a lot in one file
 
 1. Go to the file you want to edit or go to the folder where you want to create a new file.
-2. Make an *add* branch.
+2. Make an branch and give it a self explanory name.
 3. Make a new file in designated folder (filename + filetype, for text it's *.md* for *Markdown*).
 4. When writing or editing keep in mind to make commits (i.e. saves or changes) when changing something.
 5. Each change you make requires a commit -- if you edit an existing document you have to commit at least once per sentence, if you create a new document you can commit each paragraph. This allows you and others to accept or reject each individual change.
