@@ -2,7 +2,7 @@
 
 # How to use GitHub
 
-Github is a tool which allows individuals to work together in a way that all effort is stored and an optimal version of a file is created together. Work is never completed by one individual, somebody else always reviews it. Github has quite a steep learning curve, but once you go Github you'll never want anything different.
+Github is a tool that we use for the creation of all our content and code. In the core it is comparable with how you can work on one google document with multiple people trough suggesting changes. Github works on the same principle but way better, cooler and safer.
 
 We advice you to first read [our Medium post: *Using GitHub for Collaborative Journalism*](https://medium.com/new-atoms-beta/using-github-for-collaborative-journalism-7c05b53a85d5#.orfmk7n16) to understand why we use it and how it works. This guide will give a more comprehensive explanation and serves as an archive. The workflow rules on how we work together will also be discussed.
 
