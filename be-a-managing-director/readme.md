@@ -28,7 +28,7 @@ Neither do we want to create a company where the people who work here settle int
 
 This means making sure everyone gets to live a good life if they are part of our company.
 
-A core assumption of why what we do is that people perform best in groups, and when they are developing and when they are happy.
+A core assumption of what we do is that people perform best in groups, when they are developing, and when they are happy.
 
 Find out how to make everyone happy, fulfilled, developed and enthusiastic.
 
