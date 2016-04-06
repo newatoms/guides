@@ -25,6 +25,8 @@ Here you find a list with links to all guides and their goal.
 |[create a Polymer element](creating-elements) | Understanding the core concepts of coding in Polymer |
 |[solve Polymer errors](fixing-errors) | Create a understanding of debugging web-apps |
 |[turn a pitch into a blog post](turn-a-pitch-into-a-publishable-blog-post)| help you to create and work on a user story for a blog post |
+|[write well](writing-guide)| Helping you write well by giving tips and a checklist |
+|[write good transitions](writing-guide)| Examples of types of transitions you can use |
 |[scrape information from LinkedIn](web-scraping) | Extract data from LinkedIn profiles into a structured json format |
 
 Use the [Glossary](glossary) to find definitions of words we use and how we use them.
