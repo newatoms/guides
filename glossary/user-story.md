@@ -1,15 +1,13 @@
-A method of formulating a need that consists of three parts
+A *user story* is a short description of a task to be performed.
+It can be read as a sentence, consisting of three elements to be filled in by the author of the user story:
 
-To _benefit_, As a _user_, I can _method_
+* _To_ (goal of the task / why it is wanted)
 
-1. Benefit: this is what the user will be able to do after this need is fulfilled.
-2. User: who needs this, for who are we doing this.
-3. Method: What could be done to fulfil this need.
+* _As a_ (user of the task / who wants it)
 
-The benefit is first since it is the most important thing, it could be fulfilled expending less effort using a different method, which should then be done.
+* _I can_ (possible solution to achieve the goal / what is wanted)
 
-## Examples
+Read more about User Stories [in the Board guide](https://github.com/newatoms/guides/tree/ready/board-guide#user-story).
 
-> To understand the potential of the service — As an investor — I can see how large the market is in the UK.
-
-> To learn about why certain innovations in education are successful and others aren't — As a reader — I can read an interview with a teacher who's innovation failed
+Example: 
+To learn about why certain innovations in education are successful and others aren't — As a reader of the post — I can read an interview with a teacher whose innovation failed

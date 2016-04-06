@@ -1,1 +1,0 @@
-The output of the organisation is through internal and external products. External products might be an online magazine, video channel, app, podcast or other medium. The product developers make sure products are created and take ownership of them.
