@@ -24,7 +24,7 @@ Imagine the most nitpicky person about grammar you know. The computer is infinit
 
 Some topics can only be understood, or function better, if they've been linked to other topics. Depending on the language you can point to another topic within a topic.
 
-> Example: In the language ```javascript``` you have functions, blocks of text designed to perform a particular task. These blocks can point to each other which enables the user to flow through them depending on certain constrains. For example, depending on a music genre, the function ```show musicians within that genre``` will change the musicians in a list to only those that belong to a that genre.  
+> Example: In the language ```javascript``` you have functions, blocks of text designed to perform a particular task. These blocks can point to each other which enables the user to flow through them depending on certain constrains. For example, depending on a music genre, the function ```show musicians within that genre``` will change the musicians in a list to only those that belong to that genre.  
 
 ### Two way conversation
 
