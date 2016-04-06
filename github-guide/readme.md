@@ -6,7 +6,7 @@
 
 Github is a tool that we use for the creation of all our content and code. In the core it is comparable with how you can work on one google document with multiple people trough suggesting changes. Github works on the same principle but way better, cooler and safer.
 
-Github is a tool that enables the users to very safely improve things that are created in small comprehensive steps that get checked by another user. This way everyone can freely contribute to what you are building without the fear of adding something permanently that other people thin is bad. It is mainly designed with the idea that nothing great is ever made by one person, and that the easyer and safer it feels to improve something the better it is what is created.
+Github is a tool that enables the users to very safely improve things that are created in small comprehensive steps that get checked by another user. This way everyone can freely contribute to what you are building without the fear of adding something permanently that other people think is bad. It is mainly designed with the idea that nothing great is ever made by one person, and that the easier and safer it feels to improve something the better it is what is created.
 
 In opposition to the system used by things like Google Docs and Microsoft Word, GitHub works with a version control system based on commits and branching. This means every collaborator has an own version – or branch – they work on, and which is then explicitly merged with those of their collaborators. Every change is added to a branch with a commit, in which the contributor explains what he has added in a short message.
 
@@ -16,7 +16,7 @@ Github has quite a steep learning curve, but once you go Github you'll never wan
 
 ## How we use Github
 
-We work with multiple repositories (i.e repo), which can be seen as a harddrive containing all the files from that project or product. Always read the readme file that is opened automatically if you enter a repo.  All our research is stored in folders like insights, private and internal (i.e. market research, all kinds of guides, customer acquisition, pitch decks enz.). Folders with a lower dash before the folder name in repositories are not rendered on websites, but they're still viewable by anyone who can access the repo. We also store a lot of our sites in the repositories (e.g. html, layout etc.).
+We work with multiple repositories (i.e repo), which can be seen as a harddrive containing all the files from that project or product. Always read the readme file that is opened automatically if you enter a repo. All our research is stored in folders like pitches, posts and research, insights, private and internal (i.e. market research, customer acquisition, pitch decks enz.). Folders with a lower dash before the folder name in repositories are not rendered on websites, but they're still viewable by anyone who can access the repo. We also store a lot of our sites in the repositories (e.g. html, layout etc.).
 
 ### Github hierarchy
 
