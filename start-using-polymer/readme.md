@@ -10,6 +10,9 @@ The idea 💡is that you write elements that are custom made for one goal. They 
 
 Elements should however be able to receive input arguments that might alter the function of the element. For example, a text input element can be told that only dates are valid input options. You could write a text-data-input element but sometimes functionalities are so similar that you want them to be in the same element.
 
+A polymer paper-input element:
+<img src="paper-input.png" width=500/>
+
 It's difficult to define precisely what the goal of the element is and how this goal can be reached using values that might differ over different parts of the site/ different sites. Take your time 🕒 [Read our guide on how to create a new element](https://hub.com/newatoms/newatoms/blob/ready/internal/guides/how-to-create-a-new-element.md)
 
 ### Communication between elements
