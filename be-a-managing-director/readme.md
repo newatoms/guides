@@ -56,7 +56,7 @@ Be honest, be vulnerable, be strong, be enthusiastic and be curious, just like o
 
 So you’re probably thinking “but hey, there are these gazillion other things that I want to do.” Sorry man, it’s not your job.
 
-Make sure that you find a way to integrate all the things you are thinking of into the teams and the process. Since for every thing the company is dependent on you, it needs to wait for you, and that is no fun for anyone.
+Make sure you find a way to effectively integrate all your ideas into the teams and the process. Since for everything the company is dependent on you, it needs to wait for you, and that is no fun for anyone.
 
 Things that are inherently not natural to the company or that the company could better do at a later time can be expedited to other talented folks and companies. Especially when those skills are that hard that they can’t, realistically, be learned by our people.
 
