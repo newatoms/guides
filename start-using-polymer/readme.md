@@ -1,6 +1,6 @@
 # How to start using [Polymer](../glossary/polymer.md)
 
-<img src="polymer-elements.png"/>
+[<img src="polymer-elements.png"/>](https://elements.polymer-project.org/)
 
 *Image: polymer elements*
 
