@@ -20,7 +20,7 @@ So what is it that makes up your job? These are the things you need to take care
 
 Make sure the company grows, and is structured in a way that is durable and sustainable. Not faster than it can, not slower than it should.
 
-We want to bring both what we can do for others, and the experience of being a part of what we’re doing, to as much people as possible. But we don’t want to build some kind of bubble that grows and grows until it implodes and leaves everyone unsatisfied.
+We want to bring both what we can do for others, and the experience of being a part of what we’re doing, to as many people as possible. But we don’t want to build some kind of bubble that grows and grows until it implodes and leaves everyone unsatisfied.
 
 Neither do we want to create a company where the few people that work here settle in to a comfortable but boring job they’ll have for the rest of their lives.
 
