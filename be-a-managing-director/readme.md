@@ -18,7 +18,7 @@ So what is it that makes up your job? These are the things you need to take care
 
 ### Help the company grow sustainably
 
-Make sure the company grows, and is structured in a way that is durable and sustainable. Not faster than it can, not slower than it should.
+Making sure the company grows, and is structured in a way that is durable and sustainable: not faster than it can, not slower than it should.
 
 We want to bring both what we can do for others and the experience of being a part of what we’re doing to as many people as possible, but we don’t want to build some kind of bubble that grows and grows until it implodes and leaves everyone unsatisfied.
 
@@ -26,9 +26,7 @@ Neither do we want to create a company where the people who work here settle int
 
 ### Make sure everyone gets what they need
 
-This means making sure everyone gets to live a good life if they are a part of our company.
-
-A core assumption of what we do is that people perform best in groups, when they are developing, and when they are happy.
+Making sure everyone gets to live a good life if they are a part of our company. A core assumption of what we do is that people perform best in groups, when they are developing, and when they are happy.
 
 Find out how to make everyone happy, fulfilled, developed and enthusiastic.
 
