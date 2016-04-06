@@ -19,12 +19,12 @@ These elements can communicate via different ways. One way is databinding betwee
 
 Another way of communication between elements is [events](https://www.polymer-project.org/1.0/docs/devguide/events.html). You can let polymer fire an event when something happens, e.g. a user presses a button. The event contains information of the event itself and information you send with it (array, object, string, etc.).
 
-### There are three distinct 'languages' in Polymer
+### There are three distinct 'languages' in web development so, also in  Polymer
 
 A polymer element consists of three languages: [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction), [CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started) and [javascript](https://developer.mozilla.org/en-US/Learn/JavaScript).  
-HTML is for structure, CSS is for styling and javascript is for logic. Each one has it's own language and rules. The order we use is first css, then html and js at the end. ```<Style>``` indicates CSS and ```<script>``` is javascript.
+HTML is for structure, CSS is for styling and javascript is for logic. Each one has it's own language and rules. The order we use is first CSS, then HTML and js at the end. ```<Style>``` indicates CSS and ```<script>``` is javascript.
 
-> Note that some standard implementations of html/css/javascript are not valid in Polymer ❗️ This makes finding (valid) help online somewhat more difficult. Polymer has been updated as well, rendering some answers to earlier questions false 🚫. Use the filter date function on Google to limit search results to +-4 months.
+> Note that some standard implementations of HTML/CSS/javascript are not valid in Polymer ❗️ This makes finding (valid) help online somewhat more difficult. Polymer has been updated as well, rendering some answers to earlier questions false 🚫. Use the filter date function on Google to limit search results to +-4 months.
 
 ### So now what...?
 
