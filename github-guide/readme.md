@@ -4,7 +4,13 @@
 
 Github is a tool that we use for the creation of all our content and code. In the core it is comparable with how you can work on one google document with multiple people trough suggesting changes. Github works on the same principle but way better, cooler and safer.
 
-We advice you to first read [our Medium post: *Using GitHub for Collaborative Journalism*](https://medium.com/new-atoms-beta/using-github-for-collaborative-journalism-7c05b53a85d5#.orfmk7n16) to understand why we use it and how it works. This guide will give a more comprehensive explanation and serves as an archive. The workflow rules on how we work together will also be discussed.
+Github is a tool that enables the users to very safely improve things that are created in small comprehensive steps that get checked by another user. This way everyone can freely contribute to what you are building without the fear of adding something permanently that other people thin is bad. It is mainly designed with the idea that nothing great is ever made by one person, and that the easyer and safer it feels to improve something the better it is what is created.
+
+In opposition to the system used by things like Google Docs and Microsoft Word, GitHub works with a version control system based on commits and branching. This means every collaborator has an own version – or branch – they work on, and which is then explicitly merged with those of their collaborators. Every change is added to a branch with a commit, in which the contributor explains what he has added in a short message.
+
+The explicit merging of your contributions with those of others creates a natural moment for everyone to look at the things that have changed, give feedback and review.
+
+Github has quite a steep learning curve, but once you go Github you'll never want anything different.
 
 ## Working with Github in your browser
 
