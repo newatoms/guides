@@ -2,7 +2,7 @@
 
 # How to turn a pitch into a blog post
 
-In this guide, we explain how to divide the process from idea to end result into small, workable steps that are all individually- publishable blog posts or have an added value to an existing blog post.
+In this guide, we explain how to divide the process from idea to end result into small, workable steps that are all individually-publishable blog posts or have added value to an existing blog post.
 
 ## New Atoms
 
