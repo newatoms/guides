@@ -14,8 +14,7 @@ It's difficult to define precisely what the goal of the element is and how this 
 
 ### Communication between elements
 
-Elements communicate with each other.🗣 An element that is called inside another element is called a 'child'; the calling element is called the 'parent'.
-These elements can communicate via different ways. One way is databinding between elements -- see our guide 'How to use data-binding' [here](../databinding/readme.md).
+Elements communicate with each other.🗣 An element that is called inside another element is called a 'child'; the calling element is called the 'parent'. These elements can communicate via different ways. One way is databinding between elements -- see our guide 'How to use data-binding' [here](../databinding/readme.md).
 
 Another way of communication between elements is [events](https://www.polymer-project.org/1.0/docs/devguide/events.html). You can let polymer fire an event when something happens, e.g. a user presses a button. The event contains information of the event itself and information you send with it (array, object, string, etc.).
 
@@ -28,7 +27,7 @@ HTML is for structure, CSS is for styling and javascript is for logic. Each one 
 
 ### So now what...?
 
-Read all our other [guides on Polymer](https://github.com/newatoms/guides) and start implementing something. Since we're using Git you can't really destroy anything except for the database. Please don't do that 😬. See our [create a new element guide](https://github.com/newatoms/newatoms/blob/ready/internal/guides/how-to-create-a-new-element.md) on how to avoid this. Ask a team member if you're stuck or if you're afraid you'd break 🔥 something. Good luck! 😉
+Read all our other [guides on Polymer](https://github.com/newatoms/guides) and start implementing something. Since we're using Git you can't really destroy anything except for the database (https://interface.firebaseio.com/). Please don't do that 😬. See our [create a new element guide](https://github.com/newatoms/newatoms/blob/ready/internal/guides/how-to-create-a-new-element.md) on how to avoid this. Ask a team member if you're stuck or if you're afraid you'd break 🔥 something. Good luck! 😉
 
 ### Helpful links
 
