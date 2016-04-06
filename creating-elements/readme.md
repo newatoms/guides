@@ -28,13 +28,11 @@ So you need to build a new element. Think about with which other elements the ne
 
 Create a HTML file with a name that describes the the element very well and at least one `-`, or hyphen, in it, for instance `user-chip`, `project-name`, `user-login-form` or `helicopter-landing-pad`. 
 
-To get started you could copy and paste the content of `seed-element.html` into your empty file to setup your new element.
+To get started you could copy and paste the content of [`seed-element`](https://github.com/newatoms/interface/tree/ready/web/_components/seed-element) into your empty file to setup your new element.
 
-Every element should be able to work in isolation and you should build/test it in isolation. Create a demo file, insert your element, give it the relevant data and test your file.
+Every element should be able to work in isolation and you should build/test it in isolation. Create a demo file, insert your element, give it the relevant data and test your file. And don't forget to document your element well, examples of this can all be found in the `seed-element`.
 
 Start with a small implementation and test it.🔬
-
-Does it work? Great, write documentation for it (see `seed-element.html` on how to do this).
 
 Continue by writing and testing another implementation. Continue until the entire element is built. When it works on its own, try to implement it in other (relevant) elements wherever it can improve the code-base.
 
