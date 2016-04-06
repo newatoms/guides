@@ -4,7 +4,7 @@
 
 Great, so you’re the Managing Director of New Atoms. Congratulations🎉!
 
-Lets take apart what that means for a second, in reverse order:
+Lets take apart what that means for a second:
 
 1. Managing: According to the dictionary this means “having executive control”, but what it means to us is "the responsibility of dealing with the shit that is in the way of progressing".
 2. Director: This means the person who is in charge. Meaning you are the person responsible for everything going well. But the word also means this is the person who gives direction, you can help determine what path would be the best travelled.
