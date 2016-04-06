@@ -35,7 +35,11 @@ Read all our other [guides on Polymer](https://hub.com/newatoms/guides) and star
 ### Helpful links
 
 Besides the [guides](https://github.com/newatoms/guides) we wrote ourselves you can find a lot of help online. Do note that Polymer is relatively new and that most of the documentation has been written by, and for, programmers. Initially finding answers to your questions might be a bit frustrating but Polymer is so awesome that this initial phase is more than worth it.
-- [Polymer on Stackoverflow](https://stackoverflow.com/questions/tagged/polymer) is a place where people ask and answer each other's Polymer related questions
-- [Polymer elements](https://elements.polymer-project.org/) is a collection of very useful elements that have been written by Google. They are free to use and very awesome. You will probably not be able to write better code than what is inside those elements so if you can make use of them, do it.
-- [Customelements.io](https://customelements.io/) is a website where people share their elements. The quality differs but the popular ones can be quite useful (note that outdated elements stay on the site 😞).
-- Read the documentation and the code of the element that you're using. Most of the time investing in a better understanding of the functionalities of the element will help you solve your problem.
+
+* [Polymer on Stackoverflow](https://stackoverflow.com/questions/tagged/polymer) is a place where people ask and answer each other's Polymer related questions.
+
+* [Polymer elements](https://elements.polymer-project.org/) is a collection of very useful elements that have been written by Google. They are free to use and very awesome. You will probably not be able to write better code than what is inside those elements so if you can make use of them, do it.
+
+* [Customelements.io](https://customelements.io/) is a website where people share their elements. The quality differs but the popular ones can be quite useful (note that outdated elements stay on the site 😞).
+
+* Read the documentation and the code of the element that you're using. Most of the time investing in a better understanding of the functionalities of the element will help you solve your problem.
