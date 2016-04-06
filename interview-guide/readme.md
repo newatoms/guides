@@ -1,7 +1,11 @@
 > **Goal of this guide:** Giving a basic understanding of how to interview.
 
+
 # How to prepare for an interview
+
 Here you will find some small tips that might help you improve your interviews.
+
+<img src="https://media.giphy.com/media/o2pzcqisD58iY/giphy.gif" width="100%">
 
 ## What to ask
 In this part you will find a small guide about how to formulate the right questions to get the answers you need.
@@ -16,7 +20,7 @@ Make sure you have a list of questions that are necessary to fulfill the goal of
 It can be interesting ask questions of which you think you know which answer will be formulated by your interviewee, and if they give a different answer than you expected, you can learn from the answer and about the interviewee.
 
 ### Ask about feelings and ask why
-Try to engage in emotional questions besides your factual questions. Often an answer about how some one feels about something can lead to interesting realizations and insights
+Try to engage in emotional questions besides your factual questions. Often an answer about how some one feels about something can lead to interesting realizations and insights.
 
 ### Ask open ended questions
 Try to ask questions that don't have a yes or no answer and let your interviewee ramble while they try to answer. Often by letting someone explain something in a vague way helps the interviewee to clarify what they are saying and formulate a answer that they agree with.
@@ -29,7 +33,9 @@ This way you can follow your interviewee in the flow of there story and still ge
 Interviews are often way less organized than you would want. That is why it can be very help full to have a list of prepared questions you need the answer to, and check them on you list if you think you got the right answer.
 
 ## How to get your answers
-In this part you will find some tips about the way you can approach and ask the questions to your interviewee.
+In this part you will find some tips about the way you can approach and ask the questions to your interviewee, so you prevent to get the same response as this interviewer got.
+<img src="https://media0.giphy.com/media/6Q3M4BIK0lX44/200.gif" width="100%">
+
 
 ### Record the interview
 Always record the interview and notify your interviewee that you are doing so. This helps you to get your facts straight and not to worry about writing and remembering what your interviewee says.  It reassures your interviewee that you take them seriously, and that you don't wrongly remember what they said.
