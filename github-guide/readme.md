@@ -1,6 +1,10 @@
+> The goal of this guide: To help you get started on using our version control tool: Github.
+
 <img src="../images/github-mark.png" width="100">
 
 # How to use GitHub
+
+## What is Github
 
 Github is a tool that we use for the creation of all our content and code. In the core it is comparable with how you can work on one google document with multiple people trough suggesting changes. Github works on the same principle but way better, cooler and safer.
 
@@ -127,7 +131,6 @@ See [Github's how to](https://help.github.com/articles/resolving-a-merge-conflic
 
 ## Markdown <img src="../images/markdown.png" width="30">
 
-As mentioned in the Medium post, we work with Markdown for text files. You can save Markdown files by adding the .md extension.
 
 Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid HTML.
 [This is a great Markdown guide/archive](
