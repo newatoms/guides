@@ -55,7 +55,7 @@ When a blog post is not good enough to go live after the user story is fulfilled
 
 ### Tips for how you can keep a user story small
 
-* If you collect information, try to instantly draw conclusions and write them down at the place in the blog post that makes the most sense at that moment.
+* If you collect information, try to instantly draw conclusions and add them into the blog post in the place that makes the most sense at that moment.
 
 * If you work on a blog post and you change something, rearrange and adjust the blog post so that it makes sense with your changes.
 
