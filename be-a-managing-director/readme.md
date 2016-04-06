@@ -62,6 +62,6 @@ Things that are not inherently natural to the company or that the company could 
 
 You need to keep your eyes on the prize. Right now you might think “lemme just do this,” but keep realising that the company needs to move forward organically, and should learn how to do everything on its own as well.
 
-So stop being duty bound by other things than these and focus, on the future. Focus on building the best company, perhaps ever.
+So stop being duty-bound by things other than these and focus on the future. Focus on building the best company, perhaps ever.
 
 Oh, and have fun.
