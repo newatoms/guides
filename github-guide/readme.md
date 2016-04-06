@@ -125,7 +125,7 @@ If two people changed the same lines in the same file, or if one person decided 
 
 See [Github's how to](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/), to deal with the merge conflict. Contact a team member in Slack if you're having problems solving the merge conflict.
 
-## Markdown <img src="../images/markdown.png" width="30">
+## [Markdown](../glossary/markdown.md) <img src="../images/markdown.png" width="30">
 
 We work with Markdown for text files. You can save Markdown files by adding the .md extension.
 
