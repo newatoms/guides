@@ -129,6 +129,7 @@ See [Github's how ](https://help.github.com/articles/resolving-a-merge-conflict-
 
 ## Markdown <img src="../images/markdown.png" width="30">
 
+We work with Markdown for text files. You can save Markdown files by adding the .md extension.
 
 Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid HTML.
 [This is a great Markdown guide/archive](
