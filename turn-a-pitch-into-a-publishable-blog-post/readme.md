@@ -4,7 +4,7 @@
 
 In this guide, we explain how to divide the process from idea to end result into small, workable steps that are all individually-publishable blog posts or have added value to an existing blog post.
 
-## New Atoms
+## New Atoms workflow
 
 Before we start the tricky stuff, you should first get a glimpse into how we work. At New Atoms, everyone works asynchronously. This means that nothing you do can depend on something that came before or after it. This enables us to work in a process wherein everyone can do what they think they are able to add the most value to at that moment, and everything we create is continuously integratable. This means that everything we do should add to the bigger whole and is able to stand on its own, no matter how small the implementation.
 
