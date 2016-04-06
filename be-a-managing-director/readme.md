@@ -18,7 +18,7 @@ So what is it that makes up your job? These are the things you need to take care
 
 ### Help the company grow sustainably
 
-Making sure the company grows, and is structured in a way that is durable and sustainable: not faster than it can, not slower than it should.
+Make sure the company grows, and is structured in a way that is durable and sustainable: not faster than it can, not slower than it should.
 
 We want to bring both what we can do for others and the experience of being a part of what we’re doing to as many people as possible, but we don’t want to build some kind of bubble that grows and grows until it implodes and leaves everyone unsatisfied.
 
@@ -26,15 +26,15 @@ Neither do we want to create a company where the people who work here settle int
 
 ### Make sure everyone gets what they need
 
-Making sure everyone gets to live a good life if they are a part of our company. A core assumption of what we do is that people perform best in groups, when they are developing, and when they are happy.
+Make sure everyone gets to live a good life if they are a part of our company. A core assumption of what we do is that people perform best in groups, when they are developing, and when they are happy.
 
-Finding out how to keep everyone happy, fulfilled, developed and enthusiastic.
+Find out how to keep everyone happy, fulfilled, developed and enthusiastic.
 
 Also very important here is not to forget that this also applies to yourself.
 
 ### Safeguard the process
 
-Making sure the business keeps evolving and changing as the world around it does involves ensuring that the working process — which is the secret recipe of our company — is good.
+Make sure the business keeps evolving and changing as the world around it does, which involves ensuring that the working process — which is the secret recipe of our company — is good.
 
 This does not mean that you need to decide how everyone works, but more that you need to make sure that the process keeps developing and improving. This involves everyone in the company taking ownership over it.
 
@@ -44,17 +44,17 @@ There are problems that are too hard to solve within a team, customers too hard 
 
 Your role as the Managing Director means you are the doctor and therapist of the company. You need to be able to be there for everyone involved, to help them solve the problems they cannot figure out for themselves.
 
-Being available for anyone who can’t figure something out on their own, and helping them tackle their problems head on.
+Be available for anyone who can’t figure something out on their own, and helping them tackle their problems head on.
 
 ### Be the public face of the company when one is needed
 
-Speaking on behalf of the company when the company needs someone to. This means taking flak at times and receiving praise at others. Be sure to convey what is important for the company as a whole and spread its values and promise.
+Speak on behalf of the company when the company needs someone to do so. This means taking flak at times and receiving praise at others. Be sure to convey what is important for the company as a whole and spread its values and promise.
 
 Be honest, be vulnerable, be strong, be enthusiastic and be curious, just like our company.
 
 ## And what about the rest?
 
-So you’re probably thinking “but Hey, there is this gazillion other things that I want to do.” Sorry man, it’s not your job.
+So you’re probably thinking “but hey, there are these gazillion other things that I want to do.” Sorry man, it’s not your job.
 
 Make sure that you find a way to integrate all the things you are thinking of into the teams and the process. Since for every thing the company is dependent on you, it needs to wait for you, and that is no fun for anyone.
 
