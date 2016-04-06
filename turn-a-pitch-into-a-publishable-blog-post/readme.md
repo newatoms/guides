@@ -28,7 +28,7 @@ Before you finish a user story and create a [pull request](https://github.com/ne
 
 * Did it fulfill the goal of the user story for whom it was intended?
 * Is it better than what we had before (did it add value)?
-* Did it not create confusion? (Within the blog post or in other blog posts)
+* Did it not create confusion (Within the blog post or in other blog posts)?
 * Can it stand on its own?
 
 ## How to execute a pitch
