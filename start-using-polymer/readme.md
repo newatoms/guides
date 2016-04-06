@@ -30,7 +30,7 @@ HTML is for structure, CSS is for styling and javascript is for logic. Each one 
 
 ### So now what...?
 
-Read all our other [guides on Polymer](https://hub.com/newatoms/guides) and start implementing something. Since we're using [Git](../glossary/git.md) you can't really destroy anything except for the database (https://interface.firebaseio.com/). Please don't do that 😬. See our [create a new element guide](https://github.com/newatoms/newatoms/blob/ready/internal/guides/how-to-create-a-new-element.md) on how to avoid this. Ask a team member if you're stuck or if you're afraid you'd break 🔥 something. Good luck! 😉
+Read all our other [guides on Polymer](https://hub.com/newatoms/guides) and start implementing something. Since we're using [Git](../glossary/git.md) you can't really destroy anything except for the database. Please don't do that 😬. See our [create a new element guide](https://github.com/newatoms/newatoms/blob/ready/internal/guides/how-to-create-a-new-element.md) on how to avoid this. Ask a team member if you're stuck or if you're afraid you'd break 🔥 something. Good luck! 😉
 
 ### Helpful links
 
