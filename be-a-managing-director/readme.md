@@ -14,7 +14,7 @@ Okay, that is quite something to deal with. Perhaps being in charge is uncomfort
 
 ## Responsibilities
 
-So what is it that makes up your job? These are the things you need to take care of.
+So what is it that makes up your job? These are the things you need to take care of:
 
 ### Help the company grow sustainably
 
