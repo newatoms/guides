@@ -48,11 +48,6 @@ Example: add/internal/guides/medium-guide
 
 ---
 
-### How to name a branch
-
-It starts with the type of file you want to add (a new file is almost always added as 'add'), then a slash '/', the folder the file is in (or multiple, each again divided with a '/') and ends with the filename (without the extension).
-E.g. I created the following branch for this file: add/internal/guides/github-guide
-
 ### The Pull request
 
 If you're happy with all your changes in your new file, you have to make a *pull request*. Now your changes will be reviewed by somebody else who will either comment, add commits (changes) or merge the request (this means the file is good to go). Created pull requests will also be visible on our [board](board-guide.md) in the interface because now somebody can pick up this card to review a pull request.
