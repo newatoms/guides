@@ -62,7 +62,11 @@ According to Jacob Nielsen of the [Nielsen Norman Group](http://www.nngroup.com/
 
 ## Search Engine Optimisation (SEO) or keyword research, here we go:
 
+Search engine optimisation is a way to (sort of) ensure that people find your website trough search engines like google, bing, google and google.
+
 We believe that the quality, originality and creative components of made content always stands above SEO strategy. However, we do acknowledge SEO as an important strategy when it comes to the visibility of the content. It would be a shame when a written masterpiece floats on the web and isn't picked up by an audience.
+
+SEO can be done in manny ways, and has mostly to do with figuring out what words your target audience searches for and then using those words throughout your article. At New Atoms we don't really do SEO, but it is good to be aware of it as a writer.
 
 ### Tackle marketing priorities
 
