@@ -61,3 +61,23 @@ Don't be afraid of uncomfortable silences, sometimes you interviewee needs time 
 
 ### Reboot an interview
 If an interview is going badly, you can try to reboot the interview by thanking the participant for their time, and engaging in a little small talk. After a while ask your interviewee to answer one last question on the record and slowly reengage the interview. Often people will be more open to your questions after they spoke to you as a person for a bit and it feels as if there is less depending on there answers.
+
+## What to do after the interview.
+
+It is good write down what you thought was the most important things that where discussed, and make notes of why you think these things are important. Do this directly after the interview when the memory is still fresh. This way you have some reference when you are compiling the interview.
+
+### Transcribing
+
+The next step is to transcribe everything that was said by the interviewee. There are are numerous [tools](https://transcribe.wreally.com/signup) online services that can do this for you.  
+
+This is where the responsibilities of the interviewer ends, and all team members can start working on the interview.
+
+<img src="https://media4.giphy.com/media/1MayKbFuSKE1O/200.gif" width="100%">
+
+### Improving the interview until it is published
+
+The next three things can be done in order to improve an interview. Most of the time these things are done simultaneously, since it is hard to do one thing without the other and still get a publishable end result.
+
+* Filtering the information on relevance.
+* Organizing the information in the most logical order.
+* Adding textual or visual context where needed.
