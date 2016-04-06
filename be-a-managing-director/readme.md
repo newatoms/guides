@@ -30,7 +30,7 @@ Making sure everyone gets to live a good life if they are a part of our company.
 
 Finding out how to keep everyone happy, fulfilled, developed and enthusiastic.
 
-And also very important here is don’t forget that this also applies to yourself.
+Also very important here is not to forget that this also applies to yourself.
 
 ### Safeguard the process
 
