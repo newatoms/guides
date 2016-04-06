@@ -48,7 +48,7 @@ Be available for anyone who can’t figure something out on their own, and helpi
 
 ### Be the public face of the company when one is needed
 
-Speak on behalf of the company when the company needs someone to do so. This means taking flak at times and receiving praise at others. Be sure to convey what is important for the company as a whole and spread its values and promise.
+Speak on behalf of the company when the company needs someone to do so. This means taking flak at times and receiving praise at others. Be sure to convey what is important for the company as a whole and spread its values and promises.
 
 Be honest, be vulnerable, be strong, be enthusiastic and be curious, just like our company.
 
