@@ -4,8 +4,6 @@
 
 # How to use GitHub
 
-## What is Github
-
 Github is a tool that we use for the creation of all our content and code. In the core it is comparable with how you can work on one google document with multiple people trough suggesting changes. Github works on the same principle but way better, cooler and safer.
 
 Github is a tool that enables the users to very safely improve things that are created in small comprehensive steps that get checked by another user. This way everyone can freely contribute to what you are building without the fear of adding something permanently that other people thin is bad. It is mainly designed with the idea that nothing great is ever made by one person, and that the easyer and safer it feels to improve something the better it is what is created.
