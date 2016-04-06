@@ -53,7 +53,7 @@ Think about the smallest thing you could do to start working on a blog post, or 
 
 When a blog post is not good enough to go live after the user story is fulfilled, the next person can add something else to the blog post to improve it. This goes on until it's decided by the team that the post is good enough to go live. It's all about finding small ways to add value to the whole and **never** about making the best thing possible.
 
-### Tips for how you can keep a user story small
+### Tips for how you can keep a blog post in a consistently publishable state with small user stories
 
 * If you collect information, try to instantly draw conclusions and add them into the blog post in the place that makes the most sense at that moment.
 
