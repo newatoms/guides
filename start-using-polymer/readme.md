@@ -1,6 +1,6 @@
 # How to start using [Polymer](../glossary/polymer.md)
 
-### The idea of elements
+### The idea of [elements](../glossary/element.md)
 
 A lot of the same functionalities and styles can be found on different sites and even within the same site. Think of text-input boxes, user log-ins, keeping track of user behavior, navigation bars, tooltips, icons etc. It would be very useful if for each site you build you could quickly reuse the already written functionality. Polymer allows you to do exactly this. An entire site is comprised solely of elements ⚛. You can see a polymer website as a castle build out of lego blocks (elements). You can reuse elements everywhere.
 
