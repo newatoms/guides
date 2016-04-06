@@ -59,4 +59,4 @@ When a blog post is not good enough to go live after the user story is fulfilled
 
 * If you work on a blog post and you change something, rearrange and adjust the blog post or add relevant transitions so that it makes sense with your changes.
 
-* If you plan to interview someone, figuring out who to interview and what to ask also consists of collecting information and drawing conclusions. To learn more on how to prepare and conduct an interview you can look at this [guide](../interview-guide).
+* If you plan to interview someone, remember that figuring out who to interview and what to ask can not stand on their own as something publishable. Your task also consists of collecting the  information and drawing conclusions (to learn more on how to prepare and conduct an interview, you can look at this [guide](../interview-guide)).
