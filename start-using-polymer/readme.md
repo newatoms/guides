@@ -24,7 +24,7 @@ Another way of communication between elements is [events](https://www.polymer-pr
 ### There are three distinct 'languages' in web development so, also in  Polymer
 
 A polymer element consists of three languages: [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction), [CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started) and [javascript](https://developer.mozilla.org/en-US/Learn/JavaScript).  
-HTML is for structure, CSS is for styling and javascript is for logic. Each one has it's own language and rules. The order we use is first CSS, then HTML and js at the end. ```<Style>``` indicates CSS and ```<script>``` is javascript.
+HTML is for structure, CSS is for styling and javascript is for logic. Each one has it's own language and rules. The order we use in each polymer document begins with HTML base elements within this base we write first CSS, then  we build up the HTML (consists of polymer elements) and javascript at the end. ```<Style>``` indicates CSS and ```<script>``` is javascript.
 
 > Note that some standard implementations of HTML/CSS/javascript are not valid in Polymer ❗️ This makes finding (valid) help online somewhat more difficult. Polymer has been updated as well, rendering some answers to earlier questions false 🚫. Use the filter date function on Google to limit search results to +-4 months.
 
