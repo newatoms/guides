@@ -60,7 +60,7 @@ Make sure you find a way to effectively integrate all your ideas into the teams 
 
 Things that are not inherently natural to the company or that the company could better do at a later time can be delegated to other talented folks and companies, especially when those skills are so hard that they can’t, realistically, be learned by our people within a reasonable time frame.
 
-You need to keep your eyes on the price. Right now you might think “lemme just do this,” but keep realising that the company needs to move forward, and should learn how to do everything on its own as well.
+You need to keep your eyes on the prize. Right now you might think “lemme just do this,” but keep realising that the company needs to move forward organically, and should learn how to do everything on its own as well.
 
 So stop being duty bound by other things than these and focus, on the future. Focus on building the best company, perhaps ever.
 
