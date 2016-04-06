@@ -1,4 +1,4 @@
->**The goal of this guide**: To give you an understanding of what it means to be a managing director.
+>**The goal of this guide**: To give you a understand of what it means to be a managing director.
 
 # How to be a Managing Director
 
