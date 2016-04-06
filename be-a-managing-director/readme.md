@@ -38,9 +38,9 @@ Making sure the business keeps evolving and changing as the world around it does
 
 This does not mean that you need to decide how everyone works, but more that you need to make sure that the process keeps developing and improving. This involves everyone in the company taking ownership over it.
 
-### Help solve the problems no-one else can
+### Help solve the problems no one else can
 
-There are problems that are too hard to solve within a team; customers too hard to deal with; fights too painful to confront. This is where you come in.
+There are problems that are too hard to solve within a team, customers too hard to deal with, disputes too painful to confront. This is where you come in.
 
 Your role as the Managing Director means you are the doctor and therapist of the company. You need to be able to be there for everyone involved, to help them solve the problems they cannot figure out  for themselves.
 
