@@ -16,7 +16,7 @@ Github has quite a steep learning curve, but once you go Github you'll never wan
 
 ## How we use Github
 
-We work with multiple repositories (i.e repo), which can be seen as a harddrive containing all the files from that project or product. Always read the readme file that is opened automatically if you enter a repo. All our research is stored in folders like pitches, posts and research, insights, private and internal (i.e. market research, customer acquisition, pitch decks enz.). Folders with a lower dash before the folder name in repositories are not rendered on websites, but they're still viewable by anyone who can access the repo. We also store a lot of our sites (like the interface) in the repositories (e.g. html, layout etc.).
+We work with multiple repositories (i.e repo), which can be seen as a hard drive containing all the files from that project or product. Always read the readme file that is opened automatically if you enter a repo. All our research is stored in folders like pitches, posts and research, insights, private and internal (i.e. market research, customer acquisition, pitch decks enz.). Folders with a lower dash before the folder name in repositories are not rendered on websites, but they're still viewable by anyone who can access the repo. We also store a lot of our sites (like the interface) in the repositories (e.g. html, layout etc.).
 
 ### Github hierarchy
 
@@ -29,7 +29,7 @@ Github works with branches. We work with the following hierarchy:
 ### Creating a file or editing a lot in one file
 
 1. Go to the file you want to edit or go to the folder where you want to create a new file.
-2. Make an branch and give it a self explanory name.
+2. Make an branch and give it a self explanatory name.
 3. Make a new file in designated folder (filename + filetype, for text it's *.md* for *Markdown*).
 4. When writing or editing keep in mind to make commits (i.e. saves or changes) when changing something.
 5. Each change you make requires a commit -- if you edit an existing document you have to commit at least once per sentence, if you create a new document you can commit each paragraph. This allows you and others to accept or reject each individual change.
