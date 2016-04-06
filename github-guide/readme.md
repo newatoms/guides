@@ -83,7 +83,7 @@ When changing something small you can go to the designated file and hit the edit
 
 You can edit a pull request or comment on certain parts of the file by clicking the + sign on the left. When you click, your comment will be visible in the conversation menu.
 
-When everyone is happy about the document and the file is fit to go to the ready branch, the person reviewing the pull request can push the big green merge button on the bottom of the conversations menu and press the delete branch button that apears after you have merged. Congratulations, The branch is *merged* with the ready branch and is fit to go live. High vife
+When everyone is happy about the document and the file is fit to go to the ready branch, the person reviewing the pull request can push the big green merge button on the bottom of the conversations menu and press the delete branch button that apears after you have merged. Congratulations 🏅, The branch is *merged* with the ready branch and is fit to go live. High five 🙏!
 
 ## Working local on your own device
 
