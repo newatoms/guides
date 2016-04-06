@@ -42,9 +42,9 @@ This does not mean that you need to decide how everyone works, but more that you
 
 There are problems that are too hard to solve within a team, customers too hard to deal with, disputes too painful to confront. This is where you come in.
 
-Your role as the Managing Director means you are the doctor and therapist of the company. You need to be able to be there for everyone involved, to help them solve the problems they cannot figure out  for themselves.
+Your role as the Managing Director means you are the doctor and therapist of the company. You need to be able to be there for everyone involved, to help them solve the problems they cannot figure out for themselves.
 
-Be available for anyone who can’t figure something out on their own anymore, and help them tackle their problems head on.
+Being available for anyone who can’t figure something out on their own, and helping them tackle their problems head on.
 
 ### Be the public face of the company when one is needed
 
