@@ -26,7 +26,7 @@ Neither do we want to create a company where the people who work here settle int
 
 ### Make sure everyone gets what they need
 
-This means making sure everyone gets to live a good life if they are part of our company.
+This means making sure everyone gets to live a good life if they are a part of our company.
 
 A core assumption of what we do is that people perform best in groups, when they are developing, and when they are happy.
 
