@@ -34,7 +34,7 @@ Github works with branches. We work with the following hierarchy:
 4. When writing or editing keep in mind to make commits (i.e. saves or changes) when changing something.
 5. Each change you make requires a commit -- if you edit an existing document you have to commit at least once per sentence, if you create a new document you can commit each paragraph. This allows you and others to accept or reject each individual change.
 
-Example: internal/guides/medium-guide
+Example: ```internal/guides/medium-guide```
 
 ---
 
