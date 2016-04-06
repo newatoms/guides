@@ -22,7 +22,7 @@ Make sure the company grows, and is structured in a way that is durable and sust
 
 We want to bring both what we can do for others and the experience of being a part of what we’re doing to as many people as possible, but we don’t want to build some kind of bubble that grows and grows until it implodes and leaves everyone unsatisfied.
 
-Neither do we want to create a company where the few people that work here settle in to a comfortable but boring job they’ll have for the rest of their lives.
+Neither do we want to create a company where the people who work here settle into a comfortable but boring job they’ll have for the rest of their lives.
 
 ### Make sure everyone gets what they need
 
