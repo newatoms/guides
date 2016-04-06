@@ -80,6 +80,8 @@ One goal of content marketing is that businesses want to increase traffic. Top n
 
 To meet and tackle these challenges and priorities, content has to be found. _Search Engine Optimisation_ or keyword research strategies help to create a more visible blogpost by readers and enabling businesses to get a lot more traffic.
 
+<img src="https://media0.giphy.com/media/KJg6Znn4V1Jcs/200.gif" width="100%">
+
 ### Understanding your target audience for SEO
 
 As a content marketeer, writer or other creative, you sometimes wish you could see in the brains of your target audience. With almost everyone connected with the internet, people are using search engines as Google to look for answers or solely entertainment. Nothing new here, but it's important to recognise that current technology enables us to analyse the search behavior of potential audiences. We can therefor use this information for searchable content.
@@ -97,7 +99,7 @@ Most important is that the images enriches the article in the sense that they se
 
 A good mantra, with the addition of more multimedia in the back of our minds, is not "form follows content" but "content follows form".
 
-# Ending
+## Ending
 
 Our content developers have aquired all these qualities in their own practice. Besides that, each one of are team member contributes to every post made, which makes sure that all these diverse qualities are brought together in one big whole, which makes for the best content possible, which is pretty awesome.
 
