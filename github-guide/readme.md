@@ -21,9 +21,8 @@ We work with multiple repositories (i.e repo), which can be seen as a harddrive 
 Github works with branches. We work with the following hierarchy:
 
 * The *live* branch: The content of these branches is 'live' and always works. For example, the website (if any) is rendered from files from this branch. **Old vocabulary**: *master* or *gh-pages* branch.
-* The *ready* branch: This is a copy of the *live* branch. Here, documents should be fit to print and *merge-able* with the *live* branch. It is a last check before we push the content to the 'live' branch. We explain *merging* later on. From the *ready* branch you create a copy and call it add/*file-path*.
-* The *add* branch: This is a copy you can make from the ready branch if you want to add or edit something. This is your own branch where you can do everything you like. Keep in mind to create one *add* branch for each file in a particulair format (see below).
-* The *fix* branch: If you want to edit something small or do a bug-fix you create a *fix* branch.
+* The *ready* branch: This is a copy of the *live* branch. Here, documents should be fit to print and *merge-able* with the *live* branch. It is a last check before we push the content to the 'live' branch. We explain *merging* later on. From the *ready* branch you create a new branch and give it a selfexplanory name.
+
 
 ### Creating a file or editing a lot in one file
 
