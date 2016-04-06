@@ -34,7 +34,7 @@ Also very important here is not to forget that this also applies to yourself.
 
 ### Safeguard the process
 
-To make sure the business keeps evolving and changing as the world around it does it is your job to make sure that the process—which is the secret recipe of our company—is good.
+Making sure the business keeps evolving and changing as the world around it does involves ensuring that the working process — which is the secret recipe of our company — is good.
 
 This does not mean that you need to decide how everyone works, but more that you need to make sure that the process keeps developing and improving. As well as that everyone in the company needs to take ownership over it.
 
