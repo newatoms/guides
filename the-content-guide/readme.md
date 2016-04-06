@@ -68,7 +68,7 @@ We believe that the quality, originality and creative components of made content
 
 SEO can be done in manny ways, and has mostly to do with figuring out what words your target audience searches for and then using those words throughout your article. At New Atoms we don't really do SEO, but it is good to be aware of it as a writer.
 
-### Tackle marketing priorities
+### Tackle marketing priorities for SEO
 
 One goal of content marketing is that businesses want to increase traffic. Top named challenges and priorities for marketing professionals –besides creating more _high quality content_ in lesser time— are:
 
@@ -80,7 +80,7 @@ One goal of content marketing is that businesses want to increase traffic. Top n
 
 To meet and tackle these challenges and priorities, content has to be found. _Search Engine Optimisation_ or keyword research strategies help to create a more visible blogpost by readers and enabling businesses to get a lot more traffic.
 
-### Crawl into the minds of your potential reader
+### Understanding your target oudience for SEO
 
 As a content marketeer, writer or other creative, you sometimes wish you could see in the brains of your target audience. With almost everyone connected with the internet, people are using search engines as Google to look for answers or solely entertainment. Nothing new here, but it's important to recognise that current technology enables us to analyse the search behavior of potential audiences. We can therefor use this information for searchable content.
 
