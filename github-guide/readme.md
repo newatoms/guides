@@ -14,7 +14,7 @@ Github has quite a steep learning curve, but once you go Github you'll never wan
 
 ## Working with Github in your browser
 
-We work with multiple repositories (i.e. repos), one for each product or project. Always read the readme file that is opened automatically if you enter a repo.  All our research is stored in folders like insights, private and internal (i.e. market research, all kinds of guides, customer acquisition, pitch decks enz.). Folders with a lower dash before the folder name in repositories are not rendered on websites, but they're still viewable by anyone who can access the repo. We also store a lot of our sites in the repositories (e.g. html, layout enz.).
+We work with multiple repositories (i.e repo), which can be seen as a harddrive containing all the files from that project or product. Always read the readme file that is opened automatically if you enter a repo.  All our research is stored in folders like insights, private and internal (i.e. market research, all kinds of guides, customer acquisition, pitch decks enz.). Folders with a lower dash before the folder name in repositories are not rendered on websites, but they're still viewable by anyone who can access the repo. We also store a lot of our sites in the repositories (e.g. html, layout etc.).
 
 ### Github hierarchy
 
