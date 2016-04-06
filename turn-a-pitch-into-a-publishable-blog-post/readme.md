@@ -15,17 +15,18 @@ To enable us to work in this way, we work with an [Achievables board](https://gi
 A [user story](../glossary/user-story.md) is meant to force you to clearly state what you will try to achieve, how you want to do it and who it is for. There is a ready-made template in which you can create a user story within the "Create" column of the Interface. You can read a more in-depth guide about Achievables and user stories [here](https://github.com/newatoms/guides/tree/ready/board-guide).
 If you write a user story, keep the following in mind:
 
+* All user stories require you to identify the goal of your action.
 * All user stories are written from the perspective of the end user.
 * Collecting information towards fulfilling a user story is never the goal on its own.
 * All finished user stories (also called [pull requests](https://github.com/newatoms/guides/tree/ready/github-guide#the-pull-request) at this stage) should add value to the whole and be publishable on their own.
 * The person [merging](https://github.com/newatoms/guides/tree/ready/github-guide#discuss-and-merge) your [pull request](https://github.com/newatoms/guides/tree/ready/github-guide#the-pull-request) is responsible for combining all live user stories of the same blog post into one publishable blog post.
-* During the demo (team meeting), it will be decided if the results are good enough to go live.
+* During the demo (team meeting at the end of a sprint), it will be decided if the results are good enough to go live.
 
 ### Finishing a user story
 
 Before you finish a user story and create a [pull request](https://github.com/newatoms/guides/tree/ready/github-guide#the-pull-request), you should check the following:
 
-* Did it fulfill the user story?
+* Did it fulfill the goal of the user story for whom it was intended?
 * Is it better than what we had before (did it add value)?
 * Did it not create confusion? (Within the blog post or in other blog posts)
 * Can it stand on its own?
