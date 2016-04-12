@@ -65,7 +65,8 @@ If an interview is going badly, you can try to reboot the interview by thanking 
 
 ## What to do after the interview.
 
-It is good write down what you thought was the most important things that where discussed, and make notes of why you think these things are important. Do this directly after the interview when the memory is still fresh. This way you have some reference when you are compiling the interview.
+It is good to write down key points of the discussed subjects and make notes of why you think these takeaways are important.
+Do this directly after the interview when it is still fresh in your memory. This way you have some reference when you are compiling the interview.
 
 ### Transcribing
 
