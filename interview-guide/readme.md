@@ -16,7 +16,7 @@ Make sure you have a list of questions that are necessary to fulfill the goal of
 It can be interesting ask questions of which you think you know which answer will be formulated by your interviewee, and if they give a different answer than you expected, you can learn from the answer and about the interviewee.
 
 ### Ask about feelings and ask why
-Try to engage in emotional questions besides your factual questions. Often an answer about how some one feels about something can lead to interesting realizations and insights
+Try to engage in emotional questions besides your factual questions. Often an answer about how someone feels about something can lead to interesting realizations and insights
 
 ### Ask open ended questions
 Try to ask questions that don't have a yes or no answer and let your interviewee ramble while they try to answer. Often by letting someone explain something in a vague way helps the interviewee to clarify what they are saying and formulate a answer that they agree with.
