@@ -34,6 +34,7 @@ Interviews are often way less organized than you would want. That is why it can 
 
 ## How to get your answers
 In this part you will find some tips about the way you can approach and ask the questions to your interviewee, so you prevent to get the same response as this interviewer got.
+
 <img src="https://media0.giphy.com/media/6Q3M4BIK0lX44/200.gif" width="100%">
 
 
