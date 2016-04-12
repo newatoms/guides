@@ -27,7 +27,7 @@ Good content is original. [Content Farms](https://en.wikipedia.org/wiki/Content_
 
 > You share content because you want to achieve a certain goal. You want it to be read, and you want the reader to learn something from it.
 
-Apart from originality high quality content also makes a certain promise about the credibility of the text. When sources are been used they should provide authority. Good sources are crucial and make sure that a text is taken seriously.
+Apart from originality, high quality content also makes a certain promise about the credibility of the text. When sources are been used they should provide authority. Good sources are crucial and make sure that a text is taken seriously.
 
 Be a guardian of the originality and authenticity of your content piece. It's easier sad than done while we all scrape information from different kind of sources. When it's authority in people you interview, articles, books or your own judgement, it's all based on other work. The difference where you as an author come in, is how you handle these sources. Combine them to share new insights.
 
