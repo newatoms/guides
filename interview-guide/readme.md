@@ -69,7 +69,7 @@ It is good write down what you thought was the most important things that where 
 
 ### Transcribing
 
-The next step is to transcribe everything that was said by the interviewee. There are numerous [tools](https://transcribe.wreally.com/signup) online services that can do this for you.  
+The next step is to transcribe everything that was said by the interviewee. There are numerous [tools](https://transcribe.wreally.com/signup) and online services that can do this for you.  
 
 This is where the responsibilities of the interviewer ends, and all team members can start working on the interview.
 
