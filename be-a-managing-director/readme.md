@@ -34,7 +34,7 @@ Also very important here is not to forget that this also applies to yourself.
 
 ### Safeguard the process
 
-Make sure the business keeps evolving and changing as the world around it does, which involves ensuring that the working process — which is the secret recipe of our company — is good.
+Make sure the business keeps evolving and changing as the world around it does, which involves ensuring that the working process—which is the secret recipe of our company—is good.
 
 This does not mean that you need to decide how everyone works, but more that you need to make sure that the process keeps developing and improving. This involves everyone in the company taking ownership over it.
 
