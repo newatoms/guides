@@ -49,11 +49,11 @@ There are, of course, exceptions to making short sentences. If the reader is eff
 
 ## Write in active sentences
 
-Always write in an active writing style. [Other styles can have function](https://writing.wisc.edu/Handbook/CCS_activevoice.html) but it's really difficult to do it well.
+Always write in an active writing style. [Other styles can be effective](https://writing.wisc.edu/Handbook/CCS_activevoice.html), but it's really difficult to do well.
 
 > Do: An active writing style leads to a nice reading experience.
 
-> Don't: A nice reading experience will be reach when the writing style has been written in an active style.
+> Don't: A nice reading experience will be reached when the writing has been written in an active style.
 
 ## Choice of words
 
