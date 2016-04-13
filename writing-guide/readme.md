@@ -57,15 +57,15 @@ Always write in an active writing style. [Other styles can be effective](https:/
 
 ## Choice of words
 
-Avoid scarcely-used words unless there is no substitution. In this case, always explain the word. In most cases, however, complex things can and should be expressed simply. 
+Avoid scarcely-used words unless there is no substitution. In this case, always explain the word. In most cases, however, complex things can and should be expressed simply.
 
-## Reread your piece!
+## Re-read your piece!
 
-It's impossible to write a nice piece in a single go. Always check for these aspects:
+It's impossible to write a nice piece in a single go. Give yourself some space from your work and come back to it later. Always check for these aspects:
 
+* Does everything support the goal of the text?
 * Is the thought process clear?
+* Does the structure of the article, paragraphs and sentences flow?
+* Are sentences concise?
 * Are sentences in an active style?
-* Are sentence concise?
 * Have difficult words been explained?
-* Are there clear transitions between paragraphs and between sentences?
-* Is there any redundant or duplicate information that can be removed?
