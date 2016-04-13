@@ -41,6 +41,8 @@ Reading short sentences is far easier than reading long sentences. Your short-te
 
 Just like paragraphs, sentences should follow each other in a natural way by using [sentence transitions](https://writing.wisc.edu/Handbook/Transitions.html).
 
+<img src="https://media.giphy.com/media/3osxYamKD88c6pXdfO/giphy.gif" width=100% />
+
 > Do: The child carried a balloon. The balloon popped open and out flew a flock of blackbirds.
 
 >Don't: The child carried a balloon. Out flew a flock of blackbirds.
