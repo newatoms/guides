@@ -28,7 +28,7 @@ The order of the paragraphs is similar to the order of your thought process 💭
 
 ## Structure of paragraphs
 
-Most paragraphs expand on the information offered in an earlier paragraph. You should therefore build [transitions](../transitions/) between paragraphs.
+Most paragraphs expand on the information offered in an earlier paragraph. You should make sure the last sentence in one paragraph smoothly [transitions](../transitions/) to the next paragraph.
 Each paragraph should add a unique point but it doesn't have to make sense on its own. Try to reach a conclusion at the end of the paragraph which places the information in the paragraph into the bigger whole.
 
 ## Structure of sentences
