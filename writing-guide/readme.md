@@ -59,6 +59,10 @@ Always write in an active writing style. [Other styles can be effective](https:/
 
 Avoid scarcely-used words unless there is no substitution. In this case, always explain the word. In most cases, however, complex things can and should be expressed simply.
 
+## Find a suitable ending
+
+Don't leave the reader hanging right at the end. In the final paragraph, summarize the article. Go back to the beginning and the goal of the article; if you posed a question, make sure that question is answered. If you made a statement, make sure you summarize the various arguments you discussed along the way. And just like the beginning, try to spark the interest of the reader by leaving them with some food for thought.
+
 ## Re-read your piece!
 
 It's impossible to write a nice piece in a single go. Give yourself some space from your work and come back to it later. Always check for these aspects:
