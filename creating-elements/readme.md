@@ -1,49 +1,58 @@
-> **The goal of this guide:** Understanding the core concepts of creating elements.
+> **The goal of this guide:** Understanding the core concepts of creating elements. If you come across terms you don't understand Google them or feel free to ask a team member within digital reach.
 
 # How to create a Polymer element
 
-A Polymer element is a custom [HTML element](http://www.w3schools.com/html/html_elements.asp), it can be used like other HTML Elements in your websites with the addition of some nice extra magics.
+## Close your laptop!
 
-An element should fulfil one function and should be reusable in multiple contexts. For instance if we use the `<user-chip>` element everywhere where we are mentioning a user in the Interface we only have to update one thing is something changes in the way we want to display users.
+Never start writing code right away ⏳. If a user story or bugreport requires a new element, take a deep breath and close your laptop. Think about what the function of the element is. Spend some time on it. Imagine future scenarios where the element can be used 🔮. Pinpoint what the element should do but mostly what it shouldn't do. You are likely to think about building functionalities that actually fall outside the scope of the new element. Don't build the element only for the user story/bugreport though, think bigger.🚀
 
-## 1. Check if there is an element you can use for this already
+> For example don't hardcode text in the body of the element. Use
+``` html
+<content></content>
+```
+to insert text from a parent.
+The parent can insert the content by:
+``` html
+<child-element> Long text </child-element>
+```
 
+## Use an already existing element?
+
+> So you've spent at least 5 minutes on a plan
+
+Can you use an existing element?
 Is there an element on the site that has a similar functionality? Can you solve the user story/bugreport by expanding the functionality of this element?
 For example the [paper-input element](https://elements.polymer-project.org/elements/paper-input) is not limited to plain text but can take an argument to restrict the user input to a social security number. Only do this when the it clearly makes sense though!
 
 [The Polymer catalog 💕](https://elements.polymer-project.org/) has a lot of very good elements you can use for free.
 [Customelements.io](https://customelements.io) is also growing quite fast. It's a site where people contribute their code, mostly open source. Not all code is great, but a lot of it is. Also, not all code is Polymer code.
 
-## 2. Close your laptop!
+## Create a new element
 
-Never start writing code right away ⏳. If an [achievable](../glossary/achievable.md) requires you to make a new element, take a deep breath and close your laptop. 
+So you need to build a new element. Think about with which other elements the new element should interact. What information does the new element need from them and what can it give back? 🗣
 
-Think about what the function of the element is. Spend some time on it. Imagine future scenarios where the element can be used 🔮. Pinpoint what the element should do, and think carefully about what it shouldn't do.
+Create a html file with a name that describes the functionality of the element very well. The name of the file has to have a hyphen - in it. Copy paste the content of seed-element.html into your empty file to setup your new element.
+Create a element-name.html file in the demo folder and test your file.
 
-You are likely to think about building functionality that actually falls outside the scope of a good element. Don't build the element only for the achievable you are working on though, think bigger and make something reusable.🚀
+> You can go to localhost:x000/_components/element-folder/demo/element-name.html to test your element
+(e.g. http://localhost:3000/_components/doable-item/demo/doable-detail.html).
 
-## 3. Create a new element
+Remove all redundant code from your element and replace seed-element with element-name. Start with a small implementation and test it.🔬
+Does it work? Great, write documentation for it (see seed-element.html on how to do this).
+Continue by writing and testing another implementation. Continue until the entire element is built. When it works on it's own, try to implement it in other (relevant) elements.
 
-So you need to build a new element. Think about with which other elements the new element should interact with. What information does the new element need from them and what can it give back? 🗣
-
-Create a HTML file with a name that describes the the element very well and at least one `-`, or hyphen, in it, for instance `user-chip`, `project-name`, `user-login-form` or `helicopter-landing-pad`. 
-
-To get started you could copy and paste the content of [`seed-element`](https://github.com/newatoms/interface/tree/ready/web/_components/seed-element) into your empty file to setup your new element.
-
-Every element should be able to work in isolation and you should build/test it in isolation. Create a demo file, insert your element, give it the relevant data and test your file. And don't forget to document your element well, examples of this can all be found in the `seed-element`.
-
-Start with a small implementation and test it.🔬
-
-Continue by writing and testing another implementation. Continue until the entire element is built. When it works on its own, try to implement it in other (relevant) elements wherever it can improve the code-base.
-
-For more on how to make an element, read the [element style guide](https://github.com/newatoms/interface/blob/ready/docs/style-guide.md).
+All elements should be able to function on their own. If you need data from the outside, give the data in the demo.
+**Build elements in isolation!**
 
 ## Elements that communicate with the database
 
 If your element needs to communicate with Firebase then [Double Dutch](http://nl.urbandictionary.com/define.php?term=double+dutch)🛡:
 * Make a backup of the [database](https://interface.firebaseio.com)! (export data -> in the browser)
-* Use the [playground database](https://interface-playground.firebaseio.com ) and never the live database! (import the newest database if needed using the Firebase interface in the browser)
+* Use the [playground database](https://interface-playground.firebaseio.com ) and never the live database! (import the newest database if needed -> in the browser)
 
-## Ask for help
+## Implementations
 
-If you come across terms you don't understand Google them, ask a team member within digital reach, file issues in the relevant repos on [GitHub](https://github.com/polymerelements/) or ask questions on [Stack Overflow](http://stackoverflow.com/questions/tagged/polymer).
+This entirely depends on your type of element. A few tips:
+* Import other elements (top of the page)
+* Keep the format of your element according to [our rules](https://github.com/newatoms/interface/blob/ready/docs/style-guide.md).
+* Make sure everything closes correctly: e.g. forgetting to close a template will destroy your element.🔥
