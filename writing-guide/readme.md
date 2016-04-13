@@ -57,7 +57,7 @@ Always write in an active writing style. [Other styles can be effective](https:/
 
 ## Choice of words
 
-Only use scarcely used words when there is no substitution. Always explain the word.
+Avoid scarcely-used words unless there is no substitution. In this case, always explain the word. In most cases, however, complex things can and should be expressed simply. 
 
 ## Reread your piece!
 
