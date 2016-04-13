@@ -17,20 +17,19 @@ Information in your brain seems logically connected, but to the reader this is n
 > Explain ideas and connections between ideas
 
 
-## Sructure of the article
+## Structure of the article
 
-Explain in the beginning of the article what you will do in the rest of the article. Do you want to convince the reader of something? Do want to enthuse him/her? Do want to explain a difficult concept? Do you want to amuse the reader?
-Each paragraph should add to obtaining this goal. This can be done by different [types of paragraphs](http://patternbasedwriting.com/elementary_writing_success/paragraph-examples/), for example by explaining, sketching a scenario, convincing, showing contrast, stating a problem etc.
+In the beginning of the article, give a preview of what the article contains while keeping your goal in mind. Do you want to convince the reader of something? Do want to enthuse him/her? Do want to explain a difficult concept? Do you want to amuse the reader? Each paragraph should bring you closer to this goal. This can be achieved by using different [types of paragraphs](http://patternbasedwriting.com/elementary_writing_success/paragraph-examples/), for example by explaining, sketching a scenario, convincing, showing contrast, stating a problem etc.
 
-The order of the paragraphs is similar to the order of your thought process 💭; start with explaining concepts and state a questions or make bold statements. The following paragraphs should be used to build a convincing story to answer the question or convince the reader that your statements are correct.
+The order of the paragraphs is similar to the order of your thought process 💭– start by posing a question or making a bold statement. The following paragraphs should be used to build a convincing story to answer the question or convince the reader that your statements are correct.
 
-> Remind the reader of the goal and the thinking steps towards answering the question throughout the article!
+> Always keep the goal in mind and explain your thought process throughout the article
 
 
 ## Structure of paragraphs
 
 Most paragraphs expand on the information offered in an earlier paragraph. You should therefore build [transitions](../transitions/) between paragraphs.
-Each paragraph should add a unique point but they don't have to make sense on their own. Try to reach a conclusion at the end of the paragraph which places the information in the paragraph into the bigger whole.
+Each paragraph should add a unique point but it doesn't have to make sense on its own. Try to reach a conclusion at the end of the paragraph which places the information in the paragraph into the bigger whole.
 
 ## Structure of sentences
 
