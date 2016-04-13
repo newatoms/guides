@@ -1,4 +1,4 @@
-> **Goal of this guide:** Help team members write in a clear style
+> **Goal of this guide:** To help team members write in a clear manner
 
 # How to write well
 
