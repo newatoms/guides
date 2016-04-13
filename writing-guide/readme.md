@@ -2,9 +2,9 @@
 
 # How to write well
 
-## Explain the relevance of the article
+## Explain the content of the article
 
-People have a small attention span. We are trained to filter information very efficiently. We want to know beforehand why we spend time on an activity. You should therefore grab the attention of the reader by explaining the relevance of the article very early on. Only once interest has been piqued you can can be sure that the reader will be willing to spend some attention/time to obtain the reward that was promised in the beginning of the article.
+People are trained to filter information very efficiently. We want to know beforehand why we spend time on an activity. You should therefore grab the attention of the reader by explaining the relevance of the article very early on. Only once interest has been piqued you can can be sure that the reader will be willing to spend some attention/time to obtain the reward that was promised in the beginning of the article.
 
 You make a promise to the reader in the beginning of the article; be sure to fulfill that promise and offer a nice ride towards it!
 
