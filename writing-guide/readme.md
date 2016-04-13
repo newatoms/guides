@@ -4,18 +4,17 @@
 
 ## Explain the content of the article
 
-People are trained to filter information very efficiently and are always thinking about how to best spend their valuable time. We want to know beforehand why we spend time on an activity. You should, therefore, grab the attention of the reader very early on. Only once interest has been piqued can you be sure that the reader will want to devote attention to the rest of the article, which will lead to a relevant reading experience. 
+People are trained to filter information very efficiently and are always thinking about how to best spend their valuable time. We want to know beforehand why we spend time on an activity. You should, therefore, grab the attention of the reader very early on. Only once interest has been piqued can you be sure that the reader will want to devote attention to the rest of the article, which will lead to a relevant reading experience.
 
 You make a promise to the reader in the beginning of the article; be sure to fulfill that promise and offer a nice ride towards it!
 
 ## Guide the reader through your thought process
 
+You have a lot of knowledge that most readers don't 💾. While explaining something, then, you should always guide the reader through your whole thought process. There are no shortcuts. Use supporting facts, descriptions, and examples to clarify your ideas. Explain everything the reader needs to know but nothing more–too much information is off-putting. The **article should be as concise as possible**. This is difficult, so take your time! 🕗
+
 > Explain ideas and connections between ideas
 
-You have a lot of knowledge that most readers don't 💾. While explaining something you should therefore always guide the reader through your whole thought process. There are no shortcuts. At the same time, you don't want to share all your knowledge at once. Add facts, descriptions, and examples to guide the reader.
-Explain everything the reader needs to know but nothing more, the **article should be as small as possible**. This is difficult so take your time! 🕗
-
-Information in your brain is, hopefully 😁, somewhat ordered. Make sure readers can follow your connections between information by explaining how you feel that they are connected.
+Information in your brain seems logically connected, but to the reader this is not always as clear 😁. Ensure readers can follow the connections you make between ideas by explaining those relationships. 
 
  > Writing is very different from conversing. Think about transitions in conversations. These happen naturally but are very chaotic. It's sparse that thought processes get fully explained or that the conversation stays with the same topic for longer than a few minutes (discussions aside).
 
