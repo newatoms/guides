@@ -33,15 +33,19 @@ Each paragraph should add a unique point but it doesn't have to make sense on it
 
 ## Structure of sentences
 
-Reading short sentences is far easier than reading long sentences. Your short term memory can only store a few concepts at the same time. Therefore while reading long sentences, readers often forget the topics that were discussed in the beginning of the sentence when they reach the end. They'll have to read it multiple times to understand the point that was made with the sentence.
+Reading short sentences is far easier than reading long sentences. Your short-term memory can only store a few concepts at the same time. Therefore, while reading long sentences, readers often forget the topics that were discussed in the beginning of the sentence by the time they reach the end. They'll have to read it multiple times to understand the sentence.
 
-> Only write long sentences with multiple subsentences when the the sentence is about one topic and the reader is guided through the steps in a very clear way.
+> Do: Write short sentences. This keeps things clear for your reader. They will like you.
 
-Just like paragraphs sentences should follow each other in a natural way. Build [sentence transitions](https://writing.wisc.edu/Handbook/Transitions.html) between your sentences. It also often helps to start a sentence with the concept you ended the sentence before it with.
+>Don't: Write sentences that, if the reader is inclined to do so, elaborate on multiple topics, such as unborn babies and their resemblance to unicorns (which apparently people like to invest in) and thus leave the reader wondering what the hell is going on.
 
-> I also often helps to start a sentence with the concept you ended the sentence before it:
-" ... build transitions between paragraphs.
-Each paragraph should add a ..."
+Just like paragraphs, sentences should follow each other in a natural way by using [sentence transitions](https://writing.wisc.edu/Handbook/Transitions.html).
+
+> Do: The child carried a balloon. The balloon popped open and out flew a flock of blackbirds.
+
+>Don't: The child carried a balloon. Out flew a flock of blackbirds.
+
+There are, of course, exceptions to making short sentences. If the reader is effectively guided through the idea and proper punctuation is used, multiple sub-sentences about a cohesive topic are acceptable.
 
 ## Write in active sentences
 
