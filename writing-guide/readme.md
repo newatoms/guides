@@ -63,7 +63,7 @@ Avoid scarcely-used words unless there is no substitution. In this case, always 
 
 ## Find a suitable ending
 
-Don't leave the reader hanging at the end. In the final paragraph, summarize the article. Bring the reader back to the goal of the article. If you posed a question, make sure that question has been thoroughly investigated. If you made a statement, make sure you summarize the various arguments you discussed along the way. Finally, find a way to spark the interest of the reader that leaves them with some food for thought.
+Don't leave the reader hanging at the end. In the final paragraph, summarize the article. Bring the reader back to the goal of the article. If you posed a question, make sure that question has been thoroughly investigated. If you made a statement, make sure you summarize the various arguments you discussed along the way. Finally, find a way to spark the interest of the reader that leaves them with some food for thought :fried_shrimp:.
 
 ## Re-read your piece!
 
