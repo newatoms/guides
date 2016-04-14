@@ -75,3 +75,4 @@ It's impossible to write a nice piece in a single go. Give yourself some space f
 * Are sentences concise?
 * Are sentences in an active style?
 * Have difficult words been explained?
+* Is there a tasty ending?
