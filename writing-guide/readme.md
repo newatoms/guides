@@ -12,7 +12,7 @@ You make a promise to the reader in the beginning of the article; be sure to ful
 
 You have a lot of knowledge that most readers don't 💾. While explaining something, then, you should always guide the reader through your whole thought process. There are no shortcuts. Use supporting facts, descriptions, and examples to clarify your ideas. Explain everything the reader needs to know but nothing more–too much information is off-putting. The **article should be as concise as possible**. This is difficult, so take your time! 🕗
 
-Information in your brain seems logically connected, but to the reader this is not always as clear 😁. Writing is very different from conversing in that way. Think about transitions in conversations: these happen naturally but are very chaotic. It's rare that thought processes get fully explained or that the conversation stays on the same topic for longer than a few minutes (discussions aside). Ensure readers can follow the connections you make between ideas by explaining those relationships.
+Information in your brain seems logically connected, but to the reader these connections are not always as clear 😁. Writing is very different from conversing in that way. Think about transitions in conversations: these happen naturally but are very chaotic. It's rare that thought processes get fully explained or that the conversation stays on the same topic for longer than a few minutes (discussions aside). Ensure readers can follow the connections you make between ideas by explaining those relationships.
 
 > Explain ideas and connections between ideas
 
