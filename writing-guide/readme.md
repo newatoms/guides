@@ -14,7 +14,7 @@ You have a lot of knowledge that most readers don't 💾. While explaining somet
 
 Information in your brain seems logically connected, but to the reader these connections are not always as clear 😁. Writing is very different from conversing in that way. Think about transitions in conversations: these happen naturally but are very chaotic. It's rare that thought processes get fully explained or that the conversation stays on the same topic for longer than a few minutes (discussions aside). Ensure readers can follow the connections you make between ideas by explaining those relationships.
 
-> Explain ideas and connections between ideas
+> Explain ideas and connections between ideas :bulb::left_right_arrow::bulb:
 
 
 ## Structure of the article
