@@ -4,7 +4,7 @@
 
 ## Explain the content of the article
 
-People are trained to filter information very efficiently and are always thinking about how to best spend their valuable time. We want to know beforehand why we spend time on an activity. You should, therefore, grab the attention of the reader very early on. Only once interest has been piqued can you be sure that the reader will want to devote attention to the rest of the article, which will lead to a relevant reading experience.
+We are trained to filter information very efficiently and are always thinking about how to best spend our valuable time. Consequently, we want to know beforehand that the time we spend on an activity will be rewarded. You should, therefore, grab the attention of the reader very early on. Only once interest has been piqued can you be sure that the reader will want to devote attention to the rest of the article, which will lead to a gratifying reading experience.
 
 You make a promise to the reader in the beginning of the article; be sure to fulfill that promise and offer a nice ride towards it!
 
