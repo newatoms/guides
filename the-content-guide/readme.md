@@ -91,7 +91,7 @@ Implementing the right keywords will get you more traffic from your target audie
 
 ## No image? Forget about it...
 
-Humans are visual creatures. Research done by [Skyword](http://www.skyword.com/contentstandard/enterprise-marketing/skyword-study-add-images-to-improve-content-performance/) has shown that chances a text will be read are increased with **94%** if the article shown has an image.
+Humans are visual creatures. Research done by [Skyword](http://www.skyword.com/contentstandard/enterprise-marketing/skyword-study-add-images-to-improve-content-performance/) has shown that chances a text will be read are increased by **94%** if the article shown has an image.
 Photos and illustrations together with the right title make the reader curious and excited.
 
 > 94% is the growth that an article goes through if it has a relevant main image, compared to an article that has no image at all.
