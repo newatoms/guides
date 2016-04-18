@@ -3,7 +3,7 @@
 # How to create awesome content
 
 This guide is intended for external communication but can also be a source for our in-house content developers.
-The target audience is communication professionals. See it as a comprehensive guide, a white paper if you will, to show others our know-how. Because the products that we sell are blog posts and web articles, we should be able to display our skills.
+The target audience is communication professionals. See it as a comprehensive guide—a white paper if you will—to show others our know-how. Because the products that we sell are blog posts and web articles, we should be able to display our skills.
 
 <img src="/images/contentcat.jpg" width="150">
 
@@ -23,11 +23,11 @@ This guide will describe what ingredients work well together and how you can bes
 
 ## Originality & authenticity
 
-Good content is original. [Content Farms](https://en.wikipedia.org/wiki/Content_farm) are no longer wanted in these times. Search engines, such as Google, are getting better and better at detecting these 'clickbait sites' and these sites are not received well. Original content is sure to be shared more often. Moreover, why would you say something when it's not worth saying?
+Good content is original. [Content Farms](https://en.wikipedia.org/wiki/Content_farm) are no longer wanted in these times. Search engines, such as Google, are getting better and better at detecting these 'clickbait sites' and these sites are not received well. Original content is sure to be shared more often. Moreover, why would you say something that's not worth saying?
 
 > You share content because you want to achieve a certain goal. You want it to be read, and you want the reader to learn something from it.
 
-Apart from originality, high quality content also makes a certain promise about the credibility of the text. When sources have been used they should provide authority. Good sources are crucial and make sure that a text is taken seriously.
+Apart from originality, high quality content also makes a certain promise about the credibility of the text. When sources have been used they should provide authority. Good sources are crucial and ensure that a text is taken seriously.
 
 Be a guardian of the originality and authenticity of your content piece. It's easier said than done while we all scrape information from different kinds of sources. When it's authority in people you interview, articles, books or your own judgement, it's all based on other work. The difference where you as an author come in, is how you handle these sources. Combine them to share new insights.
 
@@ -51,15 +51,9 @@ If you have lured your reader with a fantastic title, he/she often decides wheth
 
 > If the title and image are the bait, the intro is the line that has to be strong enough to pull the reader in.
 
-<<<<<<< HEAD
-The *intro* is officiously the first paragraph, and also supports a well chosen title. With this beginning the reader is either triggered and will stay, or not. Readers will scan the intro and decide in just a matter of seconds whether they want to keep on reading. The intro can consist of a promise that you make. Remember that readers tend to find answers to their 'problems'. They were lured in with the title as a hook and now they really want to know if the content is worth there precious time.
-
-**Bold** and *italic* words make sure that highlighted concepts are cleared up. *Short paragraphs* are there to make the text understandable for the reader. *Clear quotes*, then, invite the reader to keep on reading.
-=======
 The *intro* is usually the first paragraph, and also supports a well chosen title. How well an introduction activates the reader determines whether she or he will continue reading the article, this often happens within seconds of seeing the intro for the first time. The intro can consist of a promise that you make, they were lured in with the title as a hook and now they want to know if the content is worth there precious time.
 
 **Bold** en *italic* words ensure that highlighted concepts are cleared up. *Short paragraphs* are there to make the text understandable for the reader. *Clear quotes*, then, invite the reader to keep on reading.
->>>>>>> origin/improving-the-content-duide
 
 ## Visitor behavior
 
@@ -81,13 +75,9 @@ One goal of content marketing is that businesses want to increase traffic. Top n
 
 * Measuring content effectiveness
 * Producing more _engaging_ content
-<<<<<<< HEAD
-* Metrics that measure sales lead quality, sales and higher conversion rates
-=======
 * Measuring what types of content have a positive influence on sales
->>>>>>> origin/improving-the-content-duide
 
-(sources surveys: [Content marketing institute](http://contentmarketinginstitute.com/wp-content/uploads/2015/09/2016_B2B_Report_Final.pdf), Linkedin B2B content marketing report, [Hubspot's The State of Inbound 2015](http://www.stateofinbound.com/))
+(Sources surveys: [Content marketing institute](http://contentmarketinginstitute.com/wp-content/uploads/2015/09/2016_B2B_Report_Final.pdf), Linkedin B2B content marketing report, [Hubspot's The State of Inbound 2015](http://www.stateofinbound.com/)).
 
 To meet and tackle these challenges and priorities, content has to be found. _Search Engine Optimisation_ or keyword research strategies help to create more visible blogposts for readers and enables businesses to get more traffic.
 
