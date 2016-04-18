@@ -85,13 +85,9 @@ To meet and tackle these challenges and priorities, content has to be found. _Se
 
 ### Understanding your target audience for SEO
 
-<<<<<<< HEAD
-As a content marketeer, writer or other creative, you sometimes wish you could see in the brains of your target audience. With almost everyone connected with the internet, people are using search engines as Google to look for answers or solely for entertainment. Nothing new here, but it's important to recognise that current technology enables us to analyse the search behavior of potential audiences. We can therefore use this information for searchable content.
-=======
-As a content marketeer, writer or other creative, you sometimes wish you could see into the brains of your target audience. With almost everyone connected with the internet, people are using search engines like Google to look for answers or solely entertainment. Nothing new here, but it's important to recognise that current technology enables us to analyse the search behavior of potential audiences. We can therefor use this information for searchable content.
->>>>>>> origin/improving-the-content-duide
+As a content marketeer, writer or other creative, you sometimes wish you could see into the brains of your target audience. With almost everyone connected to the internet, people are using search engines like Google to look for answers or solely for entertainment. Nothing new here, but it's important to recognise that current technology enables us to analyse the search behavior of potential audiences. We can therefore use this information for searchable content.
 
-So implementing the right keywords will get you more traffic from your target audience on your blog. Apart from that, it's just as important and an advantage to really know what your audience wants.   
+Implementing the right keywords will get you more traffic from your target audience on your blog. Apart from that, it's just as important (and an advantage) to really know what your audience wants.   
 
 ## No image? Forget about it...
 
@@ -100,20 +96,13 @@ Photos and illustrations together with the right title make the reader curious a
 
 > 94% is the growth that an article goes through if it has a relevant main image, compared to an article that has no image at all.
 
-<<<<<<< HEAD
-Most important is that the images enrich the article in the sense that they serve the written piece. Apart from aesthetics images should create a certain amount of context. So even though images are really important in any article, a image that makes no sense can be way worse than no image at all.
-=======
-Most important is that the images enriches the article in the sense that they serve the written piece. Apart from esthetics, images should create a certain amount of context. So even though images are really important in any article, a image that makes no sense can be worse than no image at all.
->>>>>>> origin/improving-the-content-duide
+Most important is that the images enrich the article in the sense that they serve the written piece. Apart from aesthetics, images should create a certain amount of context. So even though images are really important in any article, an image that makes no sense can be worse than no image at all.
 
 A good mantra, with the addition of more multimedia in the back of our minds, is not "form follows content" but "content follows form".
 
 ## Ending
 
-<<<<<<< HEAD
-Our content developers have acquired all these qualities in their own practice. Besides that, each one of our team members contributes to every post made, which makes sure that all these diverse qualities are brought together in one big whole, which makes for the best content possible, which is pretty awesome.
-=======
-Our content developers have aquired all these qualities in their own practice. Additionally, each one of are team member contributes to every post made, which ensures that all these diverse qualities are brought together in one big whole, which makes for the best content possible, which is pretty awesome.
->>>>>>> origin/improving-the-content-duide
+Our content developers have acquired all of these qualities throughout their own practices. Additionally, each one of our team members contributes to every post created, which ensures that all these diverse qualities are brought together into one big whole, making for the best content possible, which is pretty awesome.
+
 
 <img src="https://media1.giphy.com/media/NFVXWHk9vuCNG/200.gif" width="100%">
