@@ -102,6 +102,6 @@ A good mantra, with the addition of more multimedia in the back of our minds, is
 
 ## Ending
 
-Our content developers have aquired all these qualities in their own practice. Besides that, each one of are team member contributes to every post made, which makes sure that all these diverse qualities are brought together in one big whole, which makes for the best content possible, which is pretty awesome.
+Our content developers have aquired all these qualities in their own practice. Additionally, each one of are team member contributes to every post made, which ensures that all these diverse qualities are brought together in one big whole, which makes for the best content possible, which is pretty awesome.
 
 <img src="https://media1.giphy.com/media/NFVXWHk9vuCNG/200.gif" width="100%">
