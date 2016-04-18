@@ -71,7 +71,7 @@ SEO can be done in many ways, and has mostly to do with figuring out what words 
 
 ### Tackle marketing priorities for SEO
 
-One goal of content marketing is that businesses want to increase traffic. Top named challenges and priorities for marketing professionals–besides creating more _high quality content_ in lesser time—are:
+One goal of content marketing is that businesses want to increase traffic. The biggest challenges and priorities for marketing professionals (besides creating more _high quality content_ in lesser time) are:
 
 * Measuring content effectiveness
 * Producing more _engaging_ content
