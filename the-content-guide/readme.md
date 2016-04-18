@@ -43,6 +43,7 @@ Readers are looking for answers and want to find them in the easiest, fastest wa
 * **Bold** and *italic*  
 * Short paragraphs
 * Clear quotes
+* A conclusion
 
 A strong and remarkable *title* is important to attract your reader. A good title should activate, interest and excite. Often enough with newspaper articles—also the digital ones— the title is the key component in attracting the reader.
 
