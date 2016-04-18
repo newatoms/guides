@@ -96,7 +96,7 @@ Photos and illustrations together with the right title make the reader curious a
 
 > 94% is the growth that an article goes through if it has a relevant main image, compared to an article that has no image at all.
 
-Most important is that the images enrich the article in the sense that they serve the written piece. Apart from aesthetics, images should create a certain amount of context. So even though images are really important in any article, an image that makes no sense can be worse than no image at all.
+Most important is that the images enrich the article in the sense that they support the written piece. Apart from aesthetics, images should create a certain amount of context. So even though images are really important in any article, an image that makes no sense can be worse than no image at all.
 
 A good mantra, with the addition of more multimedia in the back of our minds, is not "form follows content" but "content follows form".
 
