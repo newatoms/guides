@@ -29,7 +29,7 @@ Good content is original. [Content Farms](https://en.wikipedia.org/wiki/Content_
 
 Apart from originality, high quality content also makes a certain promise about the credibility of the text. When sources have been used they should provide authority. Good sources are crucial and ensure that a text is taken seriously.
 
-Be a guardian of the originality and authenticity of your content piece. It's easier said than done while we all scrape information from different kinds of sources. When it's authority in people you interview, articles, books or your own judgement, it's all based on other work. The difference where you as an author come in, is how you handle these sources. Combine them to share new insights.
+Be a guardian of the originality and authenticity of your content piece. It's easier said than done becouse we all scrape information from different kinds of sources. When it's the authority of the people you interview, articles, books or your own judgement, it's all based on other work. The difference is how you handle these sources as the author, and if you combine them to share new insights.
 
 Repetition is not always a bad thing, it can be a powerful tool, but know that it will only work when it's used for original, compelling observations. High quality content is creative and has the potential to excite audiences.
 
