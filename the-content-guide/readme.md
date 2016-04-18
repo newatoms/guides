@@ -51,7 +51,7 @@ If you have lured your reader with a fantastic title, he/she often decides wheth
 
 > If the title and image are the bait, then the intro is the line that has to be strong enough to reel the reader in. And we all can all imagine how much it would suck to fish with a line that breaks every time you catch a fish. 
 
-The *intro* is usually the first paragraph, and also supports a well chosen title. How well an introduction activates the reader determines whether she or he will continue reading the article, this often happens within seconds of seeing the intro for the first time. The intro can consist of a promise that you make, they were lured in with the title as a hook and now they want to know if the content is worth there precious time.
+The *intro* is usually the first paragraph, and also supports a well chosen title. How well an introduction activates the reader determines whether she or he will continue reading the article. Often the reader will decide if they keep on reading within seconds of seeing the intro for the first time. The intro can consist of a promise that you make helping the reader determin if if the content is worth there precious time.
 
 **Bold** en *italic* words ensure that highlighted concepts are cleared up. *Short paragraphs* are there to make the text understandable for the reader. *Clear quotes*, then, invite the reader to keep on reading.
 
