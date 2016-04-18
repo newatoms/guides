@@ -75,7 +75,7 @@ One goal of content marketing is that businesses want to increase traffic. Top n
 
 * Measure content effectiveness
 * Producing more _engaging_ content
-* Metrics that measure Sales lead quality, sales and higher conversion rates.
+* Measuring what types of content have a positive influence on sales
 
 (sources survey's: [Content marketing institute](http://contentmarketinginstitute.com/wp-content/uploads/2015/09/2016_B2B_Report_Final.pdf), Linkedin B2B content marketing report, [Hubspot's The State of Inbound 2015](http://www.stateofinbound.com/))
 
