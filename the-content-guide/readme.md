@@ -53,7 +53,7 @@ If you have lured your reader with a fantastic title, he/she often decides wheth
 
 The *intro* is usually the first paragraph, and also supports a well chosen title. How well an introduction activates the reader determines whether she or he will continue reading the article, this often happens within seconds of seeing the intro for the first time. The intro can consist of a promise that you make, they were lured in with the title as a hook and now they want to know if the content is worth there precious time.
 
-**Bold** en *italic* words make sure that highlighted concepts are cleared up. *Short paragraphs* are there to make the text understandable for the reader. *Clear quotes*, then, invite the reader to keep on reading.
+**Bold** en *italic* words ensure that highlighted concepts are cleared up. *Short paragraphs* are there to make the text understandable for the reader. *Clear quotes*, then, invite the reader to keep on reading.
 
 ## Visitor behavior
 
