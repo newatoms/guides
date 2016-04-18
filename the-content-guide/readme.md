@@ -1,9 +1,9 @@
-> **Goal of this guide:** Helping you create the best content you can make.
+> **Goal of this guide:** Helping you create the best content you can.
 
 # How to create awesome content
 
 This guide is intended for external communication but can also be a source for our in-house content developers.
-The target audience is communication professionals. See it as a comprehensive guide—a white paper if you will—to show others our know-how. Because the products that we sell are blog posts and web articles, we should be able to display our skills.
+The target audience is communication professionals. See it as a comprehensive guide—a white paper if you will—to show others our know-how. Because the products that we sell are blog posts and web articles, we should be able to display our skills in creating content.
 
 <img src="/images/contentcat.jpg" width="150">
 
@@ -29,13 +29,11 @@ Good content is original. [Content Farms](https://en.wikipedia.org/wiki/Content_
 
 Apart from originality, high quality content also makes a certain promise about the credibility of the text. When sources have been used they should provide authority. Good sources are crucial and ensure that a text is taken seriously.
 
-Be a guardian of the originality and authenticity of your content piece. It's easier said than done becouse we all scrape information from different kinds of sources. When it's the authority of the people you interview, articles, books or your own judgement, it's all based on other work. The difference is how you handle these sources as the author, and if you combine them to share new insights.
-
-Repetition is not always a bad thing, it can be a powerful tool, but know that it will only work when it's used for original, compelling observations. High quality content is creative and has the potential to excite audiences.
+Be a guardian of the originality and authenticity of your content piece. It's easier said than done because we all scrape information from different kinds of sources. Weather it's the authority of the people you interview, articles, books or your own judgement, all your knowledge is based on other work. The difference is how you handle these sources as the author, and how you combine them to share new insights.
 
 ## Structure & readability
 
-Readers are looking for answers and want to find them in the easiest, fastest way possible. A well structured text gives guidance and leads the reader towards its conclusion in a gentle, organic fashion. A clear text consists of:
+Readers are looking for answers and want to find them in the easiest, fastest way possible. A well-structured text gives guidance and leads the reader towards its conclusion in a gentle, organic fashion. A clear text consists of:
 
 * A title
 * An intro
@@ -45,19 +43,19 @@ Readers are looking for answers and want to find them in the easiest, fastest wa
 * Clear quotes
 * A conclusion
 
-A strong and remarkable *title* is important to attract your reader. A good title should activate, interest and excite. Often enough with newspaper articles—also the digital ones—the title is the key component in attracting the reader.
+A good title should activate, interest and excite. Often enough, the title is the key component in attracting the reader.
 
 If you have lured your reader with a fantastic title, he/she often decides whether to keep on reading based on the first few sentences. This brings us to the intro of the text and the importance thereof.
 
-> If the title and image are the bait, then the intro is the line that has to be strong enough to reel the reader in. And we all can all imagine how much it would suck to fish with a line that breaks every time you catch a fish. 
+> If the title and image are the bait, then the intro is the line that reels the reader in. And we can all imagine how much it would suck to fish with a line that breaks every time you catch a fish, so that line needs to be strong.
 
-The *intro* is usually the first paragraph, and also supports a well chosen title. How well an introduction activates the reader determines whether she or he will continue reading the article. Often the reader will decide if they keep on reading within seconds of seeing the intro for the first time. The intro can consist of a promise that you make helping the reader determin if if the content is worth there precious time.
+The *intro* is usually the first thing you read, and also supports a well-chosen title. The introdutions effectiveness in activating the reader determense wheater he or she will continue reading the articel. This often happens withing seconds of the readers first encounter with the introduction of the acticle. Remember that they were lured in with the title as a hook—a promise you made— and now they really want to know if the content is worth their precious time. Showing that it is builds trust.
 
-**Bold** en *italic* words ensure that highlighted concepts are cleared up. *Short paragraphs* are there to make the text understandable for the reader. *Clear quotes*, then, invite the reader to keep on reading.
+**Bold** and *italic* words ensure that highlighted concepts are cleared up. *Short paragraphs* are there to make the text understandable for the reader. *Clear quotes*, then, invite the reader to keep on reading.
 
 ## Visitor behavior
 
-With the ever-growing content, the bad and the good, content developers should know how readers behave on the web, and how they can use that knowledge towards their own advantage.
+With the ever-growing amounts of content, content developers should know how readers behave on the web and how they can use that knowledge to their own advantage.
 
 According to Jacob Nielsen of the [Nielsen Norman Group](http://www.nngroup.com/articles/how-long-do-users-stay-on-web-pages/), a visitor spends an average of less than a minute on a webpage. The visitor usually only has time to read a quarter of the text presented and if the content has a clear message or benefit, the chances it will be read are heightened. Quality content aims to give the reader new insights about a specific topic.
 
@@ -65,13 +63,19 @@ According to Jacob Nielsen of the [Nielsen Norman Group](http://www.nngroup.com/
 
 Search engine optimisation is a way to (sort of) ensure that people find your website through search engines like Google, Bing, Google and Google.
 
-We believe that the quality, originality and creative components of created content always stands above SEO strategy. However, we do acknowledge SEO as an important strategy when it comes to the visibility of the content. It would be a shame for a written masterpiece to float on the web and not be picked up by an audience.
+We believe that the quality, originality and creative components of created contents always stand above SEO strategy. However, we do acknowledge SEO as an important strategy when it comes to the visibility of the content. It would be a shame for a written masterpiece to float on the web and not be picked up by an audience.
 
-SEO can be done in many ways, and has mostly to do with figuring out what words your target audience searches for and then using those words while writing your article. At New Atoms we don't really do SEO, but it is good to be aware of it as a writer.
+SEO can be done in many ways and has mostly to do with figuring out what words your target audience searches. You can use those words while writing an article to make sure search engines are able to find it. At New Atoms we don't really do SEO, but it is good to be aware of it as a writer.
+
+### Understanding your target audience for SEO
+
+As a content marketeer, writer or other creative, you sometimes wish you could see into the brains of your target audience. With almost everyone connected to the internet, people are using search engines like Google to look for answers or solely for entertainment. Nothing new here, but it's important to recognise that current technology enables us to analyse the search behavior of potential audiences. We can therefore use this information for searchable content.
+
+Implementing the right keywords will get you more traffic from your target audience on your blog. Apart from that, it's just as important (and an advantage) to really know what your audience wants.   
 
 ### Tackle marketing priorities for SEO
 
-One goal of content marketing is that businesses want to increase traffic. The biggest challenges and priorities for marketing professionals (besides creating more _high quality content_ in lesser time) are:
+One goal of content marketing is increased web-traffic for businesses. The biggest challenges and priorities for marketing professionals (besides creating more _high quality content_ in lesser time) are:
 
 * Measuring content effectiveness
 * Producing more _engaging_ content
@@ -83,20 +87,12 @@ To meet and tackle these challenges and priorities, content has to be found. _Se
 
 <img src="https://media0.giphy.com/media/KJg6Znn4V1Jcs/200.gif" width="100%">
 
-### Understanding your target audience for SEO
-
-As a content marketeer, writer or other creative, you sometimes wish you could see into the brains of your target audience. With almost everyone connected to the internet, people are using search engines like Google to look for answers or solely for entertainment. Nothing new here, but it's important to recognise that current technology enables us to analyse the search behavior of potential audiences. We can therefore use this information for searchable content.
-
-Implementing the right keywords will get you more traffic from your target audience on your blog. Apart from that, it's just as important (and an advantage) to really know what your audience wants.   
-
 ## No image? Forget about it...
 
-Humans are visual creatures. Research done by [Skyword](http://www.skyword.com/contentstandard/enterprise-marketing/skyword-study-add-images-to-improve-content-performance/) has shown that chances a text will be read are increased by **94%** if the article shown has an image.
+Humans are visual creatures. Research done by [Skyword](http://www.skyword.com/contentstandard/enterprise-marketing/skyword-study-add-images-to-improve-content-performance/) has shown that chances a text will be read are increased by **94%** if the article has an image.
 Photos and illustrations together with the right title make the reader curious and excited.
 
-> 94% is the growth that an article goes through if it has a relevant main image, compared to an article that has no image at all.
-
-Most important is that the images enrich the article in the sense that they support the written piece. Apart from aesthetics, images should create a certain amount of context. So even though images are really important in any article, an image that makes no sense can be worse than no image at all.
+Most importanty, images enrich an article in the sense that they support the written piece. Apart from aesthetics, images should create a certain of context. So even though images are really important in any article, an image that makes no sense can be worse than no image at all.
 
 A good mantra, with the addition of more multimedia in the back of our minds, is not "form follows content" but "content follows form".
 
