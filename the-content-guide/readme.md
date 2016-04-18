@@ -47,7 +47,7 @@ Readers are looking for answers and want to find them in the easiest, fastest wa
 
 A strong and remarkable *title* is important to attract your reader. A good title should activate, interest and excite. Often enough with newspaper articles—also the digital ones— the title is the key component in attracting the reader.
 
-If you have lured your reader with a fantastic title, he/she often decides whether to keep on reading or not based on the first few sentences. This brings us to the intro of the text and the importance hereof.
+If you have lured your reader with a fantastic title, he/she often decides whether to keep on reading based on the first few sentences. This brings us to the intro of the text and the importance thereof.
 
 > If the title and image are the bait, the intro is the line that has to be strong enough to pull the reader in.
 
