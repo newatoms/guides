@@ -77,7 +77,7 @@ One goal of content marketing is that businesses want to increase traffic. Top n
 * Producing more _engaging_ content
 * Measuring what types of content have a positive influence on sales
 
-(Sources surveys: [Content marketing institute](http://contentmarketinginstitute.com/wp-content/uploads/2015/09/2016_B2B_Report_Final.pdf), Linkedin B2B content marketing report, [Hubspot's The State of Inbound 2015](http://www.stateofinbound.com/)).
+(Source surveys: [Content marketing institute](http://contentmarketinginstitute.com/wp-content/uploads/2015/09/2016_B2B_Report_Final.pdf), Linkedin B2B content marketing report, [Hubspot's The State of Inbound 2015](http://www.stateofinbound.com/)).
 
 To meet and tackle these challenges and priorities, content has to be found. _Search Engine Optimisation_ or keyword research strategies help to create more visible blogposts for readers and enables businesses to get more traffic.
 
