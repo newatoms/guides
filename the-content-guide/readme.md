@@ -35,7 +35,7 @@ Repetition is not always a bad thing, it can be a powerful tool, but know that i
 
 ## Structure & readability
 
-Readers are looking for answers and want to find them in the easiest, fastest way. A well structured text gives guidance and leads the reader towards its conclusion in a gentle, organic fashion. A clear text consists of:
+Readers are looking for answers and want to find them in the easiest, fastest way possible. A well structured text gives guidance and leads the reader towards its conclusion in a gentle, organic fashion. A clear text consists of:
 
 * A title
 * An intro
@@ -49,7 +49,7 @@ A strong and remarkable *title* is important to attract your reader. A good titl
 
 If you have lured your reader with a fantastic title, he/she often decides whether to keep on reading based on the first few sentences. This brings us to the intro of the text and the importance thereof.
 
-> If the title and image are the bait, the intro is the line that has to be strong enough to pull the reader in.
+> If the title and image are the bait, then the intro is the line that has to be strong enough to reel the reader in. And we all can all imagine how much it would suck to fish with a line that breaks every time you catch a fish. 
 
 The *intro* is usually the first paragraph, and also supports a well chosen title. How well an introduction activates the reader determines whether she or he will continue reading the article, this often happens within seconds of seeing the intro for the first time. The intro can consist of a promise that you make, they were lured in with the title as a hook and now they want to know if the content is worth there precious time.
 
