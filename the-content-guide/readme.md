@@ -85,7 +85,7 @@ To meet and tackle these challenges and priorities, content has to be found. _Se
 
 ### Understanding your target audience for SEO
 
-As a content marketeer, writer or other creative, you sometimes wish you could see in the brains of your target audience. With almost everyone connected with the internet, people are using search engines as Google to look for answers or solely entertainment. Nothing new here, but it's important to recognise that current technology enables us to analyse the search behavior of potential audiences. We can therefor use this information for searchable content.
+As a content marketeer, writer or other creative, you sometimes wish you could see into the brains of your target audience. With almost everyone connected with the internet, people are using search engines like Google to look for answers or solely entertainment. Nothing new here, but it's important to recognise that current technology enables us to analyse the search behavior of potential audiences. We can therefor use this information for searchable content.
 
 So, implementing the right keywords will get you more traffic from your target audience on your blog. Apart from that, it's just as important and an advantage to really know what your audience wants.   
 
