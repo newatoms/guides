@@ -43,28 +43,35 @@ Readers are looking for answers and want to find them in the easiest, fastest wa
 * **Bold** and *italic*  
 * Short paragraphs
 * Clear quotes
+* A conclusion
 
 A strong and remarkable *title* is important to attract your reader. A good title should activate, interest and excite. Often enough with newspaper articles—also the digital ones—the title is the key component in attracting the reader.
 
-If you have lured your reader with a fantastic title, he/she often decides whether to keep on reading or not based on the first few sentences. This brings us to the intro of the text and the importance hereof.
+If you have lured your reader with a fantastic title, he/she often decides whether to keep on reading based on the first few sentences. This brings us to the intro of the text and the importance thereof.
 
 > If the title and image are the bait, the intro is the line that has to be strong enough to pull the reader in.
 
+<<<<<<< HEAD
 The *intro* is officiously the first paragraph, and also supports a well chosen title. With this beginning the reader is either triggered and will stay, or not. Readers will scan the intro and decide in just a matter of seconds whether they want to keep on reading. The intro can consist of a promise that you make. Remember that readers tend to find answers to their 'problems'. They were lured in with the title as a hook and now they really want to know if the content is worth there precious time.
 
 **Bold** and *italic* words make sure that highlighted concepts are cleared up. *Short paragraphs* are there to make the text understandable for the reader. *Clear quotes*, then, invite the reader to keep on reading.
+=======
+The *intro* is usually the first paragraph, and also supports a well chosen title. How well an introduction activates the reader determines whether she or he will continue reading the article, this often happens within seconds of seeing the intro for the first time. The intro can consist of a promise that you make, they were lured in with the title as a hook and now they want to know if the content is worth there precious time.
+
+**Bold** en *italic* words ensure that highlighted concepts are cleared up. *Short paragraphs* are there to make the text understandable for the reader. *Clear quotes*, then, invite the reader to keep on reading.
+>>>>>>> origin/improving-the-content-duide
 
 ## Visitor behavior
 
-With the ever growing content, the bad and the good, content developers should know how readers behave on the web and how they
+With the ever-growing content, the bad and the good, content developers should know how readers behave on the web, and how they can use that knowledge towards their own advantage.
 
-According to Jacob Nielsen of the [Nielsen Norman Group](http://www.nngroup.com/articles/how-long-do-users-stay-on-web-pages/), a visitor spends an average of less than a minute on a webpage. The visitor usually only has time to read a quarter of the text presented. If the content has a clear message or benefit the chances it will be read are heightened. Quality content aims to give the reader new insights about a specific topic.
+According to Jacob Nielsen of the [Nielsen Norman Group](http://www.nngroup.com/articles/how-long-do-users-stay-on-web-pages/), a visitor spends an average of less than a minute on a webpage. The visitor usually only has time to read a quarter of the text presented and if the content has a clear message or benefit, the chances it will be read are heightened. Quality content aims to give the reader new insights about a specific topic.
 
 ## Search Engine Optimisation (SEO) or keyword research, here we go:
 
 Search engine optimisation is a way to (sort of) ensure that people find your website through search engines like Google, Bing, Google and Google.
 
-We believe that the quality, originality and creative components of made content always stands above SEO strategy. However, we do acknowledge SEO as an important strategy when it comes to the visibility of the content. It would be a shame when a written masterpiece floats on the web and isn't picked up by an audience.
+We believe that the quality, originality and creative components of created content always stands above SEO strategy. However, we do acknowledge SEO as an important strategy when it comes to the visibility of the content. It would be a shame for a written masterpiece to float on the web and not be picked up by an audience.
 
 SEO can be done in many ways, and has mostly to do with figuring out what words your target audience searches for and then using those words throughout your article. At New Atoms we don't really do SEO, but it is good to be aware of it as a writer.
 
@@ -74,17 +81,25 @@ One goal of content marketing is that businesses want to increase traffic. Top n
 
 * Measuring content effectiveness
 * Producing more _engaging_ content
+<<<<<<< HEAD
 * Metrics that measure sales lead quality, sales and higher conversion rates
+=======
+* Measuring what types of content have a positive influence on sales
+>>>>>>> origin/improving-the-content-duide
 
-(sources survey's: [Content marketing institute](http://contentmarketinginstitute.com/wp-content/uploads/2015/09/2016_B2B_Report_Final.pdf), Linkedin B2B content marketing report, [Hubspot's The State of Inbound 2015](http://www.stateofinbound.com/))
+(sources surveys: [Content marketing institute](http://contentmarketinginstitute.com/wp-content/uploads/2015/09/2016_B2B_Report_Final.pdf), Linkedin B2B content marketing report, [Hubspot's The State of Inbound 2015](http://www.stateofinbound.com/))
 
-To meet and tackle these challenges and priorities, content has to be found. _Search Engine Optimisation_ or keyword research strategies help to create a more visible blogpost by readers and enabling businesses to get a lot more traffic.
+To meet and tackle these challenges and priorities, content has to be found. _Search Engine Optimisation_ or keyword research strategies help to create more visible blogposts for readers and enables businesses to get more traffic.
 
 <img src="https://media0.giphy.com/media/KJg6Znn4V1Jcs/200.gif" width="100%">
 
 ### Understanding your target audience for SEO
 
+<<<<<<< HEAD
 As a content marketeer, writer or other creative, you sometimes wish you could see in the brains of your target audience. With almost everyone connected with the internet, people are using search engines as Google to look for answers or solely for entertainment. Nothing new here, but it's important to recognise that current technology enables us to analyse the search behavior of potential audiences. We can therefore use this information for searchable content.
+=======
+As a content marketeer, writer or other creative, you sometimes wish you could see into the brains of your target audience. With almost everyone connected with the internet, people are using search engines like Google to look for answers or solely entertainment. Nothing new here, but it's important to recognise that current technology enables us to analyse the search behavior of potential audiences. We can therefor use this information for searchable content.
+>>>>>>> origin/improving-the-content-duide
 
 So implementing the right keywords will get you more traffic from your target audience on your blog. Apart from that, it's just as important and an advantage to really know what your audience wants.   
 
@@ -95,12 +110,20 @@ Photos and illustrations together with the right title make the reader curious a
 
 > 94% is the growth that an article goes through if it has a relevant main image, compared to an article that has no image at all.
 
+<<<<<<< HEAD
 Most important is that the images enrich the article in the sense that they serve the written piece. Apart from aesthetics images should create a certain amount of context. So even though images are really important in any article, a image that makes no sense can be way worse than no image at all.
+=======
+Most important is that the images enriches the article in the sense that they serve the written piece. Apart from esthetics, images should create a certain amount of context. So even though images are really important in any article, a image that makes no sense can be worse than no image at all.
+>>>>>>> origin/improving-the-content-duide
 
 A good mantra, with the addition of more multimedia in the back of our minds, is not "form follows content" but "content follows form".
 
 ## Ending
 
+<<<<<<< HEAD
 Our content developers have acquired all these qualities in their own practice. Besides that, each one of our team members contributes to every post made, which makes sure that all these diverse qualities are brought together in one big whole, which makes for the best content possible, which is pretty awesome.
+=======
+Our content developers have aquired all these qualities in their own practice. Additionally, each one of are team member contributes to every post made, which ensures that all these diverse qualities are brought together in one big whole, which makes for the best content possible, which is pretty awesome.
+>>>>>>> origin/improving-the-content-duide
 
 <img src="https://media1.giphy.com/media/NFVXWHk9vuCNG/200.gif" width="100%">
