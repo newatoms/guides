@@ -67,7 +67,7 @@ Search engine optimisation is a way to (sort of) ensure that people find your we
 
 We believe that the quality, originality and creative components of created content always stands above SEO strategy. However, we do acknowledge SEO as an important strategy when it comes to the visibility of the content. It would be a shame for a written masterpiece to float on the web and not be picked up by an audience.
 
-SEO can be done in many ways, and has mostly to do with figuring out what words your target audience searches for and then using those words throughout your article. At New Atoms we don't really do SEO, but it is good to be aware of it as a writer.
+SEO can be done in many ways, and has mostly to do with figuring out what words your target audience searches for and then using those words while writing your article. At New Atoms we don't really do SEO, but it is good to be aware of it as a writer.
 
 ### Tackle marketing priorities for SEO
 
