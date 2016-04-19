@@ -17,7 +17,7 @@ Information in your brain seems logically connected, but to the reader these con
 
 ## Structure of the article
 
-In the beginning of the article, give a preview of what the article contains while keeping your goal in mind. Do you want to convince the reader of something? Do want to enthuse him/her? Do want to explain a difficult concept? Do you want to amuse the reader? Each paragraph should bring you closer to this goal. This can be achieved by using different [types of paragraphs](http://patternbasedwriting.com/elementary_writing_success/paragraph-examples/), for example by explaining, sketching a scenario, convincing, showing contrast, stating a problem etc.
+In the beginning of the article, give a preview of what the article contains while keeping your goal in mind. Do you want to convince the reader of something? Do you want to enthuse him/her? Do you want to explain a difficult concept? Do you want to amuse the reader? Each paragraph should bring you closer to this goal. This can be achieved by using different [types of paragraphs](http://patternbasedwriting.com/elementary_writing_success/paragraph-examples/), for example by explaining, sketching a scenario, convincing, showing contrast, stating a problem etc.
 
 The order of the paragraphs is similar to the order of your thought process 💭– start by posing a question or making a bold statement. The following paragraphs should be used to build a convincing story to answer the question or convince the reader that your statements are correct.
 
