@@ -13,7 +13,7 @@ The kind of words you use will influence the types of sites you'll find. Using j
 
 In the search field you can quickly use filters to improve the search results.
 
-```" "``` Use quotation marks to search for the exact phrase.
+```" "``` Use quotation marks to search for an exact phrase or word.
 
 ```-``` Exclude this term from the search results.
 
