@@ -41,7 +41,7 @@ You can find a full list [here](https://support.google.com/websearch/answer/2466
 ![Google advanced search](https://i.imgur.com/VjzBHGE.png?1)
 
 
-Advanced search will enable you to filter on:
+[Advanced search](https://www.google.com/advanced_search) will enable you to filter on:
 
 ```Date``` pages that went online on/between/before/after a certain date.
 
