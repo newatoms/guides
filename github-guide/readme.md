@@ -20,7 +20,7 @@ We work with multiple repositories (i.e repos). You can see this [New Atoms repo
 
 Always read the readme.md file that is opened automatically if you enter a repo. 
 
-All our research is stored within the designated project or product repos like pitches, posts and research, insights, private and internal (i.e. market research, customer acquisition, pitch decks enz.). Folders with a lower dash before the folder name in repositories are not rendered on websites, but they're still viewable by anyone who can access the repo. We also store a lot of our sites (like the interface) in the repositories (e.g. html, layout etc.).
+All our research is stored within the designated project or product repos like pitches, posts and research, insights, private and internal (i.e. market research, customer acquisition, pitch decks etc.). Folders with a lower dash before the folder name in repositories are not rendered on websites, but they're still viewable by anyone who can access the repo. We also store a lot of our sites (like the interface) in the repositories (e.g. html, layout etc.).
 
 ### Github hierarchy
 
