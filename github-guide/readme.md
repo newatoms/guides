@@ -16,7 +16,7 @@ Github has quite a steep learning curve, but once you go Github you'll never wan
 
 ## How we use Github
 
-We work with multiple repositories (i.e repos). You can see this [New Atoms repository page](https://github.com/newatoms) as a hard drive containing all projects or products. For example: right now you are reading *the github guide* in the *guides* repo. *Guides* is a product of New Atoms, just like *content.supply* or editorial.supply are products of New Atoms. 
+We work with multiple repositories (i.e repos). You can see this [New Atoms repository page](https://github.com/newatoms) as a hard drive containing all projects or products. For example: right now you are reading *the github guide* in the *guides* repo. *Guides* is a product of New Atoms, just like *content.supply* or *editorial.supply*.
 
 Always read the readme.md file that is opened automatically if you enter a repo. 
 
