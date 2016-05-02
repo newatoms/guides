@@ -11,6 +11,7 @@ Here you find a list with links to all guides and their goal.
 |How to … |Goal of the guide              |
 |--------|-----------------------------|
 |[use text-editor Atom](atom-guide)| Helping you to use Atom, a text editor we use in combination with github |
+|[search effectively with Google](google-search-guide)| Teaching you about the top of the line search tools |
 |[be a Managing Director](be-a-managing-director) | Explaining what it means to be a managing director |
 |[use the Achievable board](board-guide) | Explaining how we work with our workflow board and optimizing the use of it  |
 |[create awesome content](board-guide)| Helping you make the most awesome content you can make|
@@ -25,10 +26,8 @@ Here you find a list with links to all guides and their goal.
 |[create a Polymer element](creating-elements) | Understanding the core concepts of coding in Polymer |
 |[visualise programming](visualise-programming-guide) | Learn about what type of conversation partner a computer is |
 |[solve Polymer errors](fixing-errors) | Create a understanding of debugging web-apps |
-|[create high quality content](the-content-guide)| Helping you create high quality content by giving tips and a checklist |
 |[turn a pitch into a blog post](turn-a-pitch-into-a-publishable-blog-post)| help you to create and work on a user story for a blog post |
-|[write well](writing-guide)| Helping you write well by giving tips and a checklist |
-|[write good transitions](writing-guide)| Examples of types of transitions you can use |
 |[scrape information from LinkedIn](web-scraping) | Extract data from LinkedIn profiles into a structured json format |
+|[write well](writing-guide) | To help team members write in a clear manner |
 
 Use the [Glossary](glossary) to find definitions of words we use and how we use them.
