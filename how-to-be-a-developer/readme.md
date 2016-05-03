@@ -4,10 +4,10 @@
 
 Being a developer is a way of looking at certain situations.
 For example: if a client wants to add something to a produced article, the conclusions drawn from this request can be very different depending on your perspective as a certain developer:
-* Was there anything wrong with the content? [content]
-* How, if applicable, can the company structurally integrate this feedback into the production process? [operations]
-* What effect will ignoring the request have on the relationship with the costumer? [business]
-* How can the experience of giving feedback be optimized? [experience]
+* Was there anything wrong with the content? [content developer]
+* How, if applicable, can the company structurally integrate this feedback into the production process? [operations developer]
+* What effect will ignoring the request have on the relationship with the costumer? [business developer]
+* How can the experience of giving feedback be optimized? [experience developer]
 
 ## The role of the developer
 
