@@ -144,4 +144,4 @@ If your know the prospect directly or someone you know can introduce you to the 
 
 ## The end
 
-Whelp, this is everything we have written down on cold customer aquisition, feel free to add awesome stuffses
+Here you have it, you oficcialy know more about direct customer aquisition than we do! One last note before you will start world domination. Remember that you are a person with your own amazing traits and personalitys. Never put them aside in order to convice someone to hire your service. If you stay true to who you are, working with the people that hire you will be a lot more fun. Also becouse you dont have to pretend your someone you are not, which is not as much fun as one would think. Look at catch me if you can, pretty cool fictional example of how pretending to be someone you are not sucks realy hard. 
