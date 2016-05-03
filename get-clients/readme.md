@@ -42,7 +42,7 @@ From my limited experience I have found that giving **tangible examples** that e
 
 These tangible examples come in two Layers and can be figured out by answering the following questions.
 
-The answers to these questions help you understand the added value for the customer and formulate a tangible example. By no means think you have to use all the answers while swooning your prospect, probably that will be a tad bit overwelming.  
+The answers to these questions help you understand the added value for the customer and formulate a tangible example. By no means think you have to use all the answers while swooning your prospect, probably that will be a tad bit overwhelming.
 
 **Bussiness Relevance for the prospect**
 
@@ -79,24 +79,31 @@ Oja, never ever EVER suggest that a person is only looking out for their own int
 When calling a person there are a few things that can be important to discuss.
 
 * Explain who you and what the gist is of what you do, formulated in the way it has the most added value to the person you are calling.
+* Find out if your call is convenient. If your prospect has no time to talk to you, ask for another time that is better suited for them and follow up.
 * Explain why you are calling this particular person.
 * Ask what their experience is with doing what your service does, on their own.
 * Explain/discuss how your service can improve things for both the company and the person you are talking to. Formulate this so that it has a relation to what they told you and what your could find on the interwebz.
 * Discuss what the next step will be and try to formulate a deadline (This helps you understand you position, makes the next step clear and forces the prospect to consider your service).
 
-### Tips and Tricks
+### Tips and Tricks while on the phone
 
-* don't ask yes questions that have a negative connotation
-* don't ask questions which answers can and your conversation.
-* Using the name of the person you are talking to can create a personal relevance.
+* Try not to ask questions that have a negative connotation, formulate them in a positive way.
+* Try not to ask questions which answers can end your conversation.
+* Using the name of the person you are talking to show that you take them seriously and (sometimes) creates a personal relevance.
+* Encourage the person you are talking to by making confirmative noises.
+* Being enthusiastic can be a persuasive tool.
+* Be yourself, if you can't make your prospect see the relevance of what you are doing they might not be a good fit.
+* Don't try to convince your prospect, but make sure they see and understand possible positive outcomes.
+
+
 
 ### How to reach the right person if you have no direct number
 
-If you cant find a direct number to the person you are  trying to reach, call a different person of the company and ask for the person you are trying to reach. If you are calling some one else in order to reach your prospect keep the next points in mind, they might help you.
+If you cant find a direct number to the person you are  trying to reach, call a different person of the company and ask for the person you are trying to reach. While doing this keep the next points in mind, they might help you.
 
-* Avoid receptions and help desks if possible, often their man task is to guard the employees against people who are trying to sell stuff.  
-* The more certain you seem that you are asking for the right person, the more likely it is they will connect you. Often this means just asking to be connected with the person you are looking for.
-* If the person cant be reached, ask for their direct number or extension.
+* Avoid receptions and help desks if possible, often their main task is to guard the employees against people who are trying to sell stuff (just like you are).  
+* The more certain you seem that you are asking for the right person, the more likely it is they will connect you. (Often this means just asking to be connected with the person you are looking for.)
+* If the person can't be reached, ask for their direct number or extension so you do not have to go trough this again.
 
 
 ## Direct customer acquisition by email
