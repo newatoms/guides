@@ -18,7 +18,7 @@ There are two types of direct customer acquisition. Contacting people directly t
 
 There is one super important thing to realize before we go on. You are speaking as a person on behalf of a company to a person on behalf of a company.
 
-From my limited experience, often this meant that the people not in charge are motivated by self preservation, meaning that they usually are not keen on taking risks for the company that can reflect poorly on themselves. What is good for them is often as important as what is good for the company.
+From my limited experience, often this meant for big companys that the people not in charge are motivated by self preservation, meaning that they usually are not keen on taking risks for the company that can reflect poorly on themselves. What is good for them is often as important as what is good for the company.
 
 I think that is why i have found that giving tangible examples that explain the added value of you service, in general and for the prospect in question, is usually the easiest way to sell your service no matter the medium you use or the  relationship you have with the prospect.
 
