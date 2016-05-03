@@ -22,4 +22,4 @@ A team needs all 6 of the roles in it to be fully functional.
 
 ## A developer is never responsible
 
-The team always takes responsibility. A developer is not obliged to pick up [achievables](../glossary/achievable.md) that belong to their developer role. They do need to make sure that they notice when something can be structurally improved in 'their' field and that they make [achievables](../glossary/achievable.md) accordingly.
+The team always takes responsibility. A developer is not obliged to pick up [achievables](../glossary/achievable.md) that belong to their developer role. They do need to make sure that they notice when something can be structurally improved in 'their' field and that they make achievables accordingly.
