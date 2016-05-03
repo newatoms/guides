@@ -9,6 +9,11 @@ For example: if a client wants to add something to a produced article, the concl
 * What effect will ignoring the request have on the relationship with the costumer? [business]
 * How can the experience of giving feedback be optimized? [experience]
 
+## The role of the developer
+
+A developer is never personally responsible for, nor obliged to fulfill, [achievables](../glossary/achievable.md) that belong to their developer role. The main goal is to notice when something can be (structurally) improved in 'their' field and making achievables accordingly.
+
+
 ## Six types of developers
 
 * [Content](https://github.com/newatoms/newatoms/blob/gh-pages/internal/jobs/content.md)
@@ -19,7 +24,3 @@ For example: if a client wants to add something to a produced article, the concl
 * [Product](https://github.com/newatoms/newatoms/blob/gh-pages/internal/jobs/product.md)
 
 A team needs all 6 of the roles to be fully functional.
-
-## A developer is never responsible
-
-The team always takes responsibility. A developer is not obliged to pick up [achievables](../glossary/achievable.md) that belong to their developer role. They do need to make sure that they notice when something can be structurally improved in 'their' field and that they make achievables accordingly.
