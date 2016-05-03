@@ -6,6 +6,8 @@ Just like every other company, we need to sell our services in order to be susta
 
 Even though we do need to sell our services, we only want to sell our services to people who can actually benefit from them. Working with a person who does not value your services for what they are will require you to keep convincing them of every step you take, making the process extremely counter-productive.
 
+Nothing suggested in this guide is a hard truth, and nothing should be blindly accepted as such. 
+
 ## Two ways to acquire customers
 
 There are two ways in which you can convince people to use your product or service: by directly **convincing a specific person**, or indirectly **through your general communication**. With your general communication, you can have a potentially infinite reach but have very little control over who you reach.
