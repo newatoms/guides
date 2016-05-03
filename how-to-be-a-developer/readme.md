@@ -18,7 +18,7 @@ For example: if a client wants to add something to a produced article, the concl
 * [Technical](https://github.com/newatoms/newatoms/blob/gh-pages/internal/jobs/technical.md)
 * [Product](https://github.com/newatoms/newatoms/blob/gh-pages/internal/jobs/product.md)
 
-A team needs all 6 of the roles in it to be fully functional.
+A team needs all 6 of the roles to be fully functional.
 
 ## A developer is never responsible
 
