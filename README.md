@@ -29,5 +29,6 @@ Here you find a list with links to all guides and their goal.
 |[turn a pitch into a blog post](turn-a-pitch-into-a-publishable-blog-post)| help you to create and work on a user story for a blog post |
 |[scrape information from LinkedIn](web-scraping) | Extract data from LinkedIn profiles into a structured json format |
 |[write well](writing-guide) | To help team members write in a clear manner |
+|[approach paragraphs](paragraph-guide)| To understand how paragraph length affects readability |
 
 Use the [Glossary](glossary) to find definitions of words we use and how we use them.
