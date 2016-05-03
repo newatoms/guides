@@ -141,3 +141,7 @@ If your know the prospect directly or someone you know can introduce you to the 
 * Do you have shared experiences and insights with the prospect?
 * How do these experiences and insights relate to the service you are trying to sell?
 * Can you formulate a tangible example of the value your service would add that relates to your shared insights and experiences?
+
+## The end
+
+Whelp, this is everything we have written down on cold customer aquisition, feel free to add awesome stuffses
