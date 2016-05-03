@@ -20,6 +20,6 @@ For example: if a clients want to add something to a produced article, the concl
 
 > A team needs all 6 of the roles in it to be fully functional.
 
-## A deverloper is never responsible
+## A developer is never responsible
 
-The team always takes responsibility. You're also not obliged to pick up [achievables](../glossary/achievable.md) that belong to your developer role. Just make sure that you notice when something can be structurally improved and make [achievables](../glossary/achievable.md) accordingly.
+The team always takes responsibility. A developer is not obliged to pick up [achievables](../glossary/achievable.md) that belong to their developer role. They do need to make sure that they notice when something can be structurally improved in 'their' field and that they make [achievables](../glossary/achievable.md) accordingly.
