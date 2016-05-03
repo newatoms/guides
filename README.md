@@ -13,6 +13,7 @@ Here you find a list with links to all guides and their goal.
 |[use text-editor Atom](atom-guide)| Helping you to use Atom, a text editor we use in combination with github |
 |[search effectively with Google](google-search-guide)| Teaching you about the top of the line search tools |
 |[be a Managing Director](be-a-managing-director) | Explaining what it means to be a managing director |
+|[be a developer](how-to-be-a-developer) | Explaining what it means to be a developer |
 |[use the Achievable board](board-guide) | Explaining how we work with our workflow board and optimizing the use of it  |
 |[create awesome content](board-guide)| Helping you make the most awesome content you can make|
 |[use GitHub](github-guide) | Guide on how to build documents and websites with the service called Github |
