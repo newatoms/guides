@@ -18,24 +18,26 @@ There are two types of direct customer acquisition. Contacting people directly t
 
 There is one super important thing to realize before we go on. You are speaking as a person on behalf of a company to a person on behalf of a company.
 
-From my limited experience, tangible examples that explain the added value of you service, in general and the prospect in question, is usually the easiest way to sell your service no matter your relationship with the prospect.
+From my limited experience, often this meant that the people not in charge are motivated by self preservation, meaning that they usually are not keen on taking risks for the company that can reflect poorly on themselves. What is good for them is often as important as what is good for the company.
 
-Here are a few questions
+I think that is why i have found that giving tangible examples that explain the added value of you service, in general and for the prospect in question, is usually the easiest way to sell your service no matter the medium you use or the  relationship you have with the prospect.
 
-**Relevance**
-* Why is your service relevant for the prospect.
-* What would be a favorable outcome could be for the prospect if they would hire using your service.
-* Can you formulate a tangible example of the favorable outcome of using your service.
+These tangible examples come in two Layers and can be figured out by answering the following questions.
 
-**Vision**
-* How does the vision your prospect relate to the vision of your service.
-* Can you formulate a tangible example of how these two visions relate in a positive way
-
-**Personal stuff**
+**Bussiness Relevance for the prospect**
 * What can you find out about the prospect that relates to your service
 * What can you find out about your prospect that relates to the vision of your service
 * What can you find out about the prospect that relates to you as a person.
+* How does the vision your of your prospect relate to the vision of your service.
+* Can you formulate a tangible example of how these two visions relate in a positive way
 
+**Personal Relevance for the prospect**
+* What can you find out about the prospect that relates to  your service
+* What can you find out about your prospect that relates to the vision of your service
+* What can you find out about the prospect that relates to you as a person.
+
+## Direct customer acquisition by phone
+## Direct customer acquisition by email
 
 ### How to use your Personal connection
 
@@ -45,6 +47,4 @@ If your know the prospect directly or someone you know can introduce you to the 
 * How do these experiences and insights relate to the service you are trying to sell
 * Can you formulate a tangible example of the added value of using your service that relates to your shared insights and experiences.
 
-## Direct customer acquisition by phone
-## Direct customer acquisition by email
 ## Iterative direct customer acquisition
