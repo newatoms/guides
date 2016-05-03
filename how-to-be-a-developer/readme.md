@@ -18,10 +18,8 @@ For example: if a clients want to add something to a produced article, the concl
 * [Technical](https://github.com/newatoms/newatoms/blob/gh-pages/internal/jobs/technical.md)
 * [Product](https://github.com/newatoms/newatoms/blob/gh-pages/internal/jobs/product.md)
 
-## One should be able to switch roles
+> A team needs all 6 of the roles in it to be fully functional.
 
-Nobody is forever fixed in a certain developer role. It's good to have some experience if you take on a new role but if not, be sure to spend some time reading up on it. A team needs all 6 of the roles in it to be fully functional.
+## A deverloper is never responsible
 
-## A deverloper is not responsible for their
-
-The team always takes responsibility. You're also not obliged to pick up [achievables](../glossary/achievable.md) that belong to your developer role. Just make sure that you notice when something can be structurally improved and make [achievables](../glossary/achievable.md) accordingly. 
+The team always takes responsibility. You're also not obliged to pick up [achievables](../glossary/achievable.md) that belong to your developer role. Just make sure that you notice when something can be structurally improved and make [achievables](../glossary/achievable.md) accordingly.
