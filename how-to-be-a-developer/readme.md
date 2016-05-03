@@ -3,9 +3,9 @@
 ## It's all about the perspective
 
 Being a developer is a way of looking at certain situations.
-For example: if a clients want to add something to a produced article, the conclusions drawn from this request can be very different depending on the perspective:
+For example: if a client wants to add something to a produced article, the conclusions drawn from this request can be very different depending on the perspective:
 * Was there anything wrong with the content?
-* How, if applicable, can the company structurally integrate this feedback into the production process
+* How, if applicable, can the company structurally integrate this feedback into the production process?
 * What effect will ignoring the request on the relationship with the costumer?
 * How can the experience of giving feedback be optimized?
 
