@@ -2,7 +2,7 @@
 
 # Getting paying customers
 
-Just like every other company, we need to sell our services in order to be sustainable. In this guide we will only discuss direct customer acquisition. In our [communication guide](communication-guide), you can read about our indirect communication philosophy.
+Just like every other company, we need to sell our services in order to be sustainable. In this guide we will only discuss direct customer acquisition. In our [communication guide](../communication-guide), you can read about our indirect communication philosophy.
 
 Even though we do need to sell our services, we only want to sell our services to people who can actually benefit from them. Working with a person who does not value your services for what they are will require you to keep convincing them of every step you take, making the process extremely counter-productive.
 
