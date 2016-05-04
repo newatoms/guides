@@ -2,7 +2,8 @@
 
 # What the flying fuck is content marketing?
 
-Content marketing is the idea that storytelling is key to attract and retain customers.
+In The Rise of Storytelling as the New Marketing,
+Joe Pulizzi describes Content marketing as “the idea that storytelling is key to attract and retain customers.”
 
 The next few quotes from the journal of marketing management in the article “Understanding digital content marketing” by Jenifer Rowley she describes some key notions about content marketing.
 
@@ -16,7 +17,7 @@ The next few quotes from the journal of marketing management in the article “U
 
 ## What you need to know in order to make awesome content marketing
 
-So the first part of the guide explained what content marketing is, now I will try to help you to make awesome content marketing. Even though we can not tell you exactly what to make, understanding the next few subjects may help you create awesome content.
+So the first part of the guide we used a bunch of quotes to help you understand what content marketing is and what its struggles are. In the rest of the guide we will try to explain a few concepts which might help you create awesome content marketing. Everything beyond this point is our own interpretation and by no means a unwavering truth. 
 
 ### The relation between connotation and context
 
