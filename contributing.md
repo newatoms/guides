@@ -8,6 +8,7 @@ To create an understandable guide make sure you keep the following points in min
 ## Adding your guide to the guides
 
 To add a guide complete the following steps:
+* The title of a guide should always start with 'How to'
 * Create a new folder within *Guides* and name it [guide-name]. Replace all " " with "-".
 * Copy your guide to `guides/[guide-name]/` and change the name to `readme.md`. This enables the visitor to instantly view your guide when they are in the folder of your guide on github.
 * If there are local images in your guide you can store them in `guides/images/[your-image.filetype]`
