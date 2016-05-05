@@ -58,15 +58,21 @@ This is the main reason why non-profit organizations and education are so succes
 
 ## Practicality
 
+There some insights that have been drawn from multiple researches on social media. 
+
 In general, people only briefly look at what they see on social media. Therefore, the first sentences or image they see should capture the reader in a way that is in line with what the message you're conveying.
 
 People hardly click on links (1%-10%), even if they have instant relevance. Therefore, you should limit use of tinyurl and bitly to urls of which the names are not relevant or obvious.
 
-Try to keep your content on a minimal amount of different sources and and channel it through social media. If using video, try to keep all your material on one provider. Try to avoid confusion where readers can find the content again.
+To make sure that people can find your content again it is important to keep the following things in mind.
+Try to keep your content on a minimal amount of different sources and and channel it through social media. 
+If you publish an article online, do so on a blog and link to that blogpost trough different channels, dont post the article multiple times on different platforms. You want people to be able to share the source, not necesarely the outlet. 
+If you are using video, try to keep all your material on one provider (vimeo, youtube, etc.)
 
-Be consistent in language, frequency, and use of external services such as Eventbrite.
+Be consistent in language, frequency, and use of external services such as Eventbrite, doodle etc.
 
 ## Practicality per channel
+
 Here you will find some info specifically pertaining to the mentioned social media channels.
 
 ### Twitter
@@ -96,6 +102,9 @@ Here you will find some info specifically pertaining to the mentioned social med
 * Only the first 150 Characters are visible; the rest are hidden behind “read more”.
 
 ## Conclusion
+
+Hopefully you were able to read trough the endless list of bullet points, in order to make the bulletpoints more clear we filterd some of the most important points out and made another bullet point list! The list below is meant to give you some advice on how to use social media based on the concepts discussed in this guide. 
+
 * Roughly define your target audience.
 * Choose your channels based on your target audience.
 * Use your social media to build and maintain a relationship with your target audience.
