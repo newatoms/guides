@@ -1,1 +1,1 @@
-Without factual errors, grammatical/spelling errors, comprehensible, within the commisioned project.
+Without factual errors, grammatical/spelling errors, comprehensible, within the commissioned project.
