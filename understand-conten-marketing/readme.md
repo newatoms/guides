@@ -72,8 +72,6 @@ For more on social media you can check our [guide on social media](.../use-socia
 ### Conclusions
 
 Don't act different than who you are, if you want people to perceive you differently, change!
-Let your main goal be to reinforce your beliefs, don't let the means be your goal. Make your context as broad as possible. Make your content relevant and relatable.
+Let your main goal be to reinforce your beliefs, don't let the means be your goal. Make your context as broad as possible. Make your content relevant and relatable. Traditionally the goal of communication is to make people do something with the information that is communicated. 
 
-Traditionally the goal of communication is to make people do something with the information that is communicated.
-
-The goal of content marketing is to for people take something away from your messages and interact with your messages.
+The goal of content marketing is to for people take something away from your messages and interact with them.
