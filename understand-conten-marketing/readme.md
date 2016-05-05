@@ -1,11 +1,11 @@
 > Goal of this guide: To help you understand what content marketing is.
 
-# What the flying fuck is content marketing?
+# What the flying flop is content marketing?
 
 In The Rise of Storytelling as the New Marketing,
 Joe Pulizzi describes content marketing as “the idea that storytelling is key to attract and retain customers.”
 
-The first known example of content marketing is a magazine, first published in 1895, called *the Furrow*, published by John Deere (a company that sells tools for farmers). This magazine did not have the goal of selling farmers equipment, but solely to be a source of knowledge for farmers, making John Deere an expert on farm equipment.  
+The first known example of content marketing is a magazine, first published in 1895, called *the Furrow*, published by John Deere (a company that sells tools for farmers). It’s goal was not to sell farm equipment, but to provide knowledge on farming, making John Deere the expert on farm equipment.
 
 By doing this, John Deere gave valuable information to their readers. The value that the readers received from the magazine was directly linked to the sender; John Deere. That value the reader now linked to John Deere greatly impacted how they valued all other thing John Deere did, including selling farm equipment.
 
