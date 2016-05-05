@@ -7,7 +7,7 @@ It has the potential reach of traditional broadcasting and the context of word o
 
 ## The fundamentals of social media
 
-Here you will find some points that will help you to successfully use social media for communication purposes.
+Here you will find some key concepts will help you to successfully use social media for communication purposes.
 
 * What someone tells you influences the way you perceive them and vice versa
 * The sender always lends connotation (emotional association) to the message and the message always lends connotation to the sender.
