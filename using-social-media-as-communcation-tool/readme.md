@@ -9,12 +9,12 @@ It has the potential reach of traditional broadcasting and the context of word o
 
 Here you will find some key concepts will help you to successfully use social media for communication purposes.
 
-* What someone tells you influences the way you perceive them and vice versa
+* What someone tells you influences the way you perceive them and vice versa.
 * The sender always lends connotation (emotional association) to the message and the message always lends connotation to the sender.
 * The sender is always visible.
 * Everything you say and share is documented, visible and broadcasted for a short duration to all involved accounts and their followers. This duration is extended every time someone interacts with it.
 * Whenever you like something it is documented on the liked item and broadcasted to all affected accounts. This duration can not be extended and the action is not visible on your profile.
-* Everyone using social media has the possibility to get infinite reach
+* Everyone using social media has the possibility to get infinite reach.
 * For Twitter the broadcast time is roughly 15 minutes, for facebook this is about 90 minutes and for linkedIn it is over 48 hours.
 * Everything you broadcast reaches your followers and the followers of people who interact with your broadcast, during the time it is broadcasted.
 * Only people directly affected by your actions get a notification, the rest is reached through their news feed.
@@ -22,13 +22,12 @@ Here you will find some key concepts will help you to successfully use social me
 
 ## How you could use social media
 
-Traditional use of social media is to reach and convey a direct message to your target audience
-We are selling this, we are doing that, you can find us here.
+Traditional use of social media is to reach and convey a direct message to your target audience: we are selling this, we are doing that, you can find us here.
 
-Social media is the best way to reach a lot of people, but It is meaningless if: there is not an immediate benefit for the receiver if the receiver does not know who you are. The biggest misunderstand of communication is that people expect a direct return of investment.
+Social media is the best way to reach a lot of people, but It is meaningless if there is not an immediate benefit for the receiver, especially if the receiver does not know who you are. The biggest misunderstand of communication is that people expect a direct return of investment.
 
 * Expectation: I see something i like, i interact with it.
-* Reality: I see something i like but don't specifically and immediately need, i remember it and keep on doing what i'm doing.
+* Reality: I see something I like but don't specifically and immediately need, I remember it and keep on doing what i'm doing.
 
 The value of your message to the reader, is the cornerstone of content marketing. If you try to convey too many meaningless messages, the value of your content stream drops and people stop listening.
 
