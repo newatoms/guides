@@ -5,7 +5,7 @@
 In The Rise of Storytelling as the New Marketing,
 Joe Pulizzi describes content marketing as “the idea that storytelling is key to attract and retain customers.”
 
-The first known example of content marketing is a magazine, first published in 1895, called *the Furrow*, published by John Deere (a company that sells tools for farmers). It’s goal was not to sell farm equipment, but to provide knowledge on farming, making John Deere the expert on farm equipment.
+The first known example of content marketing is a magazine, first published in 1895 by John Deere (a company that sells tools for farmers), called *the Furrow*. It’s goal was not to sell farm equipment, but to provide knowledge on farming, making John Deere the expert on farm equipment.
 
 By doing this, John Deere gave valuable information to their readers. The value that the readers received from the magazine was directly linked to the sender; John Deere. That value the reader now linked to John Deere greatly impacted how they valued all other thing John Deere did, including selling farm equipment.
 
