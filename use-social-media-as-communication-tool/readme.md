@@ -1,3 +1,5 @@
+> Goal of this guide: To help you understand the inner workings of social media so you can use those to your advantage.
+
 # Social media guide
 
 Social media is an extremely amplified version of word of mouth communication.
@@ -28,24 +30,31 @@ Social media is the best way to reach a lot of people, but It is meaningless if:
 * Expectation: I see something i like, i interact with it.
 * Reality: I see something i like but don't specifically and immediately need, i remember it and keep on doing what i'm doing.
 
-The memory your message leaves is the cornerstone of content marketing. If you try to convey too many meaningless messages people stop listening.
+The value of your message to the reader, is the cornerstone of content marketing. If you try to convey too many meaningless messages, the value of your content stream drops and people stop listening.
 
 The best use of social media is not only to reach and convey a direct message to your target audience, but also to build and maintain a relationship.
 
-Building a relationship and broadening your reach is done in the same way: be relevant for your target audience and leave a positive memory.
+Building a relationship and broadening your reach is done in the same way: be relevant for your target audience and leave a positive memory in short, give them value.
 
 Communicate from your beliefs and don't be afraid to share the secrets of the trade. The competition will always be different, your clients will never be able to do it as well as you do and the knowledge you share only manifest’s your confidence and capabilities
 
 ## What do people share?
 
-To broaden your reach you want people the share what you say.
+To broaden your reach you want people the share what you say. Items with marketing purposes that get shared a lot on social media are called viral marketing.
 
-* Everything you share on social media reflects directly to your personal profile.
-* People share when what they share fortifies the way they want people to see them
-ie: funny, smart, attractive, knowledgeable, etc
-* When it has a positive effect on them and they want to share that with their friends
-* When they want to call attention to something
-current events, etc
+In the article “Viral marketing: Motivations to forward online content” by Jason Y.C. Hoa and Melanie Dempseyb they identify four potential motivations for people to share content: (1) the need to be part of a group, (2) the need to be individualistic, (3) the need to be altruistic, and (4) the need for personal growth.
+
+Using a survey of young adults, they found out that Internet users, who are more individualistic and/or more altruistic, tend to forward more online content than others.
+
+So what you want, is that people speak positively about you with personal incentive.
+This can be done by saying something about you, but just sharing or even liking your messages is enough. The best way to do this, is simply, by giving them a reason to.
+To do this it is important to know why people interact with messages on social media.
+
+Your social media profile is a definition of who you are. It is your public resume, it is your dating profile and your portfolio. So with everything you share and say you should ask yourself, is this portfolio material? would i endorse this and how does it look with the rest of my profile?
+
+Because you only reach the people during the time your broadcast, it can often be good to broadcast the same message multiple times, and still giving the receiver a reason to share it all those times.
+
+This is the main reason why non profit organizations and education are so successful on social media with consumer goods, retail and ecommerce far behind in second place. Their messages are directly relatable to the people sharing them and lend a strong connotation to the sender and the sharer.
 
 ## Practicality
 
@@ -55,7 +64,7 @@ People hardly click on links (1%-10%), even if it has a instant relevance.  Ther
 
 Try to keep your content on a minimal amount of different sources and and channel it through social media. If using video, try to keep all your material on one provider. Try to avoid confusion where readers can find the content again.
 
-Be consistent in language, frequence, and use of external services such as eventbrite.
+Be consistent in language, frequency, and use of external services such as eventbrite.
 
 ## Practicality per channel
 Here you will find some info, specifically for the mentioned social media channels.

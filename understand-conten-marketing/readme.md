@@ -5,7 +5,9 @@
 In The Rise of Storytelling as the New Marketing,
 Joe Pulizzi describes Content marketing as “the idea that storytelling is key to attract and retain customers.”
 
-The next few quotes from the journal of marketing management in the article “Understanding digital content marketing” by Jenifer Rowley she describes some key notions about content marketing.
+The first known example of content marketing is a magazine, first published in 1895, called *the Furrow*, published by John deere (a company that sells tools for farmers). This magazine did not have the goal of selling farmers equipment, but solely to a source of knowledge for farmers making John Deere an expert on fram equipment. And sure enough when those farmers needed new gear they would go to the expert they knew and trusted, John Deere.
+
+The next few quotes from the journal of marketing management in the article “Understanding digital content marketing”, Jenifer Rowley describes some key notions about content marketing.
 
 “...a recurrent theme in DCM (digital content marketing) is customer value, and this leads into the second major contribution of the article, an exploration of the notion of customer value in digital content marketplaces.”
 
@@ -13,11 +15,11 @@ The next few quotes from the journal of marketing management in the article “U
 
 “The customer's experience of digital content is influenced by all stakeholders in the value chain as well as requiring the customer to participate in learning and co-creation of the experience.”
 
-“The potential of the 'value-in-use' notion of customer value as a basis for ensuring that consumers are fully engaged as stakeholders in the content economy. ” ()
+“The potential of the 'value-in-use' notion of customer value as a basis for ensuring that consumers are fully engaged as stakeholders in the content economy. ”
 
 ## What you need to know in order to make awesome content marketing
 
-So the first part of the guide we used a bunch of quotes to help you understand what content marketing is and what its struggles are. In the rest of the guide we will try to explain a few concepts which might help you create awesome content marketing. Everything beyond this point is our own interpretation and by no means a unwavering truth. 
+So the first part of the guide we used a bunch of quotes to help you understand what content marketing is and what its struggles are. In the rest of the guide we will try to explain a few concepts which might help you create awesome content marketing. Everything beyond this point is our own interpretation and by no means a unwavering truth.
 
 ### The relation between connotation and context
 
@@ -42,32 +44,10 @@ In advertisement, when you have people speaking for you or even endorsing you, i
 If used right, social media can work around a lot of the problems traditional communication has, get a bigger maximum reach and is free.
 
 It always shows the name of the sender, solving the branding issue
-people can share your messages from their own incentive, creating the connotation and reach of word of mouth
-It extends your presence to the outside world, so everyone can see the way you behave.
-
-### How to give intensive
-
-So what you want, is that people speak positively about you with personal incentive.
-This can be done by saying something about you, but just sharing or even liking your messages is enough. The best way to do this, is simply, by giving them a reason to.
-To do this it is important to know why people interact with messages on social media.
-
-Your social media profile is a definition of who you are. It is your public resume, it is your dating profile and your portfolio. So with everything you share and say you should ask yourself, is this portfolio material? would i endorse this and how does it look with the rest of my profile?
-
-Because you only reach the people during the time your broadcast, it can often be good to broadcast the same message multiple times, and still giving the receiver a reason to share it all those times.
-
-This is the main reason why non profit organizations and education are so successful on social media with consumer goods, retail and ecommerce far behind in second place.
-Their messages are directly relatable to the people sharing them and lend a strong connotation to the sender and the sharer.
+people can share your messages from their own incentive, creating the connotation and reach of word of mouth. It extends your presence to the outside world, so everyone can see the way you behave.
+For more on social media you can check our [guide on social media](.../use-social-media-as-comunication-tool).
 
 ### Conclusions
 
 Don't act different than who you are, if you want people to perceive you differently, change!
-Let your main goal be to reinforce your beliefs, don't let the means be your goal.
-Make your context as broad as possible.
-Make your content relevant and relatable.
-
-
-Traditionally the goal of communication is to make people do something with the information that is communicated.
-
-The goal of social media is to make people interact with your messages and take something away from them.
-
-A solution to this problem presented itself with the rise of social media and increase in personal reach. Pay a popular person to endorse your product from there own profile and hide the fact that you payed them. Effective but very risky since it is borderline immorale.
+Let your main goal be to reinforce your beliefs, don't let the means be your goal. Make your context as broad as possible. Make your content relevant and relatable. Traditionally the goal of communication is to make people do something with the information that is communicated. The goal of content marketing is to for people take something away from your messages and interact with them.
