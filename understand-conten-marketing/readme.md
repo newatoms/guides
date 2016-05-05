@@ -3,7 +3,7 @@
 # What the flying fuck is content marketing?
 
 In The Rise of Storytelling as the New Marketing,
-Joe Pulizzi describes Content marketing as “the idea that storytelling is key to attract and retain customers.”
+Joe Pulizzi describes content marketing as “the idea that storytelling is key to attract and retain customers.”
 
 The first known example of content marketing is a magazine, first published in 1895, called *the Furrow*, published by John Deere (a company that sells tools for farmers). This magazine did not have the goal of selling farmers equipment, but solely to be a source of knowledge for farmers, making John Deere an expert on farm equipment.  
 
