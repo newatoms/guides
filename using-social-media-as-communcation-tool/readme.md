@@ -2,12 +2,12 @@
 
 # Social media guide
 
-Social media is an extremely amplified version of word of mouth communication.
+Social media is an extremely amplified version of  [word of mouth](https://github.com/newatoms/guides/tree/ready/understand-conten-marketing/readme.md#word-of-mouth) communication.
 It has the potential reach of traditional broadcasting and the context of word of mouth.
 
 ## The fundamentals of social media
 
-Here you will find some key concepts will help you to successfully use social media for communication purposes.
+Here you will find some key concepts about social media that will help you to successfully use social media for communication purposes.
 
 * What someone tells you influences the way you perceive them and vice versa.
 * The sender always lends connotation (emotional association) to the message and the message always lends connotation to the sender.
@@ -22,20 +22,20 @@ Here you will find some key concepts will help you to successfully use social me
 
 ## How you could use social media
 
-Traditional use of social media is to reach and convey a direct message to your target audience: we are selling this, we are doing that, you can find us here.
+Traditional use of social media is to reach and convey a direct message to your target audience, for example: we are selling this, we are doing that, you can find us here.
 
-Social media is the best way to reach a lot of people, but It is meaningless if there is not an immediate benefit for the receiver, especially if the receiver does not know who you are. The biggest misunderstand of communication is that people expect a direct return of investment.
+Social media is the best way to reach a lot of people, but it is meaningless if there is not an immediate benefit for the receiver, especially if the receiver does not know who you are. The biggest misunderstand of communication is that people expect a direct return of investment.
 
-* Expectation: I see something i like, i interact with it.
-* Reality: I see something I like but don't specifically and immediately need, I remember it and keep on doing what i'm doing.
+* Expectation: I see something I like, I interact with it.
+* Reality: I see something I like but don't specifically and immediately need, I might remember it and keep on doing what i'm doing.
 
-The value of your message to the reader, is the cornerstone of content marketing. If you try to convey too many meaningless messages, the value of your content stream drops and people stop listening.
+The value of your message to the reader, is the cornerstone of the effectiveness of your social media use. If you try to convey too many meaningless messages, the value of your content stream drops and people stop listening.
 
 The best use of social media is not only to reach and convey a direct message to your target audience, but also to build and maintain a relationship.
 
-Building a relationship and broadening your reach is done in the same way: be relevant for your target audience and leave a positive memory in short, give them value.
+Building a relationship and broadening your reach is done in the same way: be relevant for your target audience and leave a positive memory. In short, give the reader value for their time.
 
-Communicate from your beliefs and don't be afraid to share the secrets of the trade. The competition will always be different, your clients will never be able to do it as well as you do and the knowledge you share only manifest’s your confidence and capabilities
+A way to do this is to communicate from your beliefs and not being afraid to share the secrets of the trade. The competition will always be different, your clients will never be able to do it as well, and the knowledge you share only manifest’s your confidence and capabilities
 
 ## What do people share?
 
@@ -45,11 +45,12 @@ In the article “Viral marketing: Motivations to forward online content” by J
 
 Using a survey of young adults, they found out that Internet users, who are more individualistic and/or more altruistic, tend to forward more online content than others.
 
-So what you want, is that people speak positively about you with personal incentive.
-This can be done by saying something about you, but just sharing or even liking your messages is enough. The best way to do this, is simply, by giving them a reason to.
+You do not only want people to interact with your messages, but also that they do this in a positive manner. Your want people to speak positively about you with personal incentive.
+
+This can be done by saying something about you, but just sharing or even liking your messages is enough. The best way to get your readers to do this, is simply, by giving them a reason to.
 To do this it is important to know why people interact with messages on social media.
 
-Your social media profile is a definition of who you are. It is your public resume, it is your dating profile and your portfolio. So with everything you share and say you should ask yourself, is this portfolio material? would i endorse this and how does it look with the rest of my profile?
+Your social media profile is a definition of who you are. It is your public resume, it is your dating profile and your portfolio. So with everything you share and say you should ask yourself, is this portfolio material? would I endorse this and how does it look with the rest of my profile?
 
 Because you only reach the people during the time your broadcast, it can often be good to broadcast the same message multiple times, and still giving the receiver a reason to share it all those times.
 
@@ -72,11 +73,11 @@ Here you will find some info, specifically for the mentioned social media channe
 
 * Mostly used for building and maintaining a network, conveying and receiving current events to and from your followers.
 * Mixed professional and personal use.
-* Shows all the messages people you follow post in real time
-* Mentions give a notification for the mentioned and show up in the feed of their followers
+* Shows all the messages people you follow post in real time.
+* Mentions give a notification for the mentioned and show up in the feed of their followers.
 * If “@” is at the beginning of a sentence the tweet is a direct message and only visible to the receiver defined by the “@”.
-* 140 character limit, images “cost” 25 characters
-* Hashtags are used for 2 things; Search label and making or taking part of a phenomenon
+* 140 character limit, images “cost” 25 characters, links 23 characters.
+* Hashtags are used for 2 things; Search label and making or taking part of a phenomenon.
 
 ### Facebook
 
@@ -91,7 +92,7 @@ Here you will find some info, specifically for the mentioned social media channe
 * Used for profiling yourself and others, career oriented.
 * Professional use.
 * Shows messages from the people you follow in real time and suggests messages, jobs, companies and connections based on your profile information and on what you klick
-* 600 character limit
+* 600 character limit.
 * Only the first 150 Characters are visible, the rest is hidden behind “read more”.
 
 ## Conclusion
