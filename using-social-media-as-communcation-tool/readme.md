@@ -45,10 +45,9 @@ In the article “Viral marketing: Motivations to forward online content”, Jas
 
 Using a survey of young adults, they found out that Internet users, who are more individualistic and/or more altruistic, tend to forward more online content than others.
 
-You do not want people to only interact with your messages, but to do so in a positive manner. Your want people to speak positively about you with personal incentive.
+You do not want people to only interact with your messages, but to do so in a positive manner. You want people to speak positively about you with personal incentive.
 
-This can be done by saying something about you, but just sharing or even liking your messages is enough. The best way to get your readers to do this is simply by giving them a reason to.
-To do this, it is important to know why people interact with messages on social media.
+This can be done by saying something about you, but just sharing or even liking your messages is enough. The best way to get your readers to do this is simply by giving them a reason to. To do this, it is important to know why people interact with messages on social media.
 
 Your social media profile is a definition of who you are. It is your public resume, your dating profile and your portfolio. So with everything you share and say you should ask yourself, 'is this portfolio material? Would I endorse this and how does it look with the rest of my profile?'
 
@@ -58,18 +57,18 @@ This is the main reason why non-profit organizations and education are so succes
 
 ## Practicality
 
-There some insights that have been drawn from multiple researches on social media. 
+Here are some insights that have been drawn from research on social media: 
 
-In general, people only briefly look at what they see on social media. Therefore, the first sentences or image they see should capture the reader in a way that is in line with what the message you're conveying.
+* In general, people only briefly look at what they see on social media. Therefore, the first sentences or image they see should capture the reader in a way that is in line with what the message you're conveying.
 
-People hardly click on links (1%-10%), even if they have instant relevance. Therefore, you should limit use of tinyurl and bitly to urls of which the names are not relevant or obvious.
+* People hardly click on links (1%-10%), even if they have instant relevance. Therefore, you should limit use of tinyurl and bitly to urls of which the names are not relevant or obvious.
 
-To make sure that people can find your content again it is important to keep the following things in mind.
-Try to keep your content on a minimal amount of different sources and and channel it through social media. 
-If you publish an article online, do so on a blog and link to that blogpost trough different channels, dont post the article multiple times on different platforms. You want people to be able to share the source, not necesarely the outlet. 
-If you are using video, try to keep all your material on one provider (vimeo, youtube, etc.)
+To make sure that people can find your content again, it is important to keep the following things in mind:
 
-Be consistent in language, frequency, and use of external services such as Eventbrite, doodle etc.
+* Try to keep your content on a minimal amount of different sources and and channel it through social media. 
+* If you publish an article online, do so on a blog and link to that blogpost through different channels. Don't post the article multiple times on different platforms. You want people to be able to share the source, not necessarily the outlet. 
+* If you are using video, try to keep all your material on one provider (Vimeo, YouTube, etc.)
+* Be consistent in language, frequency, and use of external services such as Eventbrite, Doodle etc.
 
 ## Practicality per channel
 
@@ -103,7 +102,7 @@ Here you will find some info specifically pertaining to the mentioned social med
 
 ## Conclusion
 
-Hopefully you were able to read trough the endless list of bullet points, in order to make the bulletpoints more clear we filterd some of the most important points out and made another bullet point list! The list below is meant to give you some advice on how to use social media based on the concepts discussed in this guide. 
+Hopefully you were able to read through the endless list of bullet points. In order to make the bullet points more clear, we filterd some of the most important points out and made another bullet point list! The list below is meant to give you a summary of advice on how to use social media based on the concepts discussed in this guide. 
 
 * Roughly define your target audience.
 * Choose your channels based on your target audience.
