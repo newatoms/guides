@@ -14,6 +14,8 @@ The next few quotes are from the *Journal of Marketing Management* in the articl
 
 “...a recurrent theme in DCM (digital content marketing) is customer value, and the the difficulty in developing a notion of 'value' in the context of digital content”
 
+As ilustrated in the *Furrow* example, content marketing strives to add value to the reader in order for the reader to link that value to the sender. A big problem with this, as Jenifer Rowly states, is the difeculty to establish reader valeu.
+
 “The customer's experience of digital content is influenced by all stakeholders in the value chain as well as requiring the customer to participate in learning and co-creation of the experience.”
 
 “The potential of the 'value-in-use' notion of customer value as a basis for ensuring that consumers are fully engaged as stakeholders in the content economy.”
