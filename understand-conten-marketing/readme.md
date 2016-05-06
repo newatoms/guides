@@ -12,9 +12,7 @@ And sure enough, when those farmers needed new gear they would go to the expert 
 
 The next few quotes are from the *Journal of Marketing Management* in the article “Understanding Digital Content Marketing”, in which Jenifer Rowley describes some key notions about content marketing:
 
-“...a recurrent theme in DCM (digital content marketing) is customer value, and this leads into the second major contribution of the article, an exploration of the notion of customer value in digital content marketplaces.”
-
-“The difficulty in developing a notion of 'value' in the context of digital content”
+“...a recurrent theme in DCM (digital content marketing) is customer value, and the the difficulty in developing a notion of 'value' in the context of digital content”
 
 “The customer's experience of digital content is influenced by all stakeholders in the value chain as well as requiring the customer to participate in learning and co-creation of the experience.”
 
