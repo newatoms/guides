@@ -1,8 +1,8 @@
 # Guides
 
-Hia👋! Welcome to the New Atoms Guides. We write these guides on how to do all the things we do. These serve to teach people interested in our ways but also to reassure.
+Hia👋! Welcome to the New Atoms Guides. We write these guides on how to do all the things we do. These serve to teach people interested in our ways, but also to reassure.
 
-Here you can find guides on used tools, communication, workflows, rules and most important, how to make awesome things. It's part of every team members job to edit the guides in order to share what we learn. There is also [a guide on how to add a guide](contributing.md)!
+Here you can find guides on used tools, communication, workflows, rules and most important, how to make awesome things. It's part of every team member's job to edit the guides in order to share what we learn. There is also [a guide on how to add a guide](contributing.md)!
 
 ## All of the guides
 
@@ -32,5 +32,6 @@ Here you find a list with links to all guides and their goal.
 |[scrape information from LinkedIn](web-scraping) | Extract data from LinkedIn profiles into a structured json format |
 |[write well](writing-guide) | To help team members write in a clear manner |
 |[approach paragraphs](paragraph-guide)| To understand how paragraph length affects readability |
+|[write a user story](user-story-guide)| To help you create effective user stories |
 
 Use the [Glossary](glossary) to find definitions of words we use and how we use them.
