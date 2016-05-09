@@ -12,11 +12,9 @@ And sure enough, when those farmers needed new gear they would go to the expert 
 
 The next few quotes are from the *Journal of Marketing Management* in the article “Understanding Digital Content Marketing”, in which Jenifer Rowley describes some key notions about content marketing:
 
-“...a recurrent theme in DCM (digital content marketing) is customer value, and the the difficulty in developing a notion of 'value' in the context of digital content”
+As ilustrated in the *Furrow* example, content marketing strives to add value to the reader in order for the reader to link that value to the sender. A big problem with this, as Jenifer Rowly states in the *Journal of Marketing Managment*, is the difeculty to establish what is valuable for the reader
 
-As ilustrated in the *Furrow* example, content marketing strives to add value to the reader in order for the reader to link that value to the sender. A big problem with this, as Jenifer Rowly states, is the difeculty to establish reader valeu.
-
-“The customer's experience of digital content is influenced by all stakeholders in the value chain as well as requiring the customer to participate in learning and co-creation of the experience.”
+As a solution to this problem she states that “The customer's experience of digital content is influenced by all stakeholders in the value chain as well as requiring the customer to participate in learning and co-creation of the experience.”. Meaning that by making the reader part of the content, the outomaticly value said content more. A great example of this the advertisement stunt by [3 MM sercurity glass](https://www.youtube.com/watch?v=QLf7-fZWez0) where they hid 1m usd behind their security glass in a busstop, inviting people to try to break the glass in order to obtain the money. 
 
 “The potential of the 'value-in-use' notion of customer value as a basis for ensuring that consumers are fully engaged as stakeholders in the content economy.”
 
