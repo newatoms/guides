@@ -35,7 +35,7 @@ Be a guardian of the originality and authenticity of your content piece. This is
 
 When creating a blog post, you often use external sources to make a point about something. Linking to [movie clips](https://www.youtube.com/), [scientific papers](https://scholar.google.nl/), other blog posts or [quotes from books](http://www.goodreads.com/quotes/tag/books) can give the reader a better understanding of a topic or can increase the entertainment value.
 
-Although linking can increase the value of your written piece, it also makes you dependent these sources. Other websites can go offline, paywalls might be raised and youtube videos might get banned. We all hate links that don’t work. It’s therefore valuable to know whether your resources are sustainable. Questions you can ask yourself:
+Although linking can increase the value of your written piece, it also makes you dependent on these sources. Other websites can go offline, paywalls might be raised and youtube videos might get banned. We all hate links that don’t work. It’s therefore valuable to know whether your resources are sustainable. Questions you can ask yourself:
 
 * Who is the owner of the content?
 * **Most important but difficult:** Do you trust the owner?
