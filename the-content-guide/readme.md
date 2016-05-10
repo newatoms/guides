@@ -40,7 +40,7 @@ Although linking can increase the value of your written piece, you also lose som
 * Who is the owner of the content?
 * **Most important but difficult:** Do you trust the owner?
 * What are its takes on copyrighting?
-* If the resource a Youtube/Vimeo clip: Did it ever banned a clip?
+* If the resource a Youtube/Vimeo clip: Did it ever banned a clip? How popular is the video?
 * If the resource is an article on a news site: Do articles after a designated time go behind a paywall?
 * How old is the source?
 
