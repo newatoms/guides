@@ -80,4 +80,4 @@ For more on social media, you can check our [guide on social media](.../use-soci
 Don't act differently than who you are. If you want people to perceive you differently, change!
 Let your main goal be to reinforce your beliefs; don't let the means be your goal. Make your context as broad as possible. Make your content relevant and relatable. Traditionally, the goal of communication is to make people do something with the information that is communicated.
 
-The goal of content marketing is, similarly, for people to take something away from your messages and interact with them.
+The goal of content marketing is to give value to the reciever, making them a steak holder instad of a target in your communciation. Work with your target audience, instead of for or against them. 
