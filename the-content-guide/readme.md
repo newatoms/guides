@@ -96,6 +96,10 @@ Most importantly, images enrich an article in the sense that they support the wr
 
 A good mantra, with the addition of more multimedia in the back of our minds, is not "form follows content" but "content follows form".
 
+### The use of movie stills
+
+Copyright law is a hassle and can cause headaches. 
+
 ## Ending
 
 Our content developers have acquired all of these qualities throughout their own practices. Additionally, each one of our team members contributes to every post created, which ensures that all these diverse qualities are brought together into one big whole, making for the best content possible, which is pretty awesome.
