@@ -111,6 +111,18 @@ Most importantly, images enrich an article in the sense that they support the wr
 
 A good mantra, with the addition of more multimedia in the back of our minds, is not "form follows content" but "content follows form".
 
+### The use of movie stills
+
+Copyright law is a hassle and can cause headaches 🤕. Movie stills for example, can provide an article with valuable context. The copyright law of these creative works is complicated. Yet, there are some arguments that can reduce your stress level while using them. The actual movies are definitely copyrighted, but some argue that movie stills (a very small part of the whole creative work) fall under [*fair use*](http://fairuse.stanford.edu/overview/fair-use/what-is-fair-use/) material.  
+
+A Report of the Ad Hoc Committee of the [Society For Cinema Studies](http://www.cmstudies.org/?page=fair_use) [discussed this issue](http://www.intellectbooks.co.uk/MediaManager/File/Film%20Stills.pdf) and argued that: They not only believe that it is *fair use* to publish film stills, they do not believe that gaining permission should be necessary.
+
+Apart from these sources there are some other arguments in favour of using stills in posts. Using a movie still on a blog to describe the movie, link it to daily life, praise or criticise it will create free publicity for the movie. As long as it is not a post where you crumble the movie to a limp cockroach, the owners will not bother you. Lawyers are expensive! 💸
+
+#### What you have to keep in mind! 
+
+Insert image source with proper mentions to the owners’ original work.    
+
 ## Ending
 
 Our content developers have acquired all of these qualities throughout their own practices. Additionally, each one of our team members contributes to every post created, which ensures that all these diverse qualities are brought together into one big whole, making for the best content possible, which is pretty awesome.
