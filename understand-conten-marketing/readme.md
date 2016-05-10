@@ -15,18 +15,20 @@ As ilustrated with the *Furrow*, content marketing strives to add value to the r
 Rowly states that “The customer's experience of digital content is influenced by all stakeholders in the value chain as well as requiring the customer to participate in learning and co-creation of the experience." Meaning that according to Rowly, value is determined by a interactive relationship between the sender (this case the customer) and the consumer (the target of the communication). Often this is done by communicating from the core of your added value, just like the *Furrow* was about sharing knowledge on farming and farm equipment (becouse they John Deere knew a lot about farm equipment and farming, he could make the best equipment).
 
 
-Rowly also mentions 'value-in-use', which she discribes as “customer value as a basis for ensuring that consumers are fully engaged as stakeholders in the content economy.” Meaning simply, that if the reader receives value from consuming your content marketing, they are a steak-holder.
+Rowly also mentions 'value-in-use', which she describes as “customer value as a basis for ensuring that consumers are fully engaged as stakeholders in the content economy.” Meaning simply, that if the reader receives value from consuming your content marketing, they are a steak-holder, incentivizing them to share and interact with the content.
 
 <img src="https://s-media-cache-ak0.pinimg.com/736x/76/96/04/7696041b4420a3a6664492751a76c5da.jpg" width="100%">
 A great example of content marketing is a stunt by 3M, where they put 3 million USD behind their security glass in a bus stop, inviting people to try to break the glass in order to obtain the money.
 
+In this case the value given by M3 can very easily be recognized in two categories. Free money, and proof that he security glass can withstand people wanting free money.
 
+The value-in-use in this case is the idea that you can obtain millions in cash, and seeing how much the glass can withstand.
 
-
+Just with the *Furrow* 3M does not simply say, our product is the best, but they illustrating it by gambling 3 million dollars on the fact that even the most motivated people can not break trough it. Screaming the value and promise of their product, without uttering a word about it.
 
 ## What you need to know in order to make awesome content marketing
 
-In the first part of the guide, we used a bunch of quotes to help you understand what content marketing is and what its struggles are. In the rest of the guide, we will try to explain a few concepts which might help you create awesome content marketing. Everything beyond this point is our own interpretation and by no means an unwavering truth.
+In the first part of the guide we tried to explain what conten markting is. In the rest of the guide, we will try to explain a few concepts which might help you create awesome content marketing. Everything beyond this point is our own interpretation and by no means an unwavering truth.
 
 ### The relation between connotation and context
 
@@ -40,9 +42,10 @@ This is called branding.
 
 ### Branding
 
-Branding is loading a name with connotation. The problem with branding is that it has always been the necessity of showing your name in something that is supposed to call on emotions.
+Branding is loading a name with connotation (emotional association). When something speaks to your emotions, the incentive of the sender is extremely important.
+The moment we realize that what we are feeling is constructed by someone with a certain (comercial) goal in mind that is not in line with the message and our emotions, we often feel cheated.
 
-The use of your name shows you did not make this out of the kindness of your heart, but rather to influence the way people think about you, which in turn greatly influences the way they think about what they see.
+The use of your name shows you did not make this out of the kindness of your heart, but rather to influence the way people think about you, which in turn greatly influences the way they think about what they see, often making it feel manipulative and petty.
 
 If you don't show your name, people don't know who the sender is, which defeats the purpose. We have been trying to work around this for quite a while, making phased campaigns which reveal the sender in a later phase, making the sender the “sponsor” of a message using product placement and sponsoring of events and organisations.
 
