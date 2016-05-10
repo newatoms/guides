@@ -33,7 +33,7 @@ Be a guardian of the originality and authenticity of your content piece. This is
 
 ### Safe linking
 
-When creating for example a blog post, you often use information external sources to make a point about something. Linking to movie clips, scientific papers, other blog posts or quotes from books can give the reader a better understanding of a topic or can increase entertainment.
+When creating for example a blog post, you often use information external sources to make a point about something. Linking to [movie clips](https://www.youtube.com/), [scientific papers](https://scholar.google.nl/), other blog posts or [quotes from books](http://www.goodreads.com/quotes/tag/books) can give the reader a better understanding of a topic or can increase entertainment.
 
 Although linking can increase the value of your written piece, you also lose some of your  independence. You are dependent on other websites that might go offline, paywalls that might occur or youtube videos that get banned. We all hate links that don’t work. It’s therefor valuable to know if your resource is sustainable. Questions you can ask yourself:
 
@@ -42,6 +42,9 @@ Although linking can increase the value of your written piece, you also lose som
 * What are its takes on copyrighting?
 * If the resource a Youtube/Vimeo clip: Did it ever banned a clip?
 * If the resource is an article on a news site: Do articles after a designated time go behind a paywall?
+* How old is the source?
+
+Do remember that you can never know for sure and can never be flawless. But you can always try to decrease the risk.
 
 ## Structure & readability
 
