@@ -113,7 +113,7 @@ A good mantra, with the addition of more multimedia in the back of our minds, is
 
 ### The use of movie stills
 
-Copyright law is a hassle and can cause headaches 🤕. Movie stills for example, can provide an article with valuable context. The copyright law of these creative works is complicated. Yet, there are some arguments that can reduce your stress level while using them. The actual movies are definitely copyrighted, but some argue that movie stills (a very small part of the whole creative work) fall under the [*fair use*](http://fairuse.stanford.edu/overview/fair-use/what-is-fair-use/) material.  
+Copyright law is a hassle and can cause headaches 🤕. Movie stills for example, can provide an article with valuable context. The copyright law of these creative works is complicated. Yet, there are some arguments that can reduce your stress level while using them. The actual movies are definitely copyrighted, but some argue that movie stills (a very small part of the whole creative work) fall under [*fair use*](http://fairuse.stanford.edu/overview/fair-use/what-is-fair-use/) material.  
 
 In a 1993 Ad Hoc Committee this issue was discussed and among many conclusions, the committee argued that: They not only believe that it is *fair use* to publish film stills, they do not believe that gaining permission should be necessary. Report of the Ad Hoc Committee of the [Society For Cinema Studies](http://www.cmstudies.org/?page=fair_use), [Fair Usage Publication of Film Stills](http://www.intellectbooks.co.uk/MediaManager/File/Film%20Stills.pdf) by Kristen Thompson.
 
