@@ -71,7 +71,7 @@ In advertisement, when you have people speaking for you or even endorsing you, y
 
 If used effectively, social media can work around a lot of the problems of traditional communication, achieve a wider maximum reach, and is free.
 
-Social media always shows the name of the sender, solving the branding issue. People can share your messages from their own incentive, creating the connotation and reach of word of mouth. It extends your presence to the outside world, so everyone can see the way you behave.
+Social media always shows the name of the sender, solving the branding issue. People can share your messages from their own initiative, creating the connotation and reach of word of mouth. It extends your presence to the outside world, so everyone can see the way you behave.
 
 For more on social media, you can check our [guide on social media](.../use-social-media-as-comunication-tool).
 
