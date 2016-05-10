@@ -31,6 +31,21 @@ Apart from originality, high quality content also makes a certain promise about 
 
 Be a guardian of the originality and authenticity of your content piece. This is easier said than done because we all scrape information from different kinds of sources. Whether it's from the authority of the people you interview, articles, books or your own judgement, most of your knowledge is based on other work. The way in which you handle these sources as the author and how you combine them to share new insights is what makes the difference.
 
+### Reduce the chance of broken links
+
+When creating a blog post, you often use external sources to make a point about something. Linking to [movie clips](https://www.youtube.com/), [scientific papers](https://scholar.google.nl/), other blog posts or [quotes from books](http://www.goodreads.com/quotes/tag/books) can give the reader a better understanding of a topic or can increase the entertainment value.
+
+Although linking can increase the value of your written piece, it also makes you dependent on these sources. Other websites can go offline, paywalls might be raised and youtube videos might get banned. We all hate links that don’t work. It’s therefore valuable to know whether your resources are sustainable. Questions you can ask yourself:
+
+* Who is the owner of the content?
+* **Most important but difficult:** Do you trust the owner?
+* What are its takes on copyrighting?
+* If the resource is a Youtube/Vimeo clip: Do you know of similar videos that got banned? How popular is the video?
+* If the resource is an article on a news site: Do articles after a designated time go behind a paywall?
+* How old is the source?
+
+Do remember that you can never be 100% sure because you are dependent on external factors. You can however reduce the risk immensely.
+
 ## Structure & readability
 
 Readers are looking for answers and want to find them in the easiest, fastest way possible. A well-structured text gives guidance and leads the reader towards its conclusion in a gentle, organic fashion. A clear text consists of:
