@@ -12,8 +12,9 @@ And sure enough, when those farmers needed new gear they would go to the expert 
 
 As ilustrated with the *Furrow*, content marketing strives to add value to the reader in order for the reader to link that value to the sender. A big problem with this, as Jenifer Rowly states in the *Journal of Marketing Managment*, is the difficulty to establish what is valuable for the reader
 
-Rowly states that “The customer's experience of digital content is influenced by all stakeholders in the value chain as well as requiring the customer to participate in learning and co-creation of the experience." Meaning that according to Rowly, value is determined by a interactive relationship between the sender (this case the customer) and the consumer (the target of the communication). Often this is done by communicating from the core of your added value, just like the *Furrow* was about sharing knowledge on farming and farm equipment (becouse they John Deere knew a lot about farm equipment and farming, he could make the best equipment).
+Rowly states that “The customer's experience of digital content is influenced by all stakeholders in the value chain as well as requiring the customer to participate in learning and co-creation of the experience." Meaning that according to Rowly, value is determined by a interactive relationship between the sender (this case the customer) and the consumer (the target of the communication). 
 
+Often this is done by communicating from the core of your added value, just like the *Furrow* was about sharing knowledge on farming and farm equipment (becouse they John Deere knew a lot about farm equipment and farming, he could make the best equipment).
 
 Rowly also mentions 'value-in-use', which she describes as “customer value as a basis for ensuring that consumers are fully engaged as stakeholders in the content economy.” Meaning simply, that if the reader receives value from consuming your content marketing, they are a steak-holder, incentivizing them to share and interact with the content.
 
