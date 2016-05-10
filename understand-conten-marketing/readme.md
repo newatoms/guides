@@ -12,12 +12,15 @@ And sure enough, when those farmers needed new gear they would go to the expert 
 
 As ilustrated with the *Furrow*, content marketing strives to add value to the reader in order for the reader to link that value to the sender. A big problem with this, as Jenifer Rowly states in the *Journal of Marketing Managment*, is the difficulty to establish what is valuable for the reader
 
-Rowly states that “The customer's experience of digital content is influenced by all stakeholders in the value chain as well as requiring the customer to participate in learning and co-creation of the experience.” Meaning that by making the reader part of the creation and thus the experience content, the automatically value said content more.
+Rowly states that “The customer's experience of digital content is influenced by all stakeholders in the value chain as well as requiring the customer to participate in learning and co-creation of the experience." Meaning that according to Rowly, value is determined by a interactive relationship between the sender (this case the customer) and the consumer (the target of the communication). Often this is done by communicating from the core of your added value, just like the *Furrow* was about sharing knowledge on farming and farm equipment (becouse they John Deere knew a lot about farm equipment and farming, he could make the best equipment).
 
-“The potential of the 'value-in-use' notion of customer value as a basis for ensuring that consumers are fully engaged as stakeholders in the content economy.”
+
+Rowly also mentions 'value-in-use', which she discribes as “customer value as a basis for ensuring that consumers are fully engaged as stakeholders in the content economy.” Meaning simply, that if the reader receives value from consuming your content marketing, they are a steak-holder.
 
 <img src="https://s-media-cache-ak0.pinimg.com/736x/76/96/04/7696041b4420a3a6664492751a76c5da.jpg" width="100%">
-A great example of this the advertisement stunt by 3M, where they put 3 million USD behind their security glass in a bus stop, inviting people to try to break the glass in order to obtain the money.
+A great example of content marketing is a stunt by 3M, where they put 3 million USD behind their security glass in a bus stop, inviting people to try to break the glass in order to obtain the money.
+
+
 
 
 
