@@ -18,13 +18,13 @@ Rowly states that “The customer's experience of digital content is influenced 
 Rowly also mentions 'value-in-use', which she describes as “customer value as a basis for ensuring that consumers are fully engaged as stakeholders in the content economy.” Meaning simply, that if the reader receives value from consuming your content marketing, they are a steak-holder, incentivizing them to share and interact with the content.
 
 <img src="https://s-media-cache-ak0.pinimg.com/736x/76/96/04/7696041b4420a3a6664492751a76c5da.jpg" width="100%">
-A great example of content marketing is a stunt by 3M, where they put 3 million USD behind their security glass in a bus stop, inviting people to try to break the glass in order to obtain the money.
+A great example of content marketing is a stunt by *3M*, where they put 3 million USD behind their security glass in a bus stop, inviting people to try to break the glass in order to obtain the money.
 
-In this case the value given by M3 can very easily be recognized in two categories. Free money, and proof that he security glass can withstand people wanting free money.
+In this case the value given by *3M* can very easily be recognized in two categories. Free money, and proof that he security glass can withstand people wanting free money.
 
 The value-in-use in this case is the idea that you can obtain millions in cash, and seeing how much the glass can withstand.
 
-Just with the *Furrow* 3M does not simply say, our product is the best, but they illustrating it by gambling 3 million dollars on the fact that even the most motivated people can not break trough it. Screaming the value and promise of their product, without uttering a word about it.
+Just with the *Furrow*, *3M* does not simply say, our product is the best, but they illustrating it by gambling 3 million dollars on the fact that even the most motivated people can not break trough it. Screaming the value and promise of their product, without uttering a word.
 
 ## What you need to know in order to make awesome content marketing
 
