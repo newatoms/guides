@@ -44,7 +44,7 @@ Although linking can increase the value of your written piece, you also lose som
 * If the resource is an article on a news site: Do articles after a designated time go behind a paywall?
 * How old is the source?
 
-Do remember that you can never be 100% flawless, your dependent of external powers. You can however at least try to reduce the risk.
+Do remember that you can never be 100% flawless, because you are dependent on external powers. You can however at least try to reduce the risk.
 
 ## Structure & readability
 
