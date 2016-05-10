@@ -14,7 +14,7 @@ As ilustrated with the *Furrow*, content marketing strives to add value to the r
 
 Rowly states that “The customer's experience of digital content is influenced by all stakeholders in the value chain as well as requiring the customer to participate in learning and co-creation of the experience." Meaning that according to Rowly, value is determined by a interactive relationship between the sender (this case the customer) and the consumer (the target of the communication). 
 
-Often this is done by communicating from the core of your added value, just like the *Furrow* was about sharing knowledge on farming and farm equipment (becouse they John Deere knew a lot about farm equipment and farming, he could make the best equipment).
+Often this is done by communicating from the core of your added value, just like the *Furrow* was about sharing knowledge on farming and farm equipment (becouse John Deere knew a lot about farm equipment and farming, he could make the best equipment).
 
 Rowly also mentions 'value-in-use', which she describes as “customer value as a basis for ensuring that consumers are fully engaged as stakeholders in the content economy.” Meaning simply, that if the reader receives value from consuming your content marketing, they are a steak-holder, incentivizing them to share and interact with the content.
 
@@ -25,7 +25,7 @@ In this case the value given by *3M* can very easily be recognized in two catego
 
 The value-in-use in this case is the idea that you can obtain millions in cash, and seeing how much the glass can withstand.
 
-Just with the *Furrow*, *3M* does not simply say, our product is the best, but they illustrating it by gambling 3 million dollars on the fact that even the most motivated people can not break trough it. Screaming the value and promise of their product, without uttering a word.
+Just with the *Furrow*, *3M* does not simply say, our product is the best, but illustrating it by gambling 3 million dollars on the fact that even the most motivated people can not break trough it. Screaming the value and promise of their product, without uttering a word.
 
 ## What you need to know in order to make awesome content marketing
 
