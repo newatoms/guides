@@ -31,7 +31,7 @@ Apart from originality, high quality content also makes a certain promise about 
 
 Be a guardian of the originality and authenticity of your content piece. This is easier said than done because we all scrape information from different kinds of sources. Whether it's from the authority of the people you interview, articles, books or your own judgement, most of your knowledge is based on other work. The way in which you handle these sources as the author and how you combine them to share new insights is what makes the difference.
 
-### Safe linking
+### Reduce the chance of broken links
 
 When creating for example a blog post, you often use information external sources to make a point about something. Linking to [movie clips](https://www.youtube.com/), [scientific papers](https://scholar.google.nl/), other blog posts or [quotes from books](http://www.goodreads.com/quotes/tag/books) can give the reader a better understanding of a topic or can increase entertainment.
 
