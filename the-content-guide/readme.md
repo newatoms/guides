@@ -117,7 +117,7 @@ Copyright law is a hassle and can cause headaches 🤕. Movie stills for example
 
 In a 1993 Ad Hoc Committee discussed this issue and argued that: They not only believe that it is *fair use* to publish film stills, they do not believe that gaining permission should be necessary. Report of the Ad Hoc Committee of the [Society For Cinema Studies](http://www.cmstudies.org/?page=fair_use), [Fair Usage Publication of Film Stills](http://www.intellectbooks.co.uk/MediaManager/File/Film%20Stills.pdf) by Kristen Thompson.
 
-Apart from these sources there are some other arguments in favour of using stills in posts. Using a movie still on a blog to describe the movie, link it to daily life, praise the movie or criticise; will create free exposure and publicity. As long as it is not a post where you crumble the movie to a limp cockroach the owners will not try to bother you. Lawyers are expensive! 💸
+Apart from these sources there are some other arguments in favour of using stills in posts. Using a movie still on a blog to describe the movie, link it to daily life, praise or criticise it will create free publicity for the movie. As long as it is not a post where you crumble the movie to a limp cockroach, the owners will not bother you. Lawyers are expensive! 💸
 
 #### What you have to keep in mind! 
 
