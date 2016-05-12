@@ -157,9 +157,7 @@ There are four stages a potential client goes trough and each stage can be an it
 
 #### Potential client
 
-Companies that would make an awesome client. This includes enough information to start digging researching ways to contact the companies.
-
-This information consist of:
+Companies that would make an awesome client. This includes enough information to start digging researching ways to contact the companies:
 
 * Company name.
 * Url of company website.
@@ -167,9 +165,7 @@ This information consist of:
 
 #### Prospect
 
-Companies that would make an awesome client with all the information we need to contact them. 
-
-This information consists of:
+Companies that would make an awesome client with all the information we need to contact them:
 
 * The name of the company. 
 * Who you can contact at the company.
@@ -180,9 +176,7 @@ This information consists of:
 
 #### Lead
 
-Prospects that have been contacted and need a follow up and all the information you need to do so sucesfully. 
-
-This information consists of:
+Prospects that have been contacted and need a follow up and all the information you need to do so sucesfully:
 
 * All information of the pervious stages
 * Notes of previous contact with the prospect and 
@@ -190,9 +184,7 @@ This information consists of:
 
 #### Archive
 
-Leads that have been closed, either by a sale or disinterest. Here you find all information gathered in the previous phases.
-
-This information consists of:
+Leads that have been closed, either by a sale or disinterest. Here you find all information gathered in the previous phases:
 
 * All information of the pervious stages
 * A note on how and why the lead has been archived.
