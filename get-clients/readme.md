@@ -198,4 +198,4 @@ When you start working on a company in one of these stages it is key to move the
 
 ## The end
 
-There you have it, you officially know more about direct customer acquisition than we do! One last note before you will start world domination: remember that you are a person with your own amazing traits and personality. Never put them aside in order to convince someone to hire your service. If you stay true to who you are, working with the people that hire you will be a lot more fun. You also don't have to pretend you're someone you're not, which is not as much fun as one would think.
+There you have it, you officially know as much (and maybe even more) about direct customer acquisition as we do! One last note before you will start world domination: remember that you are a person with your own amazing traits and personality. Never put them aside in order to convince someone to hire your service. If you stay true to who you are, working with the people that hire you will be a lot more fun. You also don't have to pretend you're someone you're not, which is not as much fun as one would think.
