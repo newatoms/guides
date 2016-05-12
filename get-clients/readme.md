@@ -147,7 +147,7 @@ At New Atoms we don't work as individuals with specific tasks, but we work  as a
 
 Customer acquisition is not something most people enjoy doing, and if you don't enjoy it, is hard to sell your product. That is why we should not focus the act customer acquisition on a sale, but as a way to gather data, getting inspired and satisfying curiosity while searching, with the person you are talking to,  for a way our service can make their lives better.
 
-> Be a Journalist. Investigate how they operate, what makes them good and where they are in need of help both before and during the phone call.
+> Be a Journalist. Investigate how they operate, what makes them good and where they are in need for help both before and during the phone call.
 
 Buy doing this the prospects experiences the quality of our journalistic skills, we gather valuable data on the subject and the market they are in and find out if we can be of actual service to them. Most importantly we are not being sales agents but journalists.
 
