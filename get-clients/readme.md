@@ -4,21 +4,21 @@
 
 Just like every other company, we need to sell our services in order to be sustainable. In this guide we will only discuss direct customer acquisition. In our [communication guide](../communication-guide), you can read about our indirect communication philosophy.
 
-Even though we do need to sell our services, we only want to sell our services to people who can actually benefit from them. Working with a person who does not value your services for what they are will require you to keep convincing them of every step you take, making the process extremely counter-productive.
+Even though we do need to sell our services, we only want to sell our services to people of whom we can actually benefit from. Working with a person who does not value your services for what they are, will require you to keep convincing them of every step you take, making the process extremely counter-productive.
 
 Nothing suggested in this guide is a hard truth, and nothing should be blindly accepted as such.
 
 ## Two ways to acquire customers
 
-There are two ways in which you can convince people to use your product or service: by directly **convincing a specific person**, or indirectly **through your general communication**. With your general communication, you can have a potentially infinite reach but have very little control over who you reach.
+There are two ways in which you can convince people to use your product or service: by directly **convincing a specific person** or indirectly **through your general communication**. With your general communication, you can have a potentially infinite reach but have very little control over who you reach.
 
-The main difference between the two is that direct customer acquisition takes more effort per client but can be done with very little means. Acquiring customers through your general communication is a lot more effective but requires you to actually have a form of communication, which takes a lot of effort and money to build.
+The main difference between the two is that direct customer acquisition takes more effort per client, but can be done with very little means. Acquiring customers through your general communication is a lot more effective but requires you to actually have a form of communication, which takes a lot of effort and money to build.
 
 ## Direct customer acquisition
 
 There are two types of direct customer acquisition: contacting potential suitable clients directly that you have no personal connection with (called cold customer acquisition), and contacting those with whom you have a direct or indirect relationship.
 
-*One super important thing to realize before we go on is that you are speaking as a person on behalf of a company to a person on behalf of a company.*
+*One super important thing to realise before we go on is that you are speaking as a person on behalf of a company to a person on behalf of a company.*
 
 ## How to sell your service
 
@@ -40,10 +40,9 @@ The easiest way to find this out is by searching a company and function with Goo
 
 ### Formulating tangible examples
 
-I have found that giving **tangible examples** that explain the added value of your service (in general and for the prospect in question) is usually the easiest way to sell your service, no matter the medium you use or the relationship you have with the prospect.
+I have found that by giving **tangible examples** you explain the added value of your service (in general and for the prospect in question) is usually the easiest way to sell your service, no matter the medium you use or the relationship you have with the prospect.
 
 These tangible examples come in two layers and can be figured out by answering the following questions:
-
 
 **Business Relevance for the prospect**
 
@@ -69,14 +68,14 @@ These tangible examples come in two layers and can be figured out by answering t
 
 * Can you formulate a tangible example of the value your service would add in relation to your similarities?
 
-The answers to these questions help you understand the added value for the customer and formulate a tangible example. By no means should you think it necessary to use all the answers while wooing your prospect—that would probably be a tad bit overwhelming.
+The answers to these questions help you understand the added value for the customer and formulate a tangible example. By no means should you think it's necessary to use all the answers while wooing your prospect—that would probably be a tad bit overwhelming.
 
 
 ## Direct customer acquisition by phone
 
 Phone calls are by far the most efficient (and scariest) way of direct customer acquisition. The reason they are so effective is the fact that it's just a conversation. You can use everything you learned by answering the questions above and use that information to steer the conversation in the direction you want.
 
-While making a phone call, it is super mega important to realize you are talking to a person who has her or his own values, ambitions, hopes and dreams. Don't become a manipulative sales robot (asshole). Be a person and try to have some fun.
+While making a phone call, it is super mega important to realise you are talking to a person who has her or his own values, ambitions, hopes and dreams. Don't become a manipulative sales robot (asshole). Be a person and try to have some fun.
 
 Oh yeah, never ever EVER suggest that a person is only looking out for their own interest. Always assume that they care for the company they work for, even though the success of the company might not be their primary goal.
 
