@@ -157,7 +157,13 @@ There are four stages a potential client goes trough and each stage can be an it
 
 #### Potential client
 
-Companies that would make an awesome client. This includes a name.
+Companies that would make an awesome client. This includes enough information to start digging researching ways to contact the companies.
+
+This information consist of:
+
+* Company name.
+* Url of company website.
+* A short motivation why you think this is an awesome client.
 
 #### Prospect
 
