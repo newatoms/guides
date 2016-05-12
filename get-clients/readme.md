@@ -4,21 +4,21 @@
 
 Just like every other company, we need to sell our services in order to be sustainable. In this guide we will only discuss direct customer acquisition. In our [communication guide](../communication-guide), you can read about our indirect communication philosophy.
 
-Even though we do need to sell our services, we only want to sell our services to people who can actually benefit from them. Working with a person who does not value your services for what they are will require you to keep convincing them of every step you take, making the process extremely counter-productive.
+Even though we do need to sell our services, we only want to sell our services to people of whom we can actually benefit from. Working with a person who does not value your services for what they are, will require you to keep convincing them of every step you take, making the process extremely counter-productive.
 
-Nothing suggested in this guide is a hard truth, and nothing should be blindly accepted as such. 
+Nothing suggested in this guide is a hard truth, and nothing should be blindly accepted as such.
 
 ## Two ways to acquire customers
 
-There are two ways in which you can convince people to use your product or service: by directly **convincing a specific person**, or indirectly **through your general communication**. With your general communication, you can have a potentially infinite reach but have very little control over who you reach.
+There are two ways in which you can convince people to use your product or service: by directly **convincing a specific person** or indirectly **through your general communication**. With your general communication, you can have a potentially infinite reach but have very little control over who you reach.
 
-The main difference between the two is that direct customer acquisition takes more effort per client but can be done with very little means. Acquiring customers through your general communication is a lot more effective but requires you to actually have a form of communication, which takes a lot of effort and money to build.
+The main difference between the two is that direct customer acquisition takes more effort per client, but can be done with very little means. Acquiring customers through your general communication is a lot more effective but requires you to actually have a form of communication, which takes a lot of effort and money to build.
 
 ## Direct customer acquisition
 
 There are two types of direct customer acquisition: contacting potential suitable clients directly that you have no personal connection with (called cold customer acquisition), and contacting those with whom you have a direct or indirect relationship.
 
-*One super important thing to realize before we go on is that you are speaking as a person on behalf of a company to a person on behalf of a company.*
+*One super important thing to realise before we go on is that you are speaking as a person on behalf of a company to a person on behalf of a company.*
 
 ## How to sell your service
 
@@ -40,10 +40,9 @@ The easiest way to find this out is by searching a company and function with Goo
 
 ### Formulating tangible examples
 
-I have found that giving **tangible examples** that explain the added value of your service (in general and for the prospect in question) is usually the easiest way to sell your service, no matter the medium you use or the relationship you have with the prospect.
+I have found that by giving **tangible examples** you explain the added value of your service (in general and for the prospect in question) is usually the easiest way to sell your service, no matter the medium you use or the relationship you have with the prospect.
 
 These tangible examples come in two layers and can be figured out by answering the following questions:
-
 
 **Business Relevance for the prospect**
 
@@ -68,15 +67,15 @@ These tangible examples come in two layers and can be figured out by answering t
 * What can you find out about the prospect that relates to you as a person?
 
 * Can you formulate a tangible example of the value your service would add in relation to your similarities?
- 
-The answers to these questions help you understand the added value for the customer and formulate a tangible example. By no means should you think it necessary to use all the answers while wooing your prospect—that would probably be a tad bit overwhelming.
+
+The answers to these questions help you understand the added value for the customer and formulate a tangible example. By no means should you think it's necessary to use all the answers while wooing your prospect—that would probably be a tad bit overwhelming.
 
 
 ## Direct customer acquisition by phone
 
 Phone calls are by far the most efficient (and scariest) way of direct customer acquisition. The reason they are so effective is the fact that it's just a conversation. You can use everything you learned by answering the questions above and use that information to steer the conversation in the direction you want.
 
-While making a phone call, it is super mega important to realize you are talking to a person who has her or his own values, ambitions, hopes and dreams. Don't become a manipulative sales robot (asshole). Be a person and try to have some fun.
+While making a phone call, it is super mega important to realise you are talking to a person who has her or his own values, ambitions, hopes and dreams. Don't become a manipulative sales robot (asshole). Be a person and try to have some fun.
 
 Oh yeah, never ever EVER suggest that a person is only looking out for their own interest. Always assume that they care for the company they work for, even though the success of the company might not be their primary goal.
 
@@ -98,8 +97,6 @@ When calling a person, there are a few things that are important to discuss:
 * Being enthusiastic can be a persuasive tool.
 * Be yourself. If you can't make your prospect see the relevance of what you are doing, they might not be a good fit.
 * Don't try to convince your prospect but make sure they see and understand possible positive outcomes.
-
-
 
 ### How to reach the right person if you have no direct number
 
@@ -142,6 +139,61 @@ If your know the prospect directly or someone you know can introduce you to the 
 * How do these experiences and insights relate to the service you are trying to sell?
 * Can you formulate a tangible example of the value your service would add that relates to your shared insights and experiences?
 
+## Customer acquisition for New Atoms
+
+At New Atoms we don't work as individuals with specific tasks, but we work  as a team where every team member contributes iterations to the whole. This enables us to work from our strengths instead from necessity. To contribute to our customer acquisition as a team member, you need to understand how you can do iterative customer acquisition.
+
+### Using the strengths of the team members
+
+Customer acquisition is not something most people enjoy doing, and if you don't enjoy it, it is hard to sell your product. That is why we should not focus the act customer acquisition on a sale, but as a way to gather data, getting inspired and satisfying curiosity while searching, with the person you are talking to,  for a way our service can make their lives better.
+
+> Be a Journalist. Investigate how they operate, what makes them good and where they are in need for help both before and during the phone call.
+
+By doing this, the prospects experiences the quality of our journalistic skills and we gather valuable data on the company and the market they are in. While doing this you will also be able to find out if we can be of actual service to them. Most importantly we are not being sales agents but journalists.
+
+### The stages of customer acquisition
+
+There are four stages a potential client goes trough and each stage can be an iteration. This way we can all contribute to the process of getting awesome clients.
+
+#### Potential client
+
+Companies that would make an awesome client. This includes enough information to start digging researching ways to contact the companies:
+
+* Company name.
+* Url of company website.
+* A short motivation why you think this is an awesome client.
+
+#### Prospect
+
+Companies that would make an awesome client with all the information we need to contact them:
+
+* The name of the company. 
+* Who you can contact at the company.
+* Valuable information on the contact person. 
+* Valuable information on the company. 
+* Tangible examples of how our service can benefit the company.
+* Tangible examples of how our service can benefit the contact person.
+
+#### Lead
+
+Prospects that have been contacted and need a follow up and all the information you need to do so sucesfully:
+
+* All information of the pervious stages
+* Notes of previous contact with the prospect 
+* The next suggested step.
+
+#### Archive
+
+Leads that have been closed, either by a sale or disinterest. Here you find all information gathered in the previous phases:
+
+* All information of the pervious stages
+* A note on how and why the lead has been archived.
+
+## Itterations on the four stages of customer acquisition.
+
+At new atoms we work with [achievables](.../user-stories-guide) to formulate our goals and manage our [workflow](.../board-guide).
+When you start working on a company in one of these stages it is key to move them to the next stage, just like you would with any other achievable. 
+
 ## The end
 
-There you have it, you officialy know more about direct customer aquisition than we do! One last note before you will start world domination: remember that you are a person with your own amazing traits and personality. Never put them aside in order to convice someone to hire your service. If you stay true to who you are, working with the people that hire you will be a lot more fun. You also don't have to pretend you're someone you're not, which is not as much fun as one would think.
+There you have it, you officially know as much (and maybe even more) about direct customer acquisition as we do! One last note before you will start world domination: remember that you are a person with your own amazing traits and personality. Never put them aside in order to convince someone to hire your service. If you stay true to who you are, working with the people that hire you will be a lot more fun. You also don't have to pretend you're someone you're not, which is not as much fun as one would think.
