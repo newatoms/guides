@@ -179,7 +179,7 @@ Companies that would make an awesome client with all the information we need to 
 Prospects that have been contacted and need a follow up and all the information you need to do so sucesfully:
 
 * All information of the pervious stages
-* Notes of previous contact with the prospect and 
+* Notes of previous contact with the prospect 
 * The next suggested step.
 
 #### Archive
