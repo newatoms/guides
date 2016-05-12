@@ -141,15 +141,15 @@ If your know the prospect directly or someone you know can introduce you to the 
 
 ## Customer acquisition for New Atoms
 
-At New Atoms we don't work as individuals with specific tasks, but we work  as a team where every team member contributes iterations to the whole. This enables us to work from our strengths instead from necessity. In order to be able to contribute to our customer acquisition as a team member we need to understand how we can do iterative customer acquisition.
+At New Atoms we don't work as individuals with specific tasks, but we work  as a team where every team member contributes iterations to the whole. This enables us to work from our strengths instead from necessity. To contribute to our customer acquisition as a team member, you need to understand how you can do iterative customer acquisition.
 
 ### Using the strengths of the team members
 
-Customer acquisition is not something most people enjoy doing, and if you don't enjoy it, is hard to sell your product. That is why we should not focus the act customer acquisition on a sale, but as a way to gather data, getting inspired and satisfying curiosity while searching, with the person you are talking to,  for a way our service can make their lives better.
+Customer acquisition is not something most people enjoy doing, and if you don't enjoy it, it is hard to sell your product. That is why we should not focus the act customer acquisition on a sale, but as a way to gather data, getting inspired and satisfying curiosity while searching, with the person you are talking to,  for a way our service can make their lives better.
 
 > Be a Journalist. Investigate how they operate, what makes them good and where they are in need for help both before and during the phone call.
 
-Buy doing this the prospects experiences the quality of our journalistic skills, we gather valuable data on the subject and the market they are in and find out if we can be of actual service to them. Most importantly we are not being sales agents but journalists.
+By doing this, the prospects experiences the quality of our journalistic skills and we gather valuable data on the company and the market they are in. While doing this you will also be able to find out if we can be of actual service to them. Most importantly we are not being sales agents but journalists.
 
 ### The stages of customer acquisition
 
@@ -161,15 +161,35 @@ Companies that would make an awesome client. This includes a name.
 
 #### Prospect
 
-Companies that would make an awesome client with all the information we need to contact them. A prospect consists of the name of the company, who you can contact at the company, valuable information on the contact person, valuable information on the company and tangible examples of how our service can benefit the company and the contact person.
+Companies that would make an awesome client with all the information we need to contact them. 
+
+This information consists of:
+
+* The name of the company. 
+* Who you can contact at the company.
+* Valuable information on the contact person. 
+* Valuable information on the company. 
+* Tangible examples of how our service can benefit the company.
+* Tangible examples of how our service can benefit the contact person.
 
 #### Lead
 
-Prospects that have been contacted and need a follow up. Here you will find all information of the pervious stages and the notes of previous contact with the prospect and formulate the next step.
+Prospects that have been contacted and need a follow up and all the information you need to do so sucesfully. 
+
+This information consists of:
+
+* All information of the pervious stages
+* Notes of previous contact with the prospect and 
+* The next suggested step.
 
 #### Archive
 
-Leads that have been closed, either by a sale or disinterest. Here you find all information of previous stages and a not on how and why the lead has been archived.
+Leads that have been closed, either by a sale or disinterest. Here you find all information gathered in the previous phases.
+
+This information consists of:
+
+* All information of the pervious stages
+* A note on how and why the lead has been archived.
 
 ## Itterations on the four stages of customer acquisition.
 
