@@ -31,19 +31,19 @@ When you read something you like, think about what's great about it and why. How
 
 Here are some following thoughts:
 
-I remain engaged despite it's crazy length. Why?
+* I remain engaged despite it's crazy length. Why?
 
 *It reads more like a story than an article on technology because it follows a* **narrative progression** *and has elements of* **storytelling** *like fictitious characters and settings.*
 
-I've laughed out loud several times. Why?
+* I've laughed out loud several times. Why?
 
 *The author incorporates* **down-to-earth humor** *at just the right spot on the spectrum between goofy and smart. Humor also keeps me engaged despite its length, punctuating the content with* **comic relief**. *This also makes a potentially heavy subject lighter/easier to read about because it's less threatening.*
 
-Though it's about complex ideas, I have no difficulty comprehending the content (it's accessible). Why? 
+* Though it's about complex ideas, I have no difficulty comprehending the content (it's accessible). Why? 
 
 *The author uses* **vocabulary** *that is sophisticated but not convoluted and uncomplicated but not dumb. Using this vocabulary, he creates* **straightforward examples** *to describe otherwise complex ideas. He* **does not make assumptions** *about what the reader knows but also does not assume the reader is stupid--he finds an effective equilibrium. He keeps the tone* **humble** *by often using himself as an example of ignorance or non-off-putting, self-deprecating humor.*
 
-It doesn't make me feel like an idiot for the things I don't know. Why? 
+* It doesn't make me feel like an idiot for the things I don't know. Why? 
 
 *The writer uses* **"we"** *and* **"our"** *rather than "you" and "your", including himself in the group that wishes to understand.*
 
