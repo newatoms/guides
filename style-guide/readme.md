@@ -2,8 +2,6 @@
 
 # How to refine your writing style
 
-## Recognise what style is and what it's building blocks are
-
 You already have a writing style. It's what sets your writing apart and makes it unique. We're sure it's ridiculously awesome. But we're always looking to improve and to do everything more effectively, therefore we want to think about why awesome writing is awesome so that we can apply those reasons to everything we write.
 
 The internet is already flooded with style guides, so no need to reinvent the wheel here. Check out:
