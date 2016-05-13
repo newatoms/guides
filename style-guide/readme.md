@@ -4,6 +4,8 @@
 
 You already have a writing style. It's what sets your writing apart and makes it unique. We're sure it's ridiculously awesome. But we're always looking to improve and to do everything more effectively, therefore we want to think about why awesome writing is awesome so that we can apply those reasons to everything we write.
 
+## Recognise what style is and what it's building blocks are
+
 The internet is already flooded with style guides, so no need to reinvent the wheel here. Check out:
 * [this guide](http://www.learnnc.org/lp/editions/few/684), which focuses on word choice, sentence fluency and voice,
 * [or this one](http://literarydevices.net/style/), which is about different types of style,
