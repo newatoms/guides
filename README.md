@@ -33,5 +33,6 @@ Here you find a list with links to all guides and their goal.
 |[write well](writing-guide) | To help team members write in a clear manner |
 |[approach paragraphs](paragraph-guide)| To understand how paragraph length affects readability |
 |[write a user story](user-story-guide)| create effective user stories |
+|[refine your writing style](style-guide)| write to fit a specific context, purpose, or audience  |
 
 Use the [Glossary](glossary) to find definitions of words we use and how we use them.
