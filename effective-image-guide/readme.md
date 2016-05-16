@@ -4,18 +4,10 @@
 
 When used correctly, effective visuals are extremely powerful to communicate an appropriate message. Let's look at some of the science behind visual content and what makes an image effective.
 
-## First off: Why visual content is so important
+## First things first: Why visual content is critical
 
-Here are some telling stats as researched by [Buffer's](https://buffer.com/)  [Kevan Lee](https://blog.bufferapp.com/author/kevanlee) on just how big visual content has become and how it’s changing the way we all approach marketing:
+There are vast amounts of telling stats about how big visual content has become and how it’s changing the way we all approach marketing. Check out the [research by by Buffer's Kevan Lee](https://blog.bufferapp.com/a-complete-guide-to-creating-awesome-visual-content), or [Design & Dev's Tom More](http://thenextweb.com/dd/2014/05/21/importance-visual-content-deliver-effectively/).
 
-**63% of social media is made up of images.** That means nearly two-thirds of the updates you see on social media are visual content, according to a [Citrix report](http://www.slideshare.net/citrix/citrix-mobileusage) from 2014.
-
-
-**Nearly half of all Internet users have re-posted a photo or video they found online.** An equally intriguing stat from the same [2013 Pew Research Study](http://www.pewinternet.org/files/old-media//Files/Reports/2013/PIP_Photos%20and%20videos%20online_102813.pdf) is that 54% of all Internet users have posted an original photo or video that they personally have created.
-
-**Content with relevant images gets 94% more views than content without.** This often-cited visual content stat is evidence that visuals have been vital to online success for some time. The [original study from content platform Skyword](http://www.skyword.com/contentstandard/enterprise-marketing/skyword-study-add-images-to-improve-content-performance/) came out in 2011. 94% equates to almost double the views, and the boost is noticed across all topics and categories.
-
-**Images are the No. 1 most important factor in optimal social media content.** This is according to an [ongoing research survey](https://blog.crazyegg.com/2014/04/29/optimizing-social-media-content/?utm_content=buffer91ea2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) conducted by Software Advice and Adobe. More than 80% of survey respondents pointed to images being “Very Important” or “Important” for their marketing optimization on social. The runners up in terms of importance were hashtags and usernames.
 
 ## What makes an effective, relevant image?
 
@@ -45,11 +37,7 @@ Sources:
 
 http://www.skyword.com/contentstandard/for-storytellers/the-visual-science-of-content-marketing-and-what-it-means-for-creatives/
 
-http://thenextweb.com/dd/2014/05/21/importance-visual-content-deliver-effectively/
-
 https://searchenginewatch.com/2016/04/21/understanding-our-love-of-visual-content/
-
-https://blog.bufferapp.com/a-complete-guide-to-creating-awesome-visual-content
 
 https://www.washingtonpost.com/news/innovations/wp/2015/12/29/forget-beautiful-sunrises-embrace-absurdity-heres-how-to-take-memorable-photos/
 
