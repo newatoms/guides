@@ -17,7 +17,7 @@ There are a number of interesting scientific and psychological explanations for 
 
 Appeal refers to the natural attraction towards visual content, and the way it succeeds even in a short attention span. We might not be able to explain why we love a beautiful design because our conscious thought hasn’t yet caught up with our subconscious. Deeply emotional reactions are some of the strongest connections we can make to visual content. They occur from the part of the brain that is also related to our survival instincts, which means that the reaction may be more direct and intense.
 
-Visual content needs somehow to indicate the emotion for which it aims, either with the colors, the subject, or even with associations that lead to an easier connection which can elicit the right feeling (safety, food, positivity, love...).
+Visual content should indicate the emotion for which it aims. This could be accomplished abstractly with color, metaphors, or irony, for example. Or it could be achieved concretely with associations which elicit the "right" feeling (safety, food, positivity, love...).
 
 * **Comprehension**
 
