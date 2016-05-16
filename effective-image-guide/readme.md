@@ -21,7 +21,7 @@ Visual content should indicate the emotion for which it aims. This could be acco
 
 * **Comprehension**
 
-Comprehension is linked to the way our brains translate data to simplify it. It has been observed that 90% of the information sent to our brains is visual. with our brains responding to it 60,000 faster than they do for text.
+Comprehension is linked to the way our brains translate data to simplify it. It has been observed that 90% of the information sent to our brains is visual, with our brains responding to it 60,000 faster than they do for text.
 
 Thus, our brains need a visual representation to process information faster and create a connection between the visual object and its concept. It’s impressive how the visual perception in our brain makes such a complex task easy and this could also be the scientific reason why an “image is worth a thousand words.”
 
