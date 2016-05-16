@@ -6,7 +6,7 @@ When used correctly, effective visuals can communicate a message very powerfully
 
 ## First things first: Why visual content is critical
 
-There are vast amounts of telling stats about how big visual content has become and how it’s changing the way we all approach marketing. Check out the [research by by Buffer's Kevan Lee](https://blog.bufferapp.com/a-complete-guide-to-creating-awesome-visual-content), or [Design & Dev's Tom More](http://thenextweb.com/dd/2014/05/21/importance-visual-content-deliver-effectively/). [Search Engine Watch's Tereza Litsa](https://searchenginewatch.com/2016/04/21/understanding-our-love-of-visual-content/) also has a lot to say about visual content. Much of the following information is also gleaned from her research. 
+There are vast amounts of telling stats about how big visual content has become and how it’s changing the way we all approach marketing. Check out the [research by Buffer's Kevan Lee](https://blog.bufferapp.com/a-complete-guide-to-creating-awesome-visual-content), or [Design & Dev's Tom More](http://thenextweb.com/dd/2014/05/21/importance-visual-content-deliver-effectively/). [Search Engine Watch's Tereza Litsa](https://searchenginewatch.com/2016/04/21/understanding-our-love-of-visual-content/) also has a lot to say about visual content. Much of the following information is also gleaned from her research. 
 
 ## What makes an effective, relevant image?
 
