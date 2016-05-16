@@ -1,33 +1,44 @@
+> The goal of this guide: To help you get started on using our version control tool: Github.
+
 <img src="../images/github-mark.png" width="100">
 
-# The Github guide
+# How to use GitHub
 
-Github is a tool which allows individuals to work together in a way that all effort is stored and an optimal version of a file is created together. Work is never completed by one individual, somebody else always reviews it. Github has quite a steep learning curve, but once you go Github you'll never want anything different.
+Github is a tool that we use for the creation of all our content and code. In the core it is comparable with how you can work on one google document with multiple people trough suggesting changes. Github works on the same principle but way better, cooler and safer.
 
-We advice you to first read [our Medium post: *Using GitHub for Collaborative Journalism*](https://medium.com/new-atoms-beta/using-github-for-collaborative-journalism-7c05b53a85d5#.orfmk7n16) to understand why we use it and how it works. This guide will give a more comprehensive explanation and serves as an archive. The workflow rules on how we work together will also be discussed.
+Github is a tool that enables the users to very safely improve things that are created in small comprehensive steps that get checked by another user. This way everyone can freely contribute to what you are building without the fear of adding something permanently that other people think is bad. It is mainly designed with the idea that nothing great is ever made by one person, and that the easier and safer it feels to improve something the better it is what is created.
 
-## Working with Github in your browser
+In opposition to the system used by things like Google Docs and Microsoft Word, GitHub works with a version control system based on commits and branching. This means every collaborator has an own version – or branch – they work on, and which is then explicitly merged with those of their collaborators. Every change is added to a branch with a commit, in which the contributor explains what he has added in a short message.
 
-We work with multiple repositories (i.e. repos), one for each product or project. Always read the readme file that is opened automatically if you enter a repo.  All our research is stored in folders like insights, private and internal (i.e. market research, all kinds of guides, customer acquisition, pitch decks enz.). Folders with a lower dash before the folder name in repositories are not rendered on websites, but they're still viewable by anyone who can access the repo. We also store a lot of our sites in the repositories (e.g. html, layout enz.).
+The explicit merging of your contributions with those of others creates a natural moment for everyone to look at the things that have changed, give feedback and review.
+
+Github has quite a steep learning curve, but once you go Github you'll never want anything different.
+
+## How we use Github
+
+We work with multiple repositories (i.e repos). You can see this [New Atoms repository page](https://github.com/newatoms) as a hard drive containing all projects or products. For example: right now you are reading *the github guide* in the *guides* repo. *Guides* is a product of New Atoms, just like *content.supply* or *editorial.supply*.
+
+Always read the readme.md file that is opened automatically if you enter a repo. 
+
+All our research is stored within the designated project or product repos like pitches, posts and research, insights, private and internal (i.e. market research, customer acquisition, pitch decks etc.). Folders with a lower dash before the folder name in repositories are not rendered on websites, but they're still viewable by anyone who can access the repo. We also store a lot of our sites (like the interface) in the repositories (e.g. html, layout etc.).
 
 ### Github hierarchy
 
 Github works with branches. We work with the following hierarchy:
 
 * The *live* branch: The content of these branches is 'live' and always works. For example, the website (if any) is rendered from files from this branch. **Old vocabulary**: *master* or *gh-pages* branch.
-* The *ready* branch: This is a copy of the *live* branch. Here, documents should be fit to print and *merge-able* with the *live* branch. It is a last check before we push the content to the 'live' branch. We explain *merging* later on. From the *ready* branch you create a copy and call it add/*file-path*.
-* The *add* branch: This is a copy you can make from the ready branch if you want to add or edit something. This is your own branch where you can do everything you like. Keep in mind to create one *add* branch for each file in a particulair format (see below).
-* The *fix* branch: If you want to edit something small or do a bug-fix you create a *fix* branch.
+* The *ready* branch: This is a copy of the *live* branch. Here, documents should be fit to print and *merge-able* with the *live* branch. It is a last check before we push the content to the 'live' branch. We explain *merging* later on. From the *ready* branch you create a new branch and give it a selfexplanory name.
+
 
 ### Creating a file or editing a lot in one file
 
 1. Go to the file you want to edit or go to the folder where you want to create a new file.
-2. Make an *add* branch.
+2. Make an branch and give it a self explanatory name.
 3. Make a new file in designated folder (filename + filetype, for text it's *.md* for *Markdown*).
 4. When writing or editing keep in mind to make commits (i.e. saves or changes) when changing something.
 5. Each change you make requires a commit -- if you edit an existing document you have to commit at least once per sentence, if you create a new document you can commit each paragraph. This allows you and others to accept or reject each individual change.
 
-Example: add/internal/guides/medium-guide
+Example: ```internal/guides/medium-guide```
 
 ---
 
@@ -35,7 +46,7 @@ Example: add/internal/guides/medium-guide
 
 ---
 
-**3:** <img src="../images/edit-file.png" width="250"> **4:**<img src="../images/commit.png" width="350">  
+**3:** <img src="../images/edit-file.png" width="250"> **4:**<img src="../images/commit.png" width="350">
 
 ---
 
@@ -43,14 +54,9 @@ Example: add/internal/guides/medium-guide
 
 ---
 
-### How to name a branch
-
-It starts with the type of file you want to add (a new file is almost always added as 'add'), then a slash '/', the folder the file is in (or multiple, each again divided with a '/') and ends with the filename (without the extension).
-E.g. I created the following branch for this file: add/internal/guides/github-guide
-
 ### The Pull request
 
-If you're happy with all your changes in your new file, you have to make a *pull request*. Now your changes will be reviewed by somebody else who will either comment, add commits (changes) or merge the request (this means the file is good to go). Created pull requests will also be visible on our [board](board-guide.md) in the interface because now somebody can pick up this card to review a pull request.
+If you're happy with all your changes in your new file, you have to make a *pull request* and add the url of your pull-request -which you can find in the address bar of you browser- to the achievable you just finished. Now your changes will be reviewed by somebody else who will either comment, add commits (changes) or merge the request (this means the file is good to go).
 
 ---
 
@@ -72,14 +78,16 @@ If somebody comments the original owner and everybody who has commented/commited
 
 ### A shortcut when changing something small
 
-When changing something small you can go to the designated file and hit the edit icon. Do not commit directly on the ready branch, because that would be illegal, but choose the option to *'Create a new branch for this commit and start a pull request'*.  
+When changing something small you can go to the designated file and hit the edit icon. Do not commit directly on the ready branch, because that would be illegal, but choose the option to *'Create a new branch for this commit and start a pull request'*.
 
 
 ### Discuss and Merge
 
+<img src="https://media.giphy.com/media/kFJ7NdGw4A4o0/giphy.gif" width="100%">
+
 You can edit a pull request or comment on certain parts of the file by clicking the + sign on the left. When you click, your comment will be visible in the conversation menu.
 
-When everyone is happy about the document and the file is fit to go to the ready branch, you push the big green merge button on the bottom of the conversations menu. Congratulations, now your branch is *merged* with the ready branch and is fit to print.  
+When everyone is happy about the document and the file is fit to go to the ready branch, the person reviewing the pull request can push the big green merge button on the bottom of the conversations menu and press the delete branch button that apears after you have merged. Congratulations 🏅, The branch is *merged* with the ready branch and is fit to go live. High five 🙏!
 
 ## Working local on your own device
 
@@ -91,7 +99,7 @@ You need to download [Github Desktop](https://desktop.github.com/) and a text ed
 
 Make sure you select or create the right branch in the Github desktop. Never commit to the ready/live branch itself.
 
-Any change you'll make to a file in the folder (or subfolder) on your device results in a uncommitted change. If you press commit changes, you in fact update your *local* branch. You now will have to publish, in order to show your changes in the browser for other to see. Sync, if you want to push the local changes to an existing online branch with the same name or if you want to update local branch with the content of the online branch.
+Any change you'll make to a file in the folder (or subfolder) on your device results in a uncommitted change in github desktop. If you press commit changes, you in fact update your *local* branch. You now will have to publish, in order to show your changes in the browser for others to see. Sync, if you want to push the local changes to an existing online branch with the same name or if you want to update local branch with the content of the online branch.
 
 So, there are two branches with the same name, one local and one online. Team members can't see your local changes and your local branch also doesn't automatically copy changes from the online branch. It takes an action from you to sync them.
 
@@ -117,13 +125,13 @@ Then, you can start your text editor and open the repository on which you want t
 
 ## The dreaded merge conflict
 
-If two people changed the same lines in the same file, or if one person decided to delete it while the other person decided to modify it, Git simply cannot know what is correct. Git will then mark the file as having a conflict - which you'll have to solve before you can continue your work. Git will tell you which line resulted in a merge conflict by copying that line to the top of your document. You have to decide, together with the other person who merged the file, which version is correct.
+If two people changed the same lines in the same file, or if one person decided to delete it while the other person decided to modify it, Git simply cannot know what is correct. Git will then mark the file as having a conflict - which you'll have to solve before you can merge. Git will tell you which line resulted in a merge conflict by copying that line to the top of your document. You have to decide, together with the other person who merged the file, which version is correct.
 
-See [Github's how to](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/) to deal with the merge conflict. Unfortunately this can't be done from the desktop client but has to be done from a terminal. Contact a technical developer in Slack if you are having problems solving the merge conflict.
+See [Github's how to](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/), to deal with the merge conflict. Contact a team member in Slack if you're having problems solving the merge conflict.
 
-## Markdown <img src="../images/markdown.png" width="30">
+## [Markdown](../glossary/markdown.md) <img src="../images/markdown.png" width="30">
 
-As mentioned in the Medium post, we work with Markdown for text files. You can save Markdown files by adding the .md extension.
+We work with Markdown for text files. You can save Markdown files by adding the .md extension.
 
 Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid HTML.
 [This is a great Markdown guide/archive](

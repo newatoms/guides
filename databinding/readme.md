@@ -1,6 +1,6 @@
 > **The goal of this guide:** How to communicate between elements using databinding in polymer. If you come across terms you don't understand Google them or feel free to ask a team member within digital reach.
 
-# Databinding
+# How to use Polymer databinding
 
 ### Table of content
 - Why?
@@ -36,7 +36,7 @@ This is because Html is case insensitive where Javascript isn't. The object in t
 properties: {
     dataObject: {
         type: Object,
-        notify: true  
+        notify: true
     },
 },
 ```

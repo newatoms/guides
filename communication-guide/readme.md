@@ -1,6 +1,6 @@
 > **Goal of this guide:** To help team members of content.supply communicate with the outside world. It will tell you about what we do, why it is important, what your communication should achieve and who to reach.
 
-# content.supply communication guide
+# How to communicate as content.supply
 
 In this document you will find guidlines for communicating as content.supply.
 
