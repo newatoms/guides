@@ -46,13 +46,17 @@ These tangible examples come in two layers and can be figured out by answering t
 
 **Business Relevance for the prospect**
 
+* What are the goals of the prospect/company?
+
+* What is the vision of the prospect/company?
+
 * What can you find out about the prospect/company that relates to your service?
 
-* Can you formulate a tangible example of the value your service would add to the prospect/company?
+* Can you formulate a tangible example of how your service can help the prospect/company get closer to their goal?
 
-* What can you find out about the vision of the prospect/company that relates to the vision of your service?
+* Can you formulate a tangible example of how your service is in line with the vision of the prospect/company?
 
-* Can you formulate a tangible example of how these two visions relate in a positive way?
+* Can you formulate a tangible example of how the vision of the prospect/company and the vision of your service relate in a positive way?
 
 **Personal Relevance for the prospect**
 
