@@ -1,20 +1,30 @@
-> Goal of this guide: learn about what the role of a developer is at New Atoms
+> Goal: Explain what it means to be a developer, what is expected of you when you are one and what you can expect from the team and the company and what skills are useful to master.
 
-## It's all about the perspective
+# How to be a Developer
 
-Being a developer is a way of looking at certain situations.
-For example: if a client wants to add something to a produced article, the conclusions drawn from this request can be very different depending on your perspective as a certain developer:
-* Was there anything wrong with the content? [content developer]
-* How, if applicable, can the company structurally integrate this feedback into the production process? [operations developer]
-* What effect will ignoring the request have on the relationship with the costumer? [business developer]
-* How can the experience of giving feedback be optimized? [experience developer]
+At New Atoms we work in teams because we think better things are made together. Our teams behave as if they are one.
 
-## The role of the developer
+## Why do we work together?
 
-A developer is never personally responsible for, nor obliged to fulfill, [achievables](../glossary/achievable.md) that belong to their developer role. The main goal is to notice when something can be (structurally) improved in 'their' field and making achievables accordingly.
+* It’s more fun to work together
+* It’s less stressful, your team has got your back
+* It isn’t a problem when someone is not there, you can go on holiday🍹
+* We can combine our talents
+* We can make better things this way
 
+## So what is the job of a team member
 
-## Six types of developers
+As a team member your job is not to make the best things or do the most work. It's to make the whole team as productive as possible.
+
+To do this you’ll have to use all the skills you have—wherever they come from—and learn new ones. You’ll have to be super aware of how everyone on your team is doing. And you’ll need to be extra aware of how you are doing.
+
+It's your job to add as much value as possible to what the team does. Even if this means doing something you’ve never done before. Or getting re-energised by going on vacation to the tropics.
+
+## The 6 roles
+
+The roles we defined aren’t necessarily jobs as such. They are the descriptions of the key roles in any complex creative development process. They are labels that help us figure out what kind of skills we have or miss in a team.
+
+Every team member takes one of these roles to their own ability. You can change them later on, but as long as you have this role you will have to live it.
 
 * [Content](https://github.com/newatoms/newatoms/blob/gh-pages/internal/jobs/content.md)
 * [Experience](https://github.com/newatoms/newatoms/blob/gh-pages/internal/jobs/experience.md)
@@ -24,3 +34,13 @@ A developer is never personally responsible for, nor obliged to fulfill, [achiev
 * [Product](https://github.com/newatoms/newatoms/blob/gh-pages/internal/jobs/product.md)
 
 A team needs all 6 of the roles to be fully functional.
+
+## What does this mean?
+
+Having one of the six roles is a way of looking at certain situations. A developer is never personally responsible for, nor obliged to fulfill, [achievables](../glossary/achievable.md) that belong to their developer role. The developer is tasked with thinking about, defending the territory that comes with the role.
+
+For example: if a client wants to add something to a produced article, the conclusions drawn from this request can be different depending on your perspective as a certain developer:
+* Was there anything wrong with the content? [content developer]
+* How, if applicable, can the company structurally integrate this feedback into the production process? [operations developer]
+* What effect will ignoring the request have on the relationship with the costumer? [business developer]
+* How can we optimise the experience of giving feedback? [experience developer]
