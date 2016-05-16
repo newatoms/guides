@@ -15,7 +15,7 @@ There are a number of interesting scientific and psychological explanations for 
 
 * **Appeal**
 
-Appeal refers to the natural attraction towards visual content, and the way it succeeds even in a short attention span. We might not be able to explain why we love a beautiful design because our conscious thought hasn’t yet caught up with our subconscious. Visceral reactions are some of the strongest connections we can make to visual content. They occur from the part of the brain that is also related to our survival instincts, which means that the reaction may be more direct and intense.
+Appeal refers to the natural attraction towards visual content, and the way it succeeds even in a short attention span. We might not be able to explain why we love a beautiful design because our conscious thought hasn’t yet caught up with our subconscious. Deeply emotional reactions are some of the strongest connections we can make to visual content. They occur from the part of the brain that is also related to our survival instincts, which means that the reaction may be more direct and intense.
 
 Visual content needs somehow to indicate the emotion for which it aims, either with the colors, the subject, or even with associations that lead to an easier connection which can elicit the right feeling (safety, food, positivity, love...).
 
