@@ -12,7 +12,7 @@ This guide is a quick tutorial about how to create a blogpost.
 
 >New Atoms is an early-stage news, journalism and research organisation with collaboration — both between humans, and humans and computers — at its core.
 
-Signup on [Medium](https://medium.com/) and ask a team member to invite you as an editor.
+Signup on [Medium](https://medium.com/) and ask Boris van Hoytema to add you as an editor.
 
 ## Write and publish
 
