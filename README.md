@@ -34,5 +34,6 @@ Here you find a list with links to all guides and their goal.
 |[approach paragraphs](paragraph-guide)| To understand how paragraph length affects readability |
 |[write a user story](user-story-guide)| create effective user stories |
 |[refine your writing style](style-guide)| write to fit a specific context, purpose, or audience  |
+|[science the $@%t out of images](effective-image-guide)| to explore what makes an image effective in relation to an article  |
 
 Use the [Glossary](glossary) to find definitions of words we use and how we use them.
