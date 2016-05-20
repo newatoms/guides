@@ -195,7 +195,7 @@ Leads that have been closed, either by a sale or disinterest. Here you can find 
 
 ## Iterations on the four stages of customer acquisition
 
-At new atoms we work with [achievables](.../user-stories-guide) to formulate our goals and manage our [workflow](.../board-guide).
+At new atoms we work with [achievables](../user-stories-guide/readme.md) to formulate our goals and manage our [workflow](../board-guide/readme.md).
 When you start working on a company in one of these stages it is key to move them to the next stage, just like you would with any other achievable.
 
 ## The end
