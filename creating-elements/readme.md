@@ -4,9 +4,9 @@
 
 ## Close your laptop!
 
-Never start writing code right away ⏳. If a user story or bugreport requires a new element, take a deep breath and close your laptop. Think about what the function of the element is. Spend some time on it. Imagine future scenarios where the element can be used 🔮. Pinpoint what the element should do but mostly what it shouldn't do. You are likely to think about building functionalities that actually fall outside the scope of the new element. Don't build the element only for the user story/bugreport though, think bigger.🚀
+Never start writing code right away ⏳. If a user story or bug report requires a new element, take a deep breath and close your laptop. Think about what the function of the element is. Spend some time on it. Imagine future scenarios where the element can be used 🔮. Pinpoint what the element should do but mostly what it shouldn't do. You are likely to think about building functionalities that actually fall outside the scope of the new element. Don't build the element only for the user story/bug report though, think bigger.🚀
 
-> For example don't hardcode text in the body of the element. Use
+> For example: don't use hardcode text in the body of the element. Use
 ``` html
 <content></content>
 ```
@@ -16,30 +16,30 @@ The parent can insert the content by:
 <child-element> Long text </child-element>
 ```
 
-## Use an already existing element?
+## Use an already existing element
 
 > So you've spent at least 5 minutes on a plan
 
 Can you use an existing element?
-Is there an element on the site that has a similar functionality? Can you solve the user story/bugreport by expanding the functionality of this element?
-For example the [paper-input element](https://elements.polymer-project.org/elements/paper-input) is not limited to plain text but can take an argument to restrict the user input to a social security number. Only do this when the it clearly makes sense though!
+Is there an element on the site that has a similar functionality? Can you solve the user story/bug report by expanding the functionality of this element?
+For example the [paper-input element](https://elements.polymer-project.org/elements/paper-input) is not limited to plain text but can take an argument to restrict the user input to a social security number. Only do this when it clearly makes sense though!
 
 [The Polymer catalog 💕](https://elements.polymer-project.org/) has a lot of very good elements you can use for free.
 [Customelements.io](https://customelements.io) is also growing quite fast. It's a site where people contribute their code, mostly open source. Not all code is great, but a lot of it is. Also, not all code is Polymer code.
 
 ## Create a new element
 
-So you need to build a new element. Think about with which other elements the new element should interact. What information does the new element need from them and what can it give back? 🗣
+So you need to build a new element. Think about which other elements the new element should interact with. What information does the new element need from them and what can it give back? 🗣
 
 Create a html file with a name that describes the functionality of the element very well. The name of the file has to have a hyphen - in it. Copy paste the content of seed-element.html into your empty file to setup your new element.
-Create a element-name.html file in the demo folder and test your file.
+Create an element-name.html file in the demo folder and test your file.
 
 > You can go to localhost:x000/_components/element-folder/demo/element-name.html to test your element
 (e.g. http://localhost:3000/_components/doable-item/demo/doable-detail.html).
 
 Remove all redundant code from your element and replace seed-element with element-name. Start with a small implementation and test it.🔬
 Does it work? Great, write documentation for it (see seed-element.html on how to do this).
-Continue by writing and testing another implementation. Continue until the entire element is built. When it works on it's own, try to implement it in other (relevant) elements.
+Continue by writing and testing another implementation. Continue until the entire element is built. When it works on its own, try to implement it in other (relevant) elements.
 
 All elements should be able to function on their own. If you need data from the outside, give the data in the demo.
 **Build elements in isolation!**
