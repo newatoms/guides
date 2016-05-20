@@ -12,7 +12,7 @@ And sure enough, when those farmers needed new gear they would go to the expert 
 
 As illustrated with *The Furrow*, content marketing strives to add value for the reader in order for the reader to link that value to the sender. A big problem with this, as Jenifer Rowly states in the *Journal of Marketing Managment*, is that it is difficul to establish what is valuable for the reader.
 
-Rowly states that “The customer's experience of digital content is influenced by all stakeholders in the value chain as well as requiring the customer to participate in learning and co-creation of the experience," meaning that value is determined by an interactive relationship between the sender (this case the customer) and the consumer (the target of the communication). 
+Rowly states that “The customer's experience of digital content is influenced by all stakeholders in the value chain as well as requiring the customer to participate in learning and co-creation of the experience," meaning that value is determined by an interactive relationship between the sender (this case the customer) and the consumer (the target of the communication).
 
 Often, this is done by communicating from the core of your added value, just like *The Furrow* did by sharing knowledge about farming and farm equipment (because John Deere knew a lot about farm equipment and farming, he could make the best equipment).
 
@@ -75,11 +75,11 @@ If used effectively, social media can work around a lot of the problems of tradi
 
 Social media always shows the name of the sender, solving the branding issue. People can share your messages from their own initiative, creating the connotation and reach of word of mouth. It extends your presence to the outside world so everyone can see the way you behave.
 
-For more on social media, you can check our [guide on social media](.../use-social-media-as-comunication-tool).
+For more on social media, you can check our [guide on social media](.../using-social-media-as-communication-tool).
 
 ### Conclusions
 
 Don't act differently than who you are. If you want people to perceive you differently, change!
 Let your main goal be to reinforce your beliefs; don't let the means be your goal. Make your context as broad as possible. Make your content relevant and relatable. Traditionally, the goal of communication is to make people do something with the information that is communicated.
 
-The goal of content marketing is to give value to the reciever, making them a stakeholder instead of a target in your communciation. Work *with* your target audience instead of *for* or *against* them. 
+The goal of content marketing is to give value to the reciever, making them a stakeholder instead of a target in your communciation. Work *with* your target audience instead of *for* or *against* them.
