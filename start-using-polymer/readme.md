@@ -19,7 +19,7 @@ Elements should however be able to receive input arguments that might alter the 
 
 *Image: a polymer paper-input element*
 
-It's difficult to define precisely what the goal of the element is and how this goal can be reached using values that might differ over different parts of the site or different sites. Take your time 🕒 [Read our guide on how to create a new element](https://hub.com/newatoms/newatoms/blob/ready/internal/guides/how-to-create-a-new-element.md)
+It's difficult to define precisely what the goal of the element is and how this goal can be reached using values that might differ over different parts of the site or different sites. Take your time 🕒 [Read our guide on how to create a new element](../creating-elements/readme.md)
 
 ### Communication between elements
 
