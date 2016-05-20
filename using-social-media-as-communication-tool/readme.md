@@ -57,7 +57,7 @@ This is the main reason why non-profit organizations and education are so succes
 
 ## Practicality
 
-Here are some insights that have been drawn from research on social media: 
+Here are some insights that have been drawn from research on social media:
 
 * In general, people only briefly look at what they see on social media. Therefore, the first sentences or image they see should capture the reader in a way that is in line with what the message you're conveying.
 
@@ -65,10 +65,10 @@ Here are some insights that have been drawn from research on social media:
 
 To make sure that people can find your content again, it is important to keep the following things in mind:
 
-* Try to keep your content on a minimal amount of different sources and and channel it through social media. 
-* If you publish an article online, do so on a blog and link to that blogpost through different channels. Don't post the article multiple times on different platforms. You want people to be able to share the source, not necessarily the outlet. 
+* Try to keep your content on a minimal amount of different sources and channel it through social media.
+* If you publish an article online, do so on a blog and link to that blogpost through different channels. Don't post the article multiple times on different platforms. You want people to be able to share the source, not necessarily the outlet.
 * If you are using video, try to keep all your material on one provider (Vimeo, YouTube, etc.)
-* Be consistent in language, frequency, and use of external services such as Eventbrite, Doodle etc.
+* Be consistent in language, frequency and use of external services such as Eventbrite, Doodle etc.
 
 ## Practicality per channel
 
@@ -87,8 +87,8 @@ Here you will find some info specifically pertaining to the mentioned social med
 ### Facebook
 
 * Most used and broadest channel, mostly personal use.
-* Shows messages of the people you follow based on your profile information, what and how long you view something and on what you click.
-* Suggest (sponsored) post and pages based on that information.
+* Shows messages of the people you follow based on your profile information, what and how long you view something and what you click on.
+* Suggests (sponsored) post and pages based on that information.
 * Tags give notifications to the tagged and show up in the timeline of their friends.
 * Facebook has the potential of infinite reach, so always reach beyond your followers.
 
@@ -96,13 +96,13 @@ Here you will find some info specifically pertaining to the mentioned social med
 
 * Used for profiling yourself and others, career-oriented.
 * Professional use.
-* Shows messages from the people you follow in real time and suggests messages, jobs, companies and connections based on your profile information and on what you click
+* Shows messages from the people you follow in real time and suggests messages, jobs, companies and connections based on your profile information and what you click on.
 * 600 character limit.
-* Only the first 150 Characters are visible; the rest are hidden behind “read more”.
+* Only the first 150 Characters are visible; the rest is hidden behind “read more”.
 
 ## Conclusion
 
-Hopefully you were able to read through the endless list of bullet points. In order to make the bullet points more clear, we filterd some of the most important points out and made another bullet point list! The list below is meant to give you a summary of advice on how to use social media based on the concepts discussed in this guide. 
+Hopefully you were able to read through the endless list of bullet points. In order to make the bullet points more clear, we filtered out some of the most important points and made another bullet point list! The list below is meant to give you a summary of advice on how to use social media based on the concepts discussed in this guide.
 
 * Roughly define your target audience.
 * Choose your channels based on your target audience.
