@@ -9,13 +9,13 @@ A user story is a short description of a task to be performed. It can be read as
 
 >*I can* (possible solution to achieve the goal/what is wanted)
 
-The goal of this guide is how to create an effective user story, so be sure to first read more about what user stories are and how they fit into our workflow in the [board guide](https://github.com/newatoms/guides/tree/ready/board-guide#user-story) and the [turn a pitch into a publishable blog post guide](https://github.com/newatoms/guides/tree/ready/turn-a-pitch-into-a-publishable-blog-post-guide).
+The goal of this guide is how to create an effective user story, so be sure to first read more about what user stories are and how they fit into our workflow in the [board guide](../board-guide/readme.md) and the [turn a pitch into a publishable blog post guide](../turn-a-pitch-into-a-publishable-blog-post/readme.md).
 
 ## Why the eff are user stories so hard to write?
 
 <img src="https://media.giphy.com/media/1iTpx5PpzRugcrZK/giphy.gif" width="100%">
 
-Here at New Atoms, we like to hyper-rationalise everything by always asking ***why*** 🤓. User stories are therefore goal-oriented, but identifying that goal can be difficult. Even more difficult can be parsing out where that goal falls on the "hierarchy of why". Confused? So are we. That's why this guide exists!
+Here at New Atoms, we like to hyper-rationalize everything by always asking ***why*** 🤓. User stories are therefore goal-oriented, but identifying that goal can be difficult. Even more difficult can be parsing out where that goal falls on the "hierarchy of why". Confused? So are we. That's why this guide exists!
 
 ## The hierarchy of ***why***
 
