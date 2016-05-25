@@ -55,7 +55,6 @@ In this chapter we describe some ways to get traffic to the website by stimulati
 
 ## Who are the main users of content.supply?
 
-[Costumer acquisition scheduled & Info](https://docs.google.com/spreadsheets/d/1PnkjyH_CFJ3hbuxxjL-z_XvH9KKbVGUSNg8b1kF75qI/edit?usp=sharing)
 * Communication & PR personnel
 * Director's & CEO's
 * Project managers
