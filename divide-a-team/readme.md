@@ -1,8 +1,8 @@
-Goal: A step by step walkthrough of splitting a team and creating two new ones.
+Goal: A step by step walkthrough of dividing a team and creating two new ones.
 
-# How to split a team
+# How to divide a team
 
-Our company is growing. All of our teams grow naturally by hiring new people. Ideally a team is between 5 and 10 people. So what happens if a team gets too big? It is devided, like natural cells divide.
+Our company is growing. All of our teams grow naturally by hiring new people. Ideally a team is between 5 and 10 people. So what happens if a team gets too big? It is divided, like natural cells divide.
 
 ![Cells dividing](http://i.giphy.com/zlDvp7eTc0ik.gif)
 
@@ -12,7 +12,7 @@ Depicted is the meeting that happens when two teams divide.
 
 Dividing a team happens along the developer classes. Every team needs all six roles to function. One person might need to take two classes but only if they are comfortable doing so.
 
-All posessions need to be split, as well as all the products the teams are responsible for.
+All posessions need to be divided, as well as all the products the teams are responsible for.
 
 The division takes a whole day of plenary work.
 
