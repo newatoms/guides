@@ -24,7 +24,7 @@ Here you find a list with links to all guides and their goal.
 |[pay for something](how-to-pay-for-something) | Pay for things on behalf of the company and get your money back |
 |[prepare for an interview](interview-guide) | Helping to prepare for an Interview |
 |[start using Polymer](start-using-polymer)| Helping you understand why we use Polymer and how you can join the fun |
-|[split a team](split-a-team)| A step by step walkthrough of splitting a team and creating two new ones. |
+|[divide a team](divide-a-team)| A step by step walkthrough of dividing a team and creating two new ones. |
 |[use Polymer databinding](databinding) | How to communicate between elements using databinding in Polymer |
 |[create a Polymer element](creating-elements) | Understanding the core concepts of coding in Polymer |
 |[visualise programming](visualise-programming-guide) | Learn about what type of conversation partner a computer is |
