@@ -4,7 +4,7 @@
 
 When creating websites you need to see what your new implementation looks like before displaying it online. No good having your visitors see all your trial and errors, is it ;)
 
-One way to avoid this is by 'running a server' locally. You can change whatever you like and you'll be the only person who'll see it––except for maybe your colleague who's amazed by your inclusion of a purple horse on your website!
+One way to avoid this is by 'running a server' locally. You can change whatever you like and you'll be the only person who'll see it––except for maybe your colleague who'll be amazed by your inclusion of a purple horse on your website!
 
 ## If you've run a local server before
 
@@ -12,9 +12,9 @@ One way to avoid this is by 'running a server' locally. You can change whatever 
 
 1. [Navigate in the terminal](http://www.macworld.com/article/2042378/master-the-command-line-navigating-files-and-folders.html) to the folder of the website you want to change.
 2. Navigate to the folder web ––```cd web```
-3. type ```bower install```
+3. type ```bower install``` and press enter
 4. navigate back to the main folder ––```cd ..```
-5. run ```firebase serve```
+5. type ```firebase serve``` and press enter
 6. open a browser and go to the localhost adress that is displayed in the terminal.
 
 
