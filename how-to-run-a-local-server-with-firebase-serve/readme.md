@@ -26,8 +26,6 @@ What we'll be dealing with:
 * [Firebase](https://firebase.google.com/) is a product that offers, among others, a database and hosting.
 * [The Mac terminal](http://www.macworld.com/article/2042378/master-the-command-line-navigating-files-and-folders.html), read this guide if you don't know how to navigate through folder using the terminal.
 
-This guide will make sure you won't have to read through all the technical bits on these sites.
-
 ## Installing
 
 This is a bit of a boring process but only needs to be done once per computer.
