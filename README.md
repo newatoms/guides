@@ -28,6 +28,8 @@ Here you find a list with links to all guides and their goal.
 |[divide a team](divide-a-team)| A step by step walkthrough of dividing a team and creating two new ones. |
 |[use Polymer databinding](databinding) | How to communicate between elements using databinding in Polymer |
 |[create a Polymer element](creating-elements) | Understanding the core concepts of coding in Polymer |
+|[create a local server using Firebase serve ](how-to-run-a-local-server-with-firebase-serve) | Show you how you can run a local server using firebase serve |
+|[solve permission errors on the mac ](how-to-solve-mac-permission-errors) | To help you solve the annoying permissions error that the mac sometimes gives when installing something via the terminal |
 |[visualise programming](visualise-programming-guide) | Learn about what type of conversation partner a computer is |
 |[solve Polymer errors](fixing-errors) | Create a understanding of debugging web-apps |
 |[turn a pitch into a blog post](turn-a-pitch-into-a-publishable-blog-post)| help you to create and work on a user story for a blog post |
