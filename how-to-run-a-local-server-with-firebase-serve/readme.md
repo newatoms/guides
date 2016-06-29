@@ -11,12 +11,8 @@ One way to avoid this is by 'running a server' locally. You can change whatever 
 > Skip this bit if this is your first time running a local server
 
 1. [Navigate in the terminal](http://www.macworld.com/article/2042378/master-the-command-line-navigating-files-and-folders.html) to the folder of the website you want to change.
-2. Navigate to the folder web ––```cd web```
-3. type ```bower install```
-4. navigate back to the main folder ––```cd ..```
-5. run ```firebase serve```
-6. open a browser and go to the localhost adress that is displayed in the terminal.
-
+2. run ```firebase serve```
+3. open a browser and go to the localhost address that is displayed in the terminal.
 
 ## It's not that techy!
 
@@ -32,6 +28,5 @@ This is a bit of a boring process but only needs to be done once per computer.
 
 1. Download and install [Node](https://nodejs.org/en/)
 2. Open your terminal ```cmd-space -> terminal```
-3. run ```npm install firebase tools -g``` *[click here](/how-to-solve-mac-permission-errors) if you get an error*
-4. run ```npm install -g bower```
+3. Run ```npm install firebase tools -g``` *[click here](/how-to-solve-mac-permission-errors) if you get an error*
 5. Follow the steps described in ```If you've run a local server before```
