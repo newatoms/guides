@@ -4,7 +4,7 @@
 
 When creating websites you need to see what your new implementation looks like before displaying it online. No good having your visitors see all your trial and errors, is it ;)
 
-One way to avoid this is by 'running a server' locally. You can change whatever you like and you'll be the only person who'll see it––except for maybe your colleague who's amazed by your inclusion of a purple horse on your website!
+One way to avoid this is by 'running a server' locally. You can change whatever you like and you'll be the only person who'll see it––except for maybe your colleague who'll be amazed by your inclusion of a purple horse on your website!
 
 ## If you've run a local server before
 
