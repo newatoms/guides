@@ -2,4 +2,4 @@
 
 # How to create an understandable manual
 
-[This is a well written external guide on the subject](http://www.dozuki.com/Tech_Writing)
+[This is a well written guide on the subject](http://www.dozuki.com/Tech_Writing)
