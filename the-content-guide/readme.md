@@ -81,6 +81,15 @@ Photos and illustrations together with the right title make the reader curious a
 
 Most importantly, images enrich an article in the sense that they support the written piece. Apart from aesthetics, images should create a certain context. So even though images are really important in any article, an image that makes no sense can be worse than no image at all.
 
+Header images should work on their own because the images of your post is often the first and only thing people get to see. **Therefore an image has to be good out of its context.** People are visual creatures and probably only stop scrolling (for example in a Facebook, Medium or Twitter feed) when they see an interesting image.
+
+To make it easier on ourselves, we set some relevant guidelines:
+
+* **A header image should work on its own, out of its context.** The header image is often the first and only thing people see. You want to grab their attention with *appeal*, *comprehension* and *retention*. Want to know more about what makes an image interesting? Read [Ten Tips for Making Interesting Images](https://medium.com/@caitlinwinner/ten-tips-for-making-interesting-images-19a59bd2eea2#.squ547nli).  
+* **Images should trigger curiosity.**
+* **Images should create a context.** Establish an atmosphere into which you would like your readers to enter.
+* **Images need to tell part of the story.** Don’t go for the obvious.
+
 A good mantra, with the addition of more multimedia in the back of our minds, is not "form follows content" but "content follows form".
 
 ### The use of movie stills
