@@ -17,7 +17,6 @@ Here you find a list with links to all guides and their goal.
 |[be a Managing Director](be-a-managing-director) | Explaining what it means to be a managing director |
 |[be a developer](how-to-be-a-developer) | Explaining what it means to be a developer |
 |[use the Achievable board](board-guide) | Explaining how we work with our workflow board and optimizing the use of it  |
-|[create awesome content](board-guide)| Helping you make the most awesome content you can make|
 |[use GitHub](github-guide) | Guide on how to build documents and websites with the service called Github |
 |[publish to Medium](medium-guide)| Helping you use Medium |
 |[use Slack for team communciation](slack-guide) | Helping you use our main communications tool, slack.
@@ -39,5 +38,6 @@ Here you find a list with links to all guides and their goal.
 |[write a user story](user-story-guide)| create effective user stories |
 |[refine your writing style](style-guide)| write to fit a specific context, purpose, or audience  |
 |[science the $@%t out of images](effective-image-guide)| to explore what makes an image effective in relation to an article  |
+|[create high quality content](the-content-guide)| Helping you create high quality content by giving tips and a checklist |
 
 Use the [Glossary](glossary) to find definitions of words we use and how we use them.
