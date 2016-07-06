@@ -2,7 +2,7 @@
 
 # Social media guide
 
-Social media is an extremely amplified version of [word of mouth](https://github.com/newatoms/guides/tree/ready/understand-conten-marketing/readme.md#word-of-mouth) communication.
+Social media is an extremely amplified version of [word of mouth](../understand-content-marketing/readme.md#word-of-mouth) communication.
 It has the potential reach of traditional broadcasting and the context of word of mouth.
 
 ## The fundamentals of social media
