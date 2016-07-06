@@ -74,34 +74,6 @@ With the ever-growing amounts of content, content developers should know how rea
 
 According to Jacob Nielsen of the [Nielsen Norman Group](http://www.nngroup.com/articles/how-long-do-users-stay-on-web-pages/), a visitor spends an average of less than a minute on a webpage. The visitor usually only has time to read a quarter of the text presented and if the content has a clear message or benefit, the chances it will be read are heightened. Quality content aims to give the reader new insights about a specific topic.
 
-## Search Engine Optimisation (SEO) or keyword research, here we go:
-
-Search engine optimisation is a way to (sort of) ensure that people find your website through search engines like Google, Bing, Google and Google.
-
-We believe that the quality, originality and creativity of content always take priority over SEO strategy. However, we do acknowledge SEO as an important strategy when it comes to the visibility of the content. It would be a shame for a written masterpiece to float on the web and not be picked up by an audience.
-
-SEO can be done in many ways and has mostly to do with figuring out what words your target audience searches. You can use those words while writing an article to make sure search engines are able to find it. At New Atoms we don't really do SEO, but it is good to be aware of it as a writer.
-
-### Understanding your target audience for SEO
-
-As a content marketeer, writer or other creative, you sometimes wish you could see into the brains of your target audience. With almost everyone connected to the internet, people are using search engines like Google to look for answers or solely for entertainment. Nothing new here, but it's important to recognise that current technology enables us to analyse the search behavior of potential audiences. We can therefore use this information for searchable content.
-
-Implementing the right keywords will get your blog more traffic from your target audience. Apart from that, it's just as important (and an advantage) to really know what your audience wants.   
-
-### Tackle marketing priorities for SEO
-
-One goal of content marketing is increased web traffic for businesses. The biggest challenges and priorities for marketing professionals (besides creating more _high quality content_ in lesser time) are:
-
-* Measuring content effectiveness
-* Producing more _engaging_ content
-* Measuring what types of content have a positive influence on sales
-
-(Source surveys: [Content marketing institute](http://contentmarketinginstitute.com/wp-content/uploads/2015/09/2016_B2B_Report_Final.pdf), Linkedin B2B content marketing report, [Hubspot's The State of Inbound 2015](http://www.stateofinbound.com/)).
-
-To meet and tackle these challenges and priorities, content has to be found. _Search Engine Optimisation_ or keyword research strategies help to create more visible blogposts for readers and enable businesses to get more traffic.
-
-<img src="https://media0.giphy.com/media/KJg6Znn4V1Jcs/200.gif" width="100%">
-
 ## No image? Forget about it...
 
 Humans are visual creatures. Research done by [Skyword](http://www.skyword.com/contentstandard/enterprise-marketing/skyword-study-add-images-to-improve-content-performance/) has shown that chances a text will be read are increased by **94%** if the article has an image.
@@ -119,7 +91,7 @@ A Report of the Ad Hoc Committee of the [Society For Cinema Studies](http://www.
 
 Apart from these sources there are some other arguments in favour of using stills in posts. Using a movie still on a blog to describe the movie, link it to daily life, praise or criticise it will create free publicity for the movie. As long as it is not a post where you crumble the movie to a limp cockroach, the owners will not bother you. Lawyers are expensive! 💸
 
-#### What you have to keep in mind! 
+#### What you have to keep in mind!
 
 Insert image source with proper mentions to the owners’ original work.    
 
