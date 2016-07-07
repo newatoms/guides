@@ -28,7 +28,7 @@ You only have about 20 seconds to grab someone's attention, so start of with som
 ### How to tell your story
 While telling your story there are a few key points you need to follow:
 
-* **There needs to be a natural transition** When the listeners needs think back to what you said before they can't listen to what you are saying.
+* **There needs to be a natural transition** Make sure the story you are telling progresses naturaly, if the listener needs to think back to what you told earlyer you will lose their attention.
 * **It needs to be understandable** Never use terms or principles without explaining them first, if there is a chance the listener won't  understand them.
 
 ### Instilling trust in what you say and how you say it
