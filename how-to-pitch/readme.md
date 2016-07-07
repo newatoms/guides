@@ -28,8 +28,10 @@ The internet is a bit divided on what makes a good pitch. From all sources and s
 ### How to tell your story
 While telling your story there are a few key points you need to follow:
 
-* There needs to be a natural transition Make sure the story you are telling progresses naturaly, if the listener needs to think back to what you told earlyer you will lose their attention.
-* It needs to be understandable Never use terms or principles without explaining them first, if there is a chance the listener won't  understand them.
+* There needs to be a natural transition 
+    * Make sure the story you are telling progresses naturaly, if the listener needs to think back to what you told earlyer you will lose their attention.
+* It needs to be understandable
+    * Never use terms or principles without explaining them first, if there is a chance the listener won't  understand them.
 
 ### Instilling trust in what you say and how you say it
 
