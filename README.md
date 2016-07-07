@@ -39,5 +39,6 @@ Here you find a list with links to all guides and their goal.
 |[refine your writing style](style-guide)| write to fit a specific context, purpose, or audience  |
 |[science the $@%t out of images](effective-image-guide)| to explore what makes an image effective in relation to an article  |
 |[create high quality content](the-content-guide)| Helping you create high quality content by giving tips and a checklist |
+|[create effective hyperlinks](the-hyperlink-guide)| Helping you create effective in-text links |
 
 Use the [Glossary](glossary) to find definitions of words we use and how we use them.
