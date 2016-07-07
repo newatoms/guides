@@ -4,7 +4,7 @@
 
 "Trust me I got this" is one of the least reassuring sentences in the world. So how do you convey that you can do something without clearly saying that you "got diss"?
 
-<img src="https://media.giphy.com/media/XfxbrDXAkIqFa/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/XfxbrDXAkIqFa/giphy.gif" width="50%">
 
 At New Atoms we do quite some pitching. We pitch ideas for articles to clients and we pitch our service to everyone who will listen. But what makes a good pitch?
 
@@ -60,5 +60,7 @@ You can instill trust with your pitch if you try to use the follwing points whil
 * Be Coachable:
     * Will you take advice from your investor? Do you have the ability to listen?
 
-## Know the situation you are pitching in
-The most important thing is to understand the situation in which you are pitching. When you pitch for certain clients or events, you can do some research. But most of the time you will not know beforehand when you will need to tell your story. Understanding the situation you are in only comes with practice. Tell your story and see how people respond. Pitch to your parents, your friends, your partner, the guy in the grocery store that only buys one tube of toothpaste, your mirror, your pillow... Practice makes perfect and while you are practicing you will get the word out, which is always a good thing. The more you pitch the better you get to understand the situation you are in and how to use it in order to tell your pitch in the right way. 
+## Thats all we know!
+
+We sure hope this helped you to pitch better, right now this is all we know!
+Good luck!
