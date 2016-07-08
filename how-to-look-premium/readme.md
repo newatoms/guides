@@ -4,10 +4,10 @@
 
 So, you have set up an awesome service and you are ready to take it to the market. You have done your research and you know you have more to offer than much of the competition. Therefore you decide to put your pricing in a higher segment. Yes, you are a premium service, spending much time and effort on your product, and your clients will have to pay for that. But how to convince them you are worth the money? Here's a few points to help you get started, inspired by [this article](https://www.entrepreneur.com/article/217176).
 
-1) Help your costumers understand why the price is higher: highlight your unique features. If you know how competitors are undercutting your prices, and you feel the competitors' lower cost equates to poorer quality or service, explain this difference.
-2) Go the extra mile. Show our clients that you appreciate them choosing you over other cheaper options. Not just by being friendly, but by for example delivering a bottle of wine to show them you appreciate their trust.
-3) Stick to your price, even when times are tough. Otherwise you will not generate enough cash flow to maintain your high quality service.
-4) Project financial stability in your service – otherwise you’re too much of a risk.
+1. Help your costumers understand why the price is higher: highlight your unique features. If you know how competitors are undercutting your prices, and you feel the competitors' lower cost equates to poorer quality or service, explain this difference.
+2. Go the extra mile. Show our clients that you appreciate them choosing you over other cheaper options. Not just by being friendly, but by for example delivering a bottle of wine to show them you appreciate their trust.
+3. Stick to your price, even when times are tough. Otherwise you will not generate enough cash flow to maintain your high quality service.
+4. Project financial stability in your service – otherwise you’re too much of a risk.
 
 ## Get the looks
 
