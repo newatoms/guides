@@ -39,12 +39,13 @@ To reach our goal of communication the post.supply website will be a place where
 * The option to create an account on post.supply and receive a brief about your organisation after filling in the configuration for free.
 
 ## What is post.supply's tone of voice?
+
 Whenever writing for post.supply, keep in mind the desired tone of voice.
 To determine whether you have done so, think of post.supply as a person with the following characteristics:
 
 - intelligent (post.supply is well-educated and generally knows what it’s doing)
 - approachable and friendly (post.supply is easy and pleasant to interact with)
-- enthusiastic (post.supply shows to be having passion for what it’s doing - helping people make great content) 
+- enthusiastic (post.supply shows to be having passion for what it’s doing - helping people make great content)
 - trustworthy and stable (post.supply consistently doesn't slack, and delivers what it promises)
 - casually professional (post.supply doesn't wear a suit, but definitely has a put-together outfit and basic table manners)
 
