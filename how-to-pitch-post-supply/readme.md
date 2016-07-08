@@ -1,4 +1,4 @@
-> Goal of this guide: Help you make it clear what Post.supply is and what it offers
+> Goal of this guide: Lean you how to make it clear what Post.supply is and what it offers
 
 # Your awesomeness is enough. You don't have to be a selling super hero
 <img src="http://66.media.tumblr.com/da6ec2c2cb443e8e7d1ade9eb220c86d/tumblr_nvls4ybWUo1sxfvy5o1_400.gif" width="500px">
@@ -14,11 +14,11 @@ The product should sell itself, as long as people know what the product is. If n
 
 ### Problem
 
-Social media is mostly used to influence the way people perceive the sender, creating large amounts of aggressive and pushy content that has no real value for the receiver. This is a waist of resources and drowns out the content that is actually valuable for the receiver.
+Communication is mostly used to influence the way people perceive the sender, creating large amounts of aggressive and pushy content that has no real value for the receiver. This is a waste of resources and drowns out the content that is actually valuable for the receiver.
 
 ### Solution
 
-We are convinced that you can have effective communication by using it as a tool to achieve the goals of your company.
+We are convinced that you can communicate effectively by using it as a tool to achieve the goals of your company.
 
 The best way to do this is by enabling your audience to be part of the solution to the problem your company is trying to solve.
 
@@ -34,7 +34,7 @@ We teach you how to do this trough our website. If you do not have the time to d
 
 Apart from creating the right content, the main focus of the application is to enable users to have and maintain a steady flow of content with the least amount of effort.
 
-**Our work Method** enables us to have team members work on the same articles simultaneously from their own strength while covering the shortcomings of others. This enables us to create diverse articles that are not subjected to the knowledge and experience of one writer allowing us to be able to scale and adapt where necessary. We call this Agile Journalism.
+**Our work Method** enables us to have team members work on the same articles simultaneously from their own strengths while covering where others are less proficient. This enables us to create diverse articles that are not subjected to the knowledge and experience of one writer allowing us to be able to scale and adapt where necessary. We call this Agile Journalism.
 
 ## Our goal
 
