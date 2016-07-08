@@ -1,4 +1,4 @@
-> Goal of this guide: decisions support for the length of an article.
+> Goal of this guide: knowing how long posts shoul be.
 
 # How to manage your post length
 
