@@ -15,7 +15,7 @@ You can highlight your unique features until the cows come home – if you don'
 * [Add suiting pictures or illustrations](https://github.com/newatoms/guides/tree/ready/effective-image-guide) to clarify and brighten up your points.
 * Keep your texts short and simple. This means that you get to the point as fast as you can, rather than writing entire bookworks. 
 
-<img src="http://i.imgur.com/ZuiOkic.jpg" width="100%">
+<img src="http://i.imgur.com/ZuiOkic.jpg" width="50%">
 
 * Try to focus on the benefits of your features, rather than the features itself. Most people don't care that you have made a state-of-the-art custom interface designed with this or that framework. All they want to know is what that means for them.
 * Give your separate features some literal space to breathe. This allows for the reader to let them sink in as he or she scrolls through your website.
