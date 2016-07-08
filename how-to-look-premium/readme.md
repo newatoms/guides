@@ -13,10 +13,12 @@ So, you have set up an awesome service and you are ready to take it to the marke
 
 You can highlight your unique features until the cows come home – if you don't communicate them in a convincing way, all effort goes to waste. This starts with clear and good writing (see this [guide on how to write well](https://github.com/newatoms/guides/tree/ready/writing-guide)), but it by no means ends there. It's also about looks. On your website or any other means of communication, make sure to present your features in an attractive way. A few ideas:
 * [Add suiting pictures or illustrations](https://github.com/newatoms/guides/tree/ready/effective-image-guide) to clarify and brighten up your points.
-* Keep your texts short and simple. This means that you get to the point as fast as you can, rather than writing entire bookworks. 
+* Keep your texts short and simple. This means that you get to the point as fast as you can, rather than writing entire bookworks.
 
 <img src="http://i.imgur.com/ZuiOkic.jpg" width="100%">
 
 * Try to focus on the benefits of your features, rather than the features itself. Most people don't care that you have made a state-of-the-art custom interface designed with this or that framework. All they want to know is what that means for them.
 * Give your separate features some literal space to breathe. This allows for the reader to let them sink in as he or she scrolls through your website.
 * Last but not least: the book has to match the cover. Make sure to have a nice design that suits your premium service! Think about it as if buying fancy clothes, or furniture. You want the design of the store to reflect the value of the product you're buying. If Sacks would look like Primark, you'd feel conned when checking out the pricetags.
+
+Image credits: [Breakfast at Tiffanies still](http://habituallychic.luxury/2016/02/crazy-about-tiffanys-documentary/)
