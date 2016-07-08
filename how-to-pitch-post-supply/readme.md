@@ -1,6 +1,6 @@
 > Goal of this guide: Help you make it clear what Post.supply is and what it offers
 
-# You are awesome. You don't have to be a selling super hero
+# Your awesomeness is enough. You don't have to be a selling super hero
 <img src="http://66.media.tumblr.com/da6ec2c2cb443e8e7d1ade9eb220c86d/tumblr_nvls4ybWUo1sxfvy5o1_400.gif" width="500px">
 
 First off it is really important that we should never try to sell our product.
@@ -46,4 +46,4 @@ When telling the story for the first time the most important thing is to tell on
 
  This is something you will only learn to practice. So don't worry if you don't get it right the first 50 times.
 
- Just keep trying to explain what we do an why we do it. At some point you will get the hang of it. 
+ Just keep trying to explain what we do an why we do it. At some point you will get the hang of it.
