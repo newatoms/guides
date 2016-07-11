@@ -1,4 +1,4 @@
-> **Goal of this guide:** To help team members write in a clear manner
+> **Goal of this guide:** To help people write in a clear manner
 
 # How to write well
 
@@ -58,6 +58,18 @@ Always write in an active writing style. [Other styles can be effective](https:/
 ## Choice of words
 
 Avoid scarcely-used words unless there is no substitution. In this case, always explain the word. In most cases, however, complex things can and should be expressed simply.
+
+## Seduce the reader
+
+Readers don't only want to be informed. They want to be seduced by you. When this is done effectively the reader will memorise the content better. Lets get more practical, shall we?
+
+* **Talk to your reader like it's your best friend.** Ask questions and use the word *you*.
+* **Empathise with your reader’s feelings.** Where is he/she struggling with. Sketch these scenarios.
+* **Dare to be** an "authority", but **vulnerable** at the same time.
+* It's important to sketch a beautiful promise (Do keep it though!) in the beginning, **give people the feeling that they have to read your post.**
+* In a blog post, **you only have words** to attract attention and convey emotion. That’s why you need to **turn up your passion and choose more powerful words**: *Instead of dull, use mind-numbingly dull. Instead of pleased, use delighted. Instead of beautiful, use gorgeous.*  
+* Don't be too afraid of a little laugh once in a while.
+* Sweep them of their feet and help them up again.
 
 ## Find a suitable ending
 
