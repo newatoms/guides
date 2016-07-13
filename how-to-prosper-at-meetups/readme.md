@@ -14,6 +14,9 @@ Listen to the person. Try to find something to talk about in which you are genui
 - Don't have 2 to 1 conversations. This can feel like an interrogation and speaking as a team to more people on an evening is generally more worthwhile for everybody involved.
 - People won't mind you joining them, even if they are in a deep conversation.
 - Don't feel obliged to keep having a conversation with people you can't find common ground with.
+- Ask to explain the foundation of the conversation. Conversations are very fluid and it's usually difficult to explain the goal/idea of the conversation if you don't get the foundation. It likely helps them have a more focussed conversation as well. (don't interrupt the conversation immediately of course, try to see whether you can figure it out on your own first)
+- If you don't find the topic interesting, try to learn why the other party finds it interesting. It might be that you can expand your horizon! Don't stay to long with annoying people though ;)
+- Be honest! Nobody expects you to be an expert at everything. Your experience in other fields, or your view as a novice on the field, can be very interesting to other people.
 
 
 ## So you're in a conversation about something you do, now what?
