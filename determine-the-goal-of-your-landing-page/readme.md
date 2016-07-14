@@ -1,4 +1,4 @@
->Goals of this guid: Understanding what a landing page is.
+>Goals of this guide:  To understand what a landing page is.
 
 # What is a landing page?
 
