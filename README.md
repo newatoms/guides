@@ -12,7 +12,7 @@ Here you find a list with links to all guides and their goal.
 |--------|-----------------------------|
 |[use text-editor Atom](atom-guide)| Helping you to use Atom, a text editor we use in combination with github |
 |[get clients](get-clients)| Helping you to do direct customer acquisition |
-|[enjoy Meetups](how-to-enjoy-meetups)| Helping you to enjoy and prosper at Meetups |
+|[prosper at Meetups](how-to-prosper-at-meetups)| Helping you to enjoy and prosper at Meetups |
 |[search effectively with Google](google-search-guide)| Teaching you about the top of the line search tools |
 |[be a Managing Director](be-a-managing-director) | Explaining what it means to be a managing director |
 |[be a developer](how-to-be-a-developer) | Explaining what it means to be a developer |
