@@ -121,7 +121,7 @@ Therefore, if you want to change or add a file you sync with the most recent bra
 
 ### Add images
 
-Only locally you can add images by saving them in the designated folder (e.g. images-folder).
+You can only locally add images by saving them in the designated folder (e.g. images-folder).
 
 ---
 
