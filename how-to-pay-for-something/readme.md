@@ -8,7 +8,7 @@ For almost all expenses, this is how we work:
 
 1. You pay for it using your personal cash,
 2. You send the receipt in to our bookkeeping,
-3. You get the money back in your next pay cheque.
+3. You get the money back in your next pay cheque after the reciept has been approved by Boris.
 
 ## How to send in your receipts
 
@@ -17,5 +17,7 @@ For this you need the ‘ReceiptBank’ app on your phone, or if this doesn’t 
 This app needs to identify you. For this you need a _Token_, this can be obtained from the bookkeeper, so you probably need to ask Boris for it.
 
 Once logged in to the app you can use it’s camera functionality to take a photo of your receipt and send it in.
+
+**Keep all the fysical receipts since the tax office might want to see them someday as proof.**
 
 That’s it, done.
