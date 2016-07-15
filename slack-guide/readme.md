@@ -30,7 +30,7 @@ To get more indepth information about the functionality of Slack [they've made a
 
 With [Slack](https://slack.com/) we say goodbye to email. Well, certainly for all internal communication.
 
-When you become part of New Atoms you will get an invite, this wil enable you te become part of the New Atoms Slack team and join all our channels.
+When you become part of New Atoms you will get an invite, this will enable you to become part of the New Atoms Slack team and join all our channels.
 
 ### Channels
 
@@ -57,7 +57,7 @@ You can mention and notify certain people in a channel with an *@* followed by t
 
 ### Direct Messages
 
-To reach a team member directly, send them a Direct Message. To send one, select the receipient from the direct message column on the left of the window. If the person you are trying to send a message is not in the list you can add them by clicking the private message heading. Direct messages are only visible for those in that conversation.
+To reach a team member directly, send them a Direct Message. To send one, select the recipient from the direct message column on the left of the window. If the person you are trying to send a message is not in the list you can add them by clicking the private message heading. Direct messages are only visible for those in that conversation.
 
 <img src="https://media.giphy.com/media/W8WwcDyjdnp3G/giphy.gif" width="100%">
 
