@@ -11,3 +11,4 @@ The benefit is first since it is the most important thing, it could be fulfilled
 Read more about User Stories [in the Board guide](../board-guide/readme.md#user-story).
 
 ## Example:
+To avoid obtaining (physical) back problems while working in the office — As a developer — I can work standing
