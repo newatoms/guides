@@ -40,7 +40,16 @@ Next to private chat and chatrooms you know from traditional chat programs, Slac
 
 * A private channel and its contents are visible and searchable only to the channel members. In order to become part of a private channel you need to be added by a admin of that specific channel. Private channels have a closed lock icon in front of their name.
 
-We organise our team conversations in channels. We make channels per project or product. Apart from these project channels we have a bunch of extra channels that are quite self explanatory. We have an inspiration channel, if you want to share interesting links or articles or if you invented an amazing quote. A general channel, here messages go when every New Atoms member should be notified. We also have a random channel, for all the fun things happening and please post your favorite Gifs here 🎉. We got a improvement channel where you should post your ideas on how we can improve stuff, from processes to behavior.
+We organise our team conversations in channels. We make channels per project or product. Apart from these project channels we have a bunch of extra channels that are quite self explanatory. 
+
+We have:
+
+- An inspiration channel, if you want to share interesting links or articles or if you invented an amazing quote. 
+- A general channel, here messages go when every New Atoms member should be notified. 
+- A random channel, for all the fun things happening and please post your favorite Gifs here 🎉. 
+- A improvement channel where you should post your ideas on how we can improve stuff, from processes to behavior.
+
+And many more.
 
 All messages must be on topic and send in the designated channels. You can favorite channels by starring them.
 
