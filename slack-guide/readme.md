@@ -66,15 +66,3 @@ To reach a team member directly, send them a Direct Message. To send one, select
 You can add some fancy formatting to your messages like Bold using `*` before and after what you want to be bold; use `_` for italics and `~` for strikethrough. [Read more about formatting on the Slack site](https://get.slack.help/hc/en-us/articles/202288908-Formatting-your-messages). Note: Slack does not use Markdown.
 
 You can also generata a random gif about a subject by typing `/giphy [subject]`. Pretty cool.
-
-### Talking to Howdy the Robot
-
-For our daily standup we use the Howdy bot. Because we like to talk to robots; and because it makes checks in with everyone and lets the rest know how they are doing.
-
-With the standup we try to get a overview on what everyone is working on, what they have worked on so far, how they feel and if anything is blocking them.
-
-This can help us recognize and solve problems, keep everyone happy and its a great moment for yourself to reflect on what and how you are doing.
-
-At 1000Z Howdy starts talking to every team member, don't be nervous, just answer his questions. When everyone completed the talk with Howdy it will post a summary in the standup channel.
-
-Happy Slacking!   
