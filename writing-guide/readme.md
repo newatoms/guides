@@ -1,4 +1,4 @@
-> **Goal of this guide:** To help people write in a clear manner
+> **Goal of this guide:** To help write in a clear manner
 
 # How to write well
 
