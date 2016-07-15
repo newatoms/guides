@@ -35,7 +35,7 @@ Reading short sentences is far easier than reading long sentences. Your short-te
 
 > Do: Write short sentences. This keeps things clear for your reader. They will like you.
 
-> Don't: Leave the reader wondering what the hell is going on. Write sentences that, if the reader is inclined to do so, elaborate on multiple topics. For example when talking about unborn babies and their resemblance to unicorns 🤔 (which apparently people like to invest in).
+> Don't: Don't: Write sentences that, if the reader is inclined to do so, elaborate on multiple topics, such as unborn babies and their resemblance to unicorns (which apparently people like to invest in) and thus leave the reader wondering what the hell is going on. (So yeah, how's that for a long stupid sentence?) 
 
 Just like paragraphs, sentences should follow each other in a natural way by using [sentence transitions](https://writing.wisc.edu/Handbook/Transitions.html).
 
