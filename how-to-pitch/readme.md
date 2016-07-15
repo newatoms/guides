@@ -19,6 +19,9 @@ The internet is a bit divided on what makes a good pitch. From all sources and s
 * Create a context for your pitch
 * Introduce the problem you are trying to solve
 * Introduce your solution
+
+> If done right, this could already be enough to blow every one away. If your audience needs more information you can continue with the next points. 
+
 * Explain why this solution sets itself apart from others
 * Explain how the solution you offer is sustainable
 * Explain what makes you capable to offer this solution
