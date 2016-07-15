@@ -53,5 +53,9 @@ Bingo! 🎯 This is the actual function of an image. Thus, the user story:
 
 >*I can* see an interesting header image.
 
+## Clarity 
+
+Goals should be understood in the same way by all readers. 
+
 ## Chill the eff out
 This is not straight forward. It takes a lot of practice, and even then is it still difficult. So don't worry! We'll all be scaling the hierarchy of *why* up and down, back and forth together 💛.
