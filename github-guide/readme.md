@@ -62,7 +62,7 @@ Example: ```internal/guides/medium-guide```
 
 ### The Pull request
 
-If you're happy with all your changes in your new file, you have to make a *pull request* and add the url of your pull-request -which you can find in the address bar of you browser- to the achievable you just finished. Now your changes will be reviewed by somebody else who will either comment, add commits (changes) or merge the request (this means the file is good to go).
+If you're happy with all your changes in your new file, you have to make a *pull request* and add the url of your pull request––which you can find in the address bar of you browser––to the achievable you just finished. Now your changes will be reviewed by somebody else who will either comment, add commits (changes) or merge the request (this means the file is good to go).
 
 ---
 
