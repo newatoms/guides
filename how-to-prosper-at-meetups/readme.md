@@ -37,4 +37,4 @@ However, since you've already been having a conversation with the person, there 
 
 Revolve the conversation around the concept of content marketing instead of how their content marketing is at the moment. You will automatically approach that topic since they will be naturally inclined to share their situation.
 
-Have fun! You're there for you :)
+Have fun! You're there for yourself :)
