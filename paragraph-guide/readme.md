@@ -2,7 +2,9 @@
 
 ## The paragraph conundrum
 
-A paragraph is supposed to be a neat little idea-bundle. But "ideas [are] difficult to package and unlikely to remain in their allotted places. How big or small is an idea? What about an idea within an idea? Ultimately, a paragraph is complete when you decide it is" ([Daily Writing Tips](http://www.dailywritingtips.com/how-long-should-a-paragraph-be/)). Because ideas are slippery, it's difficult to science a paragraph.
+A paragraph is supposed to be a neat little idea-bundle, yet "ideas [are] difficult to package and unlikely to remain in their allotted places. How big or small is an idea? What about an idea within an idea? Ultimately, a paragraph is complete when you decide it is" ([Daily Writing Tips](http://www.dailywritingtips.com/how-long-should-a-paragraph-be/)). 
+
+Ideas are slippery, and thus it's difficult to science a paragraph.
 
 <img src="https://media.giphy.com/media/BvBEozfsXWWHe/giphy.gif" width="100%">
 
