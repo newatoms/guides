@@ -1,4 +1,4 @@
-We use a *value/effort ratio* to prioritise achievables. This is the task of the *Product Developer*.
+We use a *value/effort ratio* to prioritise achievables. This is the task of the *[product developer](../glossary/product-developer.md)*.
 
 We also use a *value/effort ratio* to vote on achievables in the planning. 
 
