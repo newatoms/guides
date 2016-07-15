@@ -28,7 +28,7 @@ In the Chrome web browser open the devtools with `cmd-alt-i` and click on the pa
 
 > With scraping you need to get comfortable with developer tools and with reading html code.
 
-We search 🕵 from top to bottom to find what we want:
+We search 🕵 from top to bottom to find things we need. We want:
 
 * all the information of experience. `class='positions'`
 * the title of each experience: e.g. 'Content developer'. `class='item-title'`.
