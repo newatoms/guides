@@ -57,7 +57,7 @@ You can mention and notify certain people in a channel with an *@* followed by t
 
 ### Direct Messages
 
-To reach a team member directly, send them a Direct Message this can be done by selecting them from the direct message column on the left of the window. If the person you are trying to send a message is not in the list you can add them by clicking the private message heading. Direct messages are completely private and secure.
+To reach a team member directly, send them a Direct Message. To send one, select the receipient from the direct message column on the left of the window. If the person you are trying to send a message is not in the list you can add them by clicking the private message heading. Direct messages are only visible for those in that conversation.
 
 <img src="https://media.giphy.com/media/W8WwcDyjdnp3G/giphy.gif" width="100%">
 
