@@ -129,7 +129,7 @@ You can only locally add images by saving them in the designated folder (e.g. im
 
 ---
 
-Then, you can start your text editor and open the repository on which you want to work on. Following image shows text editor Atom with on the left pane the local repository folder. Then you see the syntax pane where you see the Markdown language where this document is built upon. On the right you see the preview window.
+Then, you can open the repository folder you want to work on in your text editor. The following image shows text editor Atom with on the left panel the local repository folder and on the right the preview window.
 
 ---
 
