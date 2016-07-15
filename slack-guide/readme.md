@@ -63,7 +63,7 @@ To reach a team member directly, send them a Direct Message. To send one, select
 
 ### Add niceness to your messages
 
-You can add some fancy formatting to your messages like Bold using `*` before and after what you want to be bold; use `_` for italics and `~` for strikethrough. [Read more about formatting on the Slack site](https://get.slack.help/hc/en-us/articles/202288908-Formatting-your-messages)
+You can add some fancy formatting to your messages like Bold using `*` before and after what you want to be bold; use `_` for italics and `~` for strikethrough. [Read more about formatting on the Slack site](https://get.slack.help/hc/en-us/articles/202288908-Formatting-your-messages). Note: Slack does not use Markdown.
 
 You can also generata a random gif about a subject by typing `/giphy [subject]`. Pretty cool.
 
