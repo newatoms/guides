@@ -66,7 +66,11 @@ If you're happy with all your changes in your new file, you have to make a *pull
 
 ---
 
-**1:**<img src="../images/pull-request.png" width="300"> **2:** <img src="../images/pull-request-button.png" width="200">
+**1:**<img src="../images/pull-request.png" width="300">
+
+---
+
+**2:** <img src="../images/pull-request-button.png" width="200">
 
 ---
 
