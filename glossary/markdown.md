@@ -1,1 +1,2 @@
-Markdown is a plain markup languague. It is designed to be converted to HTML documents. Markdown is New Atoms' way of building all text files. It forces you to only think about the content and structure of the text and it's explicitly **not** about design.
+Markdown is a plain markup languague. It is designed to be converted to HTML documents. Markdown is New Atoms' way of building all text files. It forces you to only think about the content and structure of the text and it's explicitly **not** about design. [This is a great Markdown guide](
+https://guides.github.com/features/mastering-markdown/)
