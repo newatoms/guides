@@ -12,7 +12,7 @@ Nothing suggested in this guide is a hard truth and nothing should be blindly ac
 
 There are two ways in which you can convince people to use your product or service: by directly **convincing a specific person** or indirectly **through your general communication**. With your general communication, you can have a potentially infinite reach but have very little control over who you reach.
 
-The main difference between the two is that direct customer acquisition takes more effort per client, but it can be done with very little means. Acquiring customers through your general communication is a lot more effective but requires you to actually have a form of communication, which takes a lot of effort and money to build.
+The main difference between the two is that direct customer acquisition takes more effort per client, but can be done with very little means. Acquiring customers through your general communication is a lot more effective but requires you to actually have a form of communication, which takes a lot of effort and money to build.
 
 ## Direct customer acquisition
 
@@ -77,7 +77,7 @@ The answers to these questions help you understand the added value for the custo
 
 ## Direct customer acquisition by phone
 
-Phone calls are by far the most efficient (and the scariest) way of direct customer acquisition. The reason they are so effective is because it's just a conversation. You can use everything you learned by answering the questions above and use that information to steer the conversation in the direction you want.
+Phone calls can be an efficient way of direct customer acquisition. However, for some people calling is rather scary and therefore a lot of effort. While on the phone you can use everything you learned by answering the questions above and use that information to steer the conversation in the direction you want.
 
 While making a phone call, it is super mega important to realize you are talking to a person who has her or his own values, ambitions, hopes and dreams. Don't become a manipulative sales robot (asshole). Be a person and try to have some fun.
 
@@ -113,7 +113,7 @@ If you cant find a direct number for the person you are trying to reach, call a 
 
 ## Direct customer acquisition by email
 
-In general, I would strongly recommend against using email as your sole form of contact with your prospect. The main reason for this is that you never know if and when the email is read. Unless you can create necessity for the prospect in your email, chances are that the receiver decides to look at your email later, and then forgets about it.
+In general, I would strongly recommend against using email as your sole form of contact with your prospect. The main reason for this is that the people we want to reach are always busy and have become experts in filtering information––it is just very unlikely that they will read it. And, unless you can create necessity for the prospect in your email, chances are that if the receiver will quickly forget about the email after a distraction.
 
 ### Email as first contact
 
@@ -133,7 +133,7 @@ When you write an email as a follow-up to a phone conversation, make sure to kee
 * Quickly explain who you are and when you last spoke.
 * Quickly summarize what you discussed together on the phone: the added value of your service as well as the conclusions you came to.
 * Deliver what you promised to deliver on the phone (this is usually extra info, prizes, website links, portfolios, etc.). Do this in such a way that it is in line with your previous conversation with the prospect.
-* If a goal and/or deadline has been set, summarize it in the email. If not, try to formulate one.
+* If a goal and/or deadline has been set, summarise it in the email. If not, try to formulate one.
 
 ### How to use your personal connection
 
@@ -145,7 +145,7 @@ If you know the prospect personally or someone you know can introduce you to the
 
 ## Customer acquisition for New Atoms
 
-At New Atoms we don't work as individuals with specific tasks, but we work  as a team where every team member contributes iterations to the whole. This enables us to work from our strengths and not out of necessity. To contribute to our customer acquisition as a team member, you need to understand how you can do iterative customer acquisition.
+At New Atoms we don't work as individuals with specific tasks, but we work as a team where every team member contributes iterations to the whole. This enables us to work from our strengths and not out of necessity. To contribute to our customer acquisition as a team member, you need to understand how you can do iterative customer acquisition.
 
 ### Using the strengths of the team members
 
@@ -190,14 +190,14 @@ Prospects that have been contacted and need a follow up and all the information 
 
 Leads that have been closed, either by a sale or disinterest. Here you can find all information gathered in the previous phases:
 
-* All information of the pervious stages
+* All information of the previous stages
 * A note on how and why the lead has been archived
 
 ## Iterations on the four stages of customer acquisition
 
-At new atoms we work with [achievables](../user-stories-guide/readme.md) to formulate our goals and manage our [workflow](../board-guide/readme.md).
+At New Atoms we work with a customer acquisition board (click customer acquisition in the navigation bar on the Interface).
 When you start working on a company in one of these stages it is key to move them to the next stage, just like you would with any other achievable.
 
 ## The end
 
-There you have it, you officially know as much (and maybe even more) about direct customer acquisition as we do! One last note before you will start world domination: remember that you are a person with your own amazing traits and personality. Never put them aside in order to convince someone to hire your service. If you stay true to who you are, working with the people that hire you will be a lot more fun. You also don't have to pretend you're someone you're not, which is not as much fun as one would think.
+One last note before you will start world domination: remember that you are a person with your own amazing traits and personality. Never put them aside in order to convince someone to hire your service. If you stay true to who you are, working with the people that hire you will be a lot more fun. You also don't have to pretend you're someone you're not, which is not as much fun as one would think.
