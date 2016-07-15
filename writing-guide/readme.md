@@ -66,7 +66,7 @@ Readers don't only want to be informed. They want to be seduced by you. When thi
 * **Talk to your reader like it's your best friend.** Ask questions and use the word *you*.
 * **Empathise with your reader’s feelings.** Where is he/she struggling with. Sketch these scenarios.
 * **Dare to be** an "authority", but **vulnerable** at the same time.
-* It's important to sketch a beautiful promise (Do keep it though!) in the beginning, **give people the feeling that they have to read your post.**
+* It's important to provide a beautiful promise (Do keep it though!) in the beginning, **give people the feeling that they have to read your post.**
 * In a blog post, **you only have words** to attract attention and convey emotion. That’s why you need to **turn up your passion and choose more powerful words**: *Instead of dull, use mind-numbingly dull. Instead of pleased, use delighted. Instead of beautiful, use gorgeous.*  
 * Don't be too afraid of a little laugh once in a while.
 * Sweep them of their feet and help them up again.
