@@ -1,1 +1,1 @@
-Content Developers understand complex stories and make amazing creative works that are made out of the stories. Figuring out what is happening; what kind of concepts are involved; and what the relations between the concepts are.
+Content Developers understand complex stories and make amazing creative works that are made out of the stories. Figuring out what is happening, what kind of concepts are involved, and what the relations between the concepts are.
