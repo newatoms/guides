@@ -84,7 +84,7 @@ If you're happy with all your changes in your new file, you have to make a *pull
 
 You created a create pull request! Congratulations! Every time it feels great.
 
-If somebody comments the original owner and everybody who has commented/commited to the pull request will receive a notification.
+If somebody comments the original owner and everybody who has commented/committed to the pull request will receive a notification.
 
 ### A shortcut when changing something small
 
