@@ -29,13 +29,13 @@ Github works with branches. We work with the following hierarchy:
 * The *live* branch: The content of these branches is 'live' and always works. For example, the website (if any) is rendered from files from this branch.
 * The *ready* branch: This is a copy of the *live* branch. Here, documents should be fit to print and *merge-able* with the *live* branch. It is a last check before we push the content to the 'live' branch. We explain *merging* later on. From the *ready* branch you create a new branch and give it a selfexplanory name.
 
-> You will sometimes see a *gh-pages* branch instead of a live branch. The product of that repo is than hosted by [Github pages](https://pages.github.com/). 
+> You will sometimes see a *gh-pages* branch instead of a live branch. The product of that repo is than hosted by [Github pages](https://pages.github.com/).
 
 ### Creating a file or editing a lot in one file
 
 1. Go to the file you want to edit or go to the folder where you want to create a new file.
-2. Make an branch and give it a self explanatory name.
 3. Make a new file in designated folder (filename + filetype, for text it's *.md* for *Markdown*).
+2. Make a branch and give it a self explanatory name.
 4. When writing or editing keep in mind to make commits (i.e. saves or changes) when changing something.
 5. Each change you make requires a commit -- if you edit an existing document you have to commit at least once per sentence, if you create a new document you can commit each paragraph. This allows you and others to accept or reject each individual change.
 
