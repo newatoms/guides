@@ -105,7 +105,7 @@ When everyone is happy about the document and the file is fit to go to the ready
 
 Working local means that you *clone* (i.e. copy) a repository from the Github client to your local device in your own designated folder.
 
-You need to download [Github Desktop](https://desktop.github.com/) and a text editor, for example: [Atom](https://atom.io/). See also our [Atom guide](atom-guide.md) for further consult. A text editor comes in handy when writing a bunch of text.
+You need to download [Github Desktop](https://desktop.github.com/) and a text editor, for example: [Atom](https://atom.io/). See also our [Atom guide](../atom-guide/readme.md) for further consult. A text editor comes in handy when writing a bunch of text.
 
 [*Cloning a repository*](https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-desktop/) means that you copy a repository from the browser on your device in your own folder architecture. You do this in your Github desktop application.
 
