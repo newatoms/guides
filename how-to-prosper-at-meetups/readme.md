@@ -2,7 +2,7 @@
 
 # How to prosper at meetups
 
-Listen to the person. Try to find something to talk about in which you are genuinely interested (find common ground). They will inadvertently ask what you are doing.
+Listen to people. Try to find something to talk about in which you are genuinely interested (find common ground). They will inadvertently ask what you are doing.
 
 ## General tips:
 
@@ -18,8 +18,8 @@ Listen to the person. Try to find something to talk about in which you are genui
 - Learn
 
 ### Don't
-- Don’t make why you’re there about selling something, you are mostly interested in the event and the story of the other party.
-- Don’t look at your mobile phone. People won’t approach you and you will give a negative vibe.
+- Don't make the reason you're there about selling something; you are mostly interested in the event and the story of the other party.
+- Don’t look at your mobile phone. People won’t approach you and youyou will put out a negative vibe.
 - Don't have 2 to 1 conversations. This can feel like an interrogation and speaking as a team to more people on an evening is generally more worthwhile for everybody involved.
 - Don't feel obliged to keep having a conversation with people you can't find common ground with.
 
@@ -29,10 +29,12 @@ Keep it short.
 Give a relevant example.
 
 For example, explain content marketing by comparing two kinds of meetups:
-* Somebody lists the companies they did projects for and how well they did those projects.
-* Somebody explains how a mechanism with which they solved a problem* works OR teaches you how to code for free.
+* In one meetup the speaker lists the companies they did projects for and how well they did those projects.
+* In another meetup the speaker explains how a mechanism with which they solved a problem* works OR teaches you how to code for free.
 The one is selling, the other content marketing. People will probably have experienced the difference.
 
 However, since you've already been having a conversation with the person, there is likely a more personalized way to explain it.
 
 Revolve the conversation around the concept of content marketing instead of how their content marketing is at the moment. You will automatically approach that topic since they will be naturally inclined to share their situation.
+
+Have fun! You're there for you :)
