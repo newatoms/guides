@@ -4,7 +4,7 @@
 
 # How to use GitHub
 
-Github is a tool that we use for the creation of all our content and code. In the core it is comparable with how you can work on one google document with multiple people trough suggesting changes. Github works on the same principle but way better, cooler and safer.
+[Github](http://github.com/) is a tool that we use for the creation of all our content and code. In the core it is comparable with how you can work on one Google document with multiple people through suggesting changes. Github works on the same principle but way better, cooler and safer.
 
 Github is a tool that enables the users to very safely improve things that are created in small comprehensive steps that get checked by another user. This way everyone can freely contribute to what you are building without the fear of adding something permanently that other people think is bad. It is mainly designed with the idea that nothing great is ever made by one person, and that the easier and safer it feels to improve something the better it is what is created.
 
@@ -18,7 +18,7 @@ Github has quite a steep learning curve, but once you go Github you'll never wan
 
 We work with multiple repositories (i.e repos). You can see this [New Atoms repository page](https://github.com/newatoms) as a hard drive containing all projects or products. For example: right now you are reading *the github guide* in the *guides* repo. *Guides* is a product of New Atoms, just like *content.supply* or *editorial.supply*.
 
-Always read the readme.md file that is opened automatically if you enter a repo. 
+Always read the readme.md file that is opened automatically if you enter a repo.
 
 All our research is stored within the designated project or product repos like pitches, posts and research, insights, private and internal (i.e. market research, customer acquisition, pitch decks etc.). Folders with a lower dash before the folder name in repositories are not rendered on websites, but they're still viewable by anyone who can access the repo. We also store a lot of our sites (like the interface) in the repositories (e.g. html, layout etc.).
 
