@@ -4,7 +4,7 @@ It can be read as a sentence, consisting of three elements to be filled in by th
 To _benefit_, As a _user_, I can _method_
 1. Benefit: this is what the user will be able to do after this need is fulfilled.
 2. User: who needs this, for who are we doing this.		
-3. Method: What could be done to fulfil this need.
+3. Method: What could be done to fulfill this need.
 
 The benefit is first since it is the most important thing, it could be fulfilled expending less effort using a different method, which should then be done.
 
