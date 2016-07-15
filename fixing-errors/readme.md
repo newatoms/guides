@@ -13,9 +13,9 @@ Google the error message, most of the time somebody else has encountered the sam
 
 > Just make sure that you don't spend x hours reading Stackoverflow topics! If you don't find the answer fast, ask a teammember or try solving it in a different way.
 
-Check whether the data in the elements is the same as you would expect it to be. In the developer tools window you can find the tab 'elements'. Here all the elements that are used on this page can be seen and investigated. They are ordered parent to child so some elements are hidden quite deep. Expand an element by pressing the ▶︎.
+Check whether the data in the elements is the same as you would expect it to be. In the developer tools window you can find the tab 'elements'. All the elements that are used on this page can be seen and investigated here. They are ordered parent to child so some elements are hidden quite deep. Expand an element by pressing the ▶︎.
 
-> Use right mouse button -> inspect to quickly select an element for further inspection in the developer tools.
+> Use right mouse button -> inspect on a part of the website to quickly select an element for further inspection in the developer tools.
 
 When you have found and selected (click on the line where the element starts) the element you can do all kinds of things with it from the console.
 
@@ -53,14 +53,14 @@ testFunction: function (inputArgument) {
 ```
 
 In Html you can use text to see whether certain parts of the script are run. For example if you have a dom-if statement you can see whether the text is printed in the browser:
-``` Html
+``` html
 <template is="dom-if" if="{{staffUser}}">
   User works at New Atoms
 </template>
 ```
 
 In a dom-repeat you can 'print out' all the values of the [items] array you feed the dom-repeat.
-``` Html
+``` html
 <template is="dom-repeat" items="{{items}}">
   {{item.userName}}
 </template>
