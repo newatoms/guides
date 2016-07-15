@@ -86,6 +86,8 @@ You created a create pull request! Congratulations! Every time it feels great.
 
 If somebody comments the original owner and everybody who has commented/committed to the pull request will receive a notification.
 
+> You can choose not to receive messages in the Github settings
+
 ### A shortcut when changing something small
 
 When changing something small you can go to the designated file and hit the edit icon. Do not commit directly on the ready branch, because that would be illegal, but choose the option to *'Create a new branch for this commit and start a pull request'*.
