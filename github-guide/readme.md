@@ -90,7 +90,7 @@ If somebody comments the original owner and everybody who has commented/committe
 
 ### A shortcut when changing something small
 
-When changing something small you can go to the designated file and hit the edit icon. Do not commit directly on the ready branch, because that would be illegal, but choose the option to *'Create a new branch for this commit and start a pull request'*.
+When changing something small, you can go to the designated file and hit the edit icon. Do not commit directly on the ready branch, because that would be "illegal", but choose the option to *'Create a new branch for this commit and start a pull request'*.
 
 
 ### Discuss and Merge
