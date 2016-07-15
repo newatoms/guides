@@ -2,7 +2,9 @@
 
 ### The idea of [elements](../glossary/element.md)
 
-A lot of the same functionalities and styles can be found on different sites and even within the same site. Think of text-input boxes, user log-ins, keeping track of user behavior, navigation bars, tooltips, icons etc. It would be very useful if for each site you build you could quickly reuse the already written functionality. Polymer allows you to do exactly this. An entire site is comprised solely of elements ⚛. You can see a polymer website as a castle build out of lego blocks (elements). You can reuse elements everywhere.
+A lot of the same functionality and styles can be found on different sites, or even within the same site. Think of text input boxes, user logins, tracking user behavior, navigation, tooltips, icons etc. 
+
+It would be very useful if for each site you build you could quickly reuse the already written functionality. Polymer allows you to do exactly this. An entire site is comprised solely of elements ⚛. You can see a polymer website as a castle build out of lego blocks (elements). You can reuse elements everywhere.
 
 The idea 💡is that you write elements that are custom made for one goal. They should be able to perform only the single task that will result in obtaining their goal. However, you should be able to reach this goal each time you use the element. Your code, therefore, should never include details that are only valid for the current project.
 
