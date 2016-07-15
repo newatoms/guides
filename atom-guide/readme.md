@@ -1,10 +1,10 @@
-> **Goal of this guide:** showing the basics of using Atom to start working with atom in combination with github desktop.
+> **Goal of this guide:** showing the basics of using Atom to start working with Atom in combination with github desktop.
 
 # How to use text-editor [Atom](https://atom.io)
 
-> Be reminded to the fact that you're not obligated to use Atom as your text editor. There are a lot of alternatives such as: [Sublime Text](https://www.sublimetext.com/) for programming and text or [iA Writer] for only text.
+> Be reminded to the fact that you're not obligated to use Atom as your text editor. There are a lot of alternatives such as: [Sublime Text](https://www.sublimetext.com/) for programming and text or [iA Writer](https://ia.net/writer) for only text.
 
-Atom is a very handy plain text/code writer that is free of all the formatting of text programs such as Microsoft Word and Google Docs yet very customizable. Atom enables you to think more about the content you're writing and its structure than the design. You can use it for programming (HTML, CSS, Javascript etc.) or pure content developement in [Markdown](https://github.com/newatoms/guides/tree/ready/github-guide#markdown-).   
+Atom is a very handy plain text/code writer that is free of all the formatting of text opposed to programs such as Microsoft Word and Google Docs. Atom is however very customizable. It enables you to think more about the content you're writing and its structure than the design. You can use it for programming (HTML, CSS, Javascript etc.) or pure content development in [Markdown](../glossary/markdown.md).   
 
 For example, what is called "italic" in Word is essentially "emphasized" in Atom, and what is called "bold" is simply "important". This enables designers to display "important" information in a way of their choosing. Some might choose to display it in bold, but others might change the color or the font size.
 
@@ -14,7 +14,7 @@ For example, what is called "italic" in Word is essentially "emphasized" in Atom
 * When writing in Markdown you can see a preview window.  
 * Atom has a powerful find and replace function.
 
-When working local you can use this text editor together with [github desktop](https://desktop.github.com/) for a more seamless flow and even more magic. We use Atom together with Github to edit text and code; you can find our [Github guide here](../github-guide/readme.md). Github is our version control dictator, unttill now we can't live without it.
+When working local you can use this text editor together with [github desktop](https://desktop.github.com/) for a more seamless flow and even more magic. We use Atom together with Github to edit text and code; you can find our [Github guide here](../github-guide/readme.md). Github is our version control dictator, until now we can't live without it.
 
 
 ## Handy shortcuts
@@ -37,10 +37,11 @@ Installing themes explained in a GIF, why not.
 
 ### Packages
 
-* linter-js-standard
-* set-syntax
-* markdown-preview (for watching the preview on a white background enable: *Use Github Style*)
+* set-syntax, to change language without saving
+* markdown-preview, for previewing on a white background enable: *Use Github Style*.
+* atom-polymer, some great snippets to get started with Polymer
+* less-than-slash, to auto close HTML tags
 
 ### Themes
 
-* monokai
+* github-atom-light-syntax, for the same Syntax highlighting as GitHub
