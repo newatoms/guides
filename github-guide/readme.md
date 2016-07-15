@@ -113,7 +113,7 @@ Make sure you select or create the right branch in the Github desktop.
 
 > Never commit to the ready/live branch itself, unless you're fixing a breaking bug and you're 100% you don't break anything with the commit
 
-Any change you'll make to a file in the folder (or subfolder) on your device results in a uncommitted change in github desktop. If you press commit changes, you in fact update your *local* branch. You now will have to publish, in order to show your changes in the browser for others to see. Sync, if you want to push the local changes to an existing online branch with the same name or if you want to update local branch with the content of the online branch.
+Any change you'll make to a file in the folder (or subfolder) on your device results in a uncommitted change in github desktop. If you press commit changes, you in fact update your *local* branch. You now will have to publish your local branch in order share your changes with others. Press *sync*, if you want to push the local changes to an existing online branch with the same name or if you want to update local branch with the content of the online branch.
 
 So, there are two branches with the same name, one local and one online. Team members can't see your local changes and your local branch also doesn't automatically copy changes from the online branch. It takes an action from you to sync them.
 
