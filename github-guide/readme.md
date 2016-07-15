@@ -43,7 +43,12 @@ Example: ```internal/guides/medium-guide```
 
 ---
 
-**1:** <img src="../images/branching-1.png" width="250"> **2:**<img src="../images/create-branch.png" width="250">
+**1:** <img src="../images/branching-1.png" width="250">
+
+---
+
+
+**2:**<img src="../images/create-branch.png" width="250">
 
 ---
 
