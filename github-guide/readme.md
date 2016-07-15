@@ -144,11 +144,3 @@ If two people changed the same lines in the same file, or if one person decided 
 > In [Atom](../atom-guide/readme.md) you have a [package](https://atom.io/packages/merge-conflicts) that will display <----READY and <----HEAD around the lines that resulted in the conflict.
 
 See [Github's how to](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/), to deal with the merge conflict. Contact a team member in Slack if you're having problems solving the merge conflict.
-
-## [Markdown](../glossary/markdown.md) <img src="../images/markdown.png" width="30">
-
-We work with Markdown for text files. You can save Markdown files by adding the .md extension.
-
-Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid HTML.
-[This is a great Markdown guide/archive](
-https://daringfireball.net/projects/markdown/basics) where you can learn how to make headings, make text bold and emphasize, use the right syntax for images and hyperlinks, make lists and tables.
