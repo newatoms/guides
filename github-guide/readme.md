@@ -139,7 +139,7 @@ Then, you can open the repository folder you want to work on in your text editor
 
 ## The dreaded merge conflict
 
-If two people changed the same lines in the same file, or if one person decided to delete it while the other person decided to modify it, Git simply cannot know what is correct. Git will then mark the file as having a conflict - which you'll have to solve before you can merge. Git will tell you which line resulted in a merge conflict by copying that line to the top of your document. You have to decide, together with the other person who merged the file, which version is correct.
+If two people changed the same lines in the same file, or if one person decided to delete it while the other person decided to modify it, Git simply cannot know which change is correct. Git will therefore mark the file as having a conflict––which you'll have to solve before you can merge. Git will tell you which line resulted in a merge conflict. You have to decide, together with the other person who merged the file, which version is correct, or more common, create a new combined version.
 
 See [Github's how to](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/), to deal with the merge conflict. Contact a team member in Slack if you're having problems solving the merge conflict.
 
