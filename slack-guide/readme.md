@@ -30,7 +30,7 @@ To get more indepth information about the functionality of Slack [they've made a
 
 With [Slack](https://slack.com/) we say goodbye to email. Well, certainly for all internal communication.
 
-When you become part of New Atoms you will get an invite from one of the admins, this wil enable you te become part of the New Atoms Slack team and join all our channels.
+When you become part of New Atoms you will get an invite, this will enable you to become part of the New Atoms Slack team and join all our channels.
 
 ### Channels
 
@@ -40,32 +40,29 @@ Next to private chat and chatrooms you know from traditional chat programs, Slac
 
 * A private channel and its contents are visible and searchable only to the channel members. In order to become part of a private channel you need to be added by a admin of that specific channel. Private channels have a closed lock icon in front of their name.
 
-We organise our team conversations in channels. We make channels per project or product. Apart from these project channels we have a bunch of extra channels that are quite self explanatory. We have an inspiration channel, if you want to share interesting links or articles or if you invented an amazing quote. A general channel, here messages go when every New Atoms member should be notified. We also have a random channel, for all the fun things happening and please post your favorite Gifs here 🎉. We got a improvement channel where you should post your ideas on how we can improve stuff, from processes to behavior.
+We organise our team conversations in channels. We make channels per project or product. Apart from these project channels we have a bunch of extra channels that are quite self explanatory. 
+
+We have:
+
+- An inspiration channel, if you want to share interesting links or articles or if you invented an amazing quote. 
+- A general channel, here messages go when every New Atoms member should be notified. 
+- A random channel, for all the fun things happening and please post your favorite Gifs here 🎉. 
+- A improvement channel where you should post your ideas on how we can improve stuff, from processes to behavior.
+
+And many more.
 
 All messages must be on topic and send in the designated channels. You can favorite channels by starring them.
 
-You can mention and notify certain people in a channel with a *@name*.   
+You can mention and notify certain people in a channel with an *@* followed by that user's Slack handle.   
 
 ### Direct Messages
 
-To reach a team member directly, send them a Direct Message this can be done by selecting them from the direct message column on the left of the window. If the person you are trying to send a message is not in the list you can add them by clicking the private message heading. Direct messages are completely private and secure.
+To reach a team member directly, send them a Direct Message. To send one, select the recipient from the direct message column on the left of the window. If the person you are trying to send a message is not in the list you can add them by clicking the private message heading. Direct messages are only visible for those in that conversation.
 
 <img src="https://media.giphy.com/media/W8WwcDyjdnp3G/giphy.gif" width="100%">
 
 ### Add niceness to your messages
 
-You can add some fancy formatting to your messages like Bold using `*` before and after what you want to be bold; use `_` for italics and `~` for strikethrough. [Read more about formatting on the Slack site](https://get.slack.help/hc/en-us/articles/202288908-Formatting-your-messages)
+You can add some fancy formatting to your messages like Bold using `*` before and after what you want to be bold; use `_` for italics and `~` for strikethrough. [Read more about formatting on the Slack site](https://get.slack.help/hc/en-us/articles/202288908-Formatting-your-messages). Note: Slack does not use Markdown.
 
 You can also generata a random gif about a subject by typing `/giphy [subject]`. Pretty cool.
-
-### Talking to Howdy the Robot
-
-For our daily standup we use the Howdy bot. Because we like to talk to robots; and because it makes checks in with everyone and lets the rest know how they are doing.
-
-With the standup we try to get a overview on what everyone is working on, what they have worked on so far, how they feel and if anything is blocking them.
-
-This can help us recognize and solve problems, keep everyone happy and its a great moment for yourself to reflect on what and how you are doing.
-
-At 1000Z Howdy starts talking to every team member, don't be nervous, just answer his questions. When everyone completed the talk with Howdy it will post a summary in the standup channel.
-
-Happy Slacking!   
