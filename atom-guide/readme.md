@@ -4,7 +4,7 @@
 
 > Be reminded to the fact that you're not obligated to use Atom as your text editor. There are a lot of alternatives such as: [Sublime Text](https://www.sublimetext.com/) for programming and text or [iA Writer](https://ia.net/writer) for only text.
 
-Atom is a very handy plain text/code writer that is free of all the formatting of text opposed to programs such as Microsoft Word and Google Docs. Atom is however very customizable. It enables you to think more about the content you're writing and its structure than the design. You can use it for programming (HTML, CSS, Javascript etc.) or pure content development in [Markdown](https://github.com/newatoms/guides/blob/ready/glossary/markdown.md).   
+Atom is a very handy plain text/code writer that is free of all the formatting of text opposed to programs such as Microsoft Word and Google Docs. Atom is however very customizable. It enables you to think more about the content you're writing and its structure than the design. You can use it for programming (HTML, CSS, Javascript etc.) or pure content development in [Markdown](../glossary/markdown.md).   
 
 For example, what is called "italic" in Word is essentially "emphasized" in Atom, and what is called "bold" is simply "important". This enables designers to display "important" information in a way of their choosing. Some might choose to display it in bold, but others might change the color or the font size.
 
