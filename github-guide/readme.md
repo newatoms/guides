@@ -8,7 +8,7 @@
 
 Github is a tool that enables the users to very safely improve things that are created in small comprehensive steps that get reviewed by other users. This way everyone can freely contribute to what you are building without the fear of changing something permanently. It is mainly designed with the idea that nothing great was ever made by one person, and that the easier and safer it feels to improve something, the better it is what was created.
 
-In opposition to the system used by things like Google Docs and Microsoft Word, GitHub works with a version control system based on commits and branching. This means every collaborator has an own version – or branch – they work on, and which is then explicitly merged with those of their collaborators. Every change is added to a branch with a commit, in which the contributor explains what he has added in a short message.
+In opposition to the system used by things like Google Docs and Microsoft Word, GitHub works with a version control system based on commits and branching. This means every collaborator has a own version – or branch – they work on. This branch is later explicitly merged with branch that all collaborators are starting from. All content on this branch has been reviewed and tested, and should therefore work well. Every change is added to a branch with a commit in which the contributor explains what he/she has added, and why, in a short message.
 
 The explicit merging of your contributions with those of others creates a natural moment for everyone to look at the things that have changed, give feedback and review.
 
