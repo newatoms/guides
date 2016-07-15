@@ -18,10 +18,10 @@ Listen to people. Try to find something to talk about in which you are genuinely
 - Learn
 
 ### Don't:
-- Don't make the reason you're there about selling something; you are mostly interested in the event and the story of the other party.
-- Don’t look at your mobile phone. People won’t approach you and you will put out a negative vibe.
-- Don't have 2 on 1 conversations. This can feel like an interrogation, and speaking as a team to more people in an evening is generally more worthwhile for everybody involved.
-- Don't feel obliged to keep having a conversation with people you can't find common ground with.
+-Make the reason you're there about selling something; you are mostly interested in the event and the story of the other party.
+- Look at your mobile phone. People won’t approach you and you will put out a negative vibe.
+- Have 2 on 1 conversations. This can feel like an interrogation, and speaking as a team to more people in an evening is generally more worthwhile for everybody involved.
+- Feel obliged to keep having a conversation with people you can't find common ground with.
 
 ## So you're asked to explain what you do—now what?
 Keep it simple.
