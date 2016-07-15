@@ -28,7 +28,7 @@ The best way to do this is by enabling your audience to be part of the solution 
 
 This way, you show the importance of what you do, you validate your expertise, you are valuable to your audience and you get closer to achieving the goals of your company.
 
-Instead of using a roblem to make money, you actively stimulate others to solve the problem while offering your service to those how do not have the time to do it themselves. 
+Instead of using a roblem to make money, you actively stimulate others to solve the problem while offering your service to those who do not have the time or skill to do it themselves. 
 
 ### Our product
 
