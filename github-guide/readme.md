@@ -26,7 +26,7 @@ All our research is stored within the designated project or product repos like p
 
 Github works with branches. We work with the following hierarchy:
 
-* The *live* branch: The content of these branches is 'live' and always works. For example, the website (if any) is rendered from files from this branch. **Old vocabulary**: *master* or *gh-pages* branch.
+* The *live* branch: The content of these branches is 'live' and always works. For example, the website (if any) is rendered from files from this branch.
 * The *ready* branch: This is a copy of the *live* branch. Here, documents should be fit to print and *merge-able* with the *live* branch. It is a last check before we push the content to the 'live' branch. We explain *merging* later on. From the *ready* branch you create a new branch and give it a selfexplanory name.
 
 
