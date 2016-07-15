@@ -29,6 +29,7 @@ Github works with branches. We work with the following hierarchy:
 * The *live* branch: The content of these branches is 'live' and always works. For example, the website (if any) is rendered from files from this branch.
 * The *ready* branch: This is a copy of the *live* branch. Here, documents should be fit to print and *merge-able* with the *live* branch. It is a last check before we push the content to the 'live' branch. We explain *merging* later on. From the *ready* branch you create a new branch and give it a selfexplanory name.
 
+> You will sometimes see a *gh-pages* branch instead of a live branch. The product of that repo is than hosted by [Github pages](https://pages.github.com/). 
 
 ### Creating a file or editing a lot in one file
 
