@@ -10,7 +10,7 @@ Github is a tool that enables the users to very safely improve things that are c
 
 In opposition to the system used by things like Google Docs and Microsoft Word, GitHub works with a version control system based on commits and branching. This means every collaborator has a own version – or branch – they work on. This branch is later explicitly merged with branch that all collaborators are starting from. All content on this branch has been reviewed and tested, and should therefore work well. Every change is added to a branch with a commit in which the contributor explains what he/she has added, and why, in a short message.
 
-The explicit merging of your contributions with those of others creates a set moment for contributors and automated software to review the things that have changed.
+The explicit merging of your contributions with those of others allows for a set moment for contributors and automated software to review the things that have changed.
 
 Github has quite a steep learning curve, but once you go Github you'll never want anything different.
 
