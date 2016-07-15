@@ -24,16 +24,16 @@ In this example we extract the 'experience' information from a certain LinkedIn 
 
 In the Chrome web browser open the devtools with `cmd-alt-i` and click on the parent element:
 
-<img src="../images/devtools-web-scraping.png" width="800">
+<img src="../images/devtools-web-scraping.png" width="100%">
 
 > With scraping you need to get comfortable with developer tools and with reading html code.
 
 We search 🕵 from top to bottom to find what we want:
 
-* We want all the information of experience. `class='positions'`
-* We want the title of each experience: e.g. 'Content developer'. `class='item-title'`.
-* We also want the organisation of each title: 'New Atoms'. `class='item-subtitle'`.
-* finally, we want the date and time the person was active under that title and organisation: `class='.date-range'`
+* all the information of experience. `class='positions'`
+* the title of each experience: e.g. 'Content developer'. `class='item-title'`.
+* the organisation of each title: 'New Atoms'. `class='item-subtitle'`.
+* finally, the date and time the person was active under that title and organisation: `class='.date-range'`
 
 This ↓ is all the code we need. Not very scary, aint it?
 
@@ -54,6 +54,7 @@ x(
   }
 ).write('results.json')
 ```
+So lets guide you through this code:
 
 1. Create a variable that will execute your x-ray. `var x = new require('x-ray')()`
 * Now `x` will look at a Linkedin url.
@@ -63,7 +64,7 @@ x(
 
 ## Results in your .json file:
 
-You can convert these .json files into .csv files by pasting it [here](http://konklone.io/json/),download it and eventually import it in spreadsheet programs or [Open Refine](http://openrefine.org/). This way you have a better overview and you could work your spreadsheet magic for analysing.
+You can convert these .json files into .csv files by pasting it [here](http://konklone.io/json/), download it and eventually import it in spreadsheet programs or [Open Refine](http://openrefine.org/). This way you have a better overview and you could work your spreadsheet magic for analysing.
 
 ```json
 {
