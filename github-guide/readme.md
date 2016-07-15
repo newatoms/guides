@@ -6,7 +6,7 @@
 
 [Github](http://github.com/) is a tool that we use for the creation of all our content and code. In the core it is comparable with how you can work on one Google document with multiple people through suggesting changes. Github works on the same principle but way better, cooler and safer.
 
-Github is a tool that enables the users to very safely improve things that are created in small comprehensive steps that get checked by another user. This way everyone can freely contribute to what you are building without the fear of adding something permanently that other people think is bad. It is mainly designed with the idea that nothing great is ever made by one person, and that the easier and safer it feels to improve something the better it is what is created.
+Github is a tool that enables the users to very safely improve things that are created in small comprehensive steps that get reviewed by other users. This way everyone can freely contribute to what you are building without the fear of changing something permanently. It is mainly designed with the idea that nothing great was ever made by one person, and that the easier and safer it feels to improve something, the better it is what was created.
 
 In opposition to the system used by things like Google Docs and Microsoft Word, GitHub works with a version control system based on commits and branching. This means every collaborator has an own version – or branch – they work on, and which is then explicitly merged with those of their collaborators. Every change is added to a branch with a commit, in which the contributor explains what he has added in a short message.
 
