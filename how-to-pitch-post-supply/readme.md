@@ -11,12 +11,11 @@ The product should sell itself, as long as people know what the product is and h
 
 ## The basics of what we do and why we do it
 
-
 ### Problem
 
 Advertising is dead.
 
-We are all sick and tire of the large amounts of aggressive and pushy content that have no real value and drowns out the content that actually is valuable, waisting a lot of recourses in the process. 
+We are all sick and tired of the large amounts of aggressive and pushy content that have no real value and drowns out the content that actually is valuable, waisting a lot of recourses in the process. 
 
 In order to build a meaning full relationship with your audience you need content that they have a use for, instead of somting that infulences the way they see you.
 
