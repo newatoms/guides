@@ -14,7 +14,7 @@ Through its life an achievable—and its little card—travels from left to righ
 
 The first phase is the *creation phase* and the last one is the ‘live’ phase, which is when the achievable has been achieved. It is out there in the world, out of our hands, more than often for others to see.
 
-In every phase an achievable offers different kinds of actions you can perform on it. For instance in the ‘next’ phase you can assign an achievable to yourself and move it to *Progress*. While if you have an achievable assigned to yourself for review it enables you to mark it as merged by moving it to the ‘ready’ phase.
+In every phase an achievable offers different kinds of actions you can perform on it. For instance in the ‘next’ phase you can assign an achievable to yourself and move it to *Production*. If you have an achievable assigned to yourself for review, it enables you to mark it as merged by moving it to the ‘ready’ phase.
 
 At the top of every column on the board there is a description of what that phase is and what it means for the achievables.
 
