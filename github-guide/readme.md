@@ -109,7 +109,9 @@ You need to download [Github Desktop](https://desktop.github.com/) and a text ed
 
 [*Cloning a repository*](https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-desktop/) means that you copy a repository from the browser on your device in your own folder architecture. You do this in your Github desktop application.
 
-Make sure you select or create the right branch in the Github desktop. Never commit to the ready/live branch itself.
+Make sure you select or create the right branch in the Github desktop.
+
+> Never commit to the ready/live branch itself, unless you're fixing a breaking bug and you're 100% you don't break anything with the commit
 
 Any change you'll make to a file in the folder (or subfolder) on your device results in a uncommitted change in github desktop. If you press commit changes, you in fact update your *local* branch. You now will have to publish, in order to show your changes in the browser for others to see. Sync, if you want to push the local changes to an existing online branch with the same name or if you want to update local branch with the content of the online branch.
 
