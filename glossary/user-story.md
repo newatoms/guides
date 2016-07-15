@@ -10,7 +10,4 @@ The benefit is first since it is the most important thing, it could be fulfilled
 
 Read more about User Stories [in the Board guide](../board-guide/readme.md#user-story).
 
-## Examples:
-To understand the potential of the service — As an investor — I can see how large the market is in the UK.
-
-To learn about why certain innovations in education are successful and others aren't — As a reader — I can read an interview with a teacher who's innovation failed.
+## Example:
