@@ -1,14 +1,18 @@
+> If someone with a basic understanding of HTML, CSS and JavaScript reads this guide, they will understand what Polymer is and how it can be used.
+
 # How to start using [Polymer](../glossary/polymer.md)
 
-### The idea of [elements](../glossary/element.md)
+Polymer enables us to create our own [elements](../glossary/element.md), standardised building blocks that are easily maintained, combined into an application and reconfigured into other applications.
 
-A lot of the same functionality and styles can be found on different sites, or even within the same site. Think of text input boxes, user logins, tracking user behavior, navigation, tooltips, icons etc. 
+### The idea of custom elements
 
-It would be very useful if for each site you build you could quickly reuse these elements. Polymer allows you to do exactly this. An entire site is comprised solely of elements ⚛. You can see a polymer website as a castle build out of lego blocks (elements). You can reuse elements everywhere.
+You see a lot of the same functionality, content or design multiple times on a site and/or on multiple sites. For example text inputs, user login forms, navigation, tooltips, icons etcetera. Custom elements enable us to make these things into packages that can be used multiple times and on multiple websites.
 
-The idea 💡is that you write elements that are custom made for one goal. They should be able to perform only the single task that will result in obtaining their goal. However, you should be able to reach this goal each time you use the element. Your code, therefore, should never include details that are only valid for the current project.
+As an example: you would like to create a counter that will show everyone on your website how many visitors you've had since the nineties started. Using Polymer we can make a `<my-counter>` element with all of its HTML, CSS and JavaScript embedded in it. This way we can easily use it on every one of our websites.
 
-> There is one exception to the "don't write code that is only valid for the current project" rule. Since the entire site is built with elements, some elements will have to be project-specific (try to limit using them as much as possible, though!).
+The idea💡 is that you write elements that are custom made for one goal. They should be able to perform only the single task that will result in obtaining their goal. However, you should be able to reach this goal each time you use the element. Your code, therefore, should never include details that are only valid for the current project.
+
+> There is one exception to the "don't write code that is only valid for the current project" rule. Since the entire site is built with elements, some elements will have to be project-specific. Try to limit using them as much as possible, though!
 
 Elements should however be able to receive input arguments that might alter the function of the element. For example, a text input element can be told that only dates are valid input options. You could write a text-data-input element but sometimes functionalities are so similar that you want them to be in the same element.
 
