@@ -37,10 +37,11 @@ Installing themes explained in a GIF, why not.
 
 ### Packages
 
-* linter-js-standard
-* set-syntax
-* markdown-preview (for watching the preview on a white background enable: *Use Github Style*.
+* set-syntax, to change language without saving
+* markdown-preview, for previewing on a white background enable: *Use Github Style*.
+* atom-polymer, some great snippets to get started with Polymer
+* less-than-slash, to auto close HTML tags
 
 ### Themes
 
-* monokai
+* github-atom-light-syntax, for the same Syntax highlighting as GitHub
