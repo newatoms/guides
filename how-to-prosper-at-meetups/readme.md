@@ -17,7 +17,7 @@ Listen to people. Try to find something to talk about in which you are genuinely
 - If you don't find the topic interesting, try to learn why the other party finds it interesting. It might be that you can expand your horizons! Don't talk too long to annoying people, though ;)
 - Learn
 
-### Don't
+### Don't:
 - Don't make the reason you're there about selling something; you are mostly interested in the event and the story of the other party.
 - Don’t look at your mobile phone. People won’t approach you and you will put out a negative vibe.
 - Don't have 2 on 1 conversations. This can feel like an interrogation, and speaking as a team to more people in an evening is generally more worthwhile for everybody involved.
