@@ -8,7 +8,7 @@ For almost all expenses, this is how we work:
 
 1. You pay for it using your personal cash,
 2. You send the receipt in to our bookkeeping,
-3. You get the money back in your next pay cheque after the reciept has been approved by Boris.
+3. You get the money back in your next pay cheque after the receipt has been approved by Boris.
 
 ## How to send in your receipts
 
