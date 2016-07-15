@@ -53,7 +53,7 @@ And many more.
 
 All messages must be on topic and send in the designated channels. You can favorite channels by starring them.
 
-You can mention and notify certain people in a channel with a *@name*.   
+You can mention and notify certain people in a channel with an *@* followed by that user's Slack handle.   
 
 ### Direct Messages
 
