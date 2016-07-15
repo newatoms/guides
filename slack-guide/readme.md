@@ -30,7 +30,7 @@ To get more indepth information about the functionality of Slack [they've made a
 
 With [Slack](https://slack.com/) we say goodbye to email. Well, certainly for all internal communication.
 
-When you become part of New Atoms you will get an invite from one of the admins, this wil enable you te become part of the New Atoms Slack team and join all our channels.
+When you become part of New Atoms you will get an invite, this wil enable you te become part of the New Atoms Slack team and join all our channels.
 
 ### Channels
 
