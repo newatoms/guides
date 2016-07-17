@@ -7,7 +7,6 @@ Here you will find some small tips that might help you improve your interviews.
 
 <img src="https://media.giphy.com/media/o2pzcqisD58iY/giphy.gif" width="100%">
 
-## What to ask
 In this part you will find a small guide about how to formulate the right questions to get the answers you need.
 
 ### Formulate a clear goal for your interview
@@ -28,11 +27,11 @@ Try to engage in emotional questions besides your factual questions. Often an an
 Try to ask questions that don't have a yes or no answer and let your interviewee ramble while they try to answer. Often by letting someone explain something in a vague way helps the interviewee to clarify what they are saying and formulate a answer that they agree with.
 
 ### Use information you get during the interview to formulate new questions
-Once you know clearly what you try to achieve with the interview you can formulate new questions during the interview that support your goal. Try to listen to what your interviewee is saying and draw conclusions form them that help you formulate better questions.
-This way you can follow your interviewee in the flow of theirtheir story and still get the answers you need without abruptly changing the subject.
+Once you know what you try to achieve with the interview you can formulate new questions during the interview that support your goal. Try to listen to what your interviewee is saying and draw conclusions form them that help you formulate better questions.
+This way you can follow your interviewee in the flow of their story and still get the answers you need without abruptly changing the subject.
 
 ### Check your question list during the interview and look it over afterwards
-Interviews are often way less organised than you would want. That is why it can be very help full to have a list of prepared questions you need the answer to, and check them on you list if you think you got the right answer.
+Interviews are often way less organised than you would want. That is why it can be very helpful to have a list of prepared questions you need the answer to, and check them on your list if you think you got the right answer.
 
 ## How to get your answers
 In this part you will find some tips about the way you can approach and ask the questions to your interviewee, so you prevent to get the same response as this interviewer got.
@@ -41,8 +40,8 @@ In this part you will find some tips about the way you can approach and ask the 
 
 
 ### Record the interview
-Always record the interview and notify your interviewee that you are doing so. This helps you to get your facts straight and not to worry about writing and remembering what your interviewee says.  It reassures your interviewee that you take them seriously, and that you don't wrongly remember what they said.
-You can use most mobile phones to record a phone call, if this does not work use a second phone or other recording device and put the phone on speaker. If you want to add soundbites to your content the quality of the recording has to be really high, for transcribing the quality can be a bit lower.
+Always record the interview and notify your interviewee that you are doing so. This helps you to get your facts straight and not to worry about writing and remembering what your interviewee says. It reassures your interviewee that you take them seriously, and that you don't wrongly remember what they said.
+You can use apps on most mobile phones to record a phone call. If you want to add soundbites to your content the quality of the recording has to be really high, for transcribing the quality can be a bit lower.
 
 ### Prepare your interviewee
 Because it is often scary for people to be interviewed it is good to prepare your interviewee to what is going to happen. You can tell them what you want to discuss with them, what you are looking for as an end result and what the interviews intended goal and form is. If you have complicated questions you can also give them before hand but with the risk that people are going to memorise the answers leading to a very dull and predictable interview.
@@ -57,7 +56,7 @@ Try to find out some facts about the the subject your are interviewing about and
 It is often scary for an interviewee to be interviewed even if they have a lot of experience with it. This has a lot to do with the fact that what they say feels non reversible. Ways to make your interviewee comfortable is to show them you are not judging anything they are saying, that they can always adjust what they said and to show them that you are a person just like them. It helps to show an interest in what they say and that you take them seriously.
 
 ### Make the interview a conversation
-Unless you want to present a recorded version of the interview it is really help full to have an actual conversation with your interviewee. You can still ask your prepared questions, but formulate them in a way it fits the conversation and the timing. This way your take away the attention towards the fact that someone is being interviewed witch can make the answers more spontaneous and in depth.
+Unless you want to present a recorded version of the interview it is really help full to have an actual conversation with your interviewee. You can still ask your prepared questions, but formulate them in a way it fits the conversation and the timing. This way your take away the attention towards the fact that someone is being interviewed which can make the answers more spontaneous and in depth.
 
 ### Don’t try to fill the void
 Don't be afraid of uncomfortable silences, sometimes you interviewee needs time or the awkwardness to formulate the right answers. By filling in the voids you often get a very comfortable but predictable interview. A good interviewer is usually a good listener.
@@ -72,7 +71,7 @@ Do this directly after the interview when it is still fresh in your memory. This
 
 ### Transcribing
 
-The next step is to transcribe everything that was said by the interviewee. 
+The next step is to transcribe everything that was said by the interviewee.
 This means that you make a written copy of the recorded audio file. There are numerous [tools](https://transcribe.wreally.com/signup) and online services that can do this for you.  
 
 This is where the responsibilities of the interviewer ends, and all team members can start working on the interview.
