@@ -15,35 +15,33 @@ The product should sell itself, as long as people know what the product is and h
 
 Advertising is dead.
 
-We are all sick and tired of the large amounts of aggressive and pushy content that have no real value and drowns out the content that actually is valuable, waisting a lot of recourses in the process. 
+We are all sick and tired of the large amounts of aggressive and pushy content that have no real value and drowns out the content that actually is valuable, wasting a lot of resources in the process.
 
-In order to build a meaningful relationship with your audience you need content that they have a use for, instead of something that infulences the way they see you.
+In order to build a meaningful relationship with your audience you need content that they have a use for, instead of something that influences the way they see you.
 
 ### Solution
 
-We are convinced that you can build a meaningfull relationship with your audience by using content as a tool to achieve the goals of your company.
+We are convinced that you can build a meaningful relationship with your audience by using content as a tool to achieve the goals of your company.
 
-The best way to do this is by enabling your audience to be part of the solution to the problem your company is trying to solve, enabling your audience to solve the problem without your service. 
+The best way to do this is by enabling your audience to be part of the solution to the problem your company is trying to solve; enabling your audience to solve the problem without your service.
 
-This way, you: 
-* show the importance of what you do 
+This way, you:
+* show the importance of what you do
 * validate your expertise
-* are valuable to your audience 
+* are valuable to your audience
 * get closer to achieving the goals of your company.
 
-Instead of using a problem to make money, you actively stimulate others to solve the problem while offering your service to those who do not have the time or skill to do it themselves. 
+Instead of using a problem to make money, you actively stimulate others to solve the problem while offering your service to those who do not have the time or skill to do it themselves.
 
 ### Our product
 
-We do the same thing ourselves, we teach you how to use content to achieve the goals of your company trough our website. If you do not have the time or the skill to create the needed content, our team can make it for you via our application.
+We do the same thing ourselves, we teach you how to use content to achieve the goals of your company through our website. If you do not have the time or the skill to create the needed content, our team can make it for you via our application.
 
-**Our website** is the place where we publicly store all the lessons we have learned about reaching goals through good content. Our website is always the first place we look when researching for new articles. By making our research public, we hope to enable others to do this as well.
+**Our application** enables the user to manage a multidisciplinary journalistic team that collaborates closely to create articles that achieve the goals of the user. Using the online application, the user is helped with deciding the goal of the publications, can commission proposed articles and approve them when they're done.
 
-**Our application** allows the user to manage a multidisciplinary journalistic team that collaborates closely to create articles that achieve the goals of the user. Using the online application, the user can decide the goal of the publications, commission proposed articles and approve them when they're done.
+**Apart from creating the right content, the main focus of the application is to enable users to have and maintain a steady flow of content that is made by a multidisciplinary team.**
 
-**Apart from creating the right content, the main focus of the application is to enable users to have and maintain a steady flow of content that is made by a multidisiplinary team with the least amount of effort.**
-
-**Our work Method** enables us to have team members work on the same articles simultaneously from their own strengths while covering, where others are less proficient. This enables us to create diverse articles that are not subject to the knowledge and experience of one writer, allowing us to be able to scale and adapt where necessary. We call this *Agile Journalism*.
+**Our work Method** enables us to have team members work on the same articles simultaneously from their own strengths. This enables us to create diverse articles that are not subject to the knowledge and experience of one writer, enabling us to be able to scale and adapt easily. We call this *Agile Journalism*.
 
 ## Our goal
 
