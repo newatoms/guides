@@ -54,5 +54,6 @@ Here you find a list with links to all guides and their goal.
 |[create a local server using Firebase serve ](how-to-run-a-local-server-with-firebase-serve) | Show you how you can run a local server using firebase serve |
 |[solve permission errors on the mac ](how-to-solve-mac-permission-errors) | To help you solve the annoying permissions error that the mac sometimes gives when installing something via the terminal |
 |[scrape information from LinkedIn](web-scraping) | Extract data from LinkedIn profiles into a structured json format |
+|[Authenticate to Firebase as a robot](nonhuman-firebase-authentication) | Explain how you can enable automated services to communicate with Firebase |
 
 Use the [Glossary](glossary) to find definitions of words we use and how we use them.
