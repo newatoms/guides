@@ -41,6 +41,7 @@ Here you find a list with links to all guides and their goal.
 |[pitch post.supply](how-to-pitch-post-supply) | Explain what Post.supply is to others |
 |[prepare for an interview](interview-guide) | Helping to prepare for an Interview |
 |[devise a value proposition](devise-a-value-proposition) | Understand value proposition |
+|[determine the goal of your landing page](determine-the-goal-of-your-landing-page) | To understand what a landing page is. |
 | | **function well within New Atoms** |
 |[write a user story](user-story-guide)| create effective user stories |
 |[be a developer](how-to-be-a-developer) | Explaining what it means to be a developer |
