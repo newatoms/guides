@@ -14,7 +14,7 @@ Click on your profile picture and select _new story_. You can now write your blo
 
 To publish a story on the New Atoms Channel, do the following:
 
-If you've written your awesome post, choose add to publication and then click **New Atoms channel**. Once you click on _add draft to publication_ others can review your post in draft & stories.
+If you've written your awesome post, choose add to publication and then select the name of your channel (**New Atoms channel** for New Atoms most likely). Once you click on _add draft to publication_ others can review your post in draft & stories.
 
 1.<img src="../images/medium-add-to-publication.png" width="200"> 2.  <img src="../images/medium-add-draft.png" width="200">
 
