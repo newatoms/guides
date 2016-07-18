@@ -10,9 +10,11 @@ When you are programming you're communicating with a computer. The computer spea
 If you start a topic, the computer expects that everything that is discussed until the topic is closed is related to it. If you don't end the topic the computer will _forever_ wait for you to finish it and will therefore ignore the other topics you want to discuss.
 Topics can be large and very small.
 
-> You can for example start and close topics by wrapping them in ```<topic>``` and ```</topic>```. The ```/``` will signal the computer to end that part of the conversation. Note that ```<>``` is in the language HTML and other languages have other rules for opening and closing topics.
+#### Example:
 
-A large topic is for example ```<style>```. The computer expects that everything between ```<style>``` and ```</style>``` is related to the style of the website - for example the color of the text.
+You can start and close topics by wrapping them in ```<topic>``` and ```</topic>```. The ```/``` will signal the computer to end that part of the conversation. Note that ```<>``` is in the language HTML and other languages have other rules for opening and closing topics.
+
+A large topic is for example ```<style>```. The computer expects that everything between ```<style>``` and ```</style>``` is related to the style of the website - that can be the color of the text.
 
 A small topic is the ```<strong>```. _Text_ in ```<strong>text</strong>``` will be displayed in strong (often bold: **text**).
 
