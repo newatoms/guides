@@ -17,7 +17,7 @@ Here you find a list with links to all guides and their goal.
 |[search effectively with Google](google-search-guide)| Teaching you about the top of the line search tools |
 |[be a Managing Director](be-a-managing-director) | Explaining what it means to be a managing director |
 |[be a developer](how-to-be-a-developer) | Explaining what it means to be a developer |
-|[use the Achievable board](board-guide) | Explaining how we work with our workflow board and optimizing the use of it  |
+|[use the Achievable board](use-the-achievables-board) | Explaining how we work with our workflow board and optimizing the use of it  |
 |[use GitHub](github-guide) | Guide on how to build documents and websites with the service called Github |
 |[publish to Medium](medium-guide)| Helping you use Medium |
 |[use Slack for team communciation](slack-guide) | Helping you use our main communications tool, slack.
