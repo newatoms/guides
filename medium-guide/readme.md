@@ -25,5 +25,3 @@ If you're asked to review or edit a Medium blogpost always comment —never chan
 ## Publish and post
 
 Before publishing you can attach tags to your post. Choose the ones that are most relevant and have the greatest reach. When you're happy with your blogpost you can push the publish button.
-
-Congratulations! Now it's out in the open. Tweet about it on the New Atoms' [Twitter](https://twitter.com/NewAtoms) account and/or post on the New Atoms' [Facebook](https://www.facebook.com/newatoms/).
