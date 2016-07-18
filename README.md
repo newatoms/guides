@@ -19,7 +19,7 @@ Here you find a list with links to all guides and their goal.
 |[be a developer](how-to-be-a-developer) | Explaining what it means to be a developer |
 |[use the Achievable board](use-the-achievables-board) | Explaining how we work with our workflow board and optimizing the use of it  |
 |[use GitHub](github-guide) | Guide on how to build documents and websites with the service called Github |
-|[publish on Medium](publish-on-medium)| Helping you publish on Medium |
+|[publish on Medium](publish-on-medium)| Helping you publish on Medium for New Atoms |
 |[use Slack for team communciation](slack-guide) | Helping you use our main communications tool, slack.
 |[communicate as content.supply](communication-guide) | Helping to communicate with the outside world
 |[pay for something](how-to-pay-for-something) | Pay for things on behalf of the company and get your money back |
