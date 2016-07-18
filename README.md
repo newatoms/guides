@@ -38,6 +38,7 @@ Here you find a list with links to all guides and their goal.
 |[turn a pitch into a blog post](turn-a-pitch-into-a-publishable-blog-post)| help you to create and work on a user story for a blog post |
 |[scrape information from LinkedIn](web-scraping) | Extract data from LinkedIn profiles into a structured json format |
 |[write well](writing-guide) | To help team members write in a clear manner |
+|[look premium](look-premium) | Explain what you should pay attention to when trying to look premium |
 |[approach paragraphs](paragraph-guide)| To understand how paragraph length affects readability |
 |[write a user story](user-story-guide)| create effective user stories |
 |[refine your writing style](refine-your-writing-style)| write to fit a specific context, purpose, or audience  |
