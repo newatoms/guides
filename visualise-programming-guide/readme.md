@@ -4,7 +4,7 @@
 
 # How to visualize programming
 
-At first, the concept of how programming works can be hard to grasp. It can be abstract and daunting at times. No worries take your time. This article will help you understand the basics of how we as humans talk to computers and how they talk back.
+At first, the concept of how programming works can be hard to grasp. It can be abstract and daunting at times. No worries, take your time. This article will help you understand the basics of how we, humans, talk to computers and how they talk back.
 
 ## Communicating with a computer
 When you are programming you're communicating with a computer. The computer speaks multiple languages but is very strict in the grammar, structure and punctuation of them. It doesn't really care about the content of the message though, so that's completely open to you to fill in as you seem fit.
