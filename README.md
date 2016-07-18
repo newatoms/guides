@@ -36,6 +36,7 @@ Here you find a list with links to all guides and their goal.
 |[prosper at Meetups](how-to-prosper-at-meetups)| Helping you to enjoy and prosper at Meetups |
 |[communicate as content.supply](communication-guide) | Helping to communicate with the outside world
 |[pitch](how-to-pitch) | Pitch your idea to others |
+|[understand content marketing](understand-content-marketing) | to help you understand what content marketing is |
 |[pitch post.supply](how-to-pitch-post-supply) | Explain what Post.supply is to others |
 |[prepare for an interview](interview-guide) | Helping to prepare for an Interview |
 |[devise a value proposition](devise-a-value-proposition) | Understand value proposition |
