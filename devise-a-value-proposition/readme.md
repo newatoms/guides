@@ -12,18 +12,7 @@
 * It avoids hype (like ‘never seen before amazing miracle product’), superlatives (‘best’) and business jargon (‘value-added interactions’).
 * It can be read and understood in about 5 seconds.
 
-### A value proposition usually takes the form of a tagline
-
-A good tagline:
-
-* Shows brand awareness
-* Creates an emotional response that sticks in people’s minds long after it’s been seen or heard
-* Requires a lot of insight into the company and its people
-* Is original
-* Is concise
-* Is relevant
-* Has staying power (is not trendy)
-* Is in the language of the end-user
+A value proposition usually takes the form of a tagline. Read more about this in the [taglines guide](../write-a-tagline/readme.md).
 
 Some helpful reading:
 www.openforum.com/articles/7-steps-to-creating-a-memorable-tagline/
