@@ -40,7 +40,7 @@ Building a relationship and broadening your reach is done in the same way: be re
 
 In short: **Give the reader value for their time.**
 
-A way to do this is to communicate from your beliefs and not be afraid to share the secrets of the trade. The competition will always be different, your clients will never be able to do it as well, and the knowledge you share only manifests your confidence and capabilities.
+A way to do this is to communicate from your beliefs and not be afraid to share the secrets of the trade. The competition will always be different and the knowledge you share only manifests your confidence and capabilities.
 
 ## What do people share?
 
@@ -48,56 +48,59 @@ To broaden your reach, you want people to share what you say. Items with marketi
 
 In the paper: [Viral marketing: Motivations to forward online content](https://www.deepdyve.com/lp/elsevier/viral-marketing-motivations-to-forward-online-content-ya990JKm7A), Jason Y.C. Hoa and Melanie Dempsey identify four potential motivations for people to share content:
 
-**The need to be:**
-1. part of a group
-* individualistic
-* [altruistic](http://dictionary.cambridge.org/dictionary/english/altruistic)
+1. the need to be part of a group
+* the need to be individualistic
+* the need to be [altruistic](http://dictionary.cambridge.org/dictionary/english/altruistic)
 * the need for personal growth
 
-Using a survey of young adults, they found out that Internet users, who are more individualistic and/or more altruistic, tend to forward more online content than others.
+Using a survey of young adults, they found that internet users, who are more individualistic and/or more altruistic, tend to forward more online content than others.
 
 You do not want people to only interact with your messages, but to do so in a positive manner. You want people to speak positively about you with personal incentive.
 
 This can be done by saying something about you, but just sharing or even liking your messages is enough. The best way to get your readers to do this is simply by giving them a reason to. To do this, it is important to know why people interact with messages on social media.
 
-Your social media profile is a definition of who you are. It is your public resume, your dating profile and your portfolio. So with everything you share and say you should ask yourself, 'is this portfolio material? Would I endorse this and how does it look with the rest of my profile?'
+## Why do people share?
+
+Your social media profile is a definition of who you are. It is your public resume, your dating profile and your portfolio. So with everything you share and say you should ask yourself:
+
+> Is this portfolio material? Would I endorse this and how does it look with the rest of my profile?'
 
 Because you only reach the people during the time of your broadcast, it can often be good to broadcast the same message multiple times and give the receiver a reason to share it every time.
 
-This is the main reason why non-profit organizations and education are so successful on social media with consumer goods, retail and e-commerce far behind in second place. Their messages are directly relatable to the people sharing them and lend a strong connotation to the sender and the sharer.
+This is the main reason why non-profit organisations and education institutes are so successful on social media. Their messages are directly relatable to the people sharing them and lend a strong connotation to the sender and the sharer.
 
 ## Practicality
 
 Here are some insights that have been drawn from research on social media:
 
-* In general, people only briefly look at what they see on social media. Therefore, the first sentences or image they see should capture the reader in a way that is in line with what the message you're conveying.
+* In general, people only briefly look at what they see on social media. Therefore, the first sentences or image they see should capture the reader in a way that is in line with what message you're conveying.
 
-* People hardly click on links (1%-10%), even if they have instant relevance. Therefore, you should limit use of tinyurl and bitly to urls of which the names are not relevant or obvious.
+* People hardly click on links (1%-10%), even if they have instant relevance. Therefore, you should limit use of [bitly](https://bitly.com/) and [tinyurl](http://tinyurl.com/) for urls of which the names are not relevant or obvious. These are tools to shorten your links, especially useful for twitter of course. Although your audience doesn't recognise your link, it can be handy for tracking.
 
-To make sure that people can find your content again, it is important to keep the following things in mind:
+To make sure that people can find your content again, **it is important to keep the following things in mind**:
 
-* Try to keep your content on a minimal amount of different sources and channel it through social media.
-* If you publish an article online, do so on a blog and link to that blogpost through different channels. Don't post the article multiple times on different platforms. You want people to be able to share the source, not necessarily the outlet.
-* If you are using video, try to keep all your material on one provider (Vimeo, YouTube, etc.)
-* Be consistent in language, frequency and use of external services such as Eventbrite, Doodle etc.
+* Try to keep your content on a minimal amount of different outlets and channel it through social media.
+* If you publish an article online, do so on a blog and link to that blogpost through different platforms. Don't post the article multiple times on different platforms. You want people to be able to share the source, not necessarily the outlet.
+* If you are using video, try to keep all your material on one outlet (Vimeo, YouTube, etc.)
+* Be consistent in language, frequency and use of external services.
 
-## Practicality per channel
+## Practicality per platform
 
-Here you will find some info specifically pertaining to the mentioned social media channels.
+Here you will find some info specifically pertaining to the mentioned social media platforms.
 
 ### Twitter
 
 * Mostly used for building and maintaining a network, conveying and receiving current events to and from your followers.
 * Mixed professional and personal use.
 * Shows all the messages people you follow post in real time.
-* Mentions give a notification for the mentioned and show up in the feed of their followers.
+* @Mentions give a notification for the mentioned and show up in the feed of their followers.
 * If “@” is at the beginning of a sentence, the tweet is a direct message and only visible to the receiver defined by the “@”.
-* 140 character limit, images “cost” 25 characters, links 23 characters.
-* Hashtags are used for 2 things: search labels and making or taking part in a phenomenon.
+* There's a 140 character limit, images “cost” 25 characters, links 23 characters.
+* Hashtags are used for 2 things: search labels and making or taking part in a phenomenon. [Mastering your hashtags can be an art of its self](http://www.inc.com/jeff-haden/the-science-behind-using-hashtags-number-type-and-more.html).
 
 ### Facebook
 
-* Most used and broadest channel, mostly personal use.
+* Most used and broadest platform, mostly personal use.
 * Shows messages of the people you follow based on your profile information, what and how long you view something and what you click on.
 * Suggests (sponsored) post and pages based on that information.
 * Tags give notifications to the tagged and show up in the timeline of their friends.
@@ -111,12 +114,12 @@ Here you will find some info specifically pertaining to the mentioned social med
 * 600 character limit.
 * Only the first 150 Characters are visible; the rest is hidden behind “read more”.
 
-## Conclusion
+## The very last bullet point list; A summary of advice
 
-Hopefully you were able to read through the endless list of bullet points. In order to make the bullet points more clear, we filtered out some of the most important points and made another bullet point list! The list below is meant to give you a summary of advice on how to use social media based on the concepts discussed in this guide.
+Hopefully you were able to read through the endless list of bullet points. In order to make the bullet points more clear, we filtered out some of the most important points and made another bullet point list! We love bullet points! The list below is meant to give you a summary of advice on how to use social media based on the concepts discussed in this guide.
 
 * Roughly define your target audience.
-* Choose your channels based on your target audience.
+* Choose your platforms based on your target audience.
 * Use your social media to build and maintain a relationship with your target audience.
 * What you share should have value for your target audience outside the context, so that it lends connotation instead of taking it.
 * Always reach past your followers and assume that readers have never seen a post from you before.
