@@ -1,6 +1,6 @@
-**Goal of this guide:** To get you thinking about the qualities of a good tagline
+**Goal of this guide:** Understanding the qualities of a good tagline
 
-# How to think about taglines
+# How to write a tagline
 
 A tagline, sometimes called a slogan, is like a mini mission statement. It's a textual/audible representation of a brand, like a logo in writing. Think "Just do it."
 
