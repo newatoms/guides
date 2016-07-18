@@ -1,10 +1,10 @@
-> **Goal of this guide:** giving you the ability to write and publish an article on medium.com
+> **Goal of this guide:** giving you the ability to write and publish an article for New Atoms on medium.com
 
 <img src="../images/medium-logo.png" width="80">
 
 # How to publish to Medium
 
-This guide is a quick tutorial about how to create a blogpost on Medium.
+This guide is a quick tutorial about how to create a blogpost for New Atoms on Medium.
 
 Signup on [Medium](https://medium.com/) and ask Boris van Hoytema to add you as an editor to our channel(s).
 
