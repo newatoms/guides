@@ -16,13 +16,13 @@ The idea💡 is that you write elements that are custom made for one goal. They 
 
 Elements can receive input arguments that change how the element behaves. For example, a text input can be told that only dates are valid input options. You could write a `text-date-input` element, but sometimes functionalities are so similar that you want them to be in the same element to make it easier to maintain them.
 
-It's difficult to define precisely what the goal of the element is and how this goal can be reached using values that might differ over different parts of the site/ different sites. Take your time 🕚 and [Read our guide on how to create a new element](../creating-elements/readme.md).
+It's difficult to define precisely what the goal of the element is and how this goal can be reached using values that might differ over different parts of the site/ different sites. Take your time 🕚 and [read our guide on how to create a new element](../creating-elements/readme.md).
 
 ## Communication between elements
 
-Polymer Elements can communicate with each other.🗣 An element that is called inside another element is called a 'child'; and the element an element is inside of is the 'parent'. 
+Polymer Elements can communicate with each other.🗣 An element that is called inside another element is called a 'child'; and the element an element is inside of is the 'parent'.
 
-Elements can communicate in different ways. 
+Elements can communicate in different ways.
 - [Two way data binding](../databinding/readme.md) between elements, and
 - [Events](https://www.polymer-project.org/1.0/docs/devguide/events.html): you can let polymer fire an event when something happens, e.g. a user presses a button. The event contains information of the event itself and information you send with it (array, object, string, etc.).
 
@@ -30,7 +30,7 @@ Elements can communicate in different ways.
 
 A polymer element consists of three languages: [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction), [CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started) and [JavaScript](https://developer.mozilla.org/en-US/Learn/JavaScript).
 
-HTML is for structure/content, CSS for styling/design and JavaScript for logic/interaction. Each of these is it's own language. 
+HTML is for structure/content, CSS for styling/design and JavaScript for logic/interaction. Each of these is it's own language.
 
 In an element we first define our CSS between the `<style>` HTML tags, then the HTML contents of this element's template and the JavaScript logic at the end between the `<script>` tag.
 
