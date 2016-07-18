@@ -10,11 +10,11 @@ Check out [this talk](https://blog.intercom.io/users-understand-new-products/) f
 
 ### Words and language should:
 
-Show that your interests are the same.
-Demonstrate concern for others.
-Deliver on your promises.
-Be consistent and honest.
-Communicate frequently, clearly and openly.
+* Show that your interests are the same.
+* Demonstrate concern for others.
+* Deliver on your promises.
+* Be consistent and honest.
+* Communicate frequently, clearly and openly.
 
 This is particularly interesting, when thinking about what words to use:
 
