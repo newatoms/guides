@@ -12,19 +12,19 @@ To enable us to work in this way, we work with an [Achievables board](../use-the
 
 ## How to create and fulfill a user story for a blog post
 
-A [user story](../glossary/user-story.md) is meant to force you to clearly state what you will try to achieve, how you want to do it and who it is for. There is a ready-made template in which you can create a user story within the "Create" column of the Interface. You can read a more in-depth guide about Achievables and user stories [here](https://github.com/newatoms/guides/tree/ready/board-guide).
+A [user story](../glossary/user-story.md) is meant to force you to clearly state what you will try to achieve, how you want to do it and who it is for. There is a ready-made template in which you can create a user story within the "Create" column of the Interface. You can read a more in-depth guide about Achievables and user stories [here](../use-the-achievables-board/readme.md).
 If you write a user story, keep the following in mind:
 
 * All user stories require you to identify the goal of your action.
 * All user stories are written from the perspective of the end user.
 * Collecting information towards fulfilling a user story is never the goal on its own.
-* All finished user stories (also called [pull requests](https://github.com/newatoms/guides/tree/ready/github-guide#the-pull-request) at this stage) should add value to the whole and be publishable on their own.
-* The person [merging](https://github.com/newatoms/guides/tree/ready/github-guide#discuss-and-merge) your [pull request](https://github.com/newatoms/guides/tree/ready/github-guide#the-pull-request) is responsible for combining all live user stories of the same blog post into one publishable blog post.
+* All finished user stories (also called [pull requests](../github-guide#the-pull-request) at this stage) should add value to the whole and be publishable on their own.
+* The person [merging](../github-guide#discuss-and-merge) your [pull request](../github-guide#the-pull-request) is responsible for combining all live user stories of the same blog post into one publishable blog post.
 * During the demo (team meeting at the end of a sprint), it will be decided if the results are good enough to go live.
 
 ### Finishing a user story
 
-Before you finish a user story and create a [pull request](https://github.com/newatoms/guides/tree/ready/github-guide#the-pull-request), you should check the following:
+Before you finish a user story and create a [pull request](../github-guide#the-pull-request), you should check the following:
 
 * Did it fulfill the goal of the user story for whom it was intended?
 * Is it better than what we had before (did it add value)?
@@ -59,4 +59,4 @@ When a blog post is not good enough to go live after the user story is fulfilled
 
 * If you work on a blog post and you change something, rearrange and adjust the blog post or add relevant transitions so that it makes sense with your changes.
 
-* If you plan to interview someone, remember that figuring out who to interview and what to ask can not stand on their own as something publishable. Your task also consists of collecting the  information and drawing conclusions (to learn more on how to prepare and conduct an interview, you can look at this [guide](../interview-guide)).
+* If you plan to interview someone, remember that figuring out who to interview and what to ask can not stand on their own as something publishable. Your task also consists of collecting the  information and drawing conclusions (to learn more on how to prepare and conduct an interview, you can look at this [guide](../interview-guide/readme.md)).
