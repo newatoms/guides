@@ -29,6 +29,7 @@ Here you find a list with links to all guides and their goal.
 |[start using Polymer](start-using-polymer)| Helping you understand why we use Polymer and how you can join the fun |
 |[divide a team](divide-a-team)| A step by step walkthrough of dividing a team and creating two new ones. |
 |[use Polymer databinding](databinding) | How to communicate between elements using databinding in Polymer |
+|[install bower components](install-bower-components) | Shows you how you can install bower components |
 |[create a Polymer element](creating-elements) | Understanding the core concepts of coding in Polymer |
 |[create a local server using Firebase serve ](how-to-run-a-local-server-with-firebase-serve) | Show you how you can run a local server using firebase serve |
 |[solve permission errors on the mac ](how-to-solve-mac-permission-errors) | To help you solve the annoying permissions error that the mac sometimes gives when installing something via the terminal |
