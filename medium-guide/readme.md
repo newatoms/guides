@@ -4,11 +4,9 @@
 
 # How to publish to Medium
 
-At New Atoms we write on our [New Atoms Medium Blog channel](https://medium.com/new-atoms-beta). We write about what we learn and what it's like to start a business. Every team member can pitch ideas for blogposts in the [Slack](../slack-guide/) channel: beta.
+This guide is a quick tutorial about how to create a blogpost on Medium.
 
-This guide is a quick tutorial about how to create a blogpost.
-
-Signup on [Medium](https://medium.com/) and ask Boris van Hoytema to add you as an editor.
+Signup on [Medium](https://medium.com/) and ask Boris van Hoytema to add you as an editor to our channel(s).
 
 ## Write and publish
 
