@@ -14,13 +14,14 @@ Here you find a list with links to all guides and their goal.
 |[use text-editor Atom](atom-guide)| Helping you to use Atom, a text editor we use in combination with github |
 |[search effectively with Google](google-search-guide)| Teaching you about the top of the line search tools |
 |[use the Achievable board](use-the-achievables-board) | Explaining how we work with our workflow board and optimizing the use of it  |
-|[use Slack for team communciation](slack-guide) | Helping you use our main communications tool, slack.
+|[use Slack for team communciation](slack-guide) | Helping you use our main communications tool, Slack |
 |[use GitHub](github-guide) | Guide on how to build documents and websites with the service called Github |
 |[pay for something](how-to-pay-for-something) | Pay for things on behalf of the company and get your money back |
 |[publish on Medium](publish-on-medium)| Helping you publish on Medium for New Atoms |
 | | **reach your goal through writing** |
 |[write well](writing-guide) | To help team members write in a clear manner |
 |[turn a pitch into a blog post](turn-a-pitch-into-a-publishable-blog-post)| help you to create and work on a user story for a blog post |
+|[use social media](use-social-media) | to help you understand the inner workings of social media so you can use them to your advantage |
 |[refine your writing style](refine-your-writing-style)| write to fit a specific context, purpose, or audience  |
 |[create high quality content](write-awesome-content)| Helping you create high quality written content by giving tips and a checklist |
 |[science the $@%t out of images](effective-image-guide)| to explore what makes an image effective in relation to an article  |
