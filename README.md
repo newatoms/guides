@@ -43,7 +43,6 @@ Here you find a list with links to all guides and their goal.
 |[science the $@%t out of images](effective-image-guide)| to explore what makes an image effective in relation to an article  |
 |[create high quality content](write-awesome-content)| Helping you create high quality written content by giving tips and a checklist |
 |[create effective hyperlinks](the-hyperlink-guide)| Helping you create effective in-text links |
-|[Manage your post length](manage-your-post-length) | Know how long posts should be |
 |[communicate in a trustworthy tone](communicate-in-a-trustworthy-tone) | Helping you communicate in a way people will trust |
 |[manage your post length](manage-your-post-length) | Know how long posts should be |
 |[write a tagline](write-a-tagline) | Understanding the qualities of a good tagline |
