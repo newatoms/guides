@@ -32,7 +32,7 @@ Here you find a list with links to all guides and their goal.
 |[install bower components](install-bower-components) | Shows you how you can install bower components |
 |[create a Polymer element](creating-elements) | Understanding the core concepts of coding in Polymer |
 |[create a local server using Firebase serve ](run-a-local-server-with-firebase-serve) | Show you how you can run a local server using firebase serve |
-|[solve permission errors on the mac ](how-to-solve-mac-permission-errors) | To help you solve the annoying permissions error that the mac sometimes gives when installing something via the terminal |
+|[solve permission errors on the mac ](solve-mac-permission-errors) | To help you solve the annoying permissions error that the mac sometimes gives when installing something via the terminal |
 |[visualise programming](visualise-programming-guide) | Learn about what type of conversation partner a computer is |
 |[solve Polymer errors](fixing-errors) | Create a understanding of debugging web-apps |
 |[turn a pitch into a blog post](turn-a-pitch-into-a-publishable-blog-post)| help you to create and work on a user story for a blog post |
