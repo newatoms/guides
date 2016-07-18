@@ -1,6 +1,9 @@
-> Goal of this guide: to help you understand the inner workings of social media so you can use them to your advantage.
+> **Goal of this guide**: to help you understand the inner workings of social media so you can use them to your advantage.
 
-# Social media guide
+<img src="../images/conversationprism.jpg" alt="The social media landscape" width=100% />
+*Landscape of social media*
+
+# How to use social media for communication
 
 Social media is an extremely amplified version of [word of mouth](../understand-content-marketing/readme.md#word-of-mouth) communication.
 It has the potential reach of traditional broadcasting and the context of word of mouth.
@@ -15,33 +18,41 @@ Here you will find some key concepts about social media that will help you to su
 * Everything you say and share is documented, visible and broadcasted for a short duration to all involved accounts and their followers. This duration is extended every time someone interacts with it.
 * Whenever you "like" something, it is documented on the "liked" item and broadcasted to all affected accounts. This duration can not be extended and the action is not visible on your profile.
 * Everyone using social media has the possibility to get infinite reach.
-* For Twitter, the broadcast time is roughly 15 minutes; for facebook this is about 90 minutes; and for linkedIn it is over 48 hours.
+* For Twitter, the broadcast time is roughly 15 minutes; for Facebook this is about 90 minutes; and for linkedIn it is over 48 hours.
 * Everything you broadcast reaches your followers and the followers of people who interact with your broadcast during the time it is broadcasted.
 * Only people directly affected by your actions get a notification; the rest is reached through their news feed.
 * People generally don't click: interactions with messages of big brands are 00,7% on average and roughly 1-2% for the average commercial profile.
 
-## How you could use social media
+## How best use social media
 
 Traditional use of social media is to reach and convey a direct message to your target audience, for example: we are selling this, we are doing that, you can find us here.
 
 Social media is the best way to reach a lot of people, but it is meaningless if there is no immediate benefit for the receiver, especially if the receiver does not know who you are. The biggest misunderstanding of communication is that people expect a direct return of investment.
 
-* Expectation: I see something I like, I interact with it.
-* Reality: I see something I like but don't specifically and immediately need, I might remember it and keep on doing what I'm doing.
+* **Expectation**: I see something I like, I interact with it.
+* **Reality**: I see something I like, but don't specifically and immediately need, I might remember it and keep on doing what I'm doing.
 
 The value of your message to the reader is the cornerstone of the effectiveness of your social media use. If you try to convey too many meaningless messages, the value of your content stream drops and people stop listening.
 
 The best use of social media is not only to reach and convey a direct message to your target audience, but also to build and maintain a relationship.
 
-Building a relationship and broadening your reach is done in the same way: be relevant for your target audience and leave a positive memory. In short, give the reader value for their time.
+Building a relationship and broadening your reach is done in the same way: be relevant for your target audience and leave a positive memory.
+
+In short: **Give the reader value for their time.**
 
 A way to do this is to communicate from your beliefs and not be afraid to share the secrets of the trade. The competition will always be different, your clients will never be able to do it as well, and the knowledge you share only manifests your confidence and capabilities.
 
 ## What do people share?
 
-To broaden your reach, you want people the share what you say. Items with marketing purposes that get shared a lot on social media are called viral marketing.
+To broaden your reach, you want people to share what you say. Items with marketing purposes that get shared a lot on social media are called viral marketing.
 
-In the article “Viral marketing: Motivations to forward online content”, Jason Y.C. Hoa and Melanie Dempsey identify four potential motivations for people to share content: (1) the need to be part of a group, (2) the need to be individualistic, (3) the need to be altruistic, and (4) the need for personal growth.
+In the paper: [Viral marketing: Motivations to forward online content](https://www.deepdyve.com/lp/elsevier/viral-marketing-motivations-to-forward-online-content-ya990JKm7A), Jason Y.C. Hoa and Melanie Dempsey identify four potential motivations for people to share content:
+
+**The need to be:**
+1. part of a group
+* individualistic
+* [altruistic](http://dictionary.cambridge.org/dictionary/english/altruistic)
+* the need for personal growth
 
 Using a survey of young adults, they found out that Internet users, who are more individualistic and/or more altruistic, tend to forward more online content than others.
 
