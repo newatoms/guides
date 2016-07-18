@@ -1,6 +1,10 @@
->**The goal of this guide**: Explain the basics of programming
+>**The goal of this guide**: understanding the basics of programming.
+
+<img src="../images/baby-talks-to-computer.jpg" />
 
 # How to visualize programming
+
+At first, the concept of how programming works can be hard to grasp. It can be abstract and daunting at times. No worries take your time. This article will help you understand the basics of how we as humans talk to computers and how they talk back.
 
 ## Communicating with a computer
 When you are programming you're communicating with a computer. The computer speaks multiple languages but is very strict in the grammar, structure and punctuation of them. It doesn't really care about the content of the message though, so that's completely open to you to fill in as you seem fit.
@@ -38,6 +42,6 @@ Luckily, the computer is pretty vocal about your mistakes. She will notify you o
 
 Every interaction you've ever had with machines is guided by a script. A script is a document which has a 'preprogrammed' conversation between a user and a machine. Some parts of the conversation are still to be filled in by the user, for example by adding a name in an input field, but most of it has been written already (without the user having knowledge of it).
 
-There are a lot of languages, each has it's own functionality and rules. A data analysis script for example will be somewhat different from a script that enables you to draw a picture. Almost all scripts will follow the communication rules stated above though.
+There are a lot of languages, each has its own functionality and rules. A data analysis script for example will be somewhat different from a script that enables you to draw a picture. Almost all scripts will follow the communication rules stated above though.
 
-Once you've mastered a language you'll be able to write all kinds of functionalities that fall within the scope of that language. Imagine the possibilies 🔮.
+Once you've mastered a language you'll be able to write all kinds of functionalities that fall within the scope of that language. Imagine the possibilities 🔮.
