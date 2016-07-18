@@ -9,7 +9,7 @@ A user story is a short description of a task to be performed. It can be read as
 
 >*I can* (possible solution to achieve the goal/what is wanted)
 
-The goal of this guide is how to create an effective user story, so be sure to first read more about what user stories are and how they fit into our workflow in the [board guide](../board-guide/readme.md) and the [turn a pitch into a publishable blog post guide](../turn-a-pitch-into-a-publishable-blog-post/readme.md).
+The goal of this guide is how to create an effective user story, so be sure to first read more about what user stories are and how they fit into our workflow in the [board guide](../use-the-achievables-board/readme.md) and the [turn a pitch into a publishable blog post guide](../turn-a-pitch-into-a-publishable-blog-post/readme.md).
 
 ## Why the eff are user stories so hard to write?
 
@@ -53,9 +53,9 @@ Bingo! 🎯 This is the actual function of an image. Thus, the user story:
 
 >*I can* see an interesting header image.
 
-## Clarity 
+## Clarity
 
-Goals should be understood in the same way by all readers. 
+Goals should be understood in the same way by all readers.
 
 ## Chill the eff out
 This is not straight forward. It takes a lot of practice, and even then is it still difficult. So don't worry! We'll all be scaling the hierarchy of *why* up and down, back and forth together 💛.
