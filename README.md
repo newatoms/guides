@@ -19,7 +19,7 @@ Here you find a list with links to all guides and their goal.
 |[be a developer](be-a-developer) | Explaining what it means to be a developer |
 |[use the Achievable board](use-the-achievables-board) | Explaining how we work with our workflow board and optimizing the use of it  |
 |[use GitHub](github-guide) | Guide on how to build documents and websites with the service called Github |
-|[publish to Medium](medium-guide)| Helping you use Medium |
+|[publish on Medium](publish-on-medium)| Helping you publish on Medium for New Atoms |
 |[use Slack for team communciation](slack-guide) | Helping you use our main communications tool, slack.
 |[communicate as content.supply](communication-guide) | Helping to communicate with the outside world
 |[pay for something](pay-for-something) | Pay for things on behalf of the company and get your money back |
@@ -45,6 +45,7 @@ Here you find a list with links to all guides and their goal.
 |[science the $@%t out of images](effective-image-guide)| to explore what makes an image effective in relation to an article  |
 |[create high quality content](write-awesome-content)| Helping you create high quality written content by giving tips and a checklist |
 |[create effective hyperlinks](create-effective-hyperlinks)| Helping you create effective in-text links |
+|[communicate in a trustworthy tone](communicate-in-a-trustworthy-tone) | Helping you communicate in a way people will trust |
 |[manage your post length](manage-your-post-length) | Know how long posts should be |
 |[write a tagline](write-a-tagline) | Understanding the qualities of a good tagline |
 |[devise a value proposition](devise-a-value-proposition) | Understand value proposition |
