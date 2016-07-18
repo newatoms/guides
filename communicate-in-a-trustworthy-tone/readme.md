@@ -2,6 +2,9 @@
 
 # How to communicate in a way people will trust
 
+The most important part of conveying trust, is being trustworthy. Do not use this guide to convince others that you are trustworthy if you are not. That will almost always backfire. 
+
+If your are trustworthy and sincere, this guide will help your convey that to the outside world.
 Trust is important precisely because the entire purchase experience depends upon trust in order to be successful.
 
 Every conversion is an indication that trust has been won. Every new customer represents a person whose trust has been earned. Every return customer represents a person whose trust continues to be held. Without trust, there is no such thing as conversions, customers or revenue.
