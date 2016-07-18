@@ -42,7 +42,7 @@ Here you find a list with links to all guides and their goal.
 |[refine your writing style](refine-your-writing-style)| write to fit a specific context, purpose, or audience  |
 |[science the $@%t out of images](effective-image-guide)| to explore what makes an image effective in relation to an article  |
 |[create high quality content](write-awesome-content)| Helping you create high quality written content by giving tips and a checklist |
-|[create effective hyperlinks](the-hyperlink-guide)| Helping you create effective in-text links |
+|[create effective hyperlinks](create-effective-hyperlinks)| Helping you create effective in-text links |
 |[manage your post length](manage-your-post-length) | Know how long posts should be |
 |[write a tagline](write-a-tagline) | Understanding the qualities of a good tagline |
 |[devise a value proposition](devise-a-value-proposition) | Understand value proposition |
