@@ -8,7 +8,7 @@ Bots listen to events and perform an action based on the type of event.
 For example: we currently use a bot to push a message to slack when a client adds a message to a conversation on the interface
 
 ## Difference between CircleCi and other bots in communicating with Firebase
-Usually bots use the firebase secret. Go to the firebaseio url of your database and go to secrets.
+Usually bots use the Firebase secret. Go to the ```[your-database-name].firebaseio.com``` url of your database and go to secrets.
 
 CircleCi needs a token, not a secret! A token is a string of 'random' letters and numbers that functions as a key to Firebase. You can only read and write to Firebase if you know the correct token.
 
