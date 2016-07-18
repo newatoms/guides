@@ -10,42 +10,47 @@ Here you find a list with links to all guides and their goal.
 
 |How to … |Goal of the guide              |
 |--------|-----------------------------|
+| | **use software effectively** |
 |[use text-editor Atom](atom-guide)| Helping you to use Atom, a text editor we use in combination with github |
-|[write a manual](how-to-write-a-manual)| Explaining what you should pay attention to when creating a manual  |
-|[get clients](get-clients)| Helping you to do direct customer acquisition |
-|[prosper at Meetups](how-to-prosper-at-meetups)| Helping you to enjoy and prosper at Meetups |
 |[search effectively with Google](google-search-guide)| Teaching you about the top of the line search tools |
-|[be a Managing Director](be-a-managing-director) | Explaining what it means to be a managing director |
-|[be a developer](how-to-be-a-developer) | Explaining what it means to be a developer |
 |[use the Achievable board](use-the-achievables-board) | Explaining how we work with our workflow board and optimizing the use of it  |
-|[use GitHub](github-guide) | Guide on how to build documents and websites with the service called Github |
-|[publish on Medium](publish-on-medium)| Helping you publish on Medium for New Atoms |
 |[use Slack for team communciation](slack-guide) | Helping you use our main communications tool, slack.
-|[communicate as content.supply](communication-guide) | Helping to communicate with the outside world
+|[use GitHub](github-guide) | Guide on how to build documents and websites with the service called Github |
 |[pay for something](how-to-pay-for-something) | Pay for things on behalf of the company and get your money back |
-|[pitch](how-to-pitch) | Pitch your idea to others |
-|[pitch post.supply](how-to-pitch-post-supply) | Explain what Post.supply is to others |
-|[prepare for an interview](interview-guide) | Helping to prepare for an Interview |
-|[start using Polymer](start-using-polymer)| Helping you understand why we use Polymer and how you can join the fun |
-|[divide a team](divide-a-team)| A step by step walkthrough of dividing a team and creating two new ones. |
-|[use Polymer databinding](databinding) | How to communicate between elements using databinding in Polymer |
-|[create a Polymer element](creating-elements) | Understanding the core concepts of coding in Polymer |
-|[create a local server using Firebase serve ](how-to-run-a-local-server-with-firebase-serve) | Show you how you can run a local server using firebase serve |
-|[solve permission errors on the mac ](how-to-solve-mac-permission-errors) | To help you solve the annoying permissions error that the mac sometimes gives when installing something via the terminal |
-|[visualise programming](visualise-programming-guide) | Learn about what type of conversation partner a computer is |
-|[solve Polymer errors](fixing-errors) | Create a understanding of debugging web-apps |
-|[turn a pitch into a blog post](turn-a-pitch-into-a-publishable-blog-post)| help you to create and work on a user story for a blog post |
-|[scrape information from LinkedIn](web-scraping) | Extract data from LinkedIn profiles into a structured json format |
+|[publish on Medium](publish-on-medium)| Helping you publish on Medium for New Atoms |
+| | **reach your goal through writing** |
 |[write well](writing-guide) | To help team members write in a clear manner |
-|[approach paragraphs](paragraph-guide)| To understand how paragraph length affects readability |
-|[write a user story](user-story-guide)| create effective user stories |
+|[turn a pitch into a blog post](turn-a-pitch-into-a-publishable-blog-post)| help you to create and work on a user story for a blog post |
 |[refine your writing style](refine-your-writing-style)| write to fit a specific context, purpose, or audience  |
-|[science the $@%t out of images](effective-image-guide)| to explore what makes an image effective in relation to an article  |
 |[create high quality content](write-awesome-content)| Helping you create high quality written content by giving tips and a checklist |
+|[science the $@%t out of images](effective-image-guide)| to explore what makes an image effective in relation to an article  |
 |[create effective hyperlinks](the-hyperlink-guide)| Helping you create effective in-text links |
 |[communicate in a trustworthy tone](communicate-in-a-trustworthy-tone) | Helping you communicate in a way people will trust |
 |[manage your post length](manage-your-post-length) | Know how long posts should be |
 |[write a tagline](write-a-tagline) | Understanding the qualities of a good tagline |
+|[approach paragraphs](paragraph-guide)| To understand how paragraph length affects readability |
+|[write a manual](how-to-write-a-manual)| Explaining what you should pay attention to when creating a manual  |
+| | **effectively communicate with external parties** |
+|[get clients](get-clients)| Helping you to do direct customer acquisition |
+|[prosper at Meetups](how-to-prosper-at-meetups)| Helping you to enjoy and prosper at Meetups |
+|[communicate as content.supply](communication-guide) | Helping to communicate with the outside world
+|[pitch](how-to-pitch) | Pitch your idea to others |
+|[pitch post.supply](how-to-pitch-post-supply) | Explain what Post.supply is to others |
+|[prepare for an interview](interview-guide) | Helping to prepare for an Interview |
 |[devise a value proposition](devise-a-value-proposition) | Understand value proposition |
+| | **function well within New Atoms** |
+|[write a user story](user-story-guide)| create effective user stories |
+|[be a developer](how-to-be-a-developer) | Explaining what it means to be a developer |
+|[divide a team](divide-a-team)| A step by step walkthrough of dividing a team and creating two new ones. |
+|[be a Managing Director](be-a-managing-director) | Explaining what it means to be a managing director |
+| | **implement technical solutions** |
+|[visualise programming](visualise-programming-guide) | Learn about what type of conversation partner a computer is |
+|[start using Polymer](start-using-polymer)| Helping you understand why we use Polymer and how you can join the fun |
+|[create a Polymer element](creating-elements) | Understanding the core concepts of coding in Polymer |
+|[use Polymer databinding](databinding) | How to communicate between elements using databinding in Polymer |
+|[solve Polymer errors](fixing-errors) | Create a understanding of debugging web-apps |
+|[create a local server using Firebase serve ](how-to-run-a-local-server-with-firebase-serve) | Show you how you can run a local server using firebase serve |
+|[solve permission errors on the mac ](how-to-solve-mac-permission-errors) | To help you solve the annoying permissions error that the mac sometimes gives when installing something via the terminal |
+|[scrape information from LinkedIn](web-scraping) | Extract data from LinkedIn profiles into a structured json format |
 
 Use the [Glossary](glossary) to find definitions of words we use and how we use them.
