@@ -41,7 +41,7 @@ Here you find a list with links to all guides and their goal.
 |[write a user story](user-story-guide)| create effective user stories |
 |[refine your writing style](style-guide)| write to fit a specific context, purpose, or audience  |
 |[science the $@%t out of images](effective-image-guide)| to explore what makes an image effective in relation to an article  |
-|[create high quality content](the-content-guide)| Helping you create high quality content by giving tips and a checklist |
+|[create high quality content](write-awesome-content)| Helping you create high quality written content by giving tips and a checklist |
 |[create effective hyperlinks](the-hyperlink-guide)| Helping you create effective in-text links |
 |[Manage your post length](manage-your-post-length) | Know how long posts should be |
 
