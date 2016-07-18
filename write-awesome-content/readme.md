@@ -1,6 +1,6 @@
-> **Goal of this guide:** Helping you create the best content you can.
+> **Goal of this guide:** Helping you create the best written content you can.
 
-# How to create awesome content
+# How to create awesome written content
 
 This guide is intended for external communication but can also be a source for our in-house content developers.
 The target audience is communication professionals. See it as a comprehensive guide—a white paper if you will—to show others our know-how. Because the products we sell are blog posts and web articles, we should be able to display our skills in creating content.
