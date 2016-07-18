@@ -24,7 +24,7 @@ Here you find a list with links to all guides and their goal.
 |[communicate as content.supply](communication-guide) | Helping to communicate with the outside world
 |[pay for something](pay-for-something) | Pay for things on behalf of the company and get your money back |
 |[pitch an idea](pitch-an-idea) | Pitch your idea to others |
-|[pitch post.supply](how-to-pitch-post-supply) | Explain what Post.supply is to others |
+|[pitch post.supply](pitch-post-supply) | Explain what Post.supply is to others |
 |[prepare for an interview](interview-guide) | Helping to prepare for an Interview |
 |[start using Polymer](start-using-polymer)| Helping you understand why we use Polymer and how you can join the fun |
 |[divide a team](divide-a-team)| A step by step walkthrough of dividing a team and creating two new ones. |
