@@ -18,13 +18,13 @@ If you write a user story, keep the following in mind:
 * All user stories require you to identify the goal of your action.
 * All user stories are written from the perspective of the end user.
 * Collecting information towards fulfilling a user story is never the goal on its own.
-* All finished user stories (also called [pull requests](../github-guide#the-pull-request) at this stage) should add value to the whole and be publishable on their own.
-* The person [merging](../github-guide#discuss-and-merge) your [pull request](../github-guide#the-pull-request) is responsible for combining all live user stories of the same blog post into one publishable blog post.
+* All finished user stories (also called [pull requests](../github-guide/readme.md#the-pull-request) at this stage) should add value to the whole and be publishable on their own.
+* The person [merging](../github-guide/readme.md#discuss-and-merge) your [pull request](../github-guide/readme.md#the-pull-request) is responsible for combining all live user stories of the same blog post into one publishable blog post.
 * During the demo (team meeting at the end of a sprint), it will be decided if the results are good enough to go live.
 
 ### Finishing a user story
 
-Before you finish a user story and create a [pull request](../github-guide#the-pull-request), you should check the following:
+Before you finish a user story and create a [pull request](../github-guide/readme.md#the-pull-request), you should check the following:
 
 * Did it fulfill the goal of the user story for whom it was intended?
 * Is it better than what we had before (did it add value)?
