@@ -17,7 +17,7 @@ At New Atoms we work in teams because we think better things are made together. 
 
 As a team member your job is not to make the best things or do the most work. It's to make the whole team as productive as possible.
 
-With productive we do not mean to produce as much in as little time as possible, what ever the cost. With productive we mean that teams and its team members have the proper enviroment and stimulation to do the best and most they can for as long as possible. 
+With productive we do not mean to produce as much in as little time as possible, whatever the cost. With productive we mean that teams and its team members have the proper enviroment and stimulation to do the best and most they can for as long as possible. 
 
 To do this you’ll have to use all the skills you have—wherever they come from—and learn new ones. You’ll have to be super aware of how everyone on your team is doing. And you’ll need to be extra aware of how you are doing.
 
@@ -36,7 +36,7 @@ Every team member takes one of these roles to their own ability. You can change 
 * [Technical](https://github.com/newatoms/newatoms/blob/gh-pages/internal/jobs/technical.md)
 * [Product](https://github.com/newatoms/newatoms/blob/gh-pages/internal/jobs/product.md)
 
-A team needs all 6 of the roles to be fully functional and its the role of each developper to make sure the entire team is capable of contributing to the role specific field, not to do everyting within its role by itself. For example, as a bussiness developer its your job to make sure that the **team** (not just the developer) can do bussiness with the outside world in the most effective manner. 
+A team needs all 6 of the roles to be fully functional and it's the role of each developper to make sure the entire team is capable of contributing to that specific field, not to do everyting within its role by itself. For example, as a business developer it's your job to make sure that the **team** (not just the developer) can do business with the outside world in the most effective manner. 
 
 ## What does this mean?
 
