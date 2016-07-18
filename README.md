@@ -44,5 +44,6 @@ Here you find a list with links to all guides and their goal.
 |[create high quality content](the-content-guide)| Helping you create high quality content by giving tips and a checklist |
 |[create effective hyperlinks](the-hyperlink-guide)| Helping you create effective in-text links |
 |[Manage your post length](manage-your-post-length) | Know how long posts should be |
+|[Think about taglines](think-about-taglines) | Think about the qualities of a good tagline |
 
 Use the [Glossary](glossary) to find definitions of words we use and how we use them.
