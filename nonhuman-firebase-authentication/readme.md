@@ -22,9 +22,9 @@ Remember the token name (e.g. ```FIREBASE_TOKEN_READY```) of the branch you want
 
 
 In your terminal:
-- npm install -g firebase-tools
-- firebase login (this will open a browser window to Github)
-- firebase prefs:token
+- ```npm install -g firebase-tools```
+- ```firebase login``` (this will open a browser window to Github)
+- ```firebase prefs:token```
 - receive a token.
 
 
@@ -32,5 +32,5 @@ Open your browser and go to the relevant repository in your [CircleCi](https://c
 In the right-top corner you'll see project settings.
 In Project settings you have environment variables.
 
-Fill in the token name that is in your circly.yml: e.g. FIREBASE_TOKEN_READY
-Fill in the token that you received in your terminal
+Fill in the token name that is in your ```circly.yml```: e.g. ```FIREBASE_TOKEN_READY```
+Fill in the token that you received in your terminal.
