@@ -13,7 +13,7 @@ We try to communicate asynchronous so that everyone can choose how and when they
 
 We try to keep all our communication documented, so that we can later access all those awesome insights we have.
 
-Email is formal and it can be hard to have real conversations over email. Chat is perfect for these things, and slack is a great chat tool.
+Email is formal and it can be hard to have real conversations over email. Chat is perfect for these things, and Slack is a great chat tool.
 
 ## About Slack
 
@@ -21,7 +21,7 @@ Slack is an amazing chat tool, that lets you chat privately with one or multiple
 
 Your can download the [Slack desktop application](https://slack.com/downloads) for your computer and you can get the app for your smartphone in the app store.
 
-To get more indepth information about the functionality of Slack [they've made a pretty comprehensive overview](https://get.slack.help/hc/en-us/categories/200111606).    
+To get more in depth information about the functionality of Slack [they've made a pretty comprehensive overview](https://get.slack.help/hc/en-us/categories/200111606).    
 
 <img src="../images/slack-deskandapp.png" width="100%">
 
