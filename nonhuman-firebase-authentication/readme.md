@@ -2,7 +2,7 @@
 
 # Two types of automatic services communicate with Firebase
 
-[CircleCi](https://circleci.com/) is a [continous integration](https://en.wikipedia.org/wiki/Continuous_integration) and [build automation](https://en.wikipedia.org/wiki/Build_automation) service that will run tests on your code. This ranges from checking whether running the script returns an error to running all custom tests of the script. 
+[CircleCi](https://circleci.com/) is a [continous integration](https://en.wikipedia.org/wiki/Continuous_integration) and [build automation](https://en.wikipedia.org/wiki/Build_automation) service that will run tests on your code. This ranges from checking whether running the script returns an error to running all custom tests of the script.
 
 Bots listen to events and perform an action based on the type of event. For example, a bot can listen to whether something was added to a Firebase Collection and can notice a specific user of that change.
 > we currently use a bot to push a message to slack when a client adds a message to a conversation on the interface
