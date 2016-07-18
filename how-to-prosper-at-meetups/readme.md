@@ -6,7 +6,7 @@ Listen to people. Try to find something to talk about in which you are genuinely
 
 ## General tips:
 
-### Do:
+### Try to:
 - Be engaged by what is happening (the talk, the people around you, the location). These are all things you automatically share with all the other people that are there.
 - Be actively involved during the presentation. Ask questions and/or answer questions others have asked if you can provide an interesting perspective/ add knowledge. People will come to you after the presentations since they know what you're interested in/can provide.
 - People won't mind you joining them in a conversation, not even if they are in a deep conversation. Simply ask: "May I join you?".
@@ -17,7 +17,7 @@ Listen to people. Try to find something to talk about in which you are genuinely
 - If you don't find the topic interesting, try to learn why the other party finds it interesting. It might be that you can expand your horizons! Don't talk too long to annoying people, though ;)
 - Learn
 
-### Don't:
+### Try not to:
 - Make the reason you're there about selling something; you are mostly interested in the event and the story of the other party.
 - Look at your mobile phone. People won’t approach you and you will put out a negative vibe.
 - Have 2 on 1 conversations. This can feel like an interrogation, and speaking as a team to more people in an evening is generally more worthwhile for everybody involved.

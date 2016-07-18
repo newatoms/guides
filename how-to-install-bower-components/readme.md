@@ -12,4 +12,4 @@
 
 ### Installing bower
 1. Download and install [Node](https://nodejs.org/en/)
-2. Open the terminal (```cmd+space terminal```) and enter ```npm install -g bower```. *[Click here](/how-to-solve-mac-permission-errors) if you get an error*
+2. Open the terminal (```cmd+space terminal```) and enter ```npm install -g bower```. *[This guide](../how-to-solve-mac-permission-errors/readme.md) can help you if you get an error*

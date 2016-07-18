@@ -18,6 +18,6 @@ This app needs to identify you. For this you need a _Token_, this can be obtaine
 
 Once logged in to the app you can use it’s camera functionality to take a photo of your receipt and send it in.
 
-**Keep all the fysical receipts since the tax office might want to see them someday as proof.**
+**Keep all the physical receipts since the tax office might want to see them someday as proof.**
 
 That’s it, done.

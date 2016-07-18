@@ -35,11 +35,9 @@ Reading short sentences is far easier than reading long sentences. Your short-te
 
 > Do: Write short sentences. This keeps things clear for your reader. They will like you.
 
->Don't: Write sentences that, if the reader is inclined to do so, elaborate on multiple topics, such as unborn babies and their resemblance to unicorns (which apparently people like to invest in) and thus leave the reader wondering what the hell is going on.
+> Don't: Write sentences that, if the reader is inclined to do so, elaborate on multiple topics, such as unborn babies and their resemblance to unicorns (which apparently people like to invest in) and thus leave the reader wondering what the hell is going on. (So yeah, how's that for a long stupid sentence?) 
 
 Just like paragraphs, sentences should follow each other in a natural way by using [sentence transitions](https://writing.wisc.edu/Handbook/Transitions.html).
-
-<img src="https://media.giphy.com/media/3osxYamKD88c6pXdfO/giphy.gif" width=100% />
 
 > Do: The child carried a balloon. The balloon popped open and out flew a flock of blackbirds.
 
@@ -71,13 +69,15 @@ Readers don't only want to be informed. They want to be seduced by you. When thi
 * Don't be too afraid of a little laugh once in a while.
 * Sweep them of their feet and help them up again.
 
+Be sure to keep the reader you are writing for in mind. There should be a healthy balance between informing and seducing.
+
 ## Find a suitable ending
 
-Don't leave the reader hanging at the end. In the final paragraph, summarise the article. Bring the reader back to the goal of the article. If you posed a question, make sure that question has been thoroughly investigated. If you made a statement, make sure you summarize the various arguments you discussed along the way. Finally, find a way to spark the interest of the reader that leaves them with some food for thought :fried_shrimp:.
+Don't leave the reader hanging at the end. In the final paragraph, hook the reader with something that makes him/her crave for more. Bring the reader back to the goal of the article. If you posed a question, make sure that question has been thoroughly investigated. If you made a statement, make sure you summarize the various arguments you discussed along the way. Finally, find a way to spark the interest of the reader that leaves them with some food for thought :fried_shrimp:.
 
 ## Re-read your piece!
 
-It's impossible to write a nice piece in a single go. Give yourself some space from your work and come back to it later. Always check for these aspects:
+It's impossible to write a nice piece in a single go. Give yourself some space from your work and come back to it a little later. Always check for these aspects:
 
 * Does everything support the goal of the text?
 * Is the thought process clear?

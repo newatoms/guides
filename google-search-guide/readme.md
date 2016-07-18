@@ -11,7 +11,7 @@ The kind of words you use will influence the types of sites you'll find. Using j
 
 ## Operators
 
-In the search field you can quickly use filters to improve the search results.
+In the search field you can use filters to improve the search results.
 
 ```" "``` Use quotation marks to search for an exact phrase or word.
 

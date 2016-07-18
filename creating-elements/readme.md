@@ -2,14 +2,15 @@
 
 # How to create a Polymer element
 
-A Polymer element is a custom [HTML element](http://www.w3schools.com/html/html_elements.asp), it can be used like other HTML Elements in your websites with the addition of some nice extra magics.
+A Polymer element is a custom [HTML element](http://www.w3schools.com/html/html_elements.asp). It can be used like other HTML Elements in your websites with the addition of some nice extra magics.
 
-An element should fulfil one function and should be reusable in multiple contexts. For instance if we use the `<user-chip>` element everywhere where we are mentioning a user in the Interface we only have to update one thing is something changes in the way we want to display users.
+An element should fulfill one function and should be reusable in multiple contexts. For instance: if we use the `<user-chip>` element everywhere where we are mentioning a user in the Interface, we only have to update one thing if something changes in the way we want to display users.
 
-## 1. Check if there is an element you can use for this already
+## 1. Check if there is an element you can reuse
 
-Is there an element on the site that has a similar functionality? Can you solve the user story/bugreport by expanding the functionality of this element?
-For example the [paper-input element](https://elements.polymer-project.org/elements/paper-input) is not limited to plain text but can take an argument to restrict the user input to a social security number. Only do this when the it clearly makes sense though!
+Is there an element on the site that has a similar functionality? Can you solve the [achievable](../glossary/achievable.md) by expanding the functionality of this element?
+
+For example: the [paper-input element](https://elements.polymer-project.org/elements/paper-input) is not limited to plain text but can take an argument to restrict the user input to a social security number. Only do this when it clearly makes sense though!
 
 [The Polymer catalog 💕](https://elements.polymer-project.org/) has a lot of very good elements you can use for free.
 [Customelements.io](https://customelements.io) is also growing quite fast. It's a site where people contribute their code, mostly open source. Not all code is great, but a lot of it is. Also, not all code is Polymer code.
@@ -41,9 +42,15 @@ For more on how to make an element, read the [element style guide](https://githu
 ## Elements that communicate with the database
 
 If your element needs to communicate with Firebase then [Double Dutch](http://nl.urbandictionary.com/define.php?term=double+dutch)🛡:
+
 * Make a backup of the [database](https://interface.firebaseio.com)! (export data -> in the browser)
 * Use the [playground database](https://interface-playground.firebaseio.com ) and never the live database! (import the newest database if needed using the Firebase interface in the browser)
 
 ## Ask for help
 
-If you come across terms you don't understand Google them, ask a team member within digital reach, file issues in the relevant repos on [GitHub](https://github.com/polymerelements/) or ask questions on [Stack Overflow](http://stackoverflow.com/questions/tagged/polymer).
+If you come across terms you don't understand you can:
+
+* Google them
+* Ask a team member within digital reach
+* File issues in the relevant repos on [GitHub](https://github.com/polymerelements/)
+* Ask questions on [Stack Overflow](http://stackoverflow.com/questions/tagged/polymer).
