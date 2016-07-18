@@ -22,7 +22,7 @@ Here you find a list with links to all guides and their goal.
 |[publish to Medium](medium-guide)| Helping you use Medium |
 |[use Slack for team communciation](slack-guide) | Helping you use our main communications tool, slack.
 |[communicate as content.supply](communication-guide) | Helping to communicate with the outside world
-|[pay for something](how-to-pay-for-something) | Pay for things on behalf of the company and get your money back |
+|[pay for something](pay-for-something) | Pay for things on behalf of the company and get your money back |
 |[pitch](how-to-pitch) | Pitch your idea to others |
 |[pitch post.supply](how-to-pitch-post-supply) | Explain what Post.supply is to others |
 |[prepare for an interview](interview-guide) | Helping to prepare for an Interview |
