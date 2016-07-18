@@ -13,9 +13,9 @@ Usually bots use the Firebase secret. Go to the ```[your-database-name].firebase
 CircleCi needs a token, not a secret! A token is a string of 'random' letters and numbers that functions as a key to Firebase. You can only read and write to Firebase if you know the correct token.
 
 ### Generate a token for CircleCi:
-In the folder of the repository you want to deploy there is a circle.yml file.
+In the folder of the repository you want to deploy there is a ```circle.yml``` file.
 In it you will find the token name that CircleCi wįll use when deploying.
-Remember the token name (e.g. FIREBASE_TOKEN_READY) of the branch you want to deploy to e.g.:
+Remember the token name (e.g. ```FIREBASE_TOKEN_READY```) of the branch you want to deploy to e.g.:
 ```
 --firebase repository-name --token $FIREBASE_TOKEN_READY
 ```
