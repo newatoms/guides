@@ -45,5 +45,6 @@ Here you find a list with links to all guides and their goal.
 |[create effective hyperlinks](the-hyperlink-guide)| Helping you create effective in-text links |
 |[manage your post length](manage-your-post-length) | Know how long posts should be |
 |[write a tagline](write-a-tagline) | Understanding the qualities of a good tagline |
+|[devise a value proposition](devise-a-value-proposition) | Understand value proposition |
 
 Use the [Glossary](glossary) to find definitions of words we use and how we use them.
