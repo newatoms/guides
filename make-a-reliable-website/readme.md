@@ -9,7 +9,7 @@ We have done some very short research on what people look for to determine if a 
 * Date – The date of any research information is important, including information found on the Internet. By including a date, the website allows readers to make decisions about whether that information is recent enough for their purposes.
 * Design - If it is not [publishable](../glossary/publishable) it is not reliable.
 * Copy - If it is not [publishable](../glossary/publishable) it is not reliable.
-* expertise -  It is important to convey in a way that you know what you are talking about.  
+* Expertise -  It is important to convey in a way that you know what you are talking about.  
 * Affiliation - A website that has an Affiliation with institution that have a proven track record of reliability and integrity shows that those institutions stand for what is said on the website, making it reliable by association.
 * Being open about your intentions - It is hard to trust a source of info if it is not clear if they are trying to manipulate you into buying their product or convincing you of their opinion.
 
