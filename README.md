@@ -1,3 +1,13 @@
+<style>
+table {
+    display:table;
+    width:100%;
+}
+th {
+  width:50%;
+}
+</style>
+
 # Guides
 
 Hia👋! Welcome to the New Atoms Guides. We write these guides on how to do all the things we do. These serve to teach people interested in our ways, but also to reassure.
