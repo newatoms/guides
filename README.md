@@ -4,10 +4,6 @@ Hia👋! Welcome to the New Atoms Guides. We write these guides on how to do all
 
 Here you can find guides on used tools, communication, workflows, rules and most important, how to make awesome things. It's part of every team member's job to edit the guides in order to share what we learn. There is also [a guide on how to add a guide](contributing.md)!
 
-## All of the guides
-
-Here you find a list with links to all guides and their goal.
-
 ### Use software effectively
 |How to … |Goal of the guide              |
 |--------|-----------------------------|
