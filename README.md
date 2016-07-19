@@ -38,7 +38,7 @@ Here you find a list with links to all guides and their goal.
 |[communicate as content.supply](communication-guide) | Helping to communicate with the outside world
 |[pitch](pitch-an-idea) | Pitch your idea to others |
 |[understand content marketing](understand-content-marketing) | to help you understand what content marketing is |
-|[pitch post.supply](pitch-an-idea) | Explain what Post.supply is to others |
+|[pitch post.supply](pitch-post-supply) | Explain what Post.supply is to others |
 |[prepare for an interview](interview-guide) | Helping to prepare for an Interview |
 |[devise a value proposition](devise-a-value-proposition) | Understand value proposition |
 |[determine the goal of your landing page](determine-the-goal-of-your-landing-page) | To understand what a landing page is. |
