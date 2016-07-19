@@ -1,8 +1,8 @@
 # Guides
 
-Hia👋! Welcome to the New Atoms Guides. We write these guides on how to do all the things we do. These serve to teach people interested in our ways, but also to reassure.
+Hiya👋! Welcome to the New Atoms Guides. We write these guides on what we learn about all the things we do. These serve to teach people who are interested in our ways, but also to reassure.
 
-Here you can find guides on used tools, communication, workflows, rules and most important, how to make awesome things. It's part of every team member's job to edit the guides in order to share what we learn. There is also [a guide on how to add a guide](contributing.md)!
+Here you can find guides on tools, communication, workflows and rules to which we subscribe, and most importantly, how to make awesome things. It's part of every team member's job to edit the guides in order to share what we learn. There is also [a guide on how to add a guide](contributing.md)!
 
 ### Use software effectively
 |How to … |Goal of the guide              |
