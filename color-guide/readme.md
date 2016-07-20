@@ -2,7 +2,7 @@
 
 <img src="http://i.imgur.com/REhWprI.jpg">
 
-"What's your favorite color?" might be one of the most frequently asked questions when getting to know someone - at least amongst children. Colors form a big part of our lives, as they, well, add color to the world! They stimulate all kinds of emotions: joy, sadness, and even hunger. At the same time they are notoriously difficult to handle. No wonder [some famous designers suffer from 'chromatophobia'](http://designobserver.com/article.php?id=37586) and prefer using only black and white.
+"What's your favorite color?" might be one of the most frequently asked questions when getting to know someone - at least amongst children. Colors form a big part of our lives, as they, well, add color to the world! They stimulate all kinds of feelings: joy, sadness, hunger even. At the same time they are notoriously difficult to handle. No wonder [some famous designers suffer from 'chromatophobia'](http://designobserver.com/article.php?id=37586) and prefer using only black and white.
 
 Yes, working with colors in a design project brings many questions to the table. What do they communicate? What do they say about our product or brand? How many of them do we need in our palette? How to combine and use them? Colors are so prone to perception and taste, that they can cause tedious discussions.
 
