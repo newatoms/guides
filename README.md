@@ -22,14 +22,14 @@ Here you can find guides on tools, communication, workflows and rules to which w
 |[communicate in a trustworthy tone](communicate-in-a-trustworthy-tone) | Helping you communicate in a way people will trust |
 |[create effective hyperlinks](create-effective-hyperlinks)| Helping you create effective in-text links |
 |[create high quality content](write-awesome-content)| Helping you create high quality written content by giving tips and a checklist |
-|[look premium](how-to-look-premium)| Helping you to look premium |
+|[look premium](look-premium)| Helping you to look premium |
 |[manage your post length](manage-your-post-length) | Know how long posts should be |
 |[refine your writing style](refine-your-writing-style)| write to fit a specific context, purpose, or audience  |
 |[science the $@%t out of images](effective-image-guide)| to explore what makes an image effective in relation to an article  |
 |[turn a pitch into a blog post](turn-a-pitch-into-a-publishable-blog-post)| help you to create and work on a user story for a blog post |
 |[use social media](use-social-media) | to help you understand the inner workings of social media so you can use them to your advantage |
 |[write a tagline](write-a-tagline) | Understanding the qualities of a good tagline |
-|[write a manual](how-to-write-a-manual)| Explaining what you should pay attention to when creating a manual  |
+|[write a manual](write-a-manual)| Explaining what you should pay attention to when creating a manual  |
 |[write well](writing-guide) | To help team members write in a clear manner |
 
 ### Communicate effectively with external parties
