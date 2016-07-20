@@ -8,7 +8,7 @@ To _benefit_, As a _user_, I can _method_
 
 The benefit is first since it is the most important thing, it could be fulfilled expending less effort using a different method, which should then be done.
 
-Read more about User Stories [in the Board guide](../board-guide/readme.md#user-story).
+Read more about User Stories [in the Board guide](../use-the-achievables-board/readme.md#user-story).
 
 ## Example:
 To avoid obtaining (physical) back problems while working in the office — As a developer — I can work standing
