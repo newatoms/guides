@@ -75,7 +75,7 @@ Here are some insights that have been drawn from research on social media:
 
 * In general, people only briefly look at what they see on social media. Therefore, the first sentences or image they see should capture the reader in a way that is in line with what message you're conveying.
 
-* People hardly click on links (1%-10%), even if they have instant relevance. Therefore, you should limit use of [bitly](https://bitly.com/) and [tinyurl](http://tinyurl.com/) for urls of which the names are not relevant or obvious. These are tools to shorten your links, especially useful for twitter of course. Although your audience doesn't recognise your link, it can be handy for tracking.
+* People hardly click on links (1%-10%), even if they have instant relevance. Therefore, you should limit use of [bitly](https://bitly.com/) and [tinyurl](http://tinyurl.com/) for urls of which the names are not relevant or obvious. These are tools to shorten your links. Although your audience doesn't recognise your link, it can be handy for tracking.
 
 To make sure that people can find your content again, **it is important to keep the following things in mind**:
 
