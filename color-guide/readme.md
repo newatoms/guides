@@ -24,7 +24,7 @@ So how to use them functionally? When you are combining different colors things 
 * contrast in tint/shade (e.g. light blue and dark blue)
 * contrast in saturation (e.g. bright red versus dull red)
 
-If you decide to make contrast with only one of the above, make it a big contrast! When we look at hue, that means making a complimentary rather than analogous combinations. When we look at contrast, that means that you don't pick two kinds of light pink, but rather a light and hot pink.
+If you decide to make contrast with only one of the above, make it a big contrast! When we look at hue, that means making a complimentary rather than analogous combinations. When we look at tints, that means that you don't pick two kinds of light pink, but rather a light and hot pink.
 
 <img src="http://i.imgur.com/6iVSiFM.jpg">
 
