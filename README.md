@@ -15,6 +15,11 @@ Here you can find guides on tools, communication, workflows and rules to which w
 |[use text-editor Atom](atom-guide)| Helping you to use Atom, a text editor we use in combination with github |
 |[use the Achievable board](use-the-achievables-board) | Explaining how we work with our workflow board and optimizing the use of it  |
 
+### Use design elements effectively
+|How to … |Goal of the guide              |
+|--------|-----------------------------|
+|[use colors](color-guide) | Explaining how colours work, in order to use them effectively |
+
 ### Reach your goal through writing
 |How to … |Goal of the guide              |
 |--------|-----------------------------|
