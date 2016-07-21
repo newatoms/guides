@@ -35,7 +35,7 @@ Reading short sentences is far easier than reading long sentences. Your short-te
 
 > Do: Write short sentences. This keeps things clear for your reader. They will like you.
 
-> Don't: Write sentences that, if the reader is inclined to do so, elaborate on multiple topics, such as unborn babies and their resemblance to unicorns (which apparently people like to invest in) and thus leave the reader wondering what the hell is going on. (So yeah, how's that for a long stupid sentence?) 
+> Don't: Write sentences that, if the reader is inclined to do so, elaborate on multiple topics, such as unborn babies and their resemblance to unicorns (which apparently people like to invest in) and thus leave the reader wondering what the hell is going on. (So yeah, how's that for a long stupid sentence?)
 
 Just like paragraphs, sentences should follow each other in a natural way by using [sentence transitions](https://writing.wisc.edu/Handbook/Transitions.html).
 
@@ -59,8 +59,9 @@ Avoid scarcely-used words unless there is no substitution. In this case, always 
 
 ## Seduce the reader
 
-Readers don't only want to be informed. They want to be seduced by you. When this is done effectively the reader will memorise the content better. Lets get more practical, shall we?
+Readers don't only want to be informed. They want to be seduced by you. When this is done effectively the reader will memorise the content better. Let\s get more practical, shall we?
 
+* **Create attractive headings**. [Effective headings](https://github.com/newatoms/guides/compose-great-headings) form a balance between telling people why they should read it and creating curiosity (don't give away all!).
 * **Talk to your reader like it's your best friend.** Ask questions and use the word *you*.
 * **Empathise with your reader’s feelings.** Where is he/she struggling with. Sketch these scenarios.
 * **Dare to be** an "authority", but **vulnerable** at the same time.
