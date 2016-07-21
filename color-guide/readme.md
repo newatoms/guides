@@ -2,16 +2,17 @@
 
 <img src="http://i.imgur.com/REhWprI.jpg">
 
-"What's your favorite colour?" might be one of the most frequently asked questions when getting to know someone - at least amongst children. colours form a big part of our lives, as they, well, add colour to the world! They stimulate all kinds of feelings: joy, sadness, hunger even. At the same time they are notoriously difficult to handle. No wonder [some famous designers suffer from 'chromatophobia'](http://designobserver.com/article.php?id=37586) and prefer using only black and white.
+"What's your favorite colour?" might be one of the most frequently asked questions when getting to know someone - at least amongst children. Colours form a big part of our lives, as they, well, add colour to the world! They stimulate all kinds of feelings: joy, sadness, hunger even. At the same time they are notoriously difficult to handle. No wonder [some famous designers suffer from 'chromatophobia'](http://designobserver.com/article.php?id=37586) and prefer using only black and white.
 
-Yes, working with colours in a design project brings many questions to the table. What do they communicate? What do they say about our product or brand? How many of them do we need in our palette? How to combine and use them? colours are so prone to perception and taste, that they can cause tedious discussions.
+Yes, working with colours in a design project brings many questions to the table. What do they communicate? What do they say about our product or brand? How many of them do we need in our palette? How to combine and use them? Colours are so prone to perception and taste, that they can cause tedious discussions.
 
-Luckily there are many scientific theories out there that help us make decisions over valid arguments, rather than idiosyncratic associations that are hard to counter ("let's not do red and yellow, they remind me of communist China!"' '"let's not do red and yellow, they remind me of MacDonalds!"; "let's do red and yellow, they grab my attention in public space right away!").
+Luckily there are many scientific theories out there that help us make decisions over valid arguments, rather than idiosyncratic associations that are hard to counter ("let's not do red and yellow, they remind me of communist China!"; '"let's not do red and yellow, they remind me of MacDonalds!"; "let's do red and yellow, they grab my attention in public space right away!").
+
 This guide is a start on collecting our knowledge of  colours.
-
 
 ### Functionality
 To kick off, we can look at it from an angle that is always helpful: functionality. Rather than being there to make things look pretty, we can use them to do things for us. Direct attention, make visual distinction, attribute (functional) meaning... For example, you will notice that the 'buy button' in webshops is always set in a highly contrasting colour. This is no coincidence - big companies do myriad tests to determine the colour that guarantees the best turnover. Or take two sketches of a poster we use to visualize the New Atoms workflow. One has many colours and looks cheerful and attractive. Good right? Well, maybe not: the colours don't signify anything – except perhaps that the work process is fun.
+
 The second one carries only two colours, with a gradual use of red. This transition of tints signifies how each step takes you further in the workflow. Here, the colours make the infographic more readable, rather than just attractive.
 
 <img src="http://i.imgur.com/xR5BJLn.jpg" width="49%">
@@ -40,5 +41,6 @@ Using colours as functional elements is something we have control over. But unfo
 <img src="http://infobeautiful4.s3.amazonaws.com/2015/05/1276_colours_in_culture.png">
 *Interesting [chart by Information Is Beautiful](http://infobeautiful4.s3.amazonaws.com/2015/05/1276_colours_in_culture.png), on colour associations across different countries.*
 
-Research on colour meaning often contradicts. For a while, it was thought buttons should not be red, as it would evoke negative emotion. Green would convert more. But [in a recent article](http://conversionxl.com/which-colour-converts-the-best/) it was found that the colour itself does not matter at all. Again, it is all about context: the butotn is the most successful when it has enough contrast with the rest of the website.
-Good articles that talk about the meaning of colours therefore usually end with a conclusion to not conclude anything. Helpful, right? Well, we will just keep on adding to this guide to at least give you a basic grip to work with. And we sincerly hope it did not make you get chromatophobia yet...
+Research on colour meaning often contradicts. For a while, it was thought buttons should not be red, as it would evoke negative emotion. Green would convert more. But [in a recent article](http://conversionxl.com/which-colour-converts-the-best/) it was found that the colour itself does not matter at all. Again, it is all about context: the button is the most successful when it has enough contrast with the rest of the website.
+
+Good articles that talk about the meaning of colours therefore usually end with a conclusion to not conclude anything. Helpful, right? Well, we will just keep on adding to this guide to at least give you a basic grip to work with. And we sincerely hope it did not make you get chromatophobia yet...
