@@ -2,6 +2,6 @@
 
 # How to achieve your achievable
 
-The achievable is the very core, the foundation, the building blocks of New Atoms. Nothing happens without them. This infographic will show you what to do when you enter the board.
+[Achievables](../glossary/achievable.md) are the core, the foundation, the building blocks of New Atoms. Nothing happens without them. This infographic will show you what to do when you decide to produce one.
 
 <img src="../images/achievable-flow.png" width=100% />
