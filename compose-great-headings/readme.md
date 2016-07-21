@@ -6,11 +6,11 @@ While your carefully crafted content might be amazingly groundbreaking, nobody w
 
 *Warning: fishy puns ahead.*
 
-## Headlines, the hook to get readers
+## Headlines, the hook to *get* readers
 Headlines are paramount, because they determine whether people will get to your article in the first place. They have to stand out amongst the massive streams of content potential readers have to navigate through. Here some pointers:
 
 ### How clickbait headlines work (you won't believe it!)
-Consider the typical clickbait headlines introduced by media such as Buzzfeed and Upworthy. You might hate them, we understand that. We are also not suggesting to copy the strategies. But it is worth analyzing what makes them work. The headings never fail to set certain expectations (to be entertained, surprised, amazed, et cetera). Upon clicking, the content is more than often disappointing, but this doesn't take away from the effectiveness of the headline. 
+Consider the typical clickbait headlines introduced by media such as Buzzfeed and Upworthy. You might hate them, we understand that. We are also not suggesting to copy the strategies. But it is worth analyzing what makes them work. The headings never fail to set certain expectations (to be entertained, surprised, amazed, et cetera). Upon clicking, the content is more than often disappointing, but this doesn't take away from the effectiveness of the headline.
 
 So how do these headings manage to get clicked on? In a 3 months quantitative research by [Venngage](https://venngage.com/blog/7-reasons-why-clicking-this-title-will-prove-why-you-clicked-this-title/), it was concluded that the headlines of popular articles included the following factors:
 
@@ -43,7 +43,7 @@ Another good idea is to accompany your headline (hed) with a dek (subtitle). Thi
 
 <img src="http://i.imgur.com/O6UBnqz.jpg">
 
-## Subheads, the barbs to *keep* them
+## Subheads, the barbs to *keep* readers
 Subheads might actually be as important as headlines. Think about it - when you start reading an article, you first skim through it to ensure you won't be wasting your time. You might read the first two sentences, and the main images. They tell you a lot. But subheads tell you even more on what to expect. Based on this you decide whether the article is worthy of your attention.
 A few tips and tricks to create knock-out subheads:
 
