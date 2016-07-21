@@ -11,7 +11,9 @@ Luckily there are many scientific theories out there that help us make decisions
 This guide is a start on collecting our knowledge of  colours.
 
 ### Functionality
-To kick off, we can look at it from an angle that is always helpful: functionality. Rather than being there to make things look pretty, we can use them to do things for us. Direct attention, make visual distinction, attribute (functional) meaning... For example, you will notice that the 'buy button' in webshops is always set in a highly contrasting colour. This is no coincidence - big companies do myriad tests to determine the colour that guarantees the best turnover. Or take two sketches of a poster we use to visualize the New Atoms workflow. One has many colours and looks cheerful and attractive. Good right? Well, maybe not: the colours don't signify anything – except perhaps that the work process is fun.
+To kick off, we can look at it from an angle that is always helpful: functionality. Rather than being there to make things look pretty, we can use them to do things for us. Direct attention, make visual distinction, attribute (functional) meaning...
+
+For example, you will notice that the 'buy button' in webshops is always set in a highly contrasting colour. This is no coincidence - big companies do myriad tests to determine the colour that guarantees the best turnover. Or take two sketches of a poster we use to visualize the New Atoms workflow. One has many colours and looks cheerful and attractive. Good right? Well, maybe not: the colours don't signify anything – except perhaps that the work process is fun.
 
 The second one carries only two colours, with a gradual use of red. This transition of tints signifies how each step takes you further in the workflow. Here, the colours make the infographic more readable, rather than just attractive.
 
