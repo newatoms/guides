@@ -1,5 +1,7 @@
 # How To Compose Headings That Attract And Keep Readers
 
+<img src="http://i.imgur.com/fqj69Rp.jpg">
+
 While your content might be amazingly entertaining, informative, intelligent and what not, nobody will read it if your headlines and subheads are not up to par. It is a tricky business and for most of us it will never be like shooting fish in a barrel. But it will definitely become easier if you keep the following tips and tricks in mind. *Warning: more fishy puns ahead.*
 
 ## Headlines, the hook to get readers
@@ -18,6 +20,8 @@ So how do these headings manage to get clicked on? In a 3 months quantitative re
 * **Animal references (8%)**: *People Are Scaring Their Cats With Cucumbers, This Dog Is Completely Obsessed With Bananas And It's Adorable*. This simply proves even more that people love animals, and especially cats. There's over 2 million cat videos on Youtube alone.
 * **Other notable things**: Many articles start out with "How To...", address the reader, and ask questions: "Why You Should..."
 
+<img src="http://i.imgur.com/RR78Psm.jpg">
+
 ### What we should learn from clickbait
 Now we know the common factors of clickbait. But what makes exactly them work? Which of the above headlines do it right?
 A big aspect is that they spark curiosity. They give some things away, but not all. But sparking curiosity by just leaving out information won't get you far enough. In a survey, Facebook found out that 80% of the respondents preferred headlines in their newsfeed that helped them decide if they wanted to read the full article.
@@ -35,6 +39,7 @@ Lastly, as you might well know: clickbait is often manipulative and deceitful. I
 ### Make your hed more effective with a dek
 Another good idea is to accompany your headline (hed) with a dek (subtitle). This way, your title can be short and sweet, sparking curiosity. Your subtitle can be more specific on what the reader can expect.
 
+<img src="http://i.imgur.com/O6UBnqz.jpg">
 
 ## Subheads, the barbs to *keep* them
 Subheads might actually be as important as headlines. Think about it - when you start reading an article, you first skim through it to ensure you won't be wasting your time. You might read the first two sentences, and the main images. They tell you a lot. But subheads tell you even more on what to expect. Based on this you decide whether the article is worthy of your attention.
@@ -50,7 +55,6 @@ Don't:
 * Use headings as plain labels. It's better than nothing, but has the risk of being boring.
 * Give away all the paragraph has to offer. Because then, why would the reader continue?
 * Get too creative or cryptic. If people don't understand what you're getting at at all, they will be gone.
-
 
 This guide will be extended upon over time! Until then, happy headings.
 
