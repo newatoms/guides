@@ -59,7 +59,7 @@ Avoid scarcely-used words unless there is no substitution. In this case, always 
 
 ## Seduce the reader
 
-Readers don't only want to be informed. They want to be seduced by you. When this is done effectively the reader will memorise the content better. Let\s get more practical, shall we?
+Readers don't only want to be informed. They want to be seduced by you. When this is done effectively the reader will memorise the content better. Let's get more practical, shall we?
 
 * **Create attractive headings**. [Effective headings](../compose-great-headings/readme.md) form a balance between telling people why they should read it and creating curiosity (don't give away all!).
 * **Talk to your reader like it's your best friend.** Ask questions and use the word *you*.
