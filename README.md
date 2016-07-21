@@ -20,6 +20,7 @@ Here you can find guides on tools, communication, workflows and rules to which w
 |--------|-----------------------------|
 |[approach paragraphs](paragraph-guide)| To understand how paragraph length affects readability |
 |[communicate in a trustworthy tone](communicate-in-a-trustworthy-tone) | Helping you communicate in a way people will trust |
+|[create great headings](compose-great-headings) | Helping you create headings to *get* and *keep* readers |
 |[create effective hyperlinks](create-effective-hyperlinks)| Helping you create effective in-text links |
 |[create high quality content](write-awesome-content)| Helping you create high quality written content by giving tips and a checklist |
 |[look premium](look-premium)| Helping you to look premium |
