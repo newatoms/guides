@@ -10,11 +10,8 @@ While your carefully crafted content might be amazingly groundbreaking, nobody w
 Headlines are paramount, because they determine whether people will get to your article in the first place. They have to stand out amongst the massive streams of content potential readers have to navigate through. Here some pointers:
 
 ### How clickbait headlines work (you won't believe it!)
-<<<<<<< HEAD
-Consider the typical clickbait headlines introduced by media such as Buzzfeed and Upworthy. You might hate them, we understand that. We are also not suggesting to copy the strategies. But it is worth analyzing what makes them work. The headings never fail to set certain expectations (to be entertained, surprised, amazed, et cetera). Upon clicking, the content is more than often disappointing, but this doesn't take away from the effectiveness of the headline.
-=======
+
 Consider the typical clickbait headlines introduced by media such as Buzzfeed and Upworthy. You might hate them, we understand that. We are not suggesting to mimick them. But it is worth analyzing what makes them work. The headings never fail to set certain expectations (to be entertained, surprised, amazed, et cetera). Upon clicking, the content is more than often disappointing, but this doesn't take away from the effectiveness of the headline. 
->>>>>>> origin/make-header-guide
 
 So how do these headings manage to get clicked on? In a 3 months quantitative research by [Venngage](https://venngage.com/blog/7-reasons-why-clicking-this-title-will-prove-why-you-clicked-this-title/), it was concluded that the headlines of popular articles included the following factors:
 
