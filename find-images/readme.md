@@ -1,6 +1,6 @@
 > Goal: helping you find an image you can user
 
-# How to find an image you can user?
+# How to find an image you can use?
 
 These websites are very helpful:
 
