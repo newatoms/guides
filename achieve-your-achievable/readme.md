@@ -4,3 +4,4 @@
 
 The achievable is the very core of New Atoms. They're the foundation, the building blocks of New Atoms. Nothing happens without them. This infographic will show you what to do when you enter the board.
 
+<img src="../images/achievable-flow.pdf" width=100% />
