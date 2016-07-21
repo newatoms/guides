@@ -2,7 +2,9 @@
 
 <img src="http://i.imgur.com/fqj69Rp.jpg">
 
-While your content might be amazingly entertaining, informative, intelligent and what not, nobody will read it if your headlines and subheads are not up to par. It is a tricky business and for most of us it will never be like shooting fish in a barrel. But it will definitely become easier if you keep the following tips and tricks in mind. *Warning: more fishy puns ahead.*
+While your carefully crafted content might be amazingly groundbreaking, nobody will read it if your headlines and subheads are not up to par. Alas, it is an unfair world. So what to do? Educate yourself! Coming up with good headlines will never be like shooting fish in a barrel, but knowing what makes them work will help you get started.  
+
+*Warning: fishy puns ahead.*
 
 ## Headlines, the hook to get readers
 Headlines are paramount, because they determine whether people will get to your article in the first place. They have to stand out amongst the massive streams of content potential readers have to navigate through. Here some pointers:
