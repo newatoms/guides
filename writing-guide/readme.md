@@ -26,7 +26,7 @@ The order of the paragraphs is similar to the order of your thought process 💭
 
 ## Structure of paragraphs
 
-Most paragraphs expand on the information offered in an earlier paragraph. You should make sure the last sentence in one paragraph smoothly [transitions](../transitions/) to the next paragraph.
+Most paragraphs expand on the information offered in an earlier paragraph. You should make sure the last sentence in one paragraph smoothly [transitions](../transitions/readme.md) to the next paragraph.
 Each paragraph should add a unique point but it doesn't have to make sense on its own. Try to reach a conclusion at the end of the paragraph which places the information in the paragraph into the bigger whole.
 
 ## Structure of sentences
@@ -61,7 +61,7 @@ Avoid scarcely-used words unless there is no substitution. In this case, always 
 
 Readers don't only want to be informed. They want to be seduced by you. When this is done effectively the reader will memorise the content better. Let\s get more practical, shall we?
 
-* **Create attractive headings**. [Effective headings](https://github.com/newatoms/guides/compose-great-headings) form a balance between telling people why they should read it and creating curiosity (don't give away all!).
+* **Create attractive headings**. [Effective headings](../compose-great-headings/readme.md) form a balance between telling people why they should read it and creating curiosity (don't give away all!).
 * **Talk to your reader like it's your best friend.** Ask questions and use the word *you*.
 * **Empathise with your reader’s feelings.** Where is he/she struggling with. Sketch these scenarios.
 * **Dare to be** an "authority", but **vulnerable** at the same time.
