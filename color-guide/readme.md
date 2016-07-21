@@ -1,3 +1,5 @@
+> *Goal of this guide:* To help the reader with using colours effectively in design projects, by increasing an understanding of how they work
+
 ## Let's talk about colours
 
 <img src="http://i.imgur.com/REhWprI.jpg">
@@ -8,7 +10,7 @@ Yes, working with colours in a design project brings many questions to the table
 
 Luckily there are many scientific theories out there that help us make decisions over valid arguments, rather than idiosyncratic associations that are hard to counter ("let's not do red and yellow, they remind me of communist China!"; '"let's not do red and yellow, they remind me of MacDonalds!"; "let's do red and yellow, they grab my attention in public space right away!").
 
-This guide is a start on collecting our knowledge of  colours.
+This guide is a start on collecting our knowledge of colours.
 
 ### Functionality
 To kick off, we can look at it from an angle that is always helpful: functionality. Rather than being there to make things look pretty, we can use them to do things for us. Direct attention, make visual distinction, attribute (functional) meaning...
