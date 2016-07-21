@@ -19,5 +19,4 @@ Find out why our customer service has been voted no. 1.
 
 5. When a link is just a link: Not every link on your site is a call to action. It’s important to know the difference. Sometimes it’s perfectly fine to just hyperlink a word or phrase. You’re letting the reader know that there’s more information there, if they want it.  
 
-
-***If only the most relevant points at which to include links actually have links that are specific and accessible, then the links will not be distracting. The highlighted phrases should also be either actionable or invitations to receive more information.***
+If only the most relevant points at which to include links actually have links that are specific and accessible, then the links will not be distracting. The highlighted phrases should also be either actionable or invitations to receive more information.
