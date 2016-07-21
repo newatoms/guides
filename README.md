@@ -22,6 +22,7 @@ Here you can find guides on tools, communication, workflows and rules to which w
 |[communicate in a trustworthy tone](communicate-in-a-trustworthy-tone) | Helping you communicate in a way people will trust |
 |[create effective hyperlinks](create-effective-hyperlinks)| Helping you create effective in-text links |
 |[create high quality content](write-awesome-content)| Helping you create high quality written content by giving tips and a checklist |
+|[find usable images](find-images)| Helping you find awesome images on the interwebs |
 |[look premium](look-premium)| Helping you to look premium |
 |[manage your post length](manage-your-post-length) | Know how long posts should be |
 |[refine your writing style](refine-your-writing-style)| write to fit a specific context, purpose, or audience  |
