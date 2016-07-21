@@ -31,6 +31,7 @@ Retention is related to the memorable experience that visual content tends to cr
 ## Now what?
 In a practical sense, according to [Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), "the best [images] are something people can relate to in one way or another, which usually means that the images need to tell part of the story." In other words, an image should provide a context for the reader. As the image-finder, it's up to you to decide what this context should be.
 
+[Find an image](../find-images/readme.md)
 
 
 
