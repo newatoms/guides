@@ -4,13 +4,17 @@
 
 While your carefully crafted content might be amazingly groundbreaking, nobody will read it if your headlines and subheads are not up to par. Alas, it is an unfair world. So what to do? Educate yourself! Coming up with good headlines will never be like shooting fish in a barrel, but knowing what makes them work will help you get started.  
 
-*Warning: fishy puns ahead.*
+*Warning: more fishy puns ahead.*
 
 ## Headlines, the hook to *get* readers
 Headlines are paramount, because they determine whether people will get to your article in the first place. They have to stand out amongst the massive streams of content potential readers have to navigate through. Here some pointers:
 
 ### How clickbait headlines work (you won't believe it!)
+<<<<<<< HEAD
 Consider the typical clickbait headlines introduced by media such as Buzzfeed and Upworthy. You might hate them, we understand that. We are also not suggesting to copy the strategies. But it is worth analyzing what makes them work. The headings never fail to set certain expectations (to be entertained, surprised, amazed, et cetera). Upon clicking, the content is more than often disappointing, but this doesn't take away from the effectiveness of the headline.
+=======
+Consider the typical clickbait headlines introduced by media such as Buzzfeed and Upworthy. You might hate them, we understand that. We are not suggesting to mimick them. But it is worth analyzing what makes them work. The headings never fail to set certain expectations (to be entertained, surprised, amazed, et cetera). Upon clicking, the content is more than often disappointing, but this doesn't take away from the effectiveness of the headline. 
+>>>>>>> origin/make-header-guide
 
 So how do these headings manage to get clicked on? In a 3 months quantitative research by [Venngage](https://venngage.com/blog/7-reasons-why-clicking-this-title-will-prove-why-you-clicked-this-title/), it was concluded that the headlines of popular articles included the following factors:
 
@@ -25,7 +29,7 @@ So how do these headings manage to get clicked on? In a 3 months quantitative re
 <img src="http://i.imgur.com/RR78Psm.jpg">
 
 ### What we should learn from clickbait
-Now we know the common factors of clickbait. But what makes exactly them work? Which of the above headlines do it right?
+Now we know the common factors of clickbait. But what exactly makes them work? Which of the above headlines do it right?
 A big aspect is that they spark curiosity. They give some things away, but not all. But sparking curiosity by just leaving out information won't get you far enough. In a survey, Facebook found out that 80% of the respondents preferred headlines in their newsfeed that helped them decide if they wanted to read the full article.
 In short, **the headline should be a balance between creating curiosity and clarifying why people should read it and what they will get**.
 
