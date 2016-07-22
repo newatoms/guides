@@ -54,6 +54,7 @@ Here you can find guides on tools, communication, workflows and rules to which w
 ### Function well within New Atoms
 |How to … |Goal of the guide              |
 |--------|-----------------------------|
+|[achieve your achievable](achieve-your-achievable) | What steps to take in order to produce your achievables |
 |[be a developer](be-a-developer) | Explaining what it means to be a developer |
 |[be a Managing Director](be-a-managing-director) | Explaining what it means to be a managing director |
 |[divide a team](divide-a-team)| A step by step walkthrough of dividing a team and creating two new ones. |
