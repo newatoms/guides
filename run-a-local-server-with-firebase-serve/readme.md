@@ -12,7 +12,7 @@ This only needs to be done once per computer.
 
 1. Download and install [Node](https://nodejs.org/en/)
 2. Open your terminal ```cmd-space -> terminal```
-3. Run ```npm install firebase tools -g``` *[click here](/how-to-solve-mac-permission-errors) if you get an error*
+3. Run ```npm install firebase tools -g``` *[click here](../solve-mac-permission-errors/readme.md) if you get an error*
 
 ## Running a local server with firebase tools
 

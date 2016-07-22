@@ -15,3 +15,5 @@ A Landing page:
 
 
 Here is a great article on landing pages: http://workshops.unbounce.com/lesson/1-what-is-a-landing-page/
+
+While [this](https://medium.com/hi-my-name-is-jon/how-to-market-products-the-moment-when-they-get-it-e6d24905f3b5#.ijjj3tjte) article explains what the goal of the landing page itself should be.

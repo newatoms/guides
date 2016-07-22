@@ -18,7 +18,7 @@ Topics can be large and very small.
 
 You can start and close topics by wrapping them in ```<topic>``` and ```</topic>```. The ```/``` will signal the computer to end that part of the conversation. Note that ```<>``` is in the language HTML and other languages have other rules for opening and closing topics.
 
-A large topic is for example ```<style>```. The computer expects that everything between ```<style>``` and ```</style>``` is related to the style of the website - that can be the color of the text.
+A large topic is for example ```<style>```. The computer expects that everything between ```<style>``` and ```</style>``` is related to the style of the website - that can be the colour of the text.
 
 A small topic is the ```<strong>```. _Text_ in ```<strong>text</strong>``` will be displayed in strong (often bold: **text**).
 

@@ -1,3 +1,5 @@
+> Goal: Explain what you should pay attention to when trying to look premium
+
 # How to look premium
 
 <img src="http://i.imgur.com/4ETDkim.jpg" widht="100%">
