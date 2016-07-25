@@ -29,6 +29,7 @@ Here you can find guides on tools, communication, workflows and rules to which w
 |[create effective hyperlinks](create-effective-hyperlinks)| Helping you create effective in-text links |
 |[create high quality content](write-awesome-content)| Helping you create high quality written content by giving tips and a checklist |
 |[formulate a premise](formulate-a-premise)| Teaching you what a premise is and how to formulate one |
+|[formulate narrative conflict](formulate-narrative-conflict)| Teaching you what narrative conflict is and how to use it effectively |
 |[look premium](look-premium)| Helping you to look premium |
 |[manage your post length](manage-your-post-length) | Know how long posts should be |
 |[refine your writing style](refine-your-writing-style)| write to fit a specific context, purpose, or audience  |
