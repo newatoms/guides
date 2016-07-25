@@ -1,4 +1,4 @@
-> **Goal of this guide**: It's al about giving you the knowledge and tools to write (sub)headlines that work.
+> **Goal of this guide**: It's all about giving you the knowledge and tools to write (sub)headlines that work.
 
 > Tools in this guide: write at least 25 headlines with [the headline analyser](http://coschedule.com/headline-analyzer)  
 
