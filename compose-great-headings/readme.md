@@ -29,7 +29,7 @@ So how do these headings manage to get clicked? In a three-month quantitative re
 
 <img src="http://i.imgur.com/RR78Psm.jpg">
 
-### What we actually should learn from clickbait
+### What we should actually learn from clickbait
 Now we know the common factors of clickbait. But what exactly makes them work? Which of the above headlines do it right?
 
 A big aspect of their effectiveness is that they spark curiosity. They give some things away, but not all. But sparking curiosity by just leaving out information won't get you far enough. In a survey, Facebook found out that 80% of the respondents preferred headlines in their newsfeed that helped them decide if they wanted to read the full article.
@@ -50,7 +50,7 @@ Lastly, as you might well know: clickbait is often manipulative and deceitful. I
 
 ### Practical tips for writing headlines that work
 
-Usability researcher Hoa Loranger from The Nielson Norman Group wrote [a great blog post on headinglines](https://www.nngroup.com/articles/headings-pickup-lines/).
+Usability researcher Hoa Loranger from The Nielson Norman Group wrote [a great blog post on headlines](https://www.nngroup.com/articles/headings-pickup-lines/).
 Some practical tips:
 
 1. **The header should be able to work on its own**. Because headlines are currently placed out of its context, shared on social media or only visible in feeds between others. More than often the headline is the only thing they read.
