@@ -2,7 +2,7 @@
 
 # How to formulate a premise
 
-## What is a premise? 
+## What is a premise?
 * A [storyline](https://en.wikipedia.org/wiki/Storyline)
 * A [theme](https://en.wikipedia.org/wiki/Theme_(narrative))
 * The whole object of everything in a story is to build a case for the premise—it’s your lifeline as a writer
@@ -16,7 +16,7 @@
 ## [How to structure a premise](http://www.helpingwritersbecomeauthors.com/find-overlooked-ingredient-successfully-marketing-book/)
 ⬆️This is a very helpful article that goes into a lot of detail about how to determine your structure and premise.
 
-Here’s their structure: 
+Here’s their structure:
 
 Restless farm boy (**situation**) Luke Skywalker (**protagonist**) wants nothing more than to leave home and become a starfighter pilot, so he can live up to his mysterious father (**objective**). But when his aunt and uncle are murdered (**disaster**) after purchasing renegade droids, Luke must free the droids’ beautiful owner and discover a way to stop (**conflict**) the evil Empire (**opponent**) and its apocalyptic Death Star. (*Star Wars: A New Hope directed by George Lucas*)
 
@@ -31,3 +31,10 @@ More concisely:
 * Is this a storyline/theme? ✔️
 * Can everything in the article be used to build a case for this? ✔️
 * Is it concise? ✔️
+
+## Related guides
+* [How to write well](../writing-guide/readme.md)
+* [How to refine your writing style](../refine-your-writing-style/readme.md)
+* [How to formulate narrative conflict](../formulate-narrative-conflict/readme.md)
+* [How to compose headings](../compose-great-headings/readme.md)
+* [How to write awesome content](../write-awesome-content/readme.md)
