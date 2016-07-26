@@ -23,7 +23,7 @@ They are much like these other elements that are said to be crucial to good stor
 We found these helpful pointers in a [Ted Talk by Andrew Stanton (Pixar)](http://www.echostories.com/5-ted-talks-to-make-you-a-better-storyteller/).
 
 #### Storytelling has guidelines, no hard rules
-Point in case: Pixar moved away from many classic elements of disney movies that were thought unmissable: songs, ‘i want’ moments, a happy village, a love story, a villain. And still managed to make incredibly successful stories.
+Point in case: Pixar moved away from many classic elements of Disney movies that were thought unmissable: songs, ‘i want’ moments, a happy village, a love story, a villain. And still managed to make incredibly successful stories. So don't pinpoint yourself to each tip in this article.
 
 #### Give a promise at the beginning
 This can be as simple as ‘once upon a time’ (makes you wonder), or ‘let me tell you a story, it will be worth your time’ (builds up anticipation).
