@@ -5,9 +5,9 @@
 Storytelling is a buzzword, and with good reason. It makes for exciting communication. If done well, it stimulates the imagination, creates anticipation and evokes emotions. In this guide we collect the different elements of a good story, and a bunch of tips by other experts.
 
 ## These are the elements of a good story
-The first and foremost thing you should do when devising a story is figure out a central premise.
+The first and foremost thing you should do when devising a story is figure out **a central premise**.
 We kindly refer you to the [premise guide](formulate-a-premise) to learn about the six elements: a situation, a protagonist, an objective, a conflict, a disaster, an opponent. It works wonders to get these straight before starting your story.
-They are much like these other elements that are said to be crucial to good storytelling found in [this article](https://msu.edu/course/tc/842/SevenElements%20Story.htm).
+They are much like these other elements that are said to be crucial to good storytelling found in [this article](https://msu.edu/course/tc/842/SevenElements%20Story.htm):
 
 * **Strong three-dimensional characters** who change over time
 * **A confined space** - often referred to as a crucible
@@ -32,7 +32,7 @@ This can be as simple as ‘once upon a time’ (makes you wonder), or ‘let me
 A lack of information draws us in, as it makes us curious. We want to find out about the unknown. Make the audience put things together.
 
 #### Give characters a spine/single purpose
-(Don Corleone in the Godfather: please his father. Marlin in Finding Nemo: prevent harm.)
+For example, think of Don Corleone in the Godfather: please his father. Or Marlin in Finding Nemo: prevent harm.
 
 #### Well-told stories have a strong theme running through it
 See [devising a premise](formulate-a-premise).
