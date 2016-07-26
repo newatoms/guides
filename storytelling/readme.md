@@ -26,10 +26,10 @@ We found these helpful pointers in a [Ted Talk by Andrew Stanton (Pixar)](http:/
 Point in case: Pixar moved away from many classic elements of disney movies that were thought unmissable: songs, ‘i want’ moments, a happy village, a love story, a villain. And still managed to make incredibly successful stories.
 
 #### Give a promise at the beginning
-This can be as simple as ‘once upon a time’ (makes you wonder), or ‘let me tell you a story, it will be worth your time’ (builds up anticipation)
+This can be as simple as ‘once upon a time’ (makes you wonder), or ‘let me tell you a story, it will be worth your time’ (builds up anticipation).
 
-#### Make your audience 'work for their meal'
-But hide it well: a lack of information draws us in, as it makes us curious. We want to find out about the unknown. Make the audience put things together.
+#### Make your audience 'work for their meal' (but hide it well)
+A lack of information draws us in, as it makes us curious. We want to find out about the unknown. Make the audience put things together.
 
 #### Give characters a spine/single purpose
 (Don Corleone in the Godfather: please his father. Marlin in Finding Nemo: prevent harm.)
