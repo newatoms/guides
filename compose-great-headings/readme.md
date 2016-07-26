@@ -61,7 +61,7 @@ As the writer of the post, Usability Researcher [Hoa Loranger](https://medium.co
 
 > Make a good first impression with short, keyword-leading headings that sound authentic, contain useful information, and make sense out of context. Try to follow all of these tips in one headline and you should notice a lift in user engagement.
 
-Also, **write more then 25 headlines** with this [headline analyser](https://medium.com/r/?url=https%3A%2F%2Fwww.nngroup.com%2Farticles%2Fauthor%2Fhoa-loranger%2F). It is fun and you’ll see that the quality of your headlines will improve.
+Also, **write more then 25 headlines** with this [headline analyser](http://coschedule.com/headline-analyzer). It is fun and you’ll see that the quality of your headlines will improve.
 
 ### Make your hed more effective with a dek
 Another good idea is to accompany your headline (hed) with a dek (subtitle). This way, your title can be short and sweet, sparking curiosity. Your subtitle can be more specific about what the reader can expect.
