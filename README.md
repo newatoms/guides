@@ -28,6 +28,7 @@ Here you can find guides on tools, communication, workflows and rules to which w
 |[create great headings](compose-great-headings) | Helping you create headings to *get* and *keep* readers |
 |[create effective hyperlinks](create-effective-hyperlinks)| Helping you create effective in-text links |
 |[create high quality content](write-awesome-content)| Helping you create high quality written content by giving tips and a checklist |
+|[embed videos in an article](embed-videos-in-an-article)|To help you with inserting a video into an article. |
 |[formulate a premise](formulate-a-premise)| Teaching you what a premise is and how to formulate one |
 |[formulate narrative conflict](formulate-narrative-conflict)| Teaching you what narrative conflict is and how to use it effectively |
 |[look premium](look-premium)| Helping you to look premium |
