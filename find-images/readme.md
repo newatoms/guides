@@ -18,3 +18,7 @@ For inspiration you could:
 - use Google image search. You can also filter on the copyright by selecting search tools and than ```usage rights```. 
 
 [Learn what makes an effective image](../effective-image-guide/readme.md)
+
+### Image resizing for social media
+
+Sprout social build a [tool](http://sproutsocial.com/landscape) which makes cropping for social media messages very easy.
