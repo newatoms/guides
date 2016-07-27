@@ -50,21 +50,18 @@ Make people wonder about how something will add up in the short and long run. Do
 #### Use what you know and draw from that
 Express values that you personally feel, and experiences that you had.
 
-### We still write articles
+## We still write articles!
 
 [Here are some storytelling tips specific to journalism](http://www.bbc.co.uk/blogs/collegeofjournalism/entries/5a80ff34-859a-37da-bcac-1af9d247456a) from the BBC/Daniel Kahneman’s *Thinking, Fast and Slow*, notably:
 
- +>Our brains have an almost irresistible desire to turn disparate facts into a coherent story. “It is the consistency of the information that matters for a good story, not its completeness.”
- +
- +#### More resources:
- +About photojournalism, but still relevant:
- +https://www.journalism.co.uk/news/why-storytelling-is-still-everything-despite-new-journalism-tools-and-technology/s2/a634299/
- +
- +About public speaking, but still relevant:
- +http://blog.visme.co/7-storytelling-techniques-used-by-the-most-inspiring-ted-presenters/
- +
- +The devil’s advocate:
- +http://ditchwalk.com/2014/04/10/storytelling-and-journalism/
+ >Our brains have an almost irresistible desire to turn disparate facts into a coherent story. “It is the consistency of the information that matters for a good story, not its completeness.”
+ 
+ #### More resources:
+ * [About photojournalism, but still relevant](https://www.journalism.co.uk/news/why-storytelling-is-still-everything-despite-new-journalism-tools-and-technology/s2/a634299/)
+ 
+ * [About public speaking, but still relevant](http://blog.visme.co/7-storytelling-techniques-used-by-the-most-inspiring-ted-presenters/)
+ 
+ * [The devil’s advocate](http://ditchwalk.com/2014/04/10/storytelling-and-journalism/)
 
 ### Sources
 * [The Clues To A Great Story, Ted Talk by Andrew Stanton (Pixar)](http://www.echostories.com/5-ted-talks-to-make-you-a-better-storyteller/)
