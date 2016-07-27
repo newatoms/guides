@@ -1,4 +1,4 @@
-# Guides
+# Guides 🕵          
 
 Hiya👋! Welcome to the New Atoms Guides. We write these guides on what we learn about all the things we do. These serve to teach people who are interested in our ways, but also to reassure.
 
