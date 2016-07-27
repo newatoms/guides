@@ -53,6 +53,7 @@ Express values that you personally feel, and experiences that you had.
 ### We still write articles
 
 [Here are some storytelling tips specific to journalism](http://www.bbc.co.uk/blogs/collegeofjournalism/entries/5a80ff34-859a-37da-bcac-1af9d247456a) from the BBC/Daniel Kahneman’s *Thinking, Fast and Slow*, notably:
+
  +>Our brains have an almost irresistible desire to turn disparate facts into a coherent story. “It is the consistency of the information that matters for a good story, not its completeness.”
  +
  +#### More resources:
