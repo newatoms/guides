@@ -14,7 +14,7 @@ We use a Definition of Done (DoD) when we produce an [achievable](../glossary/ac
 
 You have to be able to test your work against your checklist. This means the checklist should be objective. Anyone who is checking the boxes should have the same threshold for defining something as done.
 
-Good points are unambiguous, clear and testable.
+Good points are unambiguous and testable.
 
 Avoid using terms that can be interpreted in different ways. Beware of _enough_, _multiple_, _good_, _valuable_ etcetera, because someone else might disagree.
 
