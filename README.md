@@ -36,6 +36,7 @@ Here you can find guides on tools, communication, workflows and rules to which w
 |[science the $@%t out of images](effective-image-guide)| to explore what makes an image effective in relation to an article  |
 |[turn a pitch into a blog post](turn-a-pitch-into-a-publishable-blog-post)| help you to create and work on a user story for a blog post |
 |[use social media](use-social-media) | to help you understand the inner workings of social media so you can use them to your advantage |
+|[use the principles of storytelling](storytelling) | Supplying the reader with the tools to tap into the power of storytelling |
 |[write a tagline](write-a-tagline) | Understanding the qualities of a good tagline |
 |[write a manual](write-a-manual)| Explaining what you should pay attention to when creating a manual  |
 |[write well](writing-guide) | To help team members write in a clear manner |
