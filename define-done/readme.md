@@ -1,4 +1,4 @@
-> Goal: Explain the basics of a good Definition of Done
+> Goal: Explain the basics of a good Definition of Done (DoD)
 
 # How to define done
 
@@ -8,7 +8,9 @@ Or in our case, what has to be verifiably done in order for it to be moved to 'D
 
 You can test your work against your Definition of Done while you are working to get an overview of what still needs to be achieved before it can be delivered/published.
 
-## What are good points on the checklist
+We use a Definition of Done (DoD) when we produce an [achievable](../glossary/achievable.md) or a [project](../glossary/project.md).
+
+## What are good points on the checklist ✅
 
 You have to be able to test your work against your checklist. This means the checklist should be objective. Anyone who is checking the boxes should have the same threshold for defining something as done.
 
@@ -25,7 +27,7 @@ Avoid points that prescribe a certain specific solution, leave that up to the pr
 **Do**: No one should be hungry after lunch.
 
 **Don't**: The chair should be sturdy.  
-**Do**: The chair should collapse when it has a hundred kilograms set upon it.  
+**Do**: The chair shouldn't collapse when it has a hundred kilograms set upon it.  
 
 **Don't**: Everyone needs to be healthy.  
 **Do**: Everyone need to have a BMI within 25% difference of the average.
