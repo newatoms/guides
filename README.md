@@ -50,6 +50,7 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 |[communicate as content.supply](communication-guide) | Helping to communicate with the outside world
 |[determine the goal of your landing page](determine-the-goal-of-your-landing-page) | To understand what a landing page is. |
 |[devise a value proposition](devise-a-value-proposition) | Understand value proposition |
+|[define your target audience](define-your-target-audience) | Learn how to target the right audience |
 |[get clients](get-clients)| Helping you to do direct customer acquisition |
 |[pitch](pitch-an-idea) | Pitch your idea to others |
 |[pitch post.supply](pitch-post-supply) | Explain what Post.supply is to others |
@@ -77,3 +78,5 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 |[start using Polymer](start-using-polymer)| Helping you understand why we use Polymer and how you can join the fun |
 |[use Polymer databinding](databinding) | How to communicate between elements using databinding in Polymer |
 |[visualise programming](visualise-programming-guide) | Learn about what type of conversation partner a computer is |
+
+Use the [Glossary](glossary) to find definitions of words we use and how we use them.
