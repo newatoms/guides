@@ -22,7 +22,7 @@ Keep these guidelines in mind when creating new illustrations:
 <img src="http://i.imgur.com/Tw1bomH.png" height="300px">
 <img src="http://i.imgur.com/yAZwRza.png" height="300px">
 
-*All colors are :white_check_mark:*
+All colors are :white_check_mark:
 
 
 ### Multiple shades
@@ -30,7 +30,7 @@ The material design colour palette offers **different shades for each colour**. 
 
 <img src="http://i.imgur.com/5eMFAVd.png" width="500px">
 
- *Left: :white_check_mark: Right: :no_entry_sign: *
+Left: :white_check_mark: Right: :no_entry_sign:
 
 
 ### Single and multiple colors
@@ -38,14 +38,14 @@ An illustration may contain a **single, or multiple colours**. Single colours ma
 
 <img src="http://i.imgur.com/epHMNjj.png" width="500px">
 
- *Left: :white_check_mark: Right: :white_check_mark: *
+Left: :white_check_mark: Right: :white_check_mark:
 
 ### Flat colors
 An illustration has **'flat colors', no gradients** are used.
 
 <img src="http://i.imgur.com/yT815c5.png" width="500px">
 
- *Left: :white_check_mark: Right: :no_entry_sign: *
+Left: :white_check_mark: Right: :no_entry_sign:
 
 
 ### Keep it simple
@@ -53,21 +53,21 @@ To make our life easier, **the illustrations are icon-like: simple lines, 2D sty
 
 <img src="http://i.imgur.com/KG0Hqng.png" width="500px">
 
- *Left: :white_check_mark: Right: :white_check_mark: *
+Left: :white_check_mark: Right: :white_check_mark:
 
 ### Filled out
 The shapes are **filled in, not outlined**.
 
 <img src="http://i.imgur.com/PJzarup.png" width="500px">
 
- *Left: :white_check_mark: Right: :no_entry_sign: *
+Left: :white_check_mark: Right: :no_entry_sign:
 
- ### Square corners
- The illustrations have square corners, rather than rounded ones.
+### Square corners
+The illustrations have square corners, rather than rounded ones.
 
-  <img src="http://i.imgur.com/sbULzuG.png" width="500px">
+<img src="http://i.imgur.com/sbULzuG.png" width="500px">
 
-  *Left: :white_check_mark: Right: :no_entry_sign: *
+Left: :white_check_mark: Right: :no_entry_sign:
 
 ### Tip: The Noun Project
 To ensure that you stay on the low effort, high value track, you can use [The Noun Project](http://www.thenounproject.com) as a start for your illustrations. Some of them are free, but most are not. If you don't buy them, make sure to give credit to the author on the website.
