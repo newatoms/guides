@@ -20,7 +20,9 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 ### Use design elements effectively
 |How to … |Goal of the guide              |
 |--------|-----------------------------|
+|[make post.supply illustrations](postsupply-illustrations) | Helping you to make illustrations for post.supply that are consistent in style |
 |[use colors](color-guide) | Explaining how colours work, in order to use them effectively |
+
 
 ### Reach your goal through writing
 |How to … |Goal of the guide              |
