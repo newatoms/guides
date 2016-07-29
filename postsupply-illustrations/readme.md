@@ -1,8 +1,8 @@
-> This guide will tell you how to make illustrations for post.supply that are consistent with the existing ones
+> Goal: to teach you how to make illustrations for post.supply that are consistent with the existing ones
 
 # How to make awesome illustrations for post.supply
 
-For now, the post.supply uses illustrations to visually communicate it's USP's, and to make the website more attractive to look at (or in any case less boring).
+For now, the post.supply uses illustrations to visually communicate it's USPs, and to make the website more attractive to look at (or in any case less boring).
 
 Two things to note:
 
