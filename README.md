@@ -1,8 +1,10 @@
-# Guides
+# Guides 🕵          
 
 Hiya👋! Welcome to the New Atoms Guides. We write these guides on what we learn about all the things we do. These serve to teach people who are interested in our ways, but also to reassure.
 
 Here you can find guides on tools, communication, workflows and rules to which we subscribe, and most importantly, how to make awesome things. It's part of every team member's job to edit the guides in order to share what we learn. There is also [a guide on how to add a guide](contributing.md)!
+
+Use the [Glossary](glossary) to find definitions of words we use and how we use them.
 
 ### Use software effectively
 |How to … |Goal of the guide              |
@@ -28,12 +30,16 @@ Here you can find guides on tools, communication, workflows and rules to which w
 |[create great headings](compose-great-headings) | Helping you create headings to *get* and *keep* readers |
 |[create effective hyperlinks](create-effective-hyperlinks)| Helping you create effective in-text links |
 |[create high quality content](write-awesome-content)| Helping you create high quality written content by giving tips and a checklist |
+|[embed videos in an article](embed-videos-in-an-article)|To help you with inserting a video into an article. |
+|[formulate a premise](formulate-a-premise)| Teaching you what a premise is and how to formulate one |
+|[formulate narrative conflict](formulate-narrative-conflict)| Teaching you what narrative conflict is and how to use it effectively |
 |[look premium](look-premium)| Helping you to look premium |
 |[manage your post length](manage-your-post-length) | Know how long posts should be |
 |[refine your writing style](refine-your-writing-style)| write to fit a specific context, purpose, or audience  |
 |[science the $@%t out of images](effective-image-guide)| to explore what makes an image effective in relation to an article  |
 |[turn a pitch into a blog post](turn-a-pitch-into-a-publishable-blog-post)| help you to create and work on a user story for a blog post |
 |[use social media](use-social-media) | to help you understand the inner workings of social media so you can use them to your advantage |
+|[use the principles of storytelling](storytelling) | Supplying the reader with the tools to tap into the power of storytelling |
 |[write a tagline](write-a-tagline) | Understanding the qualities of a good tagline |
 |[write a manual](write-a-manual)| Explaining what you should pay attention to when creating a manual  |
 |[write well](writing-guide) | To help team members write in a clear manner |
