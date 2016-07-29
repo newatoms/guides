@@ -2,7 +2,7 @@
 
 # How to make awesome illustrations for post.supply
 
-The post.supply uses illustrations to visually communicate it's USP's, and to make the website more attractive to look at (or in any case less boring).
+For now, the post.supply uses illustrations to visually communicate it's USP's, and to make the website more attractive to look at (or in any case less boring).
 
 Two things to note:
 
