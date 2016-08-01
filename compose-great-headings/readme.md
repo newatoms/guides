@@ -36,13 +36,7 @@ A big aspect of their effectiveness is that they spark curiosity. They give some
 
 In short, **the headline should be a balance between creating curiosity and clarifying why people should read it and what they will get**.
 
-Plus, it is said that the most successful headlines focus on **benefits**.
-
-So rather than saying:
-> *This Old Trick Will Change Your Company For Good*
-
-you could say:
-> *How To Achieve Your Company Goals With This Proven Method*.
+Plus, it is said that the most successful headlines focus on **benefits**. So rather than saying: *This Old Trick Will Change Your Company For Good*. You could say: *How To Achieve Your Company Goals With This Proven Method*.
 
 Lastly, as you might well know: clickbait is often manipulative and deceitful. It promises things it does not deliver. It goes without saying, but we'll say it anyway: stay away from this. Also keep in mind who your audience is. They are probably not your typical Huffington Post reader and won't appreciate outrageous headlines as much.
 
