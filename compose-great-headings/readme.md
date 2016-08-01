@@ -1,4 +1,4 @@
-> **Goal of this guide**: It's all about giving you the knowledge and tools to write (sub)headlines that work.
+> **Goal of this guide**:  offering you the knowledge and tools to write (sub)headlines that work.
 
 > Tools in this guide: write at least 25 headlines with [the headline analyser](http://coschedule.com/headline-analyzer)  
 
@@ -29,8 +29,8 @@ So how do these headings manage to get clicked? In a three-month quantitative re
 
 <img src="http://i.imgur.com/RR78Psm.jpg">
 
-### What we should actually learn from clickbait
-Now we know the common factors of clickbait. But what exactly makes them work? Which of the above headlines do it right?
+### What we should learn from clickbait
+Now we know the common factors of clickbait. But what actually makes them work? Which of the above headlines do it right?
 
 A big aspect of their effectiveness is that they spark curiosity. They give some things away, but not all. But sparking curiosity by just leaving out information won't get you far enough. In a survey, Facebook found out that 80% of the respondents preferred headlines in their newsfeed that helped them decide if they wanted to read the full article.
 
@@ -39,32 +39,24 @@ In short, **the headline should be a balance between creating curiosity and clar
 Plus, it is said that the most successful headlines focus on **benefits**.
 
 So rather than saying:
-*This Old Trick Will Change Your Company For Good*
+> *This Old Trick Will Change Your Company For Good*
 
 you could say:
-*How To Achieve Your Company Goals With This Proven Method*.
-
-#### Clickbait might just not work for your audience
+> *How To Achieve Your Company Goals With This Proven Method*.
 
 Lastly, as you might well know: clickbait is often manipulative and deceitful. It promises things it does not deliver. It goes without saying, but we'll say it anyway: stay away from this. Also keep in mind who your audience is. They are probably not your typical Huffington Post reader and won't appreciate outrageous headlines as much.
 
-### Practical tips for writing headlines that work
+### Other practical tips for writing headlines that work
 
-Usability researcher Hoa Loranger from The Nielson Norman Group wrote [a great blog post on headlines](https://www.nngroup.com/articles/headings-pickup-lines/).
-Some practical tips:
+Usability researcher Hoa Loranger from The Nielson Norman Group wrote [a great blog post on headlines](https://www.nngroup.com/articles/headings-pickup-lines/). Some tips:
 
-1. **The header should be able to work on its own**. Because headlines are currently placed out of its context, shared on social media or only visible in feeds between others. More than often the headline is the only thing they read.
+* **The header should be able to work on its own**. Because headlines are currently placed out of its context, shared on social media or only visible in feeds between others. More than often the headline is the only thing they read.
 
 * **Moving keywords to the front of titles increases the likelihood that they get noticed**. Yes, we know readers don’t have time. Now we see in usability research that the majority of **people only scan the first few words of the headline**. 
 
-As the writer of the post, Usability Researcher [Hoa Loranger](https://medium.com/r/?url=https%3A%2F%2Fwww.nngroup.com%2Farticles%2Fauthor%2Fhoa-loranger%2F) concludes: 
+* **Write more then 25 headlines** with this [headline analyser](http://coschedule.com/headline-analyzer). It is fun and you’ll see that the quality of your headlines will improve.
 
-> Make a good first impression with short, keyword-leading headings that sound authentic, contain useful information, and make sense out of context. Try to follow all of these tips in one headline and you should notice a lift in user engagement.
-
-Also, **write more then 25 headlines** with this [headline analyser](http://coschedule.com/headline-analyzer). It is fun and you’ll see that the quality of your headlines will improve.
-
-### Make your hed more effective with a dek
-Another good idea is to accompany your headline (hed) with a dek (subtitle). This way, your title can be short and sweet, sparking curiosity. Your subtitle can be more specific about what the reader can expect.
+* **Make your hed (headline) more effective with a dek (subtitle)**. This way, your title can be short and sweet, sparking curiosity. Your subtitle can be more specific about what the reader can expect.
 
 <img src="http://i.imgur.com/O6UBnqz.jpg">
 
@@ -91,3 +83,4 @@ This guide will be extended upon over time! Until then, happy headings.
 * http://unbounce.com/content-marketing/how-to-craft-headlines-that-get-clicked-without-resorting-to-clickbait/
 * http://www.marketingprofs.com/charts/2016/29426/the-most-effective-elements-of-clickbait-article-headlines
 * https://smartblogger.com/subhead-blunders/
+* https://medium.com/r/?url=https%3A%2F%2Fwww.nngroup.com%2Farticles%2Fauthor%2Fhoa-loranger%2F)
