@@ -2,26 +2,26 @@
 
 # How to be a Developer
 
-At New Atoms, we work in teams because we think better things are made together. Our teams behave as if they are one.
+At New Atoms, we work in teams because we think better things are made together. Our teams behave as if they are one entity.
 
 ## Why do we work together?
 
-* It’s more fun to work together
+* It’s more fun
 * It’s less stressful; your team has got your back
 * We share responsibilities
-* It isn’t a problem when someone is not there; you can go on holiday🍹
-* We combine our talents
+* It isn’t a problem when someone is not there; you can go on holiday 🍹
+* We combine our skills and talents
 * We can make better things this way
 
 ## What is the job of a team member?
 
 As a team member, your job is not to make the best things or do the most work. It's to make the whole team as productive as possible.
 
-By productive we do not mean to produce as much as possible in as little time as possible, whatever the cost. By productive we mean teams and their members have the proper environment and stimulation to do the best and most they can for as long as possible. 
+By *productive* we do not mean to produce as much as possible in as little time as possible, whatever the cost. By *productive* we mean teams and their members have the proper environment and stimulation to do the best and most they can for as long as possible.
 
-To do this, you’ll have to use all the skills you have—wherever they come from—and learn new ones. You’ll have to be very aware of how everyone on your team is doing. And you’ll need to be extra aware of how you are doing.
+To do this, you’ll have to use all the skills you have—whatever they are and from wherever they come—and learn new ones. You’ll have to be very aware of how everyone on your team is doing. And you’ll need to be extra aware of how you are doing.
 
-It's your job to add as much value as possible to what the team does, even if this means doing something you’ve never done before. This could also mean getting re-energised by going on vacation to the tropics🏝.
+It's your job to add as much value as possible to what the team does, even if this means doing something you’ve never done before. This could also mean getting re-energised by going on vacation to the tropics 🏝.
 
 ## The 6 roles
 
@@ -36,7 +36,7 @@ Every team member takes one of these roles according to their abilities. They ar
 * [Technical Developer](https://github.com/newatoms/newatoms/blob/gh-pages/internal/jobs/technical.md)
 * [Product Developer](https://github.com/newatoms/newatoms/blob/gh-pages/internal/jobs/product.md)
 
-A team needs all 6 of the roles to be fully functional. *It is the role of each developer to make sure the entire team is capable of contributing to the role-specific field, not to do everyting within its role by her or himself*. For example, as a Business Developer, it's your job to make sure that the **team** (not just the developer) can do business with the outside world in the most effective manner. 
+A team needs all 6 of these roles to be fully functional. *It is the role of each developer to make sure the entire team is capable of contributing to the role-specific field, not to do everything within its role by her or himself*. For example, as a Business Developer, it's your job to make sure that the **team** (not just the developer) can do business with the outside world in the most effective manner. 
 
 ## What does this mean?
 
