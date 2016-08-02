@@ -1,6 +1,6 @@
 >**The goal of this guide:** Create an understanding of debugging websites/software. If you come across terms you don't understand, Google them or feel free to ask a team member within digital reach.
 
-# How to solve Polymer errors
+# How to solve [Polymer](https://github.com/newatoms/guides/blob/ready/glossary/polymer.md) errors
 
 ## The console
 
