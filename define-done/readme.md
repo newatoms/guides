@@ -1,8 +1,8 @@
 > Goal: Explain the basics of a good Definition of Done (DoD)
 
-# How to define done
+# How to Define Done
 
-In order to know when you are done with something it is always useful to define what state the end result needs to be in before you start creating anything. With a definition of done you state what the functionality and quality the end product has to be after you're done with it.
+In order to know when you are done with something, it is always useful to define in what state the end result needs to be before you start creating anything. With a definition of done, you state the functionality and quality the end product should have when finished.
 
 Or in our case, what has to be verifiably done in order for it to be moved to 'Done'.
 
@@ -10,15 +10,15 @@ You can test your work against your Definition of Done while you are working to 
 
 We use a Definition of Done (DoD) when we produce an [achievable](../glossary/achievable.md) or a [project](../glossary/project.md).
 
-## What are good points on the checklist ✅
+## What are good points on the checklist ✅?
 
 You have to be able to test your work against your checklist. This means the checklist should be objective. Anyone who is checking the boxes should have the same threshold for defining something as done.
 
-Good points are unambiguous and testable.
+***Good points are unambiguous and testable.***
 
-Avoid using terms that can be interpreted in different ways. Beware of _enough_, _multiple_, _good_, _valuable_ etcetera, because someone else might disagree.
+Avoid using terms that can be interpreted in different ways. Beware of _enough_, _multiple_, _good_, _valuable_ , _clear_, etcetera, because someone else might disagree.
 
-Avoid points that prescribe a certain specific solution, leave that up to the producer.
+Avoid points that prescribe a certain specific solution; leave that up to the producer.
 
 **Don't**: Everyone must go on vacation enough.  
 **Do**: Everyone must be on a vacation at least 24 days per year.
@@ -30,4 +30,4 @@ Avoid points that prescribe a certain specific solution, leave that up to the pr
 **Do**: The chair shouldn't collapse when it has a hundred kilograms set upon it.  
 
 **Don't**: Everyone needs to be healthy.  
-**Do**: Everyone need to have a BMI within 25% difference of the average.
+**Do**: Everyone needs to have a BMI within 25% of the average.
