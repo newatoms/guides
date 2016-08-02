@@ -1,8 +1,8 @@
->Goal of this guide: helping you use narrative conflict
+>Goal of this guide: Helping you use narrative conflict
 
-# How to use narrative conflict
+# How to Use Narrative Conflict
 
-## What is [conflict](https://en.wikipedia.org/wiki/Conflict_(narrative)) and how do I use it effectively?
+## What is [narrative conflict](https://en.wikipedia.org/wiki/Conflict_(narrative)) and how do I use it effectively?
 * An inherent incompatibility between the objectives of two or more characters or forces
 * It creates tension and interest in a story by adding doubt as to the outcome
 * It is often the central unit of the plot
