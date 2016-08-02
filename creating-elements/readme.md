@@ -1,10 +1,10 @@
 > **The goal of this guide:** Understanding the core concepts of creating elements.
 
-# How to create a Polymer element
+# How to create a [Polymer](https://github.com/newatoms/guides/blob/ready/glossary/polymer.md) element
 
 A Polymer element is a custom [HTML element](http://www.w3schools.com/html/html_elements.asp). It can be used like other HTML Elements in your websites with the addition of some nice extra magics.
 
-An element should fulfill one function and should be reusable in multiple contexts. For instance: if we use the `<user-chip>` element everywhere where we are mentioning a user in the Interface, we only have to update one thing if something changes in the way we want to display users.
+An element should fulfill one function and should be reusable in multiple contexts. For instance: we use the `<user-chip>` element everywhere where we are mentioning a user in the Interface. If we want to display our users in a different way, we only have to update one file.
 
 ## 1. Check if there is an element you can reuse
 
