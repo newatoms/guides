@@ -1,4 +1,4 @@
-> Goal of this guide: understanding a value proposition.
+> Goal of this guide: Understanding a value proposition.
 
 # How to Devise a Value Proposition
 
