@@ -1,6 +1,6 @@
->Goal of this guide: teach you how to formulate a good premise for your story
+>Goal of this guide: To teach you how to formulate a good premise for your story
 
-# How to formulate a premise
+# How to Formulate a Premise
 
 ## What is a premise?
 * A [storyline](https://en.wikipedia.org/wiki/Storyline)
@@ -14,9 +14,9 @@
 * A story has an effective premise when you can say what it’s about in a single sentence.
 
 ## [How to structure a premise](http://www.helpingwritersbecomeauthors.com/find-overlooked-ingredient-successfully-marketing-book/)
-⬆️This is a very helpful article that goes into a lot of detail about how to determine your structure and premise.
+⬆️ This is a very helpful article that goes into a lot of detail about how to determine your structure and premise.
 
-Here’s their structure:
+Here’s their example:
 
 Restless farm boy (**situation**) Luke Skywalker (**protagonist**) wants nothing more than to leave home and become a starfighter pilot, so he can live up to his mysterious father (**objective**). But when his aunt and uncle are murdered (**disaster**) after purchasing renegade droids, Luke must free the droids’ beautiful owner and discover a way to stop (**conflict**) the evil Empire (**opponent**) and its apocalyptic Death Star. (*Star Wars: A New Hope directed by George Lucas*)
 
@@ -28,9 +28,9 @@ Well-meaning people (**situation**), the users of services (**protagonists**), j
 More concisely:
 
 *With urging from the users, something can be done about earth-harming services.*
-* Is this a storyline/theme? ✔️
-* Can everything in the article be used to build a case for this? ✔️
-* Is it concise? ✔️
+* Is this a storyline/theme? ✅
+* Can everything in the article be used to build a case for this? ✅
+* Is it concise? ✅
 
 ## Related guides
 * [How to write well](../writing-guide/readme.md)
