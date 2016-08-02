@@ -6,7 +6,7 @@ Great, so you’re the Managing Director of New Atoms. Congratulations🎉!
 
 Lets take apart what that means for a second:
 
-1. Managing: According to the dictionary this means “having executive control”, but what it means to us is "the responsibility of dealing with the shit that is in the way of progressing".
+1. Managing: According to the dictionary this means “having executive control”, but what it means to us is "the responsibility of dealing with the shit that is in the way of progressing."
 
 2. Director: This is the person who is in charge, meaning you are the person responsible for everything going well. But the word also means this is the person who gives direction; you can help determine what path would be the best travelled.
 
@@ -18,7 +18,7 @@ So what is it that makes up your job? These are the things you need to take care
 
 ### Help the company grow sustainably
 
-Make sure the company grows, and is structured in a way that is durable and sustainable: not faster than it can, not slower than it should.
+Make sure the company grows and is structured in a way that is durable and sustainable: not faster than it can, not slower than it should.
 
 We want to bring both what we can do for others and the experience of being a part of what we’re doing to as many people as possible, but we don’t want to build some kind of bubble that grows and grows until it implodes and leaves everyone unsatisfied.
 
@@ -44,7 +44,7 @@ There are problems that are too hard to solve within a team, customers too hard 
 
 Your role as the Managing Director means you are the doctor and therapist of the company. You need to be able to be there for everyone involved, to help them solve the problems they cannot figure out for themselves.
 
-Be available for anyone who can’t figure something out on their own, and helping them tackle their problems head on.
+Be available for anyone who can’t figure something out on their own, helping them tackle their problems head on.
 
 ### Be the public face of the company when one is needed
 
@@ -56,7 +56,7 @@ Be honest, be vulnerable, be strong, be enthusiastic and be curious, just like o
 
 So you’re probably thinking “but hey, there are these gazillion other things that I want to do.” Sorry man, it’s not your job.
 
-Make sure you find a way to effectively integrate all your ideas into the teams and the process. Since for everything the company is dependent on you, it needs to wait for you, and that is no fun for anyone.
+Make sure you find a way to effectively integrate all your ideas into the teams and the process. Since the company is dependent on you for everything, it needs to wait for you, and that is no fun for anyone.
 
 Things that are not inherently natural to the company or that the company could better do at a later time can be delegated to other talented folks and companies, especially when those skills are so hard that they can’t, realistically, be learned by our people within a reasonable time frame.
 
