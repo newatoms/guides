@@ -11,11 +11,13 @@
 
 Elements have one function, and a website is built out of many elements. The same data is used in different elements though. Therefore data has to flow through elements.
 
-> 👁 Example: A user writes his/her name in a 'text-input' element. You want to store this information in a database. Communication with database happens in a different element though. Also, it wouldn't make sense if all the input elements would communicate with the database themselves, it would be better if the element 'add-user-form' (which has a lot of 'text-input' elements in it) would do all the communication with the 'database-communication' element. Therefore the same data has to be communicated to at least three elements: text-input, add-user-form and database-communication. A change in one of the elements would also have to cause a change in the other two.
+👁 Example: 
+
+A user writes his/her name in a 'text-input' element. You want to store this information in a database. Communication with database happens in a different element though. Also, it wouldn't make sense if all the input elements would communicate with the database themselves, it would be better if the element 'add-user-form' (which has a lot of 'text-input' elements in it) would do all the communication with the 'database-communication' element. Therefore the same data has to be communicated to at least three elements: text-input, add-user-form and database-communication. A change in one of the elements would also have to cause a change in the other two.
 
 ### How?
 
-Databinding can be a [[one way]] or {{two way}} street. All types of information can be communicated between elements (strings, objects, booleans, etc.). The type of the property on the child's side has to be the same as the one on the parent's side. For example, you can't fit an object in a string. However, it is possible to pair a string that is inside an object with a string, e.g.
+Databinding can be a [[one way]] or {{two way}} street. All types of information can be communicated between elements (strings, objects, booleans, etc.). The type of the property on the child's side has to be the same as the one on the parent's side. For example, you can't fit an object in a string. However, it is possible to pair a string that is inside an object with a string, e.g.:
 ``` html
 user-name="{{user.name}}".
 ```
@@ -40,7 +42,7 @@ properties: {
     },
 },
 ```
-**notify: true** is very important since it signals Polymer that changes in the object in the current element have to be signaled to other elements. You are guaranteed to spend a few hours on this at least once by forgetting it 😞.
+```notify: true``` is very important since it signals Polymer that changes in the object in the current element have to be signaled to other elements. You are guaranteed to spend a few hours on this at least once by forgetting it 😞.
 
 ### In-depth
 [This video](https://www.youtube.com/watch?v=1sx6YNn58OQ) explains how polymer communicates changes across elements. Well worth the watch!
