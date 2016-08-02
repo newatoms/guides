@@ -1,3 +1,5 @@
+Goal: Teaching you how to create effective hyperlinks
+
 # How to Create Effective Hyperlinks
 
 In-text links should be a call to action, inviting readers to act. They should promote engagement in the article rather than distract from it.
