@@ -1,6 +1,6 @@
 > **The goal of this guide:** How to communicate between elements using databinding in Polymer. If you come across terms you don't understand, Google them or feel free to ask a team member within digital reach. 
 
-# How to use Polymer databinding
+# How to use [Polymer](https://github.com/newatoms/guides/tree/ready/start-using-polymer) databinding
 
 ### Table of content
 - Why?
@@ -9,7 +9,7 @@
 
 ### Why?
 
-Elements have one function, and a website is built out of many elements. The same data is used in different elements though. Therefore data has to flow through elements.
+[Polymer elements](https://github.com/newatoms/guides/tree/ready/start-using-polymer#the-idea-of-custom-elements) have one function. A website is built out of many elements. The same data is used in different elements though. Therefore data has to flow through elements.
 
 👁 Example: 
 
