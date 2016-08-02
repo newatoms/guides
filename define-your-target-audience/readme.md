@@ -1,4 +1,4 @@
->Goal of this guide: understanding your target audience for your landing page
+>Goal of this guide: Understanding your target audience for your landing page
 
 # How to target the right audience
 
