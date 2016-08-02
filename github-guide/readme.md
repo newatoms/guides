@@ -141,4 +141,4 @@ If two people changed the same lines in the same file, or if one person decided 
 
 > [Atom](../atom-guide/readme.md) has a [package](https://atom.io/packages/merge-conflicts) that will display `<----READY` and `<----HEAD` around the lines that resulted in the conflict.
 
-See [GitHub's how to](https://help.GitHub.com/articles/resolving-a-merge-conflict-from-the-command-line/) to deal with the merge conflict. You can also contact a team member in Slack if you're having trouble solving the merge conflict.
+See [GitHub's how to](https://help.GitHub.com/articles/resolving-a-merge-conflict-from-the-command-line/) to deal with the merge conflict. You can also contact a team member in [Slack](../slack-guide/readme.md) if you're having trouble solving the merge conflict.
