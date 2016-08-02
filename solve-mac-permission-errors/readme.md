@@ -1,8 +1,8 @@
-> **Goal of this guide:** To help you solve the annoying permissions error that the mac sometimes gives when installing something via the terminal
+> **Goal of this guide:** To help you solve the annoying permissions error the Mac Terminal sometimes returns when installing something
 
-# How to solve the permissions error
+# How to solve permission errors
 
-When installing software via the [Mac terminal](http://www.macworld.com/article/2042378/master-the-command-line-navigating-files-and-folders.html) you might can the error: ```Error: EACCES ...```. If you're installing something outside of the terminal, you'll usually see a popup.
+When installing software via the [Mac Terminal](http://www.macworld.com/article/2042378/master-the-command-line-navigating-files-and-folders.html) you might get the error: ```Error: EACCES ...```. If you're installing something outside of the Terminal, you'll usually see a popup.
 This happens because some Macs are protected, by default, against programs overwriting certain files. Unfortunately the Mac might be overprotective in some cases.
 
 If you got the error by installing via NPM [use this guide](https://docs.npmjs.com/getting-started/fixing-npm-permissions).
@@ -15,5 +15,5 @@ You can go, in the [terminal](http://www.macworld.com/article/2042378/master-the
 
 `sudo chmod 777 filename`
 
-Where you replace ```filename``` with the file name and extension that gives you the permission error. This is not recommended though since it might mean you open up the file to be accidentally overwritten while it might be important for your system to work with, so ask someone for some help or Google it.
+Here you replace ```filename``` with the file name and extension that got you the permission error. This method is not recommended though. The file can actually be important to your system and it might get overwritten on accident! Rather ask someone for some help or Google it.
 [Here's a guide with more information on the chmod trick](http://www.chriswrites.com/how-to-change-file-permissions-using-the-terminal/)
