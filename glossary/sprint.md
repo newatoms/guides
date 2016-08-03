@@ -1,3 +1,5 @@
 A sprint, in conventional terms, is "an act or short spell of running at full speed over a short distance". For New Atoms, a sprint, similarly, indicates a short duration of steady working that is fixed in advance.
 
 At the beginning of a sprint, the team votes on which [achievables](achievable.md) will be put into "Next" on the [achievables board](../use-the-achievables-board/readme.md). During a sprint, each team member works consistently on voted-in achievables from the *Next* column of the achievables board and reviews those fulfilled by other team members. At the end of a sprint, there is a presentation during which we explain what we've done and why.
+
+If there are any achievables left in the Next at the end of the sprint, they'll go back to the backlog to be voted on again. If there is still time left but no Achievables in the Next, you can work on anything that does not need to be voted in, i.e. creating pitches, making achievables, updating the guides, asking question for the team conference, self-study etcetera.
