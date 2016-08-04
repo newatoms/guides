@@ -18,11 +18,11 @@ Web scraping enables you to extract information from the web and put it in a mor
 
 ## Lets start scraping
 
-In this example we extract the 'experience' information from a certain LinkedIn profile. Important is that you don't log in! Or else the html code is different from this example.
+In this example we extract the 'experience' information from a certain LinkedIn profile. It is important to not log in, as then the html code will be different from this example.
 
 ### Open Chromes Developer tools
 
-In the Chrome web browser open the devtools with `cmd-alt-i` and click on the parent element:
+In the Chrome web browser open the developer tools with `cmd-alt-i` and click on the parent element:
 
 <img src="../images/devtools-web-scraping.png" width="100%">
 
@@ -35,7 +35,7 @@ We search 🕵 from top to bottom to find things we need. We want:
 * the organisation of each title: 'New Atoms'. `class='item-subtitle'`.
 * finally, the date and time the person was active under that title and organisation: `class='.date-range'`
 
-This ↓ is all the code we need. Not very scary, aint it?
+This ↓ is all the code we need. Not very scary, is it?
 
 ```javascript
 var x = new require('x-ray')()
@@ -54,13 +54,13 @@ x(
   }
 ).write('results.json')
 ```
-So lets guide you through this code:
+Let's guide you through this code:
 
 1. Create a variable that will execute your x-ray. `var x = new require('x-ray')()`
 * Now `x` will look at a Linkedin url.
 * Next, the code will run the containing information of the called classes.
 * With `.write('results.json')` the scraped information will be printed out in a newly created `results.json` file on your computer.
-* To actually see 👀 your scraped information in your results.json file go to your terminal and call the code with typing: `node 'filename'.js`. Voila! There it is! 🎉
+* To actually see 👀 your scraped information in your results.json file, go to your Terminal and call the code by typing: `node 'filename'.js`. Voila! There it is! 🎉
 
 ## Results in your .json file:
 

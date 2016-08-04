@@ -1,10 +1,11 @@
->**The goal of this guide:** Create a understanding of debugging websites/software. If you come across terms you don't understand, Google them or feel free to ask a team member within digital reach.
+>**The goal of this guide:** Create an understanding of debugging websites/software. If you come across terms you don't understand, Google them or feel free to ask a team member within digital reach.
 
-# How to Solve Polymer Errors
+# How to solve [Polymer](https://github.com/newatoms/guides/blob/ready/glossary/polymer.md) errors
 
 ## The console
 
 #### In Chrome
+
 **cmd-alt-i** will open the developer tools. In the console you can see errors. On the right-hand side, each error states on which line of a certain element it originated. This enables you to quickly find small mistakes like a missing "," or "}".
 
 Sometimes, the error will be fired from code we haven't written ourselves. Do not change these scripts!👎 Try to deduce why the script would fire an error and solve it in your own element(s).
@@ -39,8 +40,7 @@ will call a certain function.
 
 <img src="../images/developer-tools.png" width="500">
 
->Also quite useful:
-[Polymer ready extension](https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk):
+>Also quite useful: [Polymer ready extension](https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk):
 This extension enables you to see which elements are running on a certain site. Clicking an element will highlight where the element can be found.
 
 ## In your element
@@ -53,6 +53,7 @@ testFunction: function (inputArgument) {
 ```
 
 In HTML you can use text to see whether certain parts of the script are run. For example, if you have a dom-if statement you can see whether the text is printed in the browser:
+
 ``` html
 <template is="dom-if" if="{{staffUser}}">
   User works at New Atoms

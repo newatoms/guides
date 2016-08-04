@@ -10,7 +10,8 @@ Elements have one function and the website is built out of many elements. The sa
 
 ### How?
 
-Databinding is [[one way]] or {{two way}}. All types of information can be communicated between elements (strings, objects, booleans, etc.). The type of property on the child's side has to be the same as the one on the parent's side (you can't fit an object in a string). It is possible to pair a string that is inside an object with another string, e.g.
+Databinding is [[one way]] or {{two way}}. All types of information can be communicated between elements (strings, objects, booleans, etc.). The type of property on the child's side has to be the same as the one on the parent's side (you can't fit an object in a string). It is possible to pair a string that is inside an object with another string, e.g.:
+
 ``` html
 user-name="{{user.name}}".
 ```
@@ -35,7 +36,8 @@ properties: {
     },
 },
 ```
+
 *notify: true* is very important, since it signals to Polymer that changes in the object in the current element have to be signaled to other elements. You are guaranteed 🔮to spend a few hours on this at least once by forgetting it 😞.
 
-### More in-depth
+### In-depth
 [This video](https://www.youtube.com/watch?v=1sx6YNn58OQ) explains how polymer communicates changes across elements. Well worth the watch!

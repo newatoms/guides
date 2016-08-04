@@ -1,6 +1,7 @@
 > **The goal of this guide:** Understanding the core concepts of creating elements.
 
-# How to Create a Polymer Element
+# How To Create a [Polymer](https://github.com/newatoms/guides/blob/ready/glossary/polymer.md) Element
+
 
 A Polymer element is a custom [HTML element](http://www.w3schools.com/html/html_elements.asp). It can be used like other HTML Elements in your websites with the addition of some extra magic.
 
