@@ -4,7 +4,7 @@
 
 <img src="http://i.imgur.com/fqj69Rp.jpg">
 
-# How To Compose Headings That Attract And Keep Readers
+# How To Compose Headings that Attract and Keep Readers
 
 While your carefully crafted content might be amazingly groundbreaking, nobody will read it if your headlines and subheads are not up to par. Alas, it is an unfair world. So what to do? Educate yourself! Coming up with good headlines will never be like shooting fish in a barrel, but knowing what makes them work will help you get started.  
 
