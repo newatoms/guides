@@ -2,7 +2,7 @@
 
 # How to tell the shit out of your story
 
-Storytelling is a buzzword, and with good reason. It makes for exciting communication. If done well, it stimulates the imagination, creates anticipation and evokes emotions. 
+Storytelling is a buzzword, and with good reason. It makes for exciting communication. If done well, it stimulates the imagination, creates anticipation and evokes emotions. The greatest stories resonate with people because they appeal to some core truth about the human condition.
 
 When we write articles, we are not simply taking bits of information from everywhere and sandwiching them together. Who wants to devour an information sandwich? Though they are not fiction, journalistic pieces will still benefit immensely from the structure of storytelling. They will be more cohesive, understandable, interesting to read and they will add more value to the reader.
 
@@ -55,12 +55,12 @@ Express values that you personally feel, and experiences that you had.
 [Here are some storytelling tips specific to journalism](http://www.bbc.co.uk/blogs/collegeofjournalism/entries/5a80ff34-859a-37da-bcac-1af9d247456a) from the BBC/Daniel Kahneman’s *Thinking, Fast and Slow*, notably:
 
  >Our brains have an almost irresistible desire to turn disparate facts into a coherent story. “It is the consistency of the information that matters for a good story, not its completeness.”
- 
+
  #### More resources:
  * [About photojournalism, but still relevant](https://www.journalism.co.uk/news/why-storytelling-is-still-everything-despite-new-journalism-tools-and-technology/s2/a634299/)
- 
+
  * [About public speaking, but still relevant](http://blog.visme.co/7-storytelling-techniques-used-by-the-most-inspiring-ted-presenters/)
- 
+
  * [The devil’s advocate](http://ditchwalk.com/2014/04/10/storytelling-and-journalism/)
 
 ### Sources
