@@ -46,7 +46,7 @@ Usability researcher Hoa Loranger from The Nielson Norman Group wrote [a great b
 
 * **The header should be able to work on its own**. Because headlines are currently placed out of its context, shared on social media or only visible in feeds between others. More than often the headline is the only thing they read.
 
-* **Moving keywords to the front of titles increases the likelihood that they get noticed**. Yes, we know readers don’t have time. Now we see in usability research that the majority of **people only scan the first few words of the headline**. 
+* **Moving keywords to the front of headlines increases the likelihood that they get noticed**. Yes, we know readers don’t have time. Now we see in usability research that the majority of **people only scan the first few words of the headline**. 
 
 * **Try out more than 25 headlines** with this [headline analyser](http://coschedule.com/headline-analyzer). It is fun and you’ll see that the quality of your headlines will improve.
 
@@ -74,7 +74,7 @@ Don't:
 This guide will be extended over time! Until then, happy headings ⛵️.
 
 ### Sources
-* http://unbounce.com/content-marketing/how-to-craft-headlines-that-get-clicked-without-resorting-to-clickbait/
-* http://www.marketingprofs.com/charts/2016/29426/the-most-effective-elements-of-clickbait-article-headlines
-* https://smartblogger.com/subhead-blunders/
-* https://medium.com/r/?url=https%3A%2F%2Fwww.nngroup.com%2Farticles%2Fauthor%2Fhoa-loranger%2F)
+* [Unbounce](http://unbounce.com/content-marketing/how-to-craft-headlines-that-get-clicked-without-resorting-to-clickbait/)
+* [Marketingprofs](http://www.marketingprofs.com/charts/2016/29426/the-most-effective-elements-of-clickbait-article-headlines)
+* [Samrtblogger](https://smartblogger.com/subhead-blunders/)
+* [The Nielsen Norman Group](https://www.nngroup.com/articles/headings-pickup-lines/)
