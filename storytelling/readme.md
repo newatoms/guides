@@ -56,7 +56,8 @@ Express values that you personally feel, and experiences that you had.
 
  >Our brains have an almost irresistible desire to turn disparate facts into a coherent story. “It is the consistency of the information that matters for a good story, not its completeness.”
 
- #### More resources:
+#### More resources:
+ 
  * [About photojournalism, but still relevant](https://www.journalism.co.uk/news/why-storytelling-is-still-everything-despite-new-journalism-tools-and-technology/s2/a634299/)
 
  * [About public speaking, but still relevant](http://blog.visme.co/7-storytelling-techniques-used-by-the-most-inspiring-ted-presenters/)
