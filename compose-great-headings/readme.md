@@ -76,5 +76,5 @@ This guide will be extended over time! Until then, happy headings ⛵️.
 ### Sources
 * [Unbounce](http://unbounce.com/content-marketing/how-to-craft-headlines-that-get-clicked-without-resorting-to-clickbait/)
 * [Marketingprofs](http://www.marketingprofs.com/charts/2016/29426/the-most-effective-elements-of-clickbait-article-headlines)
-* [Samrtblogger](https://smartblogger.com/subhead-blunders/)
+* [Smartblogger](https://smartblogger.com/subhead-blunders/)
 * [The Nielsen Norman Group](https://www.nngroup.com/articles/headings-pickup-lines/)
