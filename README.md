@@ -32,13 +32,14 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 |[create great headings](compose-great-headings) | Helping you create headings to *get* and *keep* readers |
 |[create effective hyperlinks](create-effective-hyperlinks)| Helping you create effective in-text links |
 |[create high quality content](write-awesome-content)| Helping you create high quality written content by giving tips and a checklist |
+|[find usable images](find-images)| Helping you find awesome images on the interwebs |
 |[embed videos in an article](embed-videos-in-an-article)|To help you with inserting a video into an article. |
 |[formulate a premise](formulate-a-premise)| Teaching you what a premise is and how to formulate one |
 |[formulate narrative conflict](formulate-narrative-conflict)| Teaching you what narrative conflict is and how to use it effectively |
+|[know what makes an image effective](effective-image-guide)| to explore what makes an image effective in relation to an article  |
 |[look premium](look-premium)| Helping you to look premium |
 |[manage your post length](manage-your-post-length) | Know how long posts should be |
 |[refine your writing style](refine-your-writing-style)| write to fit a specific context, purpose, or audience  |
-|[science the $@%t out of images](effective-image-guide)| to explore what makes an image effective in relation to an article  |
 |[turn a pitch into a blog post](turn-a-pitch-into-a-publishable-blog-post)| help you to create and work on a user story for a blog post |
 |[use social media](use-social-media) | to help you understand the inner workings of social media so you can use them to your advantage |
 |[use the principles of storytelling](storytelling) | Supplying the reader with the tools to tap into the power of storytelling |
