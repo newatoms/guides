@@ -1,50 +1,50 @@
-> Goal of this guide: to help you with direct customer acquisition for New Atoms services
+> Goal of this guide: To help you with direct customer acquisition for New Atoms services
 
-# Getting paying customers
+# Getting Paying Customers
 
 Just like every other company, we need to sell our services in order to be sustainable. In this guide we will only discuss direct customer acquisition. In our [communication guide](../communication-guide), you can read about our indirect communication philosophy.
 
-Even though we do need to sell our services, we only want to sell our services to people we can actually benefit from. Working with a person who does not value your services for what they are, will require you to keep convincing them of every step you take, making the process extremely counter-productive.
+Even though we do need to sell our services, we only want to sell our services to people from whom we can actually benefit and who can actually benefit from us. Working with a person who does not value your services for what they are will require you to keep convincing them every step of the way, making the process extremely counter-productive.
 
-Nothing suggested in this guide is a hard truth and nothing should be blindly accepted as such.
+Before we begin: nothing suggested in this guide is a hard truth and nothing should be blindly accepted as such.
 
 ## Two ways to acquire customers
 
-There are two ways in which you can convince people to use your product or service: by directly **convincing a specific person** or indirectly **through your general communication**. With your general communication, you can have a potentially infinite reach but have very little control over who you reach.
+There are two ways in which you can communicate with people with the specific objective of telling them about your product or service: by directly **contacting a specific person** or indirectly **through your general communication**. With your general communication, you can have a potentially infinite reach but have very little control over who you reach.
 
 The main difference between the two is that direct customer acquisition takes more effort per client, but can be done with very little means. Acquiring customers through your general communication is a lot more effective but requires you to actually have a form of communication, which takes a lot of effort and money to build.
 
 ## Direct customer acquisition
 
-There are two types of direct customer acquisition: contacting potential suitable clients directly that you have no personal connection with (called cold customer acquisition) and contacting those with whom you have a direct or indirect relationship.
+There are two types of direct customer acquisition: contacting potential clients directly with whom you have no personal connection (called cold customer acquisition), and contacting those with whom you have a direct or indirect relationship.
 
-*One super important thing to realize before we go on is that you are speaking as a person on behalf of a company to a person on behalf of a company.*
+*One super important thing to realise before we go on is that you are speaking as a person on behalf of a company to a person on behalf of a company.*
 
-## How to sell your service
+## How to promote your service
 
-Sadly, in most companies, failure is punished more severely than success is rewarded. Because of this, employees are usually motivated more by self-preservation than success, meaning that they are probably not keen on taking risks for the company that could reflect poorly on themselves. What is good for the company is usually only interesting if it is also good for them on a personal level.
+Sadly, in most companies, failure is punished more severely than success is rewarded. Because of this, employees are usually motivated more by self-preservation than success, meaning they are probably not too keen on taking risks for the company that could reflect poorly on themselves. What is good for the company is usually only interesting if it is also good for them on a personal level.
 
-Because of this, it is at least as important to understand the person you are talking to as the company they work for.
+Because of this, understanding the person to whom you are speaking is at least as important as understanding the company for which they work.
 
-Selling the benefit of your service specifically to the person to whom you are talking is usually more important in a sale than the effect it will have on the company as a whole.
+Promoting the benefit of your service to the person to whom you are talking specifically is usually more important in a sale than the effect it will have on the company as a whole.
 
-### Understand who you need to talk to
+### Understand who needs to hear you
 
-Knowing who to talk to is half the work of selling your service.
+Knowing to whom it is necessary to speak is half the work of promoting your service.
 
-A good way to figure out who you need to talk to is by understanding which person/function holds the authority to hire your service within the company and which person/function has the most to gain by hiring your service.
+A good way to figure out to who you need to talk is by understanding which person/function holds the authority to hire your service within the company and which person/function has the most to gain by hiring your service.
 
-If you know this and it is not the same person, you need to determine who can help you the most. Sometimes a person within a company who has a personal interest for your service is a better entry point than the person who has the authority to hire your service but is less interested.
+If you know this and it is not the same person, you need to determine who can help you the most. Sometimes, a person within a company who could have a personal interest in your service is a better entry point than the person who has the authority to hire your service but would be less interested.
 
-The easiest way to find this out is by searching a company and function using Google and LinkedIN.  When you have the names of the people fulfilling the right functions, use Facebook and Google to search for personal details that you can use to help you decide who you want to contact and how to speak to them.
+The easiest way to find this out is by searching a company and function using Google and LinkedIN.  When you have the names of the people fulfilling the right functions, use Facebook and Google to search for personal details that you can use to help you decide who you want to contact and how to speak to them. That's right, stalker 😏.
 
 ### Formulating tangible examples
 
-I have found that by giving **tangible examples** to explain the added value of your service (in general and for the prospect in question) is usually the easiest way to sell your service, no matter the medium you use or the relationship you have with the prospect.
+Giving **tangible examples** to explain the added value of your service (in general and for the prospect in question) is usually the easiest way to promote your service, regardless of the medium you use or the relationship you have with the prospect.
 
 These tangible examples come in two layers and can be figured out by answering the following questions:
 
-**Business Relevance for the prospect**
+**Business relevance for the prospect**:
 
 * What are the goals of the prospect/company?
 
@@ -58,7 +58,7 @@ These tangible examples come in two layers and can be figured out by answering t
 
 * Can you formulate a tangible example of how the vision of the prospect/company and the vision of your service relate in a positive way?
 
-**Personal Relevance for the prospect**
+**Personal relevance for the prospect**:
 
 * What can you find out about the prospect that relates to your service?
 
@@ -72,14 +72,14 @@ These tangible examples come in two layers and can be figured out by answering t
 
 * Can you formulate a tangible example of the value your service would add in relation to your similarities?
 
-The answers to these questions help you understand the added value for the customer and formulate a tangible example. By no means should you think it's necessary to use all the answers while wooing your prospect—that would probably be a tad overwhelming.
+The answers to these questions help you understand the added value for the customer and formulate a tangible example. By no means should you think it's necessary to use all the answers while wooing your prospect—that would probably be a tad bit overwhelming.
 
 
 ## Direct customer acquisition by phone
 
-Phone calls can be an efficient way of direct customer acquisition. However, for some people calling is rather scary and therefore a lot of effort. While on the phone you can use everything you learned by answering the questions above and use that information to steer the conversation in the direction you want.
+Phone calls can be an efficient way of direct customer acquisition. However, for some people calling is rather scary and therefore high effort. While on the phone, you can harness everything you learned by answering the questions above and use that information to steer the conversation in the direction you want.
 
-While making a phone call, it is super mega important to realize you are talking to a person who has her or his own values, ambitions, hopes and dreams. Don't become a manipulative sales robot (asshole). Be a person and try to have some fun.
+While making a phone call, it is super mega über important to realize you are talking to a person who has her or his own values, ambitions, hopes and dreams. Don't become a manipulative sales robot (aka asshole). Be a person and try to have some fun.
 
 Oh yeah, never ever EVER suggest that a person is only looking out for their own interest. Always assume that they care for the company they work for, even though the success of the company might not be their primary goal.
 
@@ -88,7 +88,7 @@ When calling a person, there are a few things that are important to discuss:
 * Explain who you are and the gist of what you do, formulated in a way that has the most added value for the person you are calling.
 * Find out if your call is convenient. If your prospect has no time to talk to you, ask to speak at another time that's better for them and follow up.
 * Explain why you are calling this particular person.
-* Ask what their experience is with doing what your service does, on their own.
+* Ask what their own experience is with doing what your service does.
 * Explain/discuss how your service can improve things for both the company and the person to whom you are speaking. Formulate this so that it has a relationship to how they responded to the previous question and what you could find on the interwebz.
 * Discuss what the next step will be and try to formulate a deadline (this helps you understand your position, makes the next step clear and forces the prospect to consider your service).
 
@@ -97,7 +97,7 @@ When calling a person, there are a few things that are important to discuss:
 * Try not to ask questions that have a negative connotation; formulate them in a positive way.
 * Try not to ask questions whose answers can end your conversation.
 * Using the name of the person to whom you are talking shows that you take them seriously and (sometimes) creates a personal relevance.
-* Encourage the person you're speaking to by making confirmative noises.
+* Encourage the person you're speaking to by making affirmative noises.
 * Being enthusiastic can be a persuasive tool.
 * Be yourself. If you can't make your prospect see the relevance of what you are doing, they might not be a good fit.
 * Don't try to convince your prospect but make sure they see and understand possible positive outcomes.
@@ -106,8 +106,8 @@ When calling a person, there are a few things that are important to discuss:
 
 If you cant find a direct number for the person you are trying to reach, call a different person in the company and ask for the person you are trying to reach. While doing this, keep the next points in mind—they might help you.
 
-* Avoid receptions and help desks if possible. Often their main task is to guard the employees against people who are trying to sell stuff (just like you are).  
-* The more certain you seem that you are asking for the right person, the more likely it is they will connect you. (Often this means just asking to be connected with the person you are looking for.)
+* Avoid reception and help desks if possible. Often their main task is to guard the employees against people who are trying to sell stuff (just like you are).  
+* The more certain you seem that you are asking for the right person, the more likely it is they will connect you. (Often this means just asking to be connected with the person you are looking for).
 * If the person can't be reached, ask for their direct number or extension so you do not have to go through this again.
 
 
@@ -119,7 +119,7 @@ In general, I would strongly recommend against using email as your sole form of 
 
 The world we live in is not a perfect one and sometimes this means you will have to do business through email, or send an email before you can call someone.
 
-If this is the case it is important to create relevance or even necessity for the reader to read and reply to your email. This can be done in the following ways:
+If this is the case, it is important to create relevance or even necessity for the reader to read and reply to your email. This can be done in the following ways:
 
 * Make it clear that the email is specifically directed at your prospect. You do this to give the reader a sense of importance and make clear that this is not a mass email that can be ignored.
 * Briefly explain who you are and who you work for.
@@ -140,38 +140,34 @@ When you write an email as a follow-up to a phone conversation, make sure to kee
 If you know the prospect personally or someone you know can introduce you to the prospect, answers to the following questions will probably help you sell your service:
 
 * Do you have shared experiences and insights with the prospect?
-* How do these experiences and insights relate to the service you are trying to sell?
+* How do these experiences and insights relate to the service you are promoting?
 * Can you formulate a tangible example of the value your service would add that relates to your shared insights and experiences?
-
-## Customer acquisition for New Atoms
-
-At New Atoms we don't work as individuals with specific tasks, but we work as a team where every team member contributes iterations to the whole. This enables us to work from our strengths and not out of necessity. To contribute to our customer acquisition as a team member, you need to understand how you can do iterative customer acquisition.
 
 ### Using the strengths of the team members
 
-Customer acquisition is not something most people enjoy doing and if you don't enjoy it, it is hard to sell your product. That is why we should not focus the act of customer acquisition on sales, but see it as a way to gather data, get inspired and satisfy curiosity while searching, together with the person you are talking to, for a way our service can make their lives better.
+Customer acquisition is not something most people enjoy doing and if you don't enjoy it, it is hard to promote your product. That is why we should not focus the act of customer acquisition on sales, but see it as a way to gather data, get inspired and satisfy curiosity while searching, with the people to whom you speak, for a way our service can make their lives better.
 
-> Be a Journalist. Investigate how they operate, what makes them good and where they are in need for help both before and during the phone call.
+> Be a journalist. Investigate how they operate, what makes them good and where they are in need of help both before and during the phone call.
 
-By doing this, the prospects experiences the quality of our journalistic skills and we gather valuable data on the company and the market they are in. While doing this you will also be able to find out if we can be of actual service to them. Most importantly we are not being sales agents but journalists.
+By doing this, the prospects experience the quality of our journalistic skills and we gather valuable data on the company and the market in which they exist. While doing this, you will also be able to find out if we can be of actual service to them. Again, we are not being sales agents but journalists.
 
 ### The stages of customer acquisition
 
-There are four stages a potential client goes trough and each stage can be an iteration. This way we can all contribute to the process of getting awesome clients.
+There are four stages a potential client goes through. We can all contribute to the process of getting awesome clients:
 
 #### Potential client
 
 Companies that would make an awesome client. This includes enough information to start researching ways to contact the companies:
 
 * Company name
-* Url of company website
-* A short motivation why you think this is an awesome client
+* URL of company website
+* A short motivation as to why you think this could be an awesome client
 
 #### Prospect
 
-Companies that would make an awesome client with all the information we need to contact them:
+Companies that would make an awesome client and all the information we need to contact them:
 
-* The name of the company
+* Company name
 * Who you can contact at the company
 * Valuable information on the contact person
 * Valuable information on the company
@@ -180,18 +176,18 @@ Companies that would make an awesome client with all the information we need to 
 
 #### Lead
 
-Prospects that have been contacted and need a follow up and all the information you need to do so successfully:
+Prospects that have been contacted and need a follow up, plus all the information you need to do so successfully:
 
-* All information of the pervious stages
-* Notes of previous contact with the prospect
-* The next suggested step
+* All information from the previous stages
+* Notes from previous contact with the prospect
+* A suggested next step
 
 #### Archive
 
 Leads that have been closed, either by a sale or disinterest. Here you can find all information gathered in the previous phases:
 
-* All information of the previous stages
-* A note on how and why the lead has been archived
+* All information from the previous stages
+* A note on what transpired and why the lead has been archived
 
 ## Iterations on the four stages of customer acquisition
 
