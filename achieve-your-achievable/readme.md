@@ -4,4 +4,4 @@
 
 [Achievables](../glossary/achievable.md) are the core, the foundation, the building blocks of New Atoms. Nothing happens without them. This infographic will show you what to do when you decide to produce one.
 
-<img src="../images/achievable-flow.png" width=100% />
+<img src="../images/achievable-template2.png" width=100% />
