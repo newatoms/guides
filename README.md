@@ -50,7 +50,7 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 ### Communicate effectively with external parties
 |How to … |Goal of the guide              |
 |--------|-----------------------------|
-|[communicate as content.supply](communication-guide) | Helping to communicate with the outside world
+|[communicate as post.supply](communication-guide) | Helping to communicate with the outside world
 |[determine the goal of your landing page](determine-the-goal-of-your-landing-page) | To understand what a landing page is. |
 |[devise a value proposition](devise-a-value-proposition) | Understand value proposition |
 |[define your target audience](define-your-target-audience) | Learn how to target the right audience |
