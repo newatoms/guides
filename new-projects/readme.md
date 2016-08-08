@@ -1,3 +1,5 @@
+> Goal of this guide: teaching team members how to make a new project
+
 # How to make a new project
 
 So you have an amazing idea that would benefit the client, or New Atoms to the moon and back? Great. Let's make a new [project](../glossary/project.md).
