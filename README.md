@@ -4,6 +4,8 @@ Hiya👋! Welcome to the New Atoms Guides. We write these guides on what we lear
 
 Here you can find guides on tools, communication, workflows and rules to which we subscribe, and most importantly, how to make awesome things. It's part of every team member's job to edit the guides in order to share what we learn. There is also [a guide on how to add a guide](contributing.md)!
 
+We treat this place as our internal Wiki(pedia). Therefore you'll soon find out that we link a lot between other guides and glossary items. When we link to other internal guides and glossary items we use relative links.  
+
 Use the [Glossary](glossary) to find definitions of words we use and how we use them.
 
 ### Use software effectively
@@ -67,6 +69,7 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 |[be a developer](be-a-developer) | Explaining what it means to be a developer |
 |[be a Managing Director](be-a-managing-director) | Explaining what it means to be a managing director |
 |[divide a team](divide-a-team)| A step by step walkthrough of dividing a team and creating two new ones. |
+| [link within the guides](link-within-the-guides) | showing you how to link between guides and glossary items on the guides [repository](../glossary/repository.md). |
 |[make a new project](new-projects)| Guidelines for creating a new project |
 |[write a user story](user-story-guide)| create effective user stories |
 
@@ -82,5 +85,3 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 |[start using Polymer](start-using-polymer)| Helping you understand why we use Polymer and how you can join the fun |
 |[use Polymer databinding](databinding) | How to communicate between elements using databinding in Polymer |
 |[visualise programming](visualise-programming-guide) | Learn about what type of conversation partner a computer is |
-
-Use the [Glossary](glossary) to find definitions of words we use and how we use them.
