@@ -4,6 +4,8 @@ Hiya👋! Welcome to the New Atoms Guides. We write these guides on what we lear
 
 Here you can find guides on tools, communication, workflows and rules to which we subscribe, and most importantly, how to make awesome things. It's part of every team member's job to edit the guides in order to share what we learn. There is also [a guide on how to add a guide](contributing.md)!
 
+We treat this place as our internal Wiki(pedia). Therefore you'll soon find out that we link a lot between other guides and glossary items. When we link to other internal guides and glossary items we use relative links.  
+
 Use the [Glossary](glossary) to find definitions of words we use and how we use them.
 
 ### Use software effectively
