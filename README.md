@@ -82,5 +82,3 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 |[start using Polymer](start-using-polymer)| Helping you understand why we use Polymer and how you can join the fun |
 |[use Polymer databinding](databinding) | How to communicate between elements using databinding in Polymer |
 |[visualise programming](visualise-programming-guide) | Learn about what type of conversation partner a computer is |
-
-Use the [Glossary](glossary) to find definitions of words we use and how we use them.
