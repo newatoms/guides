@@ -14,10 +14,12 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 |[pay for something](how-to-pay-for-something) | Pay for things on behalf of the company and get your money back |
 |[publish on Medium](publish-on-medium)| Helping you publish on Medium for New Atoms |
 |[search effectively with Google](google-search-guide)| Teaching you about the top of the line search tools |
+|[use Google Analytics](google-analytics) | Helping you with using Google Analytics to your advantage  |
 |[use GitHub](github-guide) | Guide on how to build documents and websites with the service called Github |
 |[use Slack for team communciation](slack-guide) | Helping you use our main communications tool, Slack |
 |[use text-editor Atom](atom-guide)| Helping you to use Atom, a text editor we use in combination with github |
 |[use the Achievable board](use-the-achievables-board) | Explaining how we work with our workflow board and optimizing the use of it  |
+
 
 ### Use design elements effectively
 |How to … |Goal of the guide              |
