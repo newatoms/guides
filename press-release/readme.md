@@ -3,15 +3,14 @@
 
 # How to write a press release
 
-To get publicity for something, it is a good idea to write up a press release.
-A press release is a short story that tells the journalist shortly about the newsworthy fact.
-In this guide we will take New Atoms as a point of departure. [This wonderful article on the Guardian](https://www.theguardian.com/small-business-network/2014/jul/14/how-to-write-press-release) and [this article on Hubspot](http://blog.hubspot.com/marketing/press-release-template-ht#sm.000ucb46j1c81d33w1227o0htwjfb) were extensively consulted.
+To get publicity for something, it is a good idea to craft a press release.
+A press release is a short story that quickly informs the journalist about the matters you seek publicity for. In this guide we will take New Atoms as a point of departure. [This wonderful article on the Guardian](https://www.theguardian.com/small-business-network/2014/jul/14/how-to-write-press-release) and [this article on Hubspot](http://blog.hubspot.com/marketing/press-release-template-ht#sm.000ucb46j1c81d33w1227o0htwjfb) were extensively consulted.
 
 ## First things to consider
 
 First, ask yourself: what is "new" in my story?
 
-➡ New Atoms, a start-up for journalistic innovations, was launched
+➡ New Atoms, a start-up for journalistic innovations, was founded
 
 What is unexpected or in any way exciting about it?
 
@@ -72,7 +71,7 @@ The second and third paragraph are a good spot to elaborate. Use quotes to provi
 
 > **The current state**
 
-> The past few months New Atoms has worked out how to go about agile journalism, developing software that facilitates their workflow. Introducing their ideas to the journalistic world is next. In the mean time, New Atoms is funded by Digital News Initiative, a fund by Google to stimulate innovation in journalism. To stay alive in their period of research, they also founded post.supply. Post.supply is a subscription service for companies that want to outsource their content creation. It makes this as hassle-free as possible by offering editorial teams that can be managed through an online interface. For more information, see http://www.post.supply.  
+> The past few months New Atoms has worked out how to go about agile journalism, developing software that facilitates their workflow. Introducing their ideas to the journalistic world is next. In the mean time, New Atoms is funded by Digital News Initiative, a fund by Google to stimulate innovation in journalism. As they aim to be an organisation with a wide variety of services and projects, they also founded post.supply. Post.supply is a subscription service for companies that want to outsource their content creation. It makes this as hassle-free as possible by offering editorial teams that can be managed through an online interface. For more information, see http://www.post.supply.  
 
 ## Other things to keep in mind
 * Add 'press release' or 'story idea' to your email subject, and be sure that the email subject tells the journalist exactly what the press release is about

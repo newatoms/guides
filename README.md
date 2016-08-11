@@ -46,7 +46,8 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 |[use the principles of storytelling](storytelling) | Supplying the reader with the tools to tap into the power of storytelling |
 |[write a tagline](write-a-tagline) | Understanding the qualities of a good tagline |
 |[write a manual](write-a-manual)| Explaining what you should pay attention to when creating a manual  |
-|[write well](writing-guide) | To help team members write in a clear manner |
+|[write a press release](press-release) | Helping team members write a press release |
+|[write well](writing-guide) | Helping team members write in a clear manner |
 
 ### Communicate effectively with external parties
 |How to … |Goal of the guide              |
