@@ -10,7 +10,7 @@ In theory you could say that the principles are the same, only now you have to u
 
 ## Tips from the internet
 
-We rewrote tips from Writersrelief.com to make readers care about your characters, in an attempt to make them more suitable for our purpose. You can either find someone to interview or write about that has some of these traits, or look for them wile interviewing and researching.
+We rewrote tips from Writersrelief.com to make readers care about your characters, in an attempt to make them more suitable for our purpose. If you want your reader to feel a connection with you protagonist, you can highlignt one or more of these traits. If them of course. 
 
 * Vulnerability and established need.
   * One of the easiest ways to make your character more empathetic is to expose a vulnerability and establish a need to. This could be about the things they struggle with and the that they embody. The need can be as simple as “get to work on time” or as complicated as “save the world.” It will encourage readers to empathize with the character and root for his or her success.  
@@ -20,7 +20,6 @@ We rewrote tips from Writersrelief.com to make readers care about your character
 
 * Being an underdog
   * Nothing piques the interest of the reader more than the inspirational story of a hero battling against seemingly impossible odds, struggling to find success in the bleakest of circumstances. Underdog stories are always relatable since we all have experienced struggling with bigger forces than ourselves (big companies, bosses, government, teachers, etc.). Struggles that are relatable to our own always inspire us to root for the less powerful. If they can win, maybe we can too!  
-
 * Idealistic qualities
   * Everyone loves characters that embody qualities and ideals they also aspire to. Characters that examplify the best of humanity entice the reader to stay engaged and keep reading. Never try to polish a turd though, it makes a great mess.  
 
