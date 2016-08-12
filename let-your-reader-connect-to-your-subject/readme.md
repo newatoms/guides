@@ -10,7 +10,7 @@ In theory you could say that the principles are the same, only now you have to u
 
 ## Tips from the internet
 
-We rewrote tips from Writersrelief.com to make readers care about your characters, in an attempt to make them more suitable for our purpose. If you want your reader to feel a connection with you protagonist, you can highlignt one or more of these traits. If them of course. 
+We rewrote tips from Writersrelief.com to make readers care about your characters, in an attempt to make them more suitable for our purpose. If you want your reader to feel a connection with you protagonist, you can highlignt one or more of these traits. If they posses them of course. 
 
 * Vulnerability and established need.
   * One of the easiest ways to make your character more empathetic is to expose a vulnerability and establish a need to. This could be about the things they struggle with and the that they embody. The need can be as simple as “get to work on time” or as complicated as “save the world.” It will encourage readers to empathize with the character and root for his or her success.  
