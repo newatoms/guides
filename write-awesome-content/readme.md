@@ -60,7 +60,7 @@ Readers are looking for answers and want to find them in the easiest, fastest wa
 
 A good title should activate, interest and excite. Often enough, the title is the key component in attracting the reader.
 
-If you have lured your reader with a fantastic title, he/she often decides whether to keep on reading based on the first few sentences. This brings us to the intro of the text and the importance thereof.
+If you have lured your reader with a fantastic title, he/she often decides whether to keep on reading based on the first few sentences. This brings us to the intro of the text and the importance thereof. [Read more on composing great titles here](../compose-great-headings/readme.md).
 
 > If the title and image are the bait, then the intro is the line that reels the reader in. And we can all imagine how much it would suck to fish with a line that breaks every time you catch a fish, so that line needs to be strong.
 

@@ -1,0 +1,1 @@
+Pull requests are proposed changes. They are submitted by a user and accepted or rejected by a repository's collaborators. Pull requests each have their own discussion forum. For more information, see [Using pull requests](https://help.github.com/articles/using-pull-requests/.)

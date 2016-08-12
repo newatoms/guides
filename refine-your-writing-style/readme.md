@@ -11,6 +11,12 @@ The internet is already flooded with style guides, so no need to reinvent the wh
 * [or this one](http://literarydevices.net/style/), which is about different types of style,
 * [or perhaps this one](http://www.writersdigest.com/writing-articles/by-writing-goal/improve-my-writing/brush-up-on-your-style-in-10-minutes-or-less), which is a practical list of suggestions to improve style.
 
+You can also refer to our New Atoms-specific guides, for example:
+* [this guide on writing well](../writing-guide/readme.md)
+* [or this guide on composing great headings](../compose-great-headings/readme.md)
+* [or this guide on formulating a premise](../formulate-a-premise/readme.md)
+* [or this one on narrative conflict](../formulate-narrative-conflict/readme.md)
+
 You get the idea.
 
 ## Ask yourself questions as you write
@@ -39,13 +45,13 @@ Here are some following thoughts:
 
 *The author incorporates* **down-to-earth humor** *at just the right spot on the spectrum between goofy and smart. Humor also keeps me engaged despite its length, punctuating the content with* **comic relief**. *This also makes a potentially heavy subject lighter/easier to read about because it's less threatening.*
 
-* Though it's about complex ideas, I have no difficulty comprehending the content (it's accessible). Why? 
+* Though it's about complex ideas, I have no difficulty comprehending the content (it's accessible). Why?
 
 *The author uses* **vocabulary** *that is sophisticated but not convoluted and uncomplicated but not dumb. Using this vocabulary, he creates* **straightforward examples** *to describe otherwise complex ideas. He* **does not make assumptions** *about what the reader knows but also does not assume the reader is stupid--he finds an effective equilibrium. He keeps the tone* **humble** *by often using himself as an example of ignorance or non-off-putting, self-deprecating humor.*
 
-* It doesn't make me feel like an idiot for the things I don't know. Why? 
+* It doesn't make me feel like an idiot for the things I don't know. Why?
 
 *The writer uses* **"we"** *and* **"our"** *rather than "you" and "your", including himself in the group that wishes to understand.*
 
 ## Keep working on it
-Your style is yours alone. Keep it awesome. Be aware of what makes it what it is, ask yourself lots of questions as you're writing and reading, and continue to refine. 
+Your style is yours alone. Keep it awesome. Be aware of what makes it what it is, ask yourself lots of questions as you're writing and reading, and continue to refine.

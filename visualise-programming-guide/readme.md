@@ -7,7 +7,7 @@
 At first, the concept of how programming works can be hard to grasp. It can be abstract and daunting at times. No worries, take your time. This article will help you understand the basics of how we, humans, talk to computers and how they talk back.
 
 ## Communicating with a computer
-When you are programming you're communicating with a computer. The computer speaks multiple languages but is very strict in the grammar, structure and punctuation of them. It doesn't really care about the content of the message though, so that's completely open to you to fill in as you seem fit.
+When you are programming you're communicating with a computer. The computer speaks multiple languages but is very strict in the grammar, structure and punctuation of them. It doesn't really care about the content of the message though, so that's completely open to you to fill in as you deem fit.
 
 ### Structure
 
@@ -18,7 +18,7 @@ Topics can be large and very small.
 
 You can start and close topics by wrapping them in ```<topic>``` and ```</topic>```. The ```/``` will signal the computer to end that part of the conversation. Note that ```<>``` is in the language HTML and other languages have other rules for opening and closing topics.
 
-A large topic is for example ```<style>```. The computer expects that everything between ```<style>``` and ```</style>``` is related to the style of the website - that can be the color of the text.
+A large topic is for example ```<style>```. The computer expects that everything between ```<style>``` and ```</style>``` is related to the style of the website - that can be the colour of the text.
 
 A small topic is the ```<strong>```. _Text_ in ```<strong>text</strong>``` will be displayed in strong (often bold: **text**).
 

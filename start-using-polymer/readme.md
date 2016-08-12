@@ -6,9 +6,9 @@ Polymer enables us to create our own [elements](../glossary/element.md), standar
 
 ## The idea of custom elements
 
-You see a lot of the same functionality, content or design multiple times on a site and/or on multiple sites. For example text inputs, user login forms, navigation, tooltips, icons etcetera. Custom elements enable us to make these things into packages that can be used multiple times and on multiple websites.
+You see a lot of the same functionality, content or design multiple times on a site and/or on multiple sites. For example text inputs, user login forms, navigation, tooltips, icons, et cetera. Custom elements enable us to make these things into packages that can be used multiple times and on multiple websites.
 
-As an example: you would like to create a counter that will show everyone on your website how many visitors you've had since the nineties started. Using Polymer we can make a `<my-counter>` element with all of its HTML, CSS and JavaScript embedded in it. This way we can easily use it on every one of our websites.
+As an example: you would like to create a counter that will show everyone on your website how many visitors you've had since the nineties started. Using Polymer we can make a `<my-counter>` element with all of its HTML, CSS and JavaScript embedded in it. This way we can easily use it on all of our websites.
 
 The idea💡 is that you write elements that are custom made for one goal. They should be able to perform only the single task that will result in obtaining their goal. However, you should be able to reach this goal each time you use the element. Your code, therefore, should never include details that are only valid for the current project.
 
@@ -22,9 +22,9 @@ It's difficult to define precisely what the goal of the element is and how this 
 
 Polymer Elements can communicate with each other.🗣 An element that is called inside another element is called a 'child'; and the element an element is inside of is the 'parent'.
 
-Elements can communicate in different ways.
+Elements can communicate in different ways:
 - [Two way data binding](../databinding/readme.md) between elements, and
-- [Events](https://www.polymer-project.org/1.0/docs/devguide/events.html): you can let polymer fire an event when something happens, e.g. a user presses a button. The event contains information of the event itself and information you send with it (array, object, string, etc.).
+- [Events](https://www.polymer-project.org/1.0/docs/devguide/events.html): you can let Polymer fire an event when something happens, e.g. a user presses a button. The event contains information of the event itself and information you send with it (array, object, string, etc.).
 
 ## There are three distinct 'languages' in Polymer
 

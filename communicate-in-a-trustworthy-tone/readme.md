@@ -1,4 +1,4 @@
-> Goal of this guide: to teach you how to communicate in a trustworthy tone
+> Goal of this guide: To teach you how to communicate in a trustworthy tone
 
 # How to communicate in a way people will trust
 
@@ -12,11 +12,11 @@ Check out [this talk](https://blog.intercom.io/users-understand-new-products/) f
 
 ### Words and language should:
 
-* Show that your interests are the same.
-* Demonstrate concern for others.
-* Deliver on your promises.
-* Be consistent and honest.
-* Communicate frequently, clearly and openly.
+* Show that your interests are the same
+* Demonstrate concern for others
+* Deliver on your promises
+* Be consistent and honest
+* Communicate frequently, clearly and openly
 
 This is particularly interesting, when thinking about what words to use:
 
