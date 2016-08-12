@@ -46,7 +46,7 @@ Be careful with filters! They have an immediate and lasting effect. Always keep 
 
 Now that you have all this amazing data about your visitors, it is time to learn what we should look at.
 
-The number of unique visitors and pageviews tells you a lot about how many people can find you and which pages are viewed most. Those are the most important numbers if you are calculating your profit per visitors to determine what your maximum [cost per click]() is for online advertisement.
+The number of unique visitors and pageviews tells you a lot about how many people can find you and which pages are viewed most. Those are the most important numbers if you are calculating your profit per visitors to determine what your maximum [cost per click](https://support.google.com/adwords/answer/6297?hl=en) is for online advertisement.
 
 If you want to improve the quality of your content and make sure that the people coming to your website get what they are looking for you need pay close attention to the value of Entrances, Bounce Rate, and % Exit.
 
