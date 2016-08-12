@@ -6,9 +6,9 @@
 *This image has a high memorability score of: 0.737*
 
 # Sciencing the #@% out of images
-**It pays off to enrich your content with great imagery. But what makes for a good image? Being New Atoms let's consult some scientific research to find out.**
+**It pays off to enrich your content with great imagery. But what makes for a good image? Let's consult some scientific research to find out.**
 
-We have a goal or a reason before starting to write an article. So we should do the same with our visual content. It pays off greatly to find a valuable image that sticks. It makes our articles more appealing, comprehensible, and memorable.
+We have a goal or a reason before starting to write an article. So we should do the same with our visual content. It pays off greatly to find a valuable image that sticks and that places the reader in the right context. It makes our articles more appealing, comprehensible, and memorable.
 
 According to [@Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), "the best images are something people can relate to in one way or another, which usually means that *the images need to tell part of the story*."
 
