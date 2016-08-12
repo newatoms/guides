@@ -42,10 +42,10 @@ With Google Analytics you can investigate how visitors came to your site. Did th
 
 <img src="../images/google-analytics-referral.png" width="100%">
 
-In the top horizontal bar select: **Reporting**
-In the left side navigation select: **Acquisition, All traffic, channels**
-Scroll down on the main page and in the Default Channel Grouping (main chart, second column) click: 2. **referral**
-Scroll down a bit and click on the site you're interested in.
+1. In the top horizontal bar select: **Reporting**
+* In the left side navigation select: **Acquisition, All traffic, channels**
+* Scroll down on the main page and in the Default Channel Grouping (main chart, second column) click: 2. **referral**
+* Scroll down a bit and click on the site you're interested in.
 
 
 ## Using filters
