@@ -1,8 +1,8 @@
-> Goals of this guide: To let your audience connect to your subject.
+> Goals of this guide: To let your audience connect to the protagonist of your story.
 
 # Letting the reader connect to your subject
 
-It is quite hard to find information on how you can stimulate a connection between the reader and the interviewee.
+It is quite hard to find information on how you can stimulate a connection between the reader and the protagonist.
 
 We did find quite some stuff on how to make your main character in a fictional story approachable.
 
