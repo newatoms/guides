@@ -38,11 +38,13 @@ See here a more extensive guide on [how to make useful goals](https://blog.kissm
 
 ## From which site did visitors come?
 
-With Google Analytics you can investigate how visitors came to your site. Did they for example click the link on a certain blog? 
+With Google Analytics you can investigate how visitors came to your site. Did they for example click the link on a certain blog?
 
-In the top horizontal bar select: Reporting
-In the left side navigation select: Acquisition, All traffic, channels
-Scroll down on the main page and in the Default Channel Grouping (main chart, second column) click: 2. referral
+<img src="../images/google-analytics-referral.png" width="100%">
+
+In the top horizontal bar select: **Reporting**
+In the left side navigation select: **Acquisition, All traffic, channels**
+Scroll down on the main page and in the Default Channel Grouping (main chart, second column) click: 2. **referral**
 Scroll down a bit and click on the site you're interested in.
 
 
