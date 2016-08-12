@@ -41,3 +41,45 @@ See here a more extensive guide on [how to make useful goals](https://blog.kissm
 Select ```Filters``` (outlined in red) to see which filters currently apply to our account. These can be used to for example filter out all kinds of traffic. For example pageviews coming from the New Atoms IP address, making sure that we don't include our own visits in the data.
 
 Be careful with filters! They have an immediate and lasting effect. Always keep a profile without filters. [Read more on filters here](http://online-behavior.com/analytics/filters).
+
+## Visitor behavior
+
+Now that you have all this amazing data about your visitors, it is time to learn what we should look at.
+
+The number of unique visitors and pageviews tells you a lot about how many people can find you and which pages are viewed most. Those are the most important numbers if you are calculating your profit per visitors to determine what your maximum [cost per click](https://support.google.com/adwords/answer/6297?hl=en) is for online advertisement.
+
+If you want to improve the quality of your content and make sure that the people coming to your website get what they are looking for you need pay close attention to the value of Entrances, Bounce Rate, and % Exit.
+
+You can find these numbers in analytics under ```Content > Site Content > Content Drilldown.```  
+
+<img src="http://media02.hongkiat.com/google-analytics-data-tips/page-tracking-bounce-exits-traffic.jpg">  
+Example of a Content Drilldown
+
+### Entrances
+
+The Entrances column will list the total number of visitors who entered your website on a certain page. This could be your homepage, or a blog entry, or something else which would get attention from readers.
+This helps you understand what types of content your visitors are searching for when they find you.
+
+### Bounce rate
+
+Is the percentage of visitors who landed on a certain page, then left without visiting any other pages. These are usually visitors who did not get what they expected.
+
+This happens when the expectations visitors have from the site (created by the context of the link) is not met.
+
+A high bounce rate of a indicates that page in question and the expectations created by the links to the page should be optimized.
+
+Check our [guide on creating effective hyperlinks](create-effective-hyperlinks) for more info on managing expectations of hyperlinks.
+
+### % Exit
+
+The definition of Exit Rate is the percentage of visitors that leave your site from a given page based on the number of visits to that page. A high exit percentage on specific page that should not be the end of visit usually means that the page needs to be optimised.
+
+If 90% of you visitors leave after seeing the pricing page it should be a clear indication that something needs to change on that page. It could be unclear what your product costs, the prices could be too high or that super rude joke could be the reason visitors leave.
+
+## Keywords
+
+Google analytics allows you to see which keywords visitors coming in through search engines used. You can find these keywords under  ````Traffic Sources > Sources > Search > Organic.````
+
+If you know which keywords visitors use and which pages the visit you can (try to) understand the needs of your visitors and to optimize your online advertisements.
+
+The more these keywords are in the content of your website, the higher it appears on search results. This is called SEO (search engine optimisation).
