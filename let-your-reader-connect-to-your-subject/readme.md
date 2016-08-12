@@ -6,7 +6,7 @@ It is quite hard to find information on how you can stimulate a connection betwe
 
 We did find quite some stuff on how to make your main character in a fictional story approachable.
 
-I theory you could say that the principles are the same, only now you have to use the information you have instead of making something up.
+In theory you could say that the principles are the same, only now you have to use the information you have instead of making something up.
 
 ## Tips from the internet
 
