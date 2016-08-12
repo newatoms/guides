@@ -36,6 +36,16 @@ The amount of these 'triggers' in the pas 7 days shows under Conversions.
 
 See here a more extensive guide on [how to make useful goals](https://blog.kissmetrics.com/critical-goal-types/). For example, it is explained even how you can measure how many times a specific link gets clicked on.
 
+## From which site did visitors come?
+
+With Google Analytics you can investigate how visitors came to your site. Did they for example click the link on a certain blog? 
+
+In the top horizontal bar select: Reporting
+In the left side navigation select: Acquisition, All traffic, channels
+Scroll down on the main page and in the Default Channel Grouping (main chart, second column) click: 2. referral
+Scroll down a bit and click on the site you're interested in.
+
+
 ## Using filters
 
 Select ```Filters``` (outlined in red) to see which filters currently apply to our account. These can be used to for example filter out all kinds of traffic. For example pageviews coming from the New Atoms IP address, making sure that we don't include our own visits in the data.
