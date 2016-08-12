@@ -78,7 +78,7 @@ If 90% of you visitors leave after seeing the pricing page it should be a clear 
 
 ## Keywords
 
-Google analytics allows you to see which keywords visitors coming in trough search engines used. You can find these keywords under  ````Traffic Sources > Sources > Search > Organic.````
+Google analytics allows you to see which keywords visitors coming in through search engines used. You can find these keywords under  ````Traffic Sources > Sources > Search > Organic.````
 
 If you know which keywords visitors use and which pages the visit you can (try to) understand the needs of your visitors and to optimize your online advertisements.
 
