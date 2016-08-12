@@ -82,6 +82,8 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 |[Authenticate to Firebase as a robot](nonhuman-firebase-authentication) | Explain how you can enable automated services to communicate with Firebase |
 |[create a local server using Firebase serve ](run-a-local-server-with-firebase-serve) | Show you how you can run a local server using firebase serve |
 |[create a Polymer element](creating-elements) | Understanding the core concepts of coding in Polymer |
+|[optimise signup experience](optimise-signup-experience) | Helping you optimise the signup experience for your users |
+|[optimise experience after signing in](optimise-onboarding) | Helping your users get the best experience after signing in for the first time |
 |[scrape information from LinkedIn](web-scraping) | Extract data from LinkedIn profiles into a structured json format |
 |[solve Polymer errors](fixing-errors) | Create a understanding of debugging web-apps |
 |[solve permission errors on the mac ](solve-mac-permission-errors) | To help you solve the annoying permissions error that the mac sometimes gives when installing something via the terminal |
