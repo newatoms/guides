@@ -14,7 +14,7 @@ Even more startling, eMarketer reports that 88% of people have intentionally lef
 
 1.) Build value around registration. Right off the bat, explain why a visitor should register with your site.
 
-2.) Eliminate as many fields as possible. Just as with landing pages, the fewer form fields you can get away with in your registration process, the less likely you'll suffer mid-form abandonment. Consider what information you absolutely must gather. And if you're asking  for information that isn't required to help with your lead nurturing, make sure those fields are clearly marked as optional so users know they don't need to divulge that information.
+2.) Eliminate as many fields as possible. Just as with landing pages, the fewer form fields you can get away with in your registration process, the less likely you'll suffer mid-form abandonment. Consider what information you absolutely must gather. And if you're asking for information that isn't required to help with your lead nurturing, make sure those fields are clearly marked as optional so users know they don't need to divulge that information.
 
 3.) Group fields logically. Some sites require a whole lot of information to register -- shipping address, billing address, contact information, credit card information, a list of your greatest fears (optional). If it's all really necessary to complete the registration process, most users will comply, unless you lay it out in an illogical order.
 
