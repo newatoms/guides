@@ -50,10 +50,9 @@ The number of unique visitors and pageviews tells you a lot about how many peopl
 
 If you want to improve the quality of your content and make sure that the people coming to your website get what they are looking for you need pay close attention to the value of Entrances, Bounce Rate, and % Exit.
 
-you can find these numbers in analytics under ````Content > Site Content > Content Drilldown.````
+You can find these numbers in analytics under ```Content > Site Content > Content Drilldown.```  
 
-
-<img src="http://media02.hongkiat.com/google-analytics-data-tips/page-tracking-bounce-exits-traffic.jpg">
+<img src="http://media02.hongkiat.com/google-analytics-data-tips/page-tracking-bounce-exits-traffic.jpg">  
 Example of a Content Drilldown
 
 ### Entrances
