@@ -27,7 +27,6 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 |[make post.supply illustrations](postsupply-illustrations) | Helping you to make illustrations for post.supply that are consistent in style |
 |[use colors](color-guide) | Explaining how colours work, in order to use them effectively |
 
-
 ### Reach your goal through writing
 |How to … |Goal of the guide              |
 |--------|-----------------------------|
@@ -51,6 +50,8 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 |[write a manual](write-a-manual)| Explaining what you should pay attention to when creating a manual  |
 |[write a press release](press-release) | Helping team members write a press release |
 |[write well](writing-guide) | Helping team members write in a clear manner |
+|[create a reliable website](make-a-reliable-website) | Helping you convey your reliability on your website |
+
 
 ### Communicate effectively with external parties
 |How to … |Goal of the guide              |
@@ -65,6 +66,7 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 |[prosper at Meetups](prosper-at-meetups)| Helping you to enjoy and prosper at Meetups |
 |[prepare for an interview](interview-guide) | Helping to prepare for an Interview |
 |[understand content marketing](understand-content-marketing) | to help you understand what content marketing is |
+|[be a reliable content manager and creator](show-that-you-are-a-reliable-content-manager-and-creator) | Helping you convey your reliability as a content manager and creator |
 
 ### Function well within New Atoms
 |How to … |Goal of the guide              |
