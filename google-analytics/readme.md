@@ -16,7 +16,7 @@ Everything you see on this page relates to the selected timeframe. By clicking o
 You can hover over all the data to see more information on what they show you.
 
 
-## Useful functionalities
+## General useful functionalities
 In the menu sidebar (red outlined), you can scroll down to find a few particularly useful functionalities:
 
 * **Behavior**: shows you on which page people land (```Landing pages```) and exit (```Exit pages```), and exactly how much time they spend on which page (```All pages```)
@@ -35,6 +35,17 @@ Select ```Goals``` (outlined in red). Here you can add goals (up to 18). The ide
 The amount of these 'triggers' in the pas 7 days shows under Conversions.
 
 See here a more extensive guide on [how to make useful goals](https://blog.kissmetrics.com/critical-goal-types/). For example, it is explained even how you can measure how many times a specific link gets clicked on.
+
+## From which site did visitors come?
+
+With Google Analytics you can investigate how visitors came to your site. Did they for example click the link on a certain blog?
+
+<img src="../images/google-analytics-referral.png" width="100%">
+
+1. In the top horizontal bar select: **Reporting**
+* In the left side navigation select: **Acquisition, All traffic, channels**
+* Scroll down on the main page and in the Default Channel Grouping (main chart, second column) click: **2. referral**
+* Scroll down a bit and click on the site you're interested in.  
 
 ## Using filters
 
