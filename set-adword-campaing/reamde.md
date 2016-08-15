@@ -54,11 +54,7 @@ First you should determine what the added value of your product, who your key us
 
 Then you can try to understand what your users would search for when they need your product and divide these in separate groups and name as much search terms you can come up with that fits the need of the user.
 
-> When a content manager is in need of higher quality content: Professionele copy consultant, Professionele schrijver,
-
-> When a content manager is in need of higher quantity of content:
-
-> When a content manager is in need of a more dependable source of content:
+> When a content manager is in need of higher quality content: Professionele copy consultant, Professionele schrijver, Content pro, hoge qualitijd content, kwaliteid content,
 
 ## Making a selection of keywords you want to use
 
@@ -68,62 +64,10 @@ You can do this by simply going to https://adwords.google.com/ and click 'start 
 
 When the keywords are added google presents you with a number for each of these keywords, which represents Search popularity which is equal to the amount of impressions your ad will get.
 
-> 
-
 You can add three types of keywords: broad matches (the order does not matter), phrase matches (the order matters, but can be surrounded by other words) and exact matches (only the same search terms match up).
 
 In making choices which keywords to use, you will have to find a balance between Search popularity and how well it fits your product.
 
+## Creating an Adwords campaign
 
-online content: 1000
-marketing tools: 18100
-content manager: 14800
-digital content: 3600
-content: 301000
-web content: 3600
-content tool: 1300
-externe communicatie: 320
-artikelen: 9900
-custom content: 2400
-webredactie: 170
-content service: 480
-content production: 720
-content blog: 260
-content marketing: 74000
-blog posts: 27100
-content freelancer: 70
-post supply: 90
-social media manager: 27100
-social media artikelen: 170
-social media posts: 1900
-waardevol communiceren: 0
-waardevolle communicatie: 0
-Words with too low (<50) or no search popularity
-
-doelgerichte content
-copy freelancer
-copy trainee
-goede content
-social media trainee
-content product
-content productie
-content schrijver
-blog artikelen
-redactioneel team
-redactie inhuren
-schrijver inhuren
-makkelijke content
-snelle content
-frequente content
-frequente posts
-social media content stream
-content kopen
-digitale content
-communicatie service
-publiek bereiken
-artikelen dienst
-publiek bereiken
-doelgericht communiceren
-content dienst
-meer likes
-Social media posts laten maken custom content laten marketing content marketing bureau social media bureau Freelance blogger Freelance copy writer freelance schrijver content service artikelen op bestelling custom artikelen artikelen laten redactie team huren web content
+When you are in the main screen of your Adwords account in the "campaigns" tab, you can click the red "Add" button. You will be prompted to fill in some basic info and copy paste your list of keywords in. Follow the instructions, create the copy for the advertisements and submit them for review. After one working day you can activate your campaign and (hopefully) see the visitors rolling in!
