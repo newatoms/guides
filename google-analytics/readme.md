@@ -16,7 +16,7 @@ Everything you see on this page relates to the selected timeframe. By clicking o
 You can hover over all the data to see more information on what they show you.
 
 
-## Useful functionalities
+## General useful functionalities
 In the menu sidebar (red outlined), you can scroll down to find a few particularly useful functionalities:
 
 * **Behavior**: shows you on which page people land (```Landing pages```) and exit (```Exit pages```), and exactly how much time they spend on which page (```All pages```)
