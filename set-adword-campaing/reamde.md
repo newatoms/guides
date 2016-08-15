@@ -18,7 +18,7 @@ When you run a campaign for more than a few weeks, Google gathers enough data to
 
 ## Cost per click
 
-When multiple adds have the same keyword(s) the ad that bids the most money per click (cost per click) is displayed. Google automatically suggest a bid to use, but you can make it as high or as low as you like. The value of your bid is greatly influenced by quality of your keywords.
+When multiple adds have the same keyword(s) the ad that bids the most money per click (cost per click) is displayed. Google automatically suggests a bid to use, but you can make it as high or as low as you like. The value of your bid is greatly influenced by quality of your keywords.
 
 ## Cost per click vs revenue per click
 
@@ -44,9 +44,9 @@ So how do you go about deciding your keywords?
 
 ### Determining when people search for your product
 
-Google is a search engine, people us it when they are searching for a solution to their problem. The key to optimizing your keyword choices is by understanding when  your users need to see you and what they would search for.
+Google is a search engine, people use it when they are searching for a solution to their problem. The key to optimizing your keyword choices is by understanding when your users need to see you and what they would search for.
 
-First you should determine what the added value of your product, who your key users are, and when they would need your product.
+First you should determine what the added value of your product is, who your key users are, and when they would need your product.
 
 > Post.supply allows users to manage an editorial team through an app with the minimum effort possible. Our key users are people who manage the online content. They could use our service if they are looking for (higher) quality, quantity or dependability an editorial team offers.
 
