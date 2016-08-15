@@ -8,10 +8,6 @@ To make sure you do not go bankrupt from the first day you start your Adwords ca
 
 Google charges you for each click, making it super important that every click is worth the money. To make sure that the costs don't rack up crazy high, you can set daily budgets. When selecting keywords, it is important to look at the yield vs. the cost. A way to do this is by looking at how much keywords are searched for per month, their suggested bid, and the average revenue your website makes per visitor. With this information, you can compare keywords to determine if they are worth the money and from those that are profitable, which is best for you.
 
-> Because we don't know anything about Adwords, and we don't know our average revenue per visitor, we have decided to create a 4-day campaign with a budget of €300. This way we can quite safely create our first campaign and use the results to improve on future campaigns.
-
-> For a four-day campaign our daily budget should be €75, but because the costs can exceed your daily budget by 20%, we will make our daily budget €60 (80% of 75).
-
 ## Keyword quality
 
 When you run a campaign for more than a few weeks, Google gathers enough data to analyze the quality of the keywords you are using. This is done by looking at how relevant your keywords are by looking at the relation between the keyword, advertisement, the destination page and the behavior of the visitor. If the quality of your keywords is above average you get a discount on your cost per click which increases with the higher the quality of your keywords.
@@ -28,8 +24,7 @@ When you are determining how much you want to bid per click, you should look at 
 
 ## Clicks per daily budget
 
-Search popularity is displayed as "average searched per month" which equals impression. Since we will only run our campaign for four days and the cost per click usually is above €2,50 per click, we have no use for more than 24 clicks per day (720 p/m).
-
+Search popularity is displayed as "average searched per month" which equals impression. 
 The amount of clicks you can get within your daily budget: [Daily budget]/[cost per click]
 
 If you know the amount of impressions per click you can calculate the amount of impressions you need to reach your budged. Sadly, there is no way to get this info apart from testing with your Adwords campaigns.
