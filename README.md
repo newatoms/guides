@@ -66,10 +66,9 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 |[pitch post.supply](pitch-post-supply) | Explain what Post.supply is to others |
 |[prosper at Meetups](prosper-at-meetups)| Helping you to enjoy and prosper at Meetups |
 |[prepare for an interview](interview-guide) | Helping to prepare for an Interview |
+|[set up an Adwords campaign](set-adword-campaign) | Helping you use Adwords | 
 |[understand content marketing](understand-content-marketing) | to help you understand what content marketing is |
-|[Set up an Adwords campaign](set-adword-campaign) | Helping you use Adwords | 
 |[write a cold email subject line](write-a-cold-email-subject-line) | Some tips about how to write an effective subject line when cold emailing |
-|[Set up an Adwords campaign](set-adword-campaign) | Helping you use Adwords | 
 
 ### Function well within New Atoms
 |How to … |Goal of the guide              |
