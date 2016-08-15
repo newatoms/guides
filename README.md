@@ -67,7 +67,8 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 |[prepare for an interview](interview-guide) | Helping to prepare for an Interview |
 |[understand content marketing](understand-content-marketing) | to help you understand what content marketing is |
 |[be a reliable content manager and creator](show-that-you-are-a-reliable-content-manager-and-creator) | Helping you convey your reliability as a content manager and creator |
-|[write a cold email subject line](write-a-cold-email-subject-line) | Some tips about how to write an effective subject line when cold emailing | 
+|[write a cold email subject line](write-a-cold-email-subject-line) | Some tips about how to write an effective subject line when cold emailing |
+|[Set up an Adwords campaign](set-adword-campaign) | Helping you use Adwords | 
 
 ### Function well within New Atoms
 |How to … |Goal of the guide              |
