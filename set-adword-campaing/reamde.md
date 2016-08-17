@@ -1,4 +1,6 @@
-# Adwords campaign for post.supply
+> Goal of this guide: Helping you use Adwords
+
+# Adwords
 
 Google Adwords is a service provided by Google that allows you to advertise at the top of specific search results in Google. The viewer will be able to see a clear difference between organic search results and your advertisement. The effectiveness of your AdWords campaign will be largely determined by which search terms (keywords) you want your ad to be shown. You pay for every click on an advertisement, the more popular the keyword the higher the cost per click, which can rack up to over €25 per click!
 
