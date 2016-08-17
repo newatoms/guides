@@ -78,7 +78,7 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 |[divide a team](divide-a-team)| A step by step walkthrough of dividing a team and creating two new ones. |
 | [link within the guides](link-within-the-guides) | showing you how to link between guides and glossary items on the guides [repository](../glossary/repository.md). |
 |[make a new project](new-projects)| Guidelines for creating a new project |
-|[write a user story](user-story-guide)| create effective user stories |
+|[write a user story](user-stories-guide)| create effective user stories |
 
 ### Implement technical solutions
 |How to … |Goal of the guide              |
