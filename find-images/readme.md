@@ -19,6 +19,9 @@ Most of the times Google image search is not enough. Before searching for an ima
 
 * [Unsplash](https://unsplash.com/)
 * [Foter](http://foter.com/)
+* [Pixabay](https://pixabay.com/)
+* [FindA.photo](http://finda.photo/)
+* [ISO republic](http://isorepublic.com/)
 * [New York Public Library Pictures](http://publicdomain.nypl.org/pd-visualization/)
 * [New Old Stock](http://nos.twnsnd.co/)
 * [Public Domain Images](http://www.public-domain-image.com/)
