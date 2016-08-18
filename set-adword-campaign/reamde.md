@@ -150,11 +150,11 @@ This is the second thing people see of your ad, this would be a good place to sh
 * Include prices, promotions, and exclusives
 
 
-#### Discriptions
+#### Descriptions
 
 This is usually the last thing people see and should support statements made in Headline 1 & 2. This is probably the best place to show:
 
-* a call to action or specific offers
+* A call to action or specific offers
 * How you are different from competitors
 * An indication of time-until-results
 * Highlight what makes you unique
