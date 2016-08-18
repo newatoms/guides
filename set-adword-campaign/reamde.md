@@ -26,7 +26,7 @@ When you are determining how much you want to bid per click, you should look at 
 
 ## Clicks per daily budget
 
-Search popularity is displayed as "average searched per month" which equals impression.
+Search popularity is displayed as "average searched per month" which equals amount of impressions.
 The amount of clicks you can get within your daily budget: [Daily budget]/[cost per click]
 
 If you know the amount of impressions per click you can calculate the amount of impressions you need to reach your budged. Sadly, there is no way to get this info apart from testing with your Adwords campaigns.
@@ -67,12 +67,12 @@ In making choices which keywords to use, you will have to find a balance between
 
 ## Your ad!
 
-When you have found the right keywords it is time to create your ad. You will be prompted to create an ad when making your first campaign, but when you are in a campaing you can also simple click the red ````+AD```` button. Here you be presented with some text fields with character limits.
+When you have found the right keywords it is time to create your ad. You will be prompted to create an ad when making your first campaign, but when you are in a campaing you can also simple click the red ````+AD```` button. Here you are presented with some text fields with character limits.
 
 
 ### Fields & Character limits
 
-The copy you use for your google advertisements are crucial for the effectiveness of your campaign. When making your ads there are five text fields with the following character limits you can use.
+The copy you use for your Google advertisements are crucial for the effectiveness of your campaign. When making your ads, there are five text fields with the following character limits you can use:
 
 * Final URL  (no character limit)
 * Headline 1 (30 characters)
@@ -92,11 +92,11 @@ They will be displayed in the following way
 
 ### What to write and where
 
-There are no true golden rules when making an ad for google, but containing some or all of the following points would greatly increase the effectiveness of you ads.:
+There are no true golden rules when making an ad for Google, but containing some or all of the following points would greatly increase the effectiveness of you ads:
 
 
 * Show your promise
-  - People who click ads are probably looking for a solution, if your promise matches what they need they will probably click your ad.
+  - People who click ads are probably looking for a solution. If your promise matches what they need they will probably click on your ad.
 
 
 * Show What you offer that will result in the promise
@@ -104,7 +104,7 @@ There are no true golden rules when making an ad for google, but containing some
 
 
 * Highlight what makes you unique
-  - What is it that you offer that sets you apart from your competition. This can be a promise, a tool, a vision, etc.
+  - What is it that you offer that sets you apart from your competition? This can be a promise, a tool, a vision, etc.
 
 
 * Include prices, promotions, and exclusives
@@ -163,12 +163,12 @@ This is usually the last thing people see and should support statements made in 
 
 ## Creating an Adwords campaign
 
-When you are in the main screen of your Adwords account in the "campaigns" tab, you can click the red "Add" button. You will be prompted to fill in some basic info and copy paste your list of keywords in. Follow the instructions, create the copy for the advertisements and submit them for review. After one working day you can activate your campaign and (hopefully) see the visitors rolling in!
+When you are in the main screen of your Adwords account in the "campaigns" tab, you can click the red "Add" button. You will be prompted to fill in some basic information and copy paste your list of keywords. Follow the instructions, create the copy for the advertisements and submit them for review. After one working day you can activate your campaign and (hopefully) see the visitors rolling in!
 
 ## Other cool sources of info:
 
-This guide is compiled and filtered from different sources, even though the following pages did not have a place in this section there still really interesting to check out!
+This guide is compiled and filtered from different sources, even though the following pages did not have a place in this section they are still really interesting to check out!
 
-* improving click through rate: http://www.wordstream.com/blog/ws/2014/02/11/average-click-through-rate
+* Improving click through rate: http://www.wordstream.com/blog/ws/2014/02/11/average-click-through-rate
 * Getting people to click your ad: http://www.wordstream.com/blog/ws/2012/09/06/10-tips-writing-better-ppc-text-ads
 * Writing ad headlines: http://www.wordstream.com/blog/ws/2015/02/02/ppc-ad-headlines
