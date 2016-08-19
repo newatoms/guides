@@ -10,9 +10,9 @@ You see a lot of the same functionality, content or design multiple times on a s
 
 As an example: you would like to create a counter that will show everyone on your website how many visitors you've had since the nineties started. Using Polymer we can make a `<my-counter>` element with all of its HTML, CSS and JavaScript embedded in it. This way we can easily use it on all of our websites.
 
-The idea💡 is that you write elements that are custom made for one goal. They should be able to perform only the single task that will result in obtaining their goal. However, you should be able to reach this goal each time you use the element. Your code, therefore, should never include details that are only valid for the current project.
+The idea💡 is that you write elements that are custom made for one goal. They should be able to perform only the single task that will result in obtaining their goal. However, you should be able to reach this goal each time you use the element. Your code, therefore, should never include details that are only valid for the current milestone.
 
-> There is one exception to the "don't write code that is only valid for the current project" rule. Since the entire site is built with elements, some elements will have to be project-specific. Try to limit using them as much as possible, though!
+> There is one exception to the "don't write code that is only valid for the current milestone" rule. Since the entire site is built with elements, some elements will have to be milestone-specific. Try to limit using them as much as possible, though!
 
 Elements can receive input arguments that change how the element behaves. For example, a text input can be told that only dates are valid input options. You could write a `text-date-input` element, but sometimes functionalities are so similar that you want them to be in the same element to make it easier to maintain them.
 
@@ -24,7 +24,7 @@ Polymer Elements can communicate with each other.🗣 An element that is called 
 
 Elements can communicate in different ways:
 - [Two way data binding](../databinding/readme.md) between elements, and
-- [Events](https://www.polymer-project.org/1.0/docs/devguide/events.html): you can let Polymer fire an event when something happens, e.g. a user presses a button. The event contains information of the event itself and information you send with it (array, object, string, etc.).
+- [Events](https://www.polymer-milestone.org/1.0/docs/devguide/events.html): you can let Polymer fire an event when something happens, e.g. a user presses a button. The event contains information of the event itself and information you send with it (array, object, string, etc.).
 
 ## There are three distinct 'languages' in Polymer
 
@@ -48,7 +48,7 @@ With Polymer we can make elements that can be used by everyone. And we can use e
 
 You can find custom elements made by others:
 
-- [Polymer elements](https://elements.polymer-project.org/) is a collection of very useful elements that have been written by Google. They are free to use and very awesome. You will probably not be able to write better code than what is inside those elements so if you can make use of them, do it.
+- [Polymer elements](https://elements.polymer-milestone.org/) is a collection of very useful elements that have been written by Google. They are free to use and very awesome. You will probably not be able to write better code than what is inside those elements so if you can make use of them, do it.
 - [Customelements.io](https://customelements.io/) is a website where people share their elements. The quality differs but the popular ones can be quite useful (note that outdated elements stay on the site 😞).
 
 Read the documentation and the code of the element that you're using. Most of the time investing in a better understanding of the functionalities of the element will help you solve your problem.

@@ -48,7 +48,7 @@ Thus, our brains need a picture to process information faster and create a conne
 
 >You can upload your own picture to measure the memorability score on [the MIT research website ](http://memorability.csail.mit.edu/demo.html).  
 
-If you get a high score on memorability (retention), it likely means the image has gotten our attention. The retention score is greatly affected by the familiarity with which we experience an image (researchers at Pennsylvania State University measured *Familiarity* in this study: [Studying Aesthetics in Photographic Images Using a Computational Approach](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ECCV06/datta.pdf)).
+If you get a high score on memorability (retention), it likely means the image has gotten our attention. The retention score is greatly affected by the familiarity with which we experience an image (researchers at Pennsylvania State University measured *Familiarity* in this study: [Studying Aesthetics in Photographic Images Using a Computational Approach](http://infolab.stanford.edu/~wangz/milestone/imsearch/Aesthetics/ECCV06/datta.pdf)).
 
 When we see something unusual or rare, we perceive it differently from what is familiar to us because it awakens our curiosity. Therefore, things that are not familiar increase the chance of retention.   
 
@@ -62,7 +62,7 @@ So far, we've found some answers to worthy questions that arise when looking for
 
 * And **why do pictures get attention if they're out of the ordinary, weird and original?** Because we are naturally curious beings who have a thirst for understanding.   
 
-Understanding the technical features of composition and photography can work to our advantage when looking for an image. Researchers at *Pennsylvania State University* described certain technology tactics in [this earlier mentioned paper](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ECCV06/datta.pdf) by "treat[ing] the challenge of automatically inferring aesthetic quality of pictures using their visual content as a machine learning problem, with a peer-rated online photo sharing website as data source."
+Understanding the technical features of composition and photography can work to our advantage when looking for an image. Researchers at *Pennsylvania State University* described certain technology tactics in [this earlier mentioned paper](http://infolab.stanford.edu/~wangz/milestone/imsearch/Aesthetics/ECCV06/datta.pdf) by "treat[ing] the challenge of automatically inferring aesthetic quality of pictures using their visual content as a machine learning problem, with a peer-rated online photo sharing website as data source."
 
 In other words, they recognise that subjectivity is inevitable when judging the quality of a picture but try to tackle it anyway with a computational approach.
 

@@ -29,8 +29,8 @@ In your terminal:
 
 
 Open your browser and go to the relevant repository in your [CircleCi](https://circleci.com/) account.
-In the right-top corner you'll see project settings.
-In Project settings you have environment variables.
+In the right-top corner you'll see milestone settings.
+In Milestone settings you have environment variables.
 
 Fill in the token name that is in your ```circly.yml```: e.g. ```FIREBASE_TOKEN_READY```
 Fill in the token that you received in your terminal.

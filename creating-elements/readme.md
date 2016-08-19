@@ -11,9 +11,9 @@ An element should fulfill one function and should be reusable in multiple contex
 
 Is there an element on the site that has a similar functionality? Can you solve the [achievable](../glossary/achievable.md) by expanding the functionality of this element?
 
-For example, the [paper-input element](https://elements.polymer-project.org/elements/paper-input) is not limited to plain text but can take an argument to restrict the user input to a social security number. Only do this when it clearly makes sense!
+For example, the [paper-input element](https://elements.polymer-milestone.org/elements/paper-input) is not limited to plain text but can take an argument to restrict the user input to a social security number. Only do this when it clearly makes sense!
 
-[The Polymer catalog 💕](https://elements.polymer-project.org/) has a lot of very good elements you can use for free.
+[The Polymer catalog 💕](https://elements.polymer-milestone.org/) has a lot of very good elements you can use for free.
 [Customelements.io](https://customelements.io) is also growing quite fast. It's a site where people contribute their code, mostly open source. Not all the code is great, but a lot of it is. Also, not all code there is Polymer code.
 
 ## 2. Close your laptop!
@@ -28,7 +28,7 @@ You are likely to think about building functionality that actually falls outside
 
 So you need to build a new element. Think about which other elements the new element should interact with. What information does the new element need from them and what can it give back 🗣?
 
-Create an HTML file with a name that describes the the element very well and at least one `-` (hyphen) in it, for instance `user-chip`, `project-name`, `user-login-form` or `helicopter-landing-pad`.
+Create an HTML file with a name that describes the the element very well and at least one `-` (hyphen) in it, for instance `user-chip`, `milestone-name`, `user-login-form` or `helicopter-landing-pad`.
 
 To get started, you could copy and paste the content of [`seed-element`](https://github.com/newatoms/interface/tree/ready/web/_components/seed-element) into your empty file to setup your new element.
 
