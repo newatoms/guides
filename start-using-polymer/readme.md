@@ -24,7 +24,7 @@ Polymer Elements can communicate with each other.🗣 An element that is called 
 
 Elements can communicate in different ways:
 - [Two way data binding](../databinding/readme.md) between elements, and
-- [Events](https://www.polymer-milestone.org/1.0/docs/devguide/events.html): you can let Polymer fire an event when something happens, e.g. a user presses a button. The event contains information of the event itself and information you send with it (array, object, string, etc.).
+- [Events](https://www.polymer-project.org/1.0/docs/devguide/events.html): you can let Polymer fire an event when something happens, e.g. a user presses a button. The event contains information of the event itself and information you send with it (array, object, string, etc.).
 
 ## There are three distinct 'languages' in Polymer
 
@@ -48,7 +48,7 @@ With Polymer we can make elements that can be used by everyone. And we can use e
 
 You can find custom elements made by others:
 
-- [Polymer elements](https://elements.polymer-milestone.org/) is a collection of very useful elements that have been written by Google. They are free to use and very awesome. You will probably not be able to write better code than what is inside those elements so if you can make use of them, do it.
+- [Polymer elements](https://elements.polymer-project.org/) is a collection of very useful elements that have been written by Google. They are free to use and very awesome. You will probably not be able to write better code than what is inside those elements so if you can make use of them, do it.
 - [Customelements.io](https://customelements.io/) is a website where people share their elements. The quality differs but the popular ones can be quite useful (note that outdated elements stay on the site 😞).
 
 Read the documentation and the code of the element that you're using. Most of the time investing in a better understanding of the functionalities of the element will help you solve your problem.
