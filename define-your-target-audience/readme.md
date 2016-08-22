@@ -13,9 +13,9 @@ Here are a few helpful things the interwebs say about understanding your audienc
   -From https://www.devsaran.com/blog/how-design-website-specific-target-audience
 
 
-> Looking at the competition can be a great way to kickstart the creative process. Which websites are at the top in your milestone’s field? Are they using similar layouts or colors? Do they adhere to similar styles or seem to cater visually to the same demographics?
+> Looking at the competition can be a great way to kickstart the creative process. Which websites are at the top in your project’s field? Are they using similar layouts or colors? Do they adhere to similar styles or seem to cater visually to the same demographics?
 
-  -From https://www.elegantthemes.com/blog/resources/10-rules-of-good-ui-design-to-follow-on-every-web-design-milestone
+  -From https://www.elegantthemes.com/blog/resources/10-rules-of-good-ui-design-to-follow-on-every-web-design-project
 
 > Understanding your audience is about finding out as much as possible about the people behind the numbers including their social and cultural situations, media consumption, likes, dislikes and needs.
 
