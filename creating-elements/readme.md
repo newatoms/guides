@@ -11,9 +11,9 @@ An element should fulfill one function and should be reusable in multiple contex
 
 Is there an element on the site that has a similar functionality? Can you solve the [achievable](../glossary/achievable.md) by expanding the functionality of this element?
 
-For example, the [paper-input element](https://elements.polymer-milestone.org/elements/paper-input) is not limited to plain text but can take an argument to restrict the user input to a social security number. Only do this when it clearly makes sense!
+For example, the [paper-input element](https://elements.polymer-project.org/elements/paper-input) is not limited to plain text but can take an argument to restrict the user input to a social security number. Only do this when it clearly makes sense!
 
-[The Polymer catalog 💕](https://elements.polymer-milestone.org/) has a lot of very good elements you can use for free.
+[The Polymer catalog 💕](https://elements.polymer-project.org/) has a lot of very good elements you can use for free.
 [Customelements.io](https://customelements.io) is also growing quite fast. It's a site where people contribute their code, mostly open source. Not all the code is great, but a lot of it is. Also, not all code there is Polymer code.
 
 ## 2. Close your laptop!
