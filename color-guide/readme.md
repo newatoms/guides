@@ -1,4 +1,4 @@
-> *Goal of this guide:* To help you use colours effectively in design milestones by increasing an understanding of how they work
+> *Goal of this guide:* To help you use colours effectively in design projects by increasing an understanding of how they work
 
 ## Let's Talk About Colours
 
@@ -6,7 +6,7 @@
 
 "What's your favorite colour?" might be one of the most frequently asked questions when getting to know someone—at least amongst children. Colours form a big part of our lives, as they, well, add colour to the world! They stimulate all kinds of feelings: joy, sadness, even hunger. At the same time, they are notoriously difficult to handle. No wonder [some famous designers suffer from 'chromatophobia'](http://designobserver.com/article.php?id=37586) and prefer using only black and white.
 
-Yes, working with colours in a design milestone brings many questions to the table. What do they communicate? What do they say about our product or brand? How many of them do we need in our palette? How to combine and use them? Colours are so prone to perception and taste that they can cause tedious discussions.
+Yes, working with colours in a design project brings many questions to the table. What do they communicate? What do they say about our product or brand? How many of them do we need in our palette? How to combine and use them? Colours are so prone to perception and taste that they can cause tedious discussions.
 
 Luckily, there are many scientific theories out there that help us make decisions based on valid arguments, rather than idiosyncratic associations that are hard to counter ("let's not do red and yellow, they remind me of communist China!"; '"let's not do red and yellow, they remind me of McDonalds!"; "let's do red and yellow, they grab my attention in public space right away!").
 
