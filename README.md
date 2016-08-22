@@ -76,9 +76,9 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 |[achieve your achievable](achieve-your-achievable) | What steps to take in order to produce your achievables |
 |[be a developer](be-a-developer) | Explaining what it means to be a developer |
 |[be a Managing Director](be-a-managing-director) | Explaining what it means to be a managing director |
+|[create a new milestone](create-new-milestones)| Guidelines for creating a new milestone |
 |[divide a team](divide-a-team)| A step by step walkthrough of dividing a team and creating two new ones. |
 | [link within the guides](link-within-the-guides) | showing you how to link between guides and glossary items on the guides [repository](../glossary/repository.md). |
-|[make a new project](new-projects)| Guidelines for creating a new project |
 |[write a user story](user-stories-guide)| create effective user stories |
 
 ### Implement technical solutions

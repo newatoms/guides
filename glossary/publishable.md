@@ -2,4 +2,4 @@
 * without useless/dead parts,
 * without grammatical/spelling errors,
 * comprehensible,
-* within the commissioned project.
+* within the commissioned milestone.

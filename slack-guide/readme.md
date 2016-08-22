@@ -40,7 +40,7 @@ Next to private chat and chatrooms you know from traditional chat programs, Slac
 
 * A private channel and its contents are visible and searchable only to the channel members. In order to become part of a private channel you need to be added by a admin of that specific channel. Private channels have a closed lock icon in front of their name.
 
-We organise our team conversations in channels. We make channels per project or product. Apart from these project channels we have a bunch of extra channels that are quite self explanatory. 
+We organise our team conversations in channels. We make channels per milestone or product. Apart from these milestone channels we have a bunch of extra channels that are quite self explanatory. 
 
 We have:
 

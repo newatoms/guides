@@ -28,7 +28,7 @@ You are likely to think about building functionality that actually falls outside
 
 So you need to build a new element. Think about which other elements the new element should interact with. What information does the new element need from them and what can it give back 🗣?
 
-Create an HTML file with a name that describes the the element very well and at least one `-` (hyphen) in it, for instance `user-chip`, `project-name`, `user-login-form` or `helicopter-landing-pad`.
+Create an HTML file with a name that describes the the element very well and at least one `-` (hyphen) in it, for instance `user-chip`, `milestone-name`, `user-login-form` or `helicopter-landing-pad`.
 
 To get started, you could copy and paste the content of [`seed-element`](https://github.com/newatoms/interface/tree/ready/web/_components/seed-element) into your empty file to setup your new element.
 

@@ -1,6 +1,6 @@
 > Goal of this guide: teaching team members how to make a new milestone
 
-# How to create a new milestone
+# How to make a new milestone
 
 So you have an amazing idea that would benefit the client, or New Atoms to the moon and back? Great. Let's make a new [milestone](../glossary/milestone.md).
 
