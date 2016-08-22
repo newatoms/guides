@@ -56,14 +56,14 @@ Now, can you imaging this "person" speaking the words you just wrote? Think abou
 
 * Communication & PR personnel
 * Directors & CEOs
-* Milestone managers
+* Project managers
 * Communication and advertisement agencies
 
 ## How to increase traffic to the post.supply website
 
 ### Delivering an awesome service
 
-* Users and people who worked on milestones with users will spread the word for free if they are satisfied with the product
+* Users and people who worked on projects with users will spread the word for free if they are satisfied with the product
 * People who use our site to gather information about creating high quality content will link the source of the information to others
 
 ### Paid traffic
