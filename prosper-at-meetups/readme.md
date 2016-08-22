@@ -29,7 +29,7 @@ Keep it short.
 Give a relevant example.
 
 For example, explain content marketing by comparing two kinds of meetups:
-* In one meetup, the speaker lists the companies for whom they did milestones and how well they did those milestones.
+* In one meetup, the speaker lists the companies for whom they did projects and how well they did those projects.
 * In another meetup, the speaker explains how a mechanism with which they solved a problem works OR teaches you how to code for free.
 The one is selling, the other content marketing. People will probably have experienced the difference.
 
