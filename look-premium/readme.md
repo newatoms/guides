@@ -9,7 +9,7 @@ So, you have set up an awesome service and you are ready to take it to the marke
 1. Help clients understand why the price is higher: highlight your unique features. If you know how competitors are undercutting prices and feel the competitors' lower cost equates to poorer quality or service, explain this difference.
 2. Go the extra mile. Show clients that their trust is appreciated by choosing you over other cheaper options. Not just by being friendly, but by for example delivering a bottle of wine.
 3. Stick to your price, even when times are tough. Otherwise you will not generate enough cash flow to maintain your high quality service.
-4. Milestone financial stability in your service – otherwise you’re too much of a risk.
+4. Project financial stability in your service – otherwise you’re too much of a risk.
 
 ## Get the looks
 
