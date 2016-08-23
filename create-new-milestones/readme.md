@@ -1,6 +1,6 @@
 > Goal of this guide: teaching team members how to make a new milestone
 
-# How to make a new milestone
+# How to create a new milestone
 
 So you have an amazing idea that would benefit the client, or New Atoms to the moon and back? Great. Let's make a new [milestone](../glossary/milestone.md).
 
@@ -14,8 +14,7 @@ To do so, make a new folder in the milestones folder of the relevant [repository
 A new milestone always has a Goal, [Definition of Done](define-done.md), Proposed Methods and Motivation. Take some time to consider these carefully. The clearer you describe your milestone, the better the results will be.
 
 ### Get it reviewed
-Finished? Awesome! To get it reviewed, make a new [achievable](../glossary/achievable.md). This should be easy – the Goal of the achievable can mirror the goal of your milestone, and the proposed I Can is simply the creation of your new milestone.
-Link it to your [pull request](../glossary/pull-request.md), and put it in the [Done](../glossary/phase.md) straightaway!
+Finished? Awesome! To get it reviewed, simply add it to the Inbox of the connected product. Then notify the [product developer](../glossary/product-developer.md) to have it reviewed. If necessary, she/he will give you feedback. Once corrected into a valuable and reachable milestone, it will move to the Commission stage. Production will start once the product developer thinks it has enough priority. That could be the next day, or the next year.
 
-### Get your milestone commissioned
-Once [merged](../glossary/merge.md), the reviewer will add your new milestone to the Inbox of the concerned product. Only once it gets commissioned by the product owner—or in case of internal milestones, it gets voted in by the team—you can start adding [achievables](../glossary/achievable.md).
+### Make some achievables
+As soon as your milestone was reviewed, you can start making achievables. A low-effort way to get started is to look at your definition of done, and use this as easy guidance.
