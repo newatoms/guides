@@ -1,4 +1,6 @@
-# How to write understandably and uniformly in machine readable files at New Atoms
+> Goal: To serve as a style guide for writing markup, code and styles at New Atoms
+
+# How to style your files
 
 We want the way that we write JavaScript, HTML, MarkDown CSS and other programming or markup languages to be written in a similar style to make them easier to read and prevent difficult but useless merge conflicts.
 
