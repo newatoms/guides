@@ -2,9 +2,9 @@
 
 # How to style your files
 
-We want the way that we write JavaScript, HTML, MarkDown CSS and other programming or markup languages to be written in a similar style to make them easier to read and prevent difficult but useless merge conflicts.
+We want the way that we write JavaScript, HTML, MarkDown CSS and other programming or markup languages to be written in a similar style to make them easier to read and prevent difficult and useless merge conflicts.
 
-Because we want to create re-usable code which is understandable by others that might not be particularly acquainted with it’s syntax, we rely heavily on [comments](https://en.wikipedia.org/wiki/Comment_(computer_programming)) and [Javadoc/DocBlocks](https://en.wikipedia.org/wiki/Javadoc). These enable us to clearly document what happens and how others can re-use our code.
+Because we want to create re-usable code which is understandable for people not be particularly acquainted with it’s syntax, we rely heavily on [comments](https://en.wikipedia.org/wiki/Comment_(computer_programming)) and [Javadoc/DocBlocks](https://en.wikipedia.org/wiki/Javadoc). These enable us to clearly document what happens in a specific part of the code and how others can re-use it.
 
 ## The separation of concerns
 
@@ -16,7 +16,7 @@ To everything we produce there are three distinct things we need to communicate 
 
 These are separated because they need different mental models to think about them, additionally it makes it easy to find where something is.
 
-The separation is successful when we can change the markup without changing the style, the style without changing the logic etcetera.
+The separation is successful when we can change the markup without changing the style, the style without changing the logic et cetera.
 
 ## Markup: Structure
 
@@ -66,9 +66,9 @@ The style dictates the whole presentation, from fonts, to margins to how things 
 
 ### CSS
 
-Famously hard to understand, and hard to understand the effects of changing things, CSS might be one of the best reasons to use Polymer and it’s ability to scope CSS to only a specific part of the code.
+Famously hard to understand, and hard to understand the effects of changing things, CSS might be one of the best reasons to use Polymer (see below) and it’s ability to scope CSS to only a specific part of the code.
 
-We prefer using FlexBox over the BoxModel because it is generally easier to understand and more flexible.
+We prefer using [FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) over the BoxModel for creating flexible webpages because it is generally easier to understand and more flexible.
 
 An amazing example of how you can make great designs regardless of the markup is at [CSS Zen Garden](http://www.csszengarden.com/), which features over 200 designs for the same page.
 
@@ -95,7 +95,7 @@ These are preferably written in JavaScript and run on NodeJS.
 To prevent merge conflicts and make the code uniformly easy to read we have a few standars that we employ:
 
 - Indentation: 2 spaces
-- Newlines: Not more than 2 empty for visual function
+- Newlines: Not more than 2 empty lines for visual function
 
 ### How to use [JS-beautify](https://github.com/beautify-web/js-beautify) to automatically format your files
 
