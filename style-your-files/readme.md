@@ -44,7 +44,7 @@ You can use HTML, CSS and JavaScript in your SVG.
 
 [MarkDown](https://daringfireball.net/projects/markdown/) is a markup language that is a subset of what is possible with HTML and a different notation. MarkDown focusses on readability and ease of writing, and is used a lot for blogging, simple text editing and the `readme.md` files of GitHub.
 
-MarkDown is easy to read and fast to use. To learn it effectively requires some learning as many of the tokens are hard to distinguish like the `  ⏎` for a linebreak.
+MarkDown is easy to read and fast to use. To learn it effectively requires some learning as many of the tokens are hard to distinguish like the `  ⏎` (space-space-return) for a linebreak.
 
 We usually write in a specific superset of Markdown called [_GitHub Flavored MarkDown_](https://guides.github.com/features/mastering-markdown/) which adds some niceness such as the ability to [create task lists, tables and use Syntax highlighting for code examples](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown).
 
