@@ -3,9 +3,9 @@
 # How to Formulate a Premise
 
 ## What is a premise?
-The premise is the basic idea for your story. But it’s not enough to just have an idea. For example, Hero saves girl in World War II, is not enough. This is why your outline needs to begin with a tightly crafted premise sentence. 
+The premise is the basic idea for your story. But it’s not enough to just have an idea. For example, *Hero saves girl in World War II*, is not enough. This is why your outline needs to begin with a tightly crafted premise sentence. 
 
-It is:
+A premise is:
 * A [storyline](https://en.wikipedia.org/wiki/Storyline)
 * A [theme](https://en.wikipedia.org/wiki/Theme_(narrative))
 * The whole object of everything in a story is to build a case for the premise—it’s your lifeline as a writer
