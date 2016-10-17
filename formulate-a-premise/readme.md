@@ -35,11 +35,11 @@ It is:
 
 Once you’ve answered these questions, combine them into one or two sentences:
 
-Restless farm boy (**situation**) Luke Skywalker (**protagonist**) wants nothing more than to leave home and become a starfighter pilot, so he can live up to his mysterious father (**objective**). But when his aunt and uncle are murdered (**disaster**) after purchasing renegade droids, Luke must free the droids’ beautiful owner and discover a way to stop (**conflict**) the evil Empire (**opponent**) and its apocalyptic Death Star. (*Star Wars: A New Hope directed by George Lucas*)
+> Restless farm boy (**situation**) Luke Skywalker (**protagonist**) wants nothing more than to leave home and become a starfighter pilot, so he can live up to his mysterious father (**objective**). But when his aunt and uncle are murdered (**disaster**) after purchasing renegade droids, Luke must free the droids’ beautiful owner and discover a way to stop (**conflict**) the evil Empire (**opponent**) and its apocalyptic Death Star. (*Star Wars: A New Hope directed by George Lucas*)
 
 Here's another example from one of our own articles:
 
-Well-meaning people (**situation**), the users of services (**protagonists**), just want to live and enjoy their lives (**objective**). But when the services that help them enjoy their lives actually harm the planet (**disaster**), they must be more discerning about their activities and choices and demand change (**conflicts, internal and external**) from the companies providing the harmful services (**opponents**).
+> Well-meaning people (**situation**), the users of services (**protagonists**), just want to live and enjoy their lives (**objective**). But when the services that help them enjoy their lives actually harm the planet (**disaster**), they must be more discerning about their activities and choices and demand change (**conflicts, internal and external**) from the companies providing the harmful services (**opponents**).
 
 More concisely:
 
