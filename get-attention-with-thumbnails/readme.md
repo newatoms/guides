@@ -15,11 +15,17 @@ So how do we make the most of this little piece of real estate? Well, definitely
 
 ## 1. Contrast
 Remember the context that your article is going to be presented in. Internet pages mostly have white or light backgrounds, and this is especially true of sites for content distributors.  Desaturated and washed out images are not going to work to stand out in this scenario.  
-![alt text](icon48.png "Logo Title Text 1")
+
+![alt text](../images/[linkedin-feed-desaturated-thumbnail.png])  
+Here the story about 
+
+![alt text](../images/[linkedin-feed-monochrome-thumbnail.png])
 
 
 ## 2. Colours
-While colours are not essential (provided there's adequate use of contrast), they can definitely be employed to make your image stand out more. Bright colours especially work, but should be used in moderation and strategically, with a balance of muted tones as too many clashing bright colours can look gaudy (unless, of course, that's exactly what you want to impart).
+While colours are not essential (provided there's adequate use of contrast), they can definitely be employed to make your image stand out more. Bright colours especially work, but should be used in moderation and strategically, with a balance of muted tones as too many clashing bright colours can look gaudy (unless, of course, that's exactly what you want to impart).  
+
+![alt text](../images/[linkedin-feed-colourful-thumbnail.png])
 
 ## 3. Humanise It
 Because humans are a self-centred species, adding a human element often helps increase the interest in an image. Try to make effective use of this though - a celebrity face will carry more meaning than a nobody. If using an unrecognisable person, try to make sure it's clear what they represent.
