@@ -13,5 +13,18 @@ Unless you were lucky enough to have visitors who were searching for the subject
 
 So how do we make the most of this little piece of real estate? Well, definitely check out [guide on effective images](https://github.com/newatoms/guides/tree/ready/effective-image-guide) for a start, but below are some tips specifically for the tiny thumbnail.
 
-## Contrast
-Internet pages mostly have white or light backgrounds, and this is especially true of sites for content distributors. 
+## 1. Contrast
+Remember the context that your article is going to be presented in. Internet pages mostly have white or light backgrounds, and this is especially true of sites for content distributors.  Desaturated and washed out images are not going to work to stand out in this scenario.
+
+
+## 2. Colours
+While colours are not essential (provided there's adequate use of contrast), they can definitely be employed to make your image stand out more. Bright colours especially work, but should be used in moderation and
+
+## 3. Humanise It
+faces.
+
+## 4. Storytelling
+Elements of Action or Surprise
+
+## 5. Work with the Headline
+This can mean either supporting, or actually going against it.
