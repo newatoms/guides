@@ -16,11 +16,11 @@ GitHub has quite a steep learning curve, but once you go GitHub you'll never wan
 
 ## How we use GitHub
 
-We work with multiple [repositories](../glossary/repository.md) (i.e repos). You can see this [New Atoms repository page](https://GitHub.com/newatoms) as a hard drive containing all projects or products. For example: right now you are reading *the GitHub guide* in the *guides* repo. *Guides* is a product of New Atoms, just like *post.supply* or *editorial.supply*.
+We work with multiple [repositories](../glossary/repository.md) (i.e repos). You can see this [New Atoms repository page](https://GitHub.com/newatoms) as a hard drive containing all milestones or products. For example: right now you are reading *the GitHub guide* in the *guides* repo. *Guides* is a product of New Atoms, just like *post.supply* or *editorial.supply*.
 
 Always read the readme.md file that is opened automatically if you enter a repo.
 
-All our research is stored within the designated project or product repos—pitches, posts and research, insights, private and internal (i.e. market research, customer acquisition, pitch decks etc.). Folders with a lower dash before the folder name in repositories are not rendered on websites, but they're still viewable by anyone who can access the repo. We also store a lot of our sites (like the interface) in the repositories (e.g. html, layout etc.).
+All our research is stored within the designated milestone or product repos—pitches, posts and research, insights, private and internal (i.e. market research, customer acquisition, pitch decks etc.). Folders with a lower dash before the folder name in repositories are not rendered on websites, but they're still viewable by anyone who can access the repo. We also store a lot of our sites (like the interface) in the repositories (e.g. html, layout etc.).
 
 ### GitHub hierarchy
 

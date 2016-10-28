@@ -62,3 +62,38 @@ You can instill trust with your pitch if you try to use the following points whi
     * Are you realistic or are you just spewing numbers to convince me?
 * Be coachable:
     * Will you take advice from your investor? Do you have the ability to listen?
+
+# Pitching checklist
+Courtesy of 'Board of Innovation'
+
+### 1 Problem to Solve
+* Define the situation
+* General market info
+* Trends: Problems and/or Opportunities to start from.
+* What’s the relevance of your problem?
+
+### 2 Your solution/offering
+* Define your idea/concept in one slide
+* Describe everything in 3 sentences max.
+* Pitch like a sales person
+* What’s your solution to the problem? Why is it unique?
+* Visual mock-up of your concept
+
+### 3 Value of solving the Problem
+* How are you going to make (big) money?
+* How many customers do you want to approach, what’s your market size?
+* What’s your market potential? How fast are you going to move?
+* Key financial figures
+
+### 4 Credibility
+* What are the assumptions you validated? What was the outcome?
+* Have you approached already different stakeholders? What did you learn?
+* Why will it work?
+* Why should they believe you?
+
+### 5 Call to Action/Next Steps
+* What’s the roadmap you want to follow?
+* What are the main assumptions you want to test with a Minimum Viable Product?
+* How will the MVP look like? What do you want to build?
+* Investment needed? (costs, people, resources, ...)
+* First 6 month & long term vision
