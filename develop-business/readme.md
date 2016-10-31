@@ -24,11 +24,17 @@ You can not develop your business without understanding the perspective of the o
 
 ## Developing new and existing things
 
-All great ideas start with an assumption. This can be as simple as assuming that others are having the same issues, all the way to thinking you know what others need, think and feel. When developing a product you will have to make assumption about the needs and behaviours of your users. Assumptions are not bad, but they can be wrong.  The only way to make sure your assumptions are valid? Testing!
+All great ideas start with an assumption. This can be as simple as assuming that others are having the same issues, all the way to thinking you know what others need, think and feel.
+
+When developing a product you will have to make assumption about the needs and behaviours of your users. Assumptions are not bad, but they can be wrong.  
+
+The only way to make sure your assumptions are valid? Testing!
 
 ### Testing
 
-Testing sounds quite daunting but can be as simple as sending some emails and making a few phone calls. The whole point is that you talk to people and ask them about problems you are trying to solve. The less you guide the people you are talking to the more you will learn from them. The point of these conversations is not to sell your idea, but to find out if your assumptions are right.
+Testing sounds quite daunting but can be as simple as sending some emails and making a few phone calls. The whole point is that you talk to people and ask them about problems you are trying to solve. The less you guide the people you are talking to the more you will learn from them.
+
+The point of these conversations is not to sell your idea, but to find out if your assumptions are right.
 
 The goal of testing your assumptions is that, if they are false, you have enough information to come up with a new one.
 
@@ -44,7 +50,7 @@ Instead of asking a teen if they also hate the taste of broccoli you could ask t
 
 By interviewing different involved parties you are more likely to understand all angles of the story.
 
-It could be that teens love broccoli but their parents are incapable of preparing them in a way they like. Or that store owners store them next to something that ruins their flavours or texture.
+It could be that teens love broccoli but their parents are incapable of preparing them in a way they like. It could also be that shop owners store them next to something that ruins their flavours or texture.
 
 It could, of course, also be that these teens are being ignorant little shits, that reject eating broccoli because it is thought of as "gross" by their peers.
 
@@ -88,16 +94,19 @@ Talk to your audience and try to find out what they think of your solution. If t
 
 ### Sales
 
-Testing your solution and sales go hand in hand. Whenever you meet someone that is interested in your product or service you can simply try to sell it to them, even if it is just a concept. Of course you need to be clear when they can expect what they are buying, but you can always assume you can deliver within your projected development time. It is better to drop clients because your product or service changes than having something without users. If they buy it you have some confirmation and a client, if they don't you should always make sure they tell you why. The best feedback comes from those who decided not to pay for what you offer.
+Testing your solution and sales go hand in hand. Whenever you meet someone that is interested in your product or service you can simply try to sell it to them, even if it is just a concept. Of course you need to be clear when they can expect what they are buying, but you can always assume you can deliver within your projected development time. It is better to drop clients because your product or service changes than having something great without users. If a lead agrees to buy it once it is done, you have some confirmation and a client, if they don't you should always make sure they tell you why. The best feedback comes from those who decided not to pay for what you offer.
 
 ### Dealing with negative feedback
 
-Own ideas and solutions always have a soft spot in your heart. When you hear something negative about something close to you, you often respond from your emotion. This will stop you from asking the right questions rendering the feedback useless. This problem solves itself with time and experience. A nice midway solution is to record your conversations. Listening to the interview after you have cooled down a bit will help you form new questions and assumptions. If you are lucky, it will also teach you something about yourself.
+Own ideas and solutions always have a soft spot in your heart. When you hear something negative about something close to you, you often respond from your emotion. This will stop you from asking the right questions rendering the feedback useless. This problem solves itself with time and experience.
+
+A nice midway solution is to record your conversations. Listening to the interview after you have cooled down a bit will help you form new questions and assumptions.
+If you are lucky, it will also teach you something about yourself.
 
 
 ## Iterate to create value
 
-The more you go trough this cycle, the more it will meet the needs of your users. The more you meet the needs of your users the more value it has for them.
+The more you go through this cycle, the more it will meet the needs of your users. The more you meet the needs of your users the more value it has for them.
 
 This goes for any type of business development. For improving the value of a product or service, developing new things to stimulate growth or setting up profitable partnerships and collaborations.
 
