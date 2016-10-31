@@ -1,10 +1,10 @@
-> Goal of this guide: Help you run a profitable business
+> Goal of this guide: Help you develop new products and services
 
 # Business Development
 
 Every company needs to have a source of income that is equal to its expenses to avoid bankruptcy. The moment your income is higher, you can start growing.
 
-The job of a businesses developer is to  develop and implement growth opportunities. This means that it is also your job to ensure there is ample income to create growth. This can be through selling products and services or finding funding and grants.
+The job of a businesses developer is to develop and implement growth opportunities. This means that it is also your job to ensure there is ample income to create growth. This can be through selling products and services or finding funding and grants.
 
 There are two ways of generating income. Transactions based on current value and transactions based on future value.
 
@@ -12,15 +12,17 @@ There are two ways of generating income. Transactions based on current value and
 
 - Future value: Something that could be great someday. This can be anything, from a product to a movement or phenomenon. This is usually in the form of funding or grants.
 
-## Perspective
+## Perspective is key when developing products and services
 
-The perceived value of your product or service directly determines your income. This can be the price a user  is willing to pay for your product, the future value of your company for an investor, the effect the government thinks your company might have on the environment, etc..
+You can not create growth without valuable products or services and you cant create those without talking to your target audience.
 
-No one will ever value something more than what they think it is worth for them. The perception of others determines the value of your company and thus your income. No exceptions.
+The perceived value of your product or service directly determines your income. This can be the price a user  is willing to pay for your product, the future value of your company to an investor, the effect the government thinks your company might have on the environment, etc..
+
+No one will ever value something more than what they think it is worth to them. The perception of others determines the value of your company and thus your income. No exceptions.
 
 You can not develop your business without understanding the perspective of the others. You can't understand others without talking to them.
 
-## Talking to people
+## Developing new and existing things
 
 All great ideas start with an assumption. This can be as simple as assuming that others are having the same issues, all the way to thinking you know what others need, think and feel. Assumptions are not bad, but they can be wrong. The only way to make sure your assumptions are valid? Testing!
 
@@ -30,50 +32,58 @@ Testing sounds quite daunting but can be as simple as sending some emails and ma
 
 The goal of testing your assumptions is that, if they are false, you have enough information to come up with a new one.
 
-#### Testing your assumptions
+### Testing your assumptions
 
-After formulating an assumption, for example, teenagers hate the taste of broccoli, you need to understand who you need to talk to in to test it.
+After formulating an assumption, for example, teenagers hate the taste of broccoli, you need to understand who you can to talk to test it.
 
 In this case, it would be good to talk to teens, their parents and maybe also the store owners that sell broccoli and broccoli activists.
 
-After you have identified who you need to talk to it is time figure out what you want to ask them without giving them the answers you want to hear.
+After you have identified who you need to talk to it is time to figure out what you want to ask them, without giving them the answers you want to hear.
 
 Instead of asking a teen if they also hate the taste of broccoli you could ask them what their least favourite green veggies are and why. If they suggest they do not like broccoli you could ask them what they don't like about them instead of suggesting their parents are shitty cooks.  
 
-By interviewing different involved parties you are more likely to understand all angles of the story. It could be that teens love broccoli but their parents are incapable of preparing them in a way they like. Or that store owners store them next to something that ruins their flavour or texture. It could, of course, also be that these teens are being ignorant little shits. That reject eating broccoli because it is thought of as "gross" by their peers.
+By interviewing different involved parties you are more likely to understand all angles of the story.
 
-#### Formulating solutions
+It could be that teens love broccoli but their parents are incapable of preparing them in a way they like. Or that store owners store them next to something that ruins their flavours or texture.
+
+It could, of course, also be that these teens are being ignorant little shits, that reject eating broccoli because it is thought of as "gross" by their peers.
+
+## Identifying the problems
 
 Let's say your interviews suggest that teens do not dislike broccoli because of the taste but because of their soggy texture.
 
 After some research, you have formulated two possible causes for our texture problem. Either the broccoli's are overcooked or they are old when prepared for dinner. Now you have two new assumptions you can test.
 
-After your second round of interviews, you have found out that people are over cooking their broccoli's because they are unaware of the effects of different cooking times.
+After your second round of interviews, you have found the problem. People are over cooking their broccoli's simply because they are unaware of the effect it has on their food.
 
-#### Testing your solutions
+## Formulating solutions
 
+After identifying the problem you can let your creative juices flow. This is the time to come up with amazing solutions and how to monetize them.
 
+### Pre-set Limitations
 
-##### Dealing with negative feedback
+Now it is important to look at all the pre-set limitations you have when developing your product. How much time do you have before it needs to be profitable, what are the resources you have within the company you can use, etc...
 
-## Drawing conclusions from tests
+### Market research
 
-## Developing business based on your test results
+This is also the moment to investigate the market. Are there other products that solve this particular problem, if so why did you not hear about it in your interviews? How have others monetized their solutions and what do you think would be the best way for you and your users?
 
-## Developing something new.
+When you have done some research, it is once again time to formulate and test some assumptions.
 
-Whenever your company is developing something new, it is your job to make sure adds enough value
+### Keep the loop going
 
-As a business developer you
+Keep testing and iterating until you feel somewhat confident with your solution and its monetization. Don't go overboard, just make sure you understand what you are doing and why.
 
-## Marketing something existing
+### testing the solution
 
-## Sales
+In this case, you came up with an app that tells you what the effects of different cooking times will have on your food. The app will be free but will have purchases for extra functionality such as calory counters.
 
-## Lean
+Now it is time to test your product with all those teens and parents. Don't hesitate to approach the same people you spoke to, they probably enjoy helping you.
 
-## Agile
+The goal here is not to test a perfect finished product but to find out what your target audience thinks of your ideas. This could be by pitching them your idea or presenting them with the simplest version that simulates what your product could be. In this case, it could be a simple A4 with different preparation times and their results for broccoli, egg and steak.
 
-## Start testing
+Talk to your audience and try to find out what they think of your solution. If they don't like it try to find out what it is, so you can continue to change or refine your ideas.
 
-## Feedback from users vs nay sayers.
+### Dealing with negative feedback
+
+Own ideas and solutions always have a soft spot in your heart. When you hear something negative about something close to you, you often respond from your emotion. This will stop you from asking the right questions rendering the feedback useless. This problem solves itself with time and experience. A nice midway solution is to record your conversations. Listening to the interview after you have cooled down a bit will help you form new questions and assumptions. If you are lucky, it will also teach you something about yourself.
