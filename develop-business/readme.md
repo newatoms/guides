@@ -1,4 +1,4 @@
-> Goal of this guide: Help you develop new products and services
+> Goal of this guide: Help you develop products and services to stimulate growth.
 
 # Business Development
 
@@ -24,7 +24,7 @@ You can not develop your business without understanding the perspective of the o
 
 ## Developing new and existing things
 
-All great ideas start with an assumption. This can be as simple as assuming that others are having the same issues, all the way to thinking you know what others need, think and feel. Assumptions are not bad, but they can be wrong. The only way to make sure your assumptions are valid? Testing!
+All great ideas start with an assumption. This can be as simple as assuming that others are having the same issues, all the way to thinking you know what others need, think and feel. When developing a product you will have to make assumption about the needs and behaviours of your users. Assumptions are not bad, but they can be wrong.  The only way to make sure your assumptions are valid? Testing!
 
 ### Testing
 
@@ -72,11 +72,13 @@ When you have done some research, it is once again time to formulate and test so
 
 ### Keep the loop going
 
-Keep testing and iterating until you feel somewhat confident with your solution and its monetization. Don't go overboard, just make sure you understand what you are doing and why.
+Keep testing and iterating until you feel somewhat confident with your solution and its monetization or you can rule out an opportunity for growth.
+
+Don't go overboard, just make sure you understand what you are doing and why.
 
 ### testing the solution
 
-In this case, you came up with an app that tells you what the effects of different cooking times will have on your food. The app will be free but will have purchases for extra functionality such as calory counters.
+In this case, you came up with an app that tells you what the effects of different cooking times will have on your food. The app will be free but will have purchases for extra functionality such as calorie counters.
 
 Now it is time to test your product with all those teens and parents. Don't hesitate to approach the same people you spoke to, they probably enjoy helping you.
 
@@ -84,6 +86,19 @@ The goal here is not to test a perfect finished product but to find out what you
 
 Talk to your audience and try to find out what they think of your solution. If they don't like it try to find out what it is, so you can continue to change or refine your ideas.
 
+### Sales
+
+Testing your solution and sales go hand in hand. Whenever you meet someone that is interested in your product or service you can simply try to sell it to them, even if it is just a concept. Of course you need to be clear when they can expect what they are buying, but you can always assume you can deliver within your projected development time. It is better to drop clients because your product or service changes than having something without users. If they buy it you have some confirmation and a client, if they don't you should always make sure they tell you why. The best feedback comes from those who decided not to pay for what you offer.
+
 ### Dealing with negative feedback
 
 Own ideas and solutions always have a soft spot in your heart. When you hear something negative about something close to you, you often respond from your emotion. This will stop you from asking the right questions rendering the feedback useless. This problem solves itself with time and experience. A nice midway solution is to record your conversations. Listening to the interview after you have cooled down a bit will help you form new questions and assumptions. If you are lucky, it will also teach you something about yourself.
+
+
+## Iterate to create value
+
+The more you go trough this cycle, the more it will meet the needs of your users. The more you meet the needs of your users the more value it has for them.
+
+This goes for any type of business development. For improving the value of a product or service, developing new things to stimulate growth or setting up profitable partnerships and collaborations.
+
+Business development is about formulating assumption about the needs of others, testing those assumptions to see if there is an opportunity for growth and iterate with the results if there is.

@@ -66,7 +66,7 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 |[pitch post.supply](pitch-post-supply) | Explain what Post.supply is to others |
 |[prosper at Meetups](prosper-at-meetups)| Helping you to enjoy and prosper at Meetups |
 |[prepare for an interview](interview-guide) | Helping to prepare for an Interview |
-|[set up an Adwords campaign](set-adword-campaign) | Helping you use Adwords | 
+|[set up an Adwords campaign](set-adword-campaign) | Helping you use Adwords |
 |[understand content marketing](understand-content-marketing) | to help you understand what content marketing is |
 |[write a cold email subject line](write-a-cold-email-subject-line) | Some tips about how to write an effective subject line when cold emailing |
 
@@ -79,6 +79,7 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 |[create a new milestone](create-new-milestones)| Guidelines for creating a new milestone |
 |[divide a team](divide-a-team)| A step by step walkthrough of dividing a team and creating two new ones. |
 | [link within the guides](link-within-the-guides) | showing you how to link between guides and glossary items on the guides [repository](../glossary/repository.md). |
+|[Stimulate growth as a business developer](develop-business) | Help you develop products and services to stimulate growth |
 |[write a user story](user-stories-guide)| create effective user stories |
 
 ### Implement technical solutions
