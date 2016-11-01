@@ -41,7 +41,7 @@ We do the same thing ourselves, we teach you how to use content to achieve the g
 
 **Apart from creating the right content, the main focus of the application is to enable users to have and maintain a steady flow of content that is made by a multidisciplinary team.**
 
-**Our work Method** enables us to have team members work on the same articles simultaneously from their own strengths. This enables us to create diverse articles that are not subject to the knowledge and experience of one writer, enabling us to be able to scale and adapt easily. We call this *Agile Journalism*.
+**Our work Method** enables us to have team members work on the same articles simultaneously from their own strengths. This enables us to create diverse articles that are not subject to the knowledge and experience of one writer, enabling us to be able to scale and adapt easily. We call this *Agile Journalism*. Because we are Agile, we can seamlessly integrate with the workflow of your Agile company or department.
 
 ## Our goal
 
