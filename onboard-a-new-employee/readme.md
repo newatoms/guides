@@ -13,7 +13,7 @@ Create account on [interface.newatoms.com](https://interface.newatoms.com). When
 In app click on 'New Atoms', Invite people -> email.
 Invite in most relevant channels. In channel post `/invite @username`
 
-Most relevant channels:
+When joining the NewAtoms Slack account they will automatically join these channels:
 - General
 - Ask-questions
 - Calendar
