@@ -34,7 +34,7 @@ Intercom can be challenging. Guide the employee through it before expecting them
 
 ### Medium
 
-Ask Boris
+Ask Boris to add as an 'editor' to the New Atoms Medium publication.
 
 ### Trello
 
@@ -46,7 +46,7 @@ https://newatoms.1password.com/admin/people/member -> click the `+`
 
 ### Ibeo (bookkeeper)
 
-Ask Sam or Boris
+Ask Sam or Boris to add 
 
 ## Relevant guides
 
