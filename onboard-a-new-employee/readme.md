@@ -6,7 +6,7 @@
 
 ### Interface
 
-Create account on [interface.newatoms.com](https://interface.newatoms.com). When they've make the account ask Boris or Sam to add them to the NewAtoms organisation and their team.
+Create account on [interface.newatoms.com](https://interface.newatoms.com). When they've made the account ask Boris or Sam to add them to the NewAtoms organisation and their team.
 
 ### Slack
 
