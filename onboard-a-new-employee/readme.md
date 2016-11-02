@@ -2,6 +2,10 @@
 
 # How to onboard a new employee
 
+> The operations developer will most likely do most of the following. 
+
+Assign a buddy to the new team member. All questions will be asked to the buddy first to reduce the impact of the onboarding on the team.
+
 ## Our tools
 
 ### Interface
