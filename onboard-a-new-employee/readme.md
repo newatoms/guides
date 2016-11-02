@@ -20,6 +20,8 @@ Most relevant channels:
 - Standup
 - Team (limited access)
 
+Tell them that they can add other channels by clicking on `channels`. 
+
 ### Github
 
 [Github -> newatoms -> people](https://github.com/orgs/newatoms/people), invite member. Might need to buy credit (click buy more, add seats).
