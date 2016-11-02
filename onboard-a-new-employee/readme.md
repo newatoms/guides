@@ -30,6 +30,8 @@ Tell them that they can add other channels by clicking on `channels`.
 
 Click on your portrait in the left bottom corner -> app settings -> teammates -> invite
 
+Intercom can be challenging. Guide the employee through it before expecting them to use it.
+
 ### Medium
 
 Ask Boris
