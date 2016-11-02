@@ -14,7 +14,7 @@ There are two ways of generating income. Transactions based on current value and
 
 ## Perspective is key when developing products and services
 
-You can not create growth without valuable products or services and you cant create those without talking to your target audience.
+You can not create growth without valuable products or services and you can't create those without talking to your target audience.
 
 The perceived value of your product or service directly determines your income. This can be the price a user  is willing to pay for your product, the future value of your company to an investor, the effect the government thinks your company might have on the environment, etc..
 
