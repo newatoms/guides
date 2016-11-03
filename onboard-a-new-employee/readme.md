@@ -73,4 +73,4 @@ Contracts can be found in the folder [contracts](https://github.com/newatoms/new
 
 ## Don't overburden them
 
-We use quite some tools and some of the (Achum *Github* Achum) require a quite abstract understanding and others (Achum *Intercom* Achum) don't always work the way you think they'll work. Make sure the new employee knows that they can ask 1 person questions whenever they encounter something they don't understand.
+We use quite some tools and some of the (Achum *Github* Achum) require a quite abstract understanding and others (Achum *Intercom* Achum) don't always work the way you think they'll work. Make sure the new employee knows that they can ask their buddy questions whenever they encounter something they don't understand.
