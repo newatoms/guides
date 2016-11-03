@@ -23,6 +23,7 @@ When joining the NewAtoms Slack account they will automatically join these chann
 - Calendar
 - Standup
 - Team (limited access)
+- Amsterdam
 
 Tell them that they can add other channels by clicking on `channels`. 
 
