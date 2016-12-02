@@ -10,9 +10,9 @@ You see a lot of the same functionality, content or design multiple times on a s
 
 As an example: you would like to create a counter that will show everyone on your website how many visitors you've had since the nineties started. Using Polymer we can make a `<my-counter>` element with all of its HTML, CSS and JavaScript embedded in it. This way we can easily use it on all of our websites.
 
-The idea💡 is that you write elements that are custom made for one goal. They should be able to perform only the single task that will result in obtaining their goal. However, you should be able to reach this goal each time you use the element. Your code, therefore, should never include details that are only valid for the current project.
+The idea💡 is that you write elements that are custom made for one goal. They should be able to perform only the single task that will result in obtaining their goal. However, you should be able to reach this goal each time you use the element. Your code, therefore, should never include details that are only valid for the current milestone.
 
-> There is one exception to the "don't write code that is only valid for the current project" rule. Since the entire site is built with elements, some elements will have to be project-specific. Try to limit using them as much as possible, though!
+> There is one exception to the "don't write code that is only valid for the current milestone" rule. Since the entire site is built with elements, some elements will have to be milestone-specific. Try to limit using them as much as possible, though!
 
 Elements can receive input arguments that change how the element behaves. For example, a text input can be told that only dates are valid input options. You could write a `text-date-input` element, but sometimes functionalities are so similar that you want them to be in the same element to make it easier to maintain them.
 

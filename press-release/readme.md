@@ -71,7 +71,7 @@ The second and third paragraph are a good spot to elaborate. Use quotes to provi
 
 > **The current state**
 
-> The past few months New Atoms has worked out how to go about agile journalism, developing software that facilitates their workflow. Introducing their ideas to the journalistic world is next. In the mean time, New Atoms is funded by Digital News Initiative, a fund by Google to stimulate innovation in journalism. As they aim to be an organisation with a wide variety of services and projects, they also founded post.supply. Post.supply is a subscription service for companies that want to outsource their content creation. It makes this as hassle-free as possible by offering editorial teams that can be managed through an online interface. For more information, see http://www.post.supply.  
+> The past few months New Atoms has worked out how to go about agile journalism, developing software that facilitates their workflow. Introducing their ideas to the journalistic world is next. In the mean time, New Atoms is funded by Digital News Initiative, a fund by Google to stimulate innovation in journalism. As they aim to be an organisation with a wide variety of services and milestones, they also founded post.supply. Post.supply is a subscription service for companies that want to outsource their content creation. It makes this as hassle-free as possible by offering editorial teams that can be managed through an online interface. For more information, see http://www.post.supply.  
 
 ## Other things to keep in mind
 * Add 'press release' or 'story idea' to your email subject, and be sure that the email subject tells the journalist exactly what the press release is about

@@ -8,7 +8,7 @@ Or in our case, what has to be verifiably done in order for it to be moved to 'D
 
 You can test your work against your Definition of Done while you are working to get an overview of what still needs to be achieved before it can be delivered/published.
 
-We use a Definition of Done (DoD) when we produce an [achievable](../glossary/achievable.md) or a [project](../glossary/project.md).
+We use a Definition of Done (DoD) when we produce an [achievable](../glossary/achievable.md) or a [milestone](../glossary/milestone.md).
 
 ## What are good points on the checklist ✅?
 

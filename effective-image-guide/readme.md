@@ -62,7 +62,7 @@ So far, we've found some answers to worthy questions that arise when looking for
 
 * And **why do pictures get attention if they're out of the ordinary, weird and original?** Because we are naturally curious beings who have a thirst for understanding.   
 
-Understanding the technical features of composition and photography can work to our advantage when looking for an image. Researchers at *Pennsylvania State University* described certain technology tactics in [this earlier mentioned paper](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ECCV06/datta.pdf) by "treat[ing] the challenge of automatically inferring aesthetic quality of pictures using their visual content as a machine learning problem, with a peer-rated online photo sharing website as data source."
+Understanding the technical features of composition and photography can work to our advantage when looking for an image. Researchers at *Pennsylvania State University* described certain technology tactics in [this earlier mentioned paper](http://infolab.stanford.edu/~wangz/milestone/imsearch/Aesthetics/ECCV06/datta.pdf) by "treat[ing] the challenge of automatically inferring aesthetic quality of pictures using their visual content as a machine learning problem, with a peer-rated online photo sharing website as data source."
 
 In other words, they recognise that subjectivity is inevitable when judging the quality of a picture but try to tackle it anyway with a computational approach.
 
