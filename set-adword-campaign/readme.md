@@ -47,13 +47,13 @@ First you should determine what the added value of your product is, who your key
 
 > Post.supply allows users to manage an editorial team through an app with the minimum effort possible. Our key users are people who manage the online content. They could use our service if they are looking for (higher) quality, quantity or dependability an editorial team offers.
 
-## Formulating keywords
+### Formulating keywords
 
 Then you can try to understand what your users would search for when they need your product and divide these in separate groups and name as much search terms you can come up with that fits the need of the user.
 
-> When a content manager is in need of higher quality content: Professionele copy consultant, Professionele schrijver, Content pro, hoge qualitijd content, kwaliteid content,
+> When a content manager is in need of higher quality content: Professionele copy consultant, Professionele schrijver, Content pro, hoge kwaliteit content, kwaliteit content
 
-## Making a selection of keywords you want to use
+### Making a selection of keywords you want to use
 
 Now that you have a list of search terms it is time to see what they are "worth".
 
@@ -64,6 +64,15 @@ When the keywords are added google presents you with a number for each of these 
 You can add three types of keywords: broad matches (the order does not matter), phrase matches (the order matters, but can be surrounded by other words) and exact matches (only the same search terms match up).
 
 In making choices which keywords to use, you will have to find a balance between Search popularity and how well it fits your product.
+
+
+### Keyword criteria
+
+There is more than just search popularity to what makes a keyword good. There is also 'Competition'. Competition is the number of advertisers that were shown for each keyword relative to all keywords across Google. So when there is low competition, it means there are relatively little other advertisers using this keyword. High competition means that many advertisers used this keyword, with a high probability of having a high cost-per-click. Search terms that have a high search popularity probably also have a high competition, but not all do! It pays off to look for these with the Keyword planner in Google Adwords (found under ```Tools``` in the top menu).
+
+To start, add a short description of the product/service and the website. Then, you can filter on 'low competition'. Google will then get to work and get you endless lists of suggested search terms. It is useful to sort at either search popularity (high to low) or cost-per-click (low to high), and look at the relationship between the two. High search-popularity x low cost-per-click = jackpot! 💪
+
+<img src="http://i.imgur.com/Yr0bBeN.png" alt="Google Adwords Keyplanner">
 
 ## Your ad!
 
