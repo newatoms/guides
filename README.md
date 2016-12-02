@@ -79,6 +79,7 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 |[create a new milestone](create-new-milestones)| Guidelines for creating a new milestone |
 |[divide a team](divide-a-team)| A step by step walkthrough of dividing a team and creating two new ones. |
 | [link within the guides](link-within-the-guides) | showing you how to link between guides and glossary items on the guides [repository](../glossary/repository.md). |
+|[Stimulate growth as a business developer](develop-business) | Help you develop products and services to stimulate growth |
 |[write a user story](user-stories-guide)| create effective user stories |
 |[onboard a new employee](onboard-a-new-employee)| help you onboard a new employee quickly |
 
