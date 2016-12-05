@@ -36,14 +36,18 @@ Every team member takes one of these roles according to their abilities. They ar
 * [Technical Developer](https://github.com/newatoms/newatoms/blob/ready/internal/jobs/technical.md)
 * [Product Developer](https://github.com/newatoms/newatoms/blob/ready/internal/jobs/product.md)
 
-A team needs all 6 of these roles to be fully functional. *It is the role of each developer to make sure the entire team is capable of contributing to the role-specific field, not to do everything within its role by her or himself*. For example, as a Business Developer, it's your job to make sure that the **team** (not just the developer) can do business with the outside world in the most effective manner. 
+Whoever has one of these roles is the representative of that field within that team. They are responsible for all the things that fall under their role. This doesn't mean they should only do what comes with their role, rather that they are responsible for that those things are and can be done.
+
+A team needs all 6 of these roles to be fully functional.
 
 ## What does this mean?
 
-Fulfilling one of the six roles is a way of looking at certain situations. A developer is never personally responsible for, nor obliged to fulfill, [achievables](../glossary/achievable.md) that "belong" to their developer role. The developer is tasked with thinking about and defending the territory that comes with the role.
+The roles give developers differing perspectives and ownership. This enables developers to focus on a certain aspect and specialise in that. A developer is never solely personally responsible for [achievables](../glossary/achievable.md) that "belong" to their developer role, the team is at a whole, however he is responsible for making sure his 'department' progresses as well as being a "thought leader" for the team on the topic.
 
 For example: if a client wants to add something to a produced article, the conclusions drawn from this request can be different depending on your perspective as a certain developer:
 * Was there anything wrong with the content? [Content Developer]
+* How do we make sure that know about these things beforehand in the future? [Product Developer]
 * How, if applicable, can the company structurally integrate this feedback into the production process? [Operations Developer]
 * What effect will ignoring the request have on the relationship with the costumer? [Business Developer]
 * How can we optimise the experience of giving feedback? [Experience Developer]
+
