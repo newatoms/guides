@@ -29,12 +29,12 @@ The roles we've defined aren’t necessarily jobs as such. They are descriptions
 
 Every team member takes one of these roles according to their abilities. They are flexible and you can move among them, but as long as you have this role, you will have to live it:
 
-* [Content Developer](https://github.com/newatoms/newatoms/blob/gh-pages/ready/jobs/content.md)
-* [Experience Developer](https://github.com/newatoms/newatoms/blob/gh-pages/ready/jobs/experience.md)
-* [Business Developer](https://github.com/newatoms/newatoms/blob/gh-pages/ready/jobs/business.md)
-* [Operations Developer](https://github.com/newatoms/newatoms/blob/gh-pages/ready/jobs/operations.md)
-* [Technical Developer](https://github.com/newatoms/newatoms/blob/gh-pages/ready/jobs/technical.md)
-* [Product Developer](https://github.com/newatoms/newatoms/blob/gh-pages/ready/jobs/product.md)
+* [Content Developer](https://github.com/newatoms/newatoms/blob/ready/internal/jobs/content.md)
+* [Experience Developer](https://github.com/newatoms/newatoms/blob/ready/internal/jobs/experience.md)
+* [Business Developer](https://github.com/newatoms/newatoms/blob/ready/internal/jobs/business.md)
+* [Operations Developer](https://github.com/newatoms/newatoms/blob/ready/internal/jobs/operations.md)
+* [Technical Developer](https://github.com/newatoms/newatoms/blob/ready/internal/jobs/technical.md)
+* [Product Developer](https://github.com/newatoms/newatoms/blob/ready/internal/jobs/product.md)
 
 A team needs all 6 of these roles to be fully functional. *It is the role of each developer to make sure the entire team is capable of contributing to the role-specific field, not to do everything within its role by her or himself*. For example, as a Business Developer, it's your job to make sure that the **team** (not just the developer) can do business with the outside world in the most effective manner. 
 
