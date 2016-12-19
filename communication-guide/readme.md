@@ -1,84 +1,63 @@
-> **Goal of this guide:** To help team members communicate about post.supply with the outside world. It will tell you about what we do, why it is important, what our communication should achieve and who we should reach with our communication.
+# What this guide is:
 
-# How to communicate about post.supply
+This is the beginning of the post.press style guide for our own work including our website and publication. The joy of what we do and how we do it, means we’re going to keep this document alive and update it. Yes? Yes. OK, here is what is in the guide:
 
-## What is post.supply?
+- who we are
+- two tones we use
+- practical dos and don'ts
+- spelling and grammar resources
+- glossary
+- quick reminder
+- elements we can refine as we go
 
-Post.supply is an easy and pleasant way to act as editor-in-chief over a remotely-controlled editorial team that creates **high quality content** for your organisation.
+## Who we are:
 
-## Why is post.supply good for the world?
+We are positioning ourselves as an Agile Editorial Team. This is a new idea and we want to explain it and offer our services to people. The goal of our writing is to introduce ourselves, explain what we do and how we do it, and answer our potential client's questions as to why we are the team for them.
 
-* We write from the perspective of a goal instead of a topic
-* Posts are created by a multidisciplinary team of people from diverse backgrounds
-* We replace standard marketing which doesn't add any value
-* We make sure readers have an awesome reading experience by connecting with them in the most important ways
 
-## Why would someone hire post.supply?
+## Two tones:
 
-* It is a pleasant way to control the creation of high quality content
-* The reader of good content will associate the publisher with it
-* Good content has a positive effect on both the sender and the receiver
-* **Good content is good for the world.**
+We are going to use the same values, grammar, key words, and spelling across both sites, but the tone for website and tone for publication will be different. This is because they have different audiences, with different audience needs.
 
-## The main goal of all our communication
+### Tone for web:
+Words to get you going: Clear, honest, concise, thoughtful, friendly, professional, sincere, collaborative, forward-thinking
 
-We need to practice what we preach.
+Bear in mind that this is probably where we’ll send prospective clients (Directors and CEOs, communication personnel, project managers, marketing departments), but also where we outline our proposition. They’ll want to know who we are, what we do and why they’d use us. The best way to get the right tone, is to imagine you’re continuing a conversation with them on the phone. You’d be polite, but still personable. We’re looking for clarity over entertainment. This will build trust in us as a team.
 
-**Everything** we do and say should stimulate the use and creation of **high quality** content. This way, we use our knowledge of producing high quality content to show the value of post.supply. This can be done in the following ways:
+### Tone for publication:
+Words to get you going: Enthusiastic, humourous, fascinating, thoughtful, intelligent, opinionated, experimental, cutting-edge, honest, personality
 
-* Show the relevance of content
-* Give insight in how to use content
-* Helping to create high quality content
+The publication should appeal to people in the creative sphere and build a buzz around our activities. We are trailblazing a new way of working in a notoriously haphazard business. They probably want to know how and why we’re doing that and if we’re managing and what we're interested in. Also remember that we’re proving our own skills here - at the moment this is where our content is!
 
-## Website
+## Practical Dos and Don’ts:
 
-To reach our communication goals, the post.supply website will be a place where team members and outsiders can develop themselves in the use and creation of content. This can be done in the following ways:
+**Do** read your writing out loud - is this how you would talk to a client? Is this how you’d talk to a friend?
+**Do** exchange any jargon for plain language
+**Do** explain technical terms before you use them - but feel free to use them where necessary
+**Do** write in short sentences. Can you replace an ‘and’ with a ‘.’?
+**Do** respect your audience, use their language
+**Do** think about the letter ‘F’ - Web-user eye-tracking studies show that people tend to ‘read’ a webpage in an ‘F’ shape pattern. They look across the top, then down the side, reading further across when they find what they need. What this means is: put the the most important information first. So we talk a lot about ‘front-loading’ sub-headings, titles and bullet points.
+**Do** be specific about what post.press does that others don’t
 
-* Information about the relevance of content
-* Information about the uses of content
-* Information that helps you create the best content you can make
-* The option to create an account on post.supply and receive a brief about your organisation after filling in the configuration for free (with the idea that post.supply will create content for you)
+**Don’t** try and be funny - it’ll happen naturally
+**Don’t** use double negatives
+**Don’t** assume your audience knows everything - teach them something, enlighten them
+**Don’t** use too much slang - it dates
+**Don’t** worry about length, just tell a good story or get to the point
+**Don’t** swear just yet
 
-## What is post.supply's tone of voice?
+## Resources:
 
-Whenever writing for post.supply, keep in mind the desired tone of voice.
-To determine whether you have done so, think of post.supply as a person with the following characteristics:
+These are inarguable and will make certain basic elements consistent across all our writing.
+**Spelling:** use O.E.D - http://www.oed.com/
+**Grammar:** use Guardian - https://www.theguardian.com/guardian-observer-style-guide-a
+**Glossary:** use our own [guide](../glossary)
 
-- intelligent (post.supply is well-educated and generally knows what it’s doing)
-- approachable and friendly (post.supply is easy and pleasant to interact with)
-- enthusiastic (post.supply has passion for what it’s doing - helping people make great content)
-- trustworthy and stable (post.supply doesn't slack off and delivers what it promises)
-- casually professional (post.supply doesn't wear a suit, but definitely has a put-together outfit and basic table manners)
+## Sum up:
 
-Now, can you imaging this "person" speaking the words you just wrote? Think about it critically, in order to maintain a consistent tone in our texts.
-
-## Who are the main users of post.supply?
-
-* Communication & PR personnel
-* Directors & CEOs
-* Project managers
-* Communication and advertisement agencies
-
-## How to increase traffic to the post.supply website
-
-### Delivering an awesome service
-
-* Users and people who worked on projects with users will spread the word for free if they are satisfied with the product
-* People who use our site to gather information about creating high quality content will link the source of the information to others
-
-### Paid traffic
-
-* Google Adwords
-* YouTube commercial
-
-### Organic traffic using the network of others
-
-* Public presentations & workshops at renowned venues
-* Airtime on radio & T.V.
-* Talking to people at meet-ups
-
-### Organic traffic using our own network
-
-* Publishing items through social media
-* Publishing a newsletter
-* Talking to people we know
+Clarity over Entertainment
+Respect over formality
+Personablity over humour
+Thoughtful over clever
+Explanations over sales-pitches
+Converstaional over cute
