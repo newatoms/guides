@@ -57,7 +57,7 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 |How to … |Goal of the guide              |
 |--------|-----------------------------|
 |[be a reliable content manager and creator](show-that-you-are-a-reliable-content-manager-and-creator) | Helping you convey your reliability as a content manager and creator |
-|[communicate as post.supply](communication-guide) | Helping to communicate with the outside world
+|[Tone guide for post.press website and publication](get-the-right-tone-for-postpress-writing) | Helping to communicate with the outside world
 |[determine the goal of your landing page](determine-the-goal-of-your-landing-page) | To understand what a landing page is. |
 |[devise a value proposition](devise-a-value-proposition) | Understand value proposition |
 |[define your target audience](define-your-target-audience) | Learn how to target the right audience |
