@@ -11,7 +11,7 @@ Use the [Glossary](glossary) to find definitions of words we use and how we use 
 ### Use software effectively
 |How to … |Goal of the guide              |
 |--------|-----------------------------|
-|[pay for something](how-to-pay-for-something) | Pay for things on behalf of the company and get your money back |
+|[pay for something](pay-for-something) | Pay for things on behalf of the company and get your money back |
 |[publish on Medium](publish-on-medium)| Helping you publish on Medium for New Atoms |
 |[search effectively with Google](google-search-guide)| Teaching you about the top of the line search tools |
 |[use Google Analytics](google-analytics) | Helping you with using Google Analytics to your advantage  |
